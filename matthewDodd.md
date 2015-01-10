@@ -11,8 +11,8 @@
 
 ![alt text][dh]
 
-[online portfolio]:http://dodd-hist.com/
-[HIST 4805]:http://dodd-hist.com/ethics-and-legality/
+[online portfolio]:http://matthew-dodd.com/
+[HIST 4805]:http://matthew-dodd.com/ethics-and-legality/
 [HIST 3812]:http://hist3812a.dhcworks.ca/
 [HIST 3907B]:https://github.com/hist3907b-winter2015/
 [Canadian Food Inspection Agency]:http://ca.linkedin.com/pub/matthew-dodd/77/39a/8b9/
