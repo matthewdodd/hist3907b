@@ -1,0 +1,9 @@
+Thoughts on ResophNotes
+
+I initially did all of my ten notes on Big data (http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html) and had managed to title them all the same, so when I went back to look at the notes I had done, all were identical and on the last (10) was saved. It seems to me that if a user has pressed Ctrl-N and begun a new note a simple if it exists already then add a number to save the work should exist. 
+
+I can't help but feel I may one day make a new note and title it the same as a previous note and thus lose work.
+
+Otherwise the software works fine, but it feels too simplistic for my tastes. Will work on it more.
+
+A note on my tags: I am using .xtoshare for work I want others to read or look at, .xtoconsult for ideas that I have worked on, .xtoquestion when I have asked a question about some work, .xtodo for when I have a task needing work, and .xtoedit for work that is ready to be copyedited for publication/turning in.
