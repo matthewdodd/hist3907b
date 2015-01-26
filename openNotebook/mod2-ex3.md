@@ -1,0 +1,9 @@
+- Outwithub as a data scraper for small amounts of data on a few pages
+ - This is very useful, especially if the majority of the data occurs in a few pages, but greater than a few pages, the pro version is necessary, for the moderate cost of CAD$40
+ - The process is very simple and can be explained easily
+- The addition of the collection time and source URL is great because of the implied neccessity of the data
+ - By providing the data for source URL we can keep a static URL, given the internet archive, or at least a reference URL
+ - By providing the collection time we are able to date from when the data was accurate; more importantly we can compare the differences of structure over time
+- Lastly: the access to outwithub given from the website is poor, especially given that the website claims cross-platform compatibility
+ - using Linux (in particular Ubuntu 14.04) the standalone Linux download doesn't work, but using the Windows version inside Wine is fine
+ - As a tool, very useful, especially for teaching the intial principles of scraping, would be best used on Windows, but could be a great teaching tool for Linux/cross-platform
