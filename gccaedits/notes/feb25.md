@@ -3,3 +3,9 @@
  - I want to remove these as I'm not particularly interested in other tweets
  - The fast way to do this is to bookmark all of the lines that contain the phrase: '"source": "<a href=\"https://twitter.com/gccaedits\"'
  - After I've makred the lines I can then select: Search>Bookmark>Remove_unmarked_lines
+- The next clean up steps are that I really only want the contents of the tweets:
+ - First remove the text prior to the start of the tweets text, just a find replace with blank
+ - Next step is to (select the radio for Extended) Find: ' "in_reply_to_status_id": null,' and Replace: \r
+ - Now book mark all lines with: ' "id": ' and then Search>Bookmark>Remove_Bookmarked_lines
+ - And the final cleaning step is to Find: '"," and Replace: ''
+- A recomendation for myself: get the full URL before beginning the cleaning process
