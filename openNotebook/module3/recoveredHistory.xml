@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of History at Carleton
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>45</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+               <p><interp cert="unknown" key="Unclear as I have not read the full text." 
+                    n="MacAulay, Zachary. Negro Slavery; or, A View of Some of the More Prominent Features of that State of Society, as it Exists in the United States of America and in the Colonies of the West Indies, Especially in Jamaica. (London, 1823)"
+                    ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66">or rather better than usual.*</interp> <persName key="?, ?" from="?" to="?" role="?" ref="?">He</persName> had no complaint whatever to make against the <persName key="?, ?" from="?" to="?" role="plantationOwner" ref="?">owner</persName>, 
+					<persName key="?, ?" from="?" to="?" role="Attorney" ref="?">attorney</persName>, or <persName key="?, ?" from="?" to="?" role="Overseer" ref="?">over-seer</persName> for any harsh or unkind treatment of 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">himself</persName>; but the state of things <persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> found there was so grating to 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">his</persName> feelings, that <persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> could not have remained, even though 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">his</persName> health had been quite unaffected, which, however, was not the case; and after a few weeks' residence on the estate, 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> resolved to return to <placeName key="England" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=England&amp;params=51_30_N_0_7_W_type:country">England</placeName>, 
+					in which <persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> met with no opposition. <persName key="?, ?" from="?" to="?" role="?" ref="?">His</persName> statement is as follows:</p>
+				<p>	"The slaves on the estate were constantly attended by <persName key="?, ?" from="?" to="?" role="Driver" ref="?">drivers</persName> with cart or cattle whips, which they were in the habit of using as here carmen use 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">their</persName> whips on horses; and occasionally one or more slaves were ordered out of the line of work, laid prostrate on the ground, and received a few lashes 
+					(from two or three to ten) on their posteriors, for no other offence that <persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> could perceive or ever heard of but that of being indolent, or lagging at their work, 
+					or being late. <persName key="?, ?" from="?" to="?" role="?" ref="?">He</persName> saw a few working with iron-collars round their necks, connected with each other by a chain; a punishment which, 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> understood, was usually inflicted for running away, and continued sometimes for several weeks. The huts of the slaves were very indifferent, and almost destitute of 
+					furniture. On Sunday they either attended market, or worked in their own grounds; but none went, or were expected to go to any church or place of worship; nor did <persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> 
+					ever see or hear of any instruction, religious or otherwise, being bestowed upon them. Many of the slaves had women living with them as their wives; but as for marriage being used, either as a means of civilization or for any other purpose, 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> never even heard the word mentioned as, it respected them. <persName key="?, ?" from="?" to="?" role="?" ref="?">He</persName> understood that the White servants 
+					were not allowed to take those women who so lived with particular men; but as for any others, they not only chose and took such as pleased them, but they were expected to do it as a matter of course. Accordingly, 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> was invited by the <persName key="?, ?" from="?" to="?" role="Overseer" ref="?">overseer</persName> to follow the general practice, the very first day 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> arrived on the estate. In a spare house, kept for the occasional use of persons coming thither for a few days, were women whom 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> understood to be at the service of whoever came to occupy the apartments, and two of them were spoken of as the children of a former proprietor.</p>
+				<p> "But little provisions appeared to him to be given to the slaves. Herrings and such fish, rather as sauce than as food, were given them. But they had grounds allotted them, and the Sunday, throughout the year, for their cultivation, 
+					with every or every other Saturday out of crop-time (the practice on this head differing); and while strong and in good health, this <persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> thought might do very well. 
+					But in crop-time (on some estates nearly half the year) they could have very little leisure or inclination to work for themselves, being often greatly fatigued by extra night-work and watching. 
+					<persName key="?, ?" from="?" to="?" role="?" ref="?">He</persName> understood that, by the law of 
+					<placeName key="Jamaica" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Jamaica&amp;params=17_59_N_76_48_W_type:country">Jamaica</placeName>
+					, only thirty-nine lashes could be given at once, but <persName key="?, ?" from="?" to="?" role="?" ref="?">he</persName> was told, on the spot, that an overseer could easily, when so disposed, evade it."</p>
+				<p> The <interp cert="unknown" key="An agreement occurred, no more is known without additional information." 
+                    n="MacAulay, Zachary. Negro Slavery; or, A View of Some of the More Prominent Features of that State of Society, as it Exists in the United States of America and in the Colonies of the West Indies, Especially in Jamaica. (London, 1823)"
+                    ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66">agreement of the three witnesses who have been produced,</interp> in all material joints, must, appear remarkable, especially when it is remembered that they resided on different parts, widely removed from each other, of the same island. 
+				<persName key="Cooper, ?" from="?" to="?" role="?" ref="?">Mr. Cooper</persName> resided on the north side of the island, the last cited witness on the south side, and 
+				<persName key="Williamson, ?" from="?" to="?" role="?" ref="?">Dr. Williamson</persName>, while engaged in plantation-duty, nearly in the centre of it. But we have a fourth witness to bring forward.</p>
+			</body>
+        </text>
+    </TEI>
+	</teiCorpus>
