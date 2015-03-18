@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Instabilité de Kelvin-Helmholtz : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Instabilit%C3%A9_de_Kelvin-Helmholtz" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=110046149&amp;oldid=96696394&amp;rcid=131637223" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Instabilité_de_Kelvin-Helmholtz","wgTitle":"Instabilité de Kelvin-Helmholtz","wgCurRevisionId":110046149,"wgRevisionId":110046149,"wgArticleId":2800175,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Catégorie Commons avec lien local identique sur Wikidata","Portail:Physique/Articles liés","Portail:Sciences/Articles liés","Portail:Météorologie/Articles liés","Mécanique des fluides","Théorie météorologique"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Instabilité_de_Kelvin-Helmholtz","wgRelevantArticleId":2800175,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1571116"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Instabilité_de_Kelvin-Helmholtz skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Instabilité de Kelvin-Helmholtz : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;oldid=96696394" title="Instabilité de Kelvin-Helmholtz">Version du 16 septembre 2013 à 05:38</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;oldid=96696394" title="Instabilité de Kelvin-Helmholtz">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Utilisateur:Pierre_cb" title="Utilisateur:Pierre cb" class="mw-userlink">Pierre cb</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Pierre_cb" title="Discussion utilisateur:Pierre cb">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Pierre_cb" title="Spécial:Contributions/Pierre cb">contributions</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#Articles_connexes">→</a>‎<span dir="auto"><span class="autocomment">Articles connexes : </span> Correction</span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;diff=prev&amp;oldid=96696394" title="Instabilité de Kelvin-Helmholtz" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;oldid=110046149" title="Instabilité de Kelvin-Helmholtz">Version actuelle en date du 17 décembre 2014 à 23:34</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit" title="Instabilité de Kelvin-Helmholtz">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;undoafter=96696394&amp;undo=110046149" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/205.211.133.128" title="Spécial:Contributions/205.211.133.128" class="mw-userlink mw-anonuserlink">205.211.133.128</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:205.211.133.128" title="Discussion utilisateur:205.211.133.128">discuter</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(+homon)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4">&#160;</div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{{Voir homonymes|Instabilité}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Fichier:Wavecloudsduval.jpg|thumb|right|250px|Onde de Kelvin-Helmholtz rendue visible en aval du mont Duval en [[Australie]] par la formation de nuages]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Fichier:Wavecloudsduval.jpg|thumb|right|250px|Onde de Kelvin-Helmholtz rendue visible en aval du mont Duval en [[Australie]] par la formation de nuages]]</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>L''''instabilité de Kelvin-Helmholtz''' est un mouvement ondulatoire qui se forme lorsque deux [[Fluide (matière)|fluide]]s [[Gradient thermique adiabatique#Atmosphère stable et atmosphère instable|thermiquement stables]] sont superposés et se déplacent à des vitesses différentes à leur surface de contact&lt;ref name="EUMETCAL"&gt;{{fr}} {{Lien web</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>L''''instabilité de Kelvin-Helmholtz''' est un mouvement ondulatoire qui se forme lorsque deux [[Fluide (matière)|fluide]]s [[Gradient thermique adiabatique#Atmosphère stable et atmosphère instable|thermiquement stables]] sont superposés et se déplacent à des vitesses différentes à leur surface de contact&lt;ref name="EUMETCAL"&gt;{{fr}} {{Lien web</div></td>
+</tr>
+
+<!-- diff cache key frwiki:diff:version:1.11a:oldid:96696394:newid:110046149 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version actuelle en date du 17 décembre 2014 à 23:34</h2>
+<div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d'aide sur l'homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a> Pour les articles homonymes, voir <a href="/wiki/Instabilit%C3%A9" title="Instabilité" class="mw-disambig">Instabilité</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/Fichier:Wavecloudsduval.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wavecloudsduval.jpg/250px-Wavecloudsduval.jpg" width="250" height="118" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wavecloudsduval.jpg/375px-Wavecloudsduval.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wavecloudsduval.jpg/500px-Wavecloudsduval.jpg 2x" data-file-width="700" data-file-height="329" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Wavecloudsduval.jpg" class="internal" title="Agrandir"></a></div>
+Onde de Kelvin-Helmholtz rendue visible en aval du mont Duval en <a href="/wiki/Australie" title="Australie">Australie</a> par la formation de nuages</div>
+</div>
+</div>
+<p>L'<b>instabilité de Kelvin-Helmholtz</b> est un mouvement ondulatoire qui se forme lorsque deux <a href="/wiki/Fluide_(mati%C3%A8re)" title="Fluide (matière)">fluides</a> <a href="/wiki/Gradient_thermique_adiabatique#Atmosph.C3.A8re_stable_et_atmosph.C3.A8re_instable" title="Gradient thermique adiabatique">thermiquement stables</a> sont superposés et se déplacent à des vitesses différentes à leur surface de contact<sup id="cite_ref-EUMETCAL_1-0" class="reference"><a href="#cite_note-EUMETCAL-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>. L'effet a été étudié au <a href="/wiki/XIXe_si%C3%A8cle" title="XIXe siècle"><span class="romain">XIX</span><sup>e</sup>&#160;siècle</a> par les physiciens <a href="/wiki/William_Thomson_(Lord_Kelvin)" title="William Thomson (Lord Kelvin)">Lord Kelvin</a> et <a href="/wiki/Hermann_Ludwig_von_Helmholtz" title="Hermann Ludwig von Helmholtz" class="mw-redirect">Hermann Ludwig von Helmholtz</a> qui ont montré que la différence de vitesse va engendrer un flot turbulent <a href="//fr.wiktionary.org/wiki/transversal" class="extiw" title="wikt:transversal">transversal</a> à la frontière. La théorie peut être appliquée de la même façon à l'intérieur d'un fluide de densité uniforme mais ayant des couches se déplaçant à des vitesses différentes ou des fluides de densités différentes superposés.</p>
+<p>Cette instabilité joue un rôle important dans de nombreuses situations <a href="/wiki/G%C3%A9ophysique" title="Géophysique">géophysiques</a>&#160;: dans la dynamique de l'atmosphère et des océans, dans le comportement des <a href="/wiki/Physique_des_plasmas" title="Physique des plasmas">plasmas</a>, etc. Les structures tourbillonnaires, <b>onde ou lame de Kelvin-Helmholtz</b>, résultant de l'instabilité contribuent de façon significative au transport de <a href="/wiki/Quantit%C3%A9_de_mouvement" title="Quantité de mouvement">quantité de mouvement</a>, de <a href="/wiki/Temp%C3%A9rature" title="Température">température</a> et de <a href="/wiki/Polluant" title="Polluant">polluants</a>. La compréhension de la génération de ces instabilités permet de mieux les représenter dans les modèles dont la résolution n’est pas suffisante pour permettre de les résoudre explicitement.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Sommaire</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Th.C3.A9orie"><span class="tocnumber">1</span> <span class="toctext">Théorie</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Voir_aussi"><span class="tocnumber">3</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Articles_connexes"><span class="tocnumber">3.1</span> <span class="toctext">Articles connexes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Bibliographie"><span class="tocnumber">4</span> <span class="toctext">Bibliographie</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">5</span> <span class="toctext">Notes et références</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><a href="#Th.C3.A9orie" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Th.C3.A9orie">Théorie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;veaction=edit&amp;vesection=1" title="Modifier la section : Théorie" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;section=1" title="Modifier la section : Théorie">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Cisaillement_frontiere_fluides.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cisaillement_frontiere_fluides.png/220px-Cisaillement_frontiere_fluides.png" width="220" height="71" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cisaillement_frontiere_fluides.png/330px-Cisaillement_frontiere_fluides.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cisaillement_frontiere_fluides.png/440px-Cisaillement_frontiere_fluides.png 2x" data-file-width="548" data-file-height="177" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Cisaillement_frontiere_fluides.png" class="internal" title="Agrandir"></a></div>
+La différence de vitesse dans les deux fluides tend à former un cisaillement graduel et une rotation</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Rotation_horizontale.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rotation_horizontale.png/220px-Rotation_horizontale.png" width="220" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rotation_horizontale.png/330px-Rotation_horizontale.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rotation_horizontale.png/440px-Rotation_horizontale.png 2x" data-file-width="513" data-file-height="319" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Rotation_horizontale.png" class="internal" title="Agrandir"></a></div>
+Si on plaçait des pales dans ce cisaillement du flux, on voit le sens du <a href="/wiki/Tourbillon_(physique)" title="Tourbillon (physique)">tourbillon</a> induit</div>
+</div>
+</div>
+<p>Pour de faibles vitesses de deux fluides glissant l'un par rapport à l'autre, l'interface, stabilisée par la <a href="/wiki/Gravit%C3%A9" title="Gravité" class="mw-redirect">gravité</a> et la <a href="/wiki/Tension_de_surface" title="Tension de surface" class="mw-redirect">tension de surface</a>, est horizontale. Pour une différence de vitesse critique à l'interface, on assiste à une déstabilisation et des ondes propagatives apparaissent et deviennent rapidement non-linéaires. L'instabilité est d'origine inertielle avec un seuil indépendant de la viscosité des fluides mais avec un taux de croissance et une vitesse des ondes affectées par la dissipation aux frontières. Pour une variation continue de densité et de vitesses, l'instabilité de Kelvin-Helmholtz se développe à une certaine valeur du <a href="/wiki/Nombre_de_Richardson" title="Nombre de Richardson">nombre de Richardson</a>. Typiquement, l'écoulement devient instable pour un <img class="mwe-math-fallback-image-inline tex" alt="R_i" src="//upload.wikimedia.org/math/6/0/c/60cc9655a5f88e01bc72f76307e01689.png" /> &lt; 0,25 ce qui est assez commun dans les couches nuageuses.</p>
+<p>L'écoulement du fluide est alors complètement décrit par son champ vectoriel de vitesse U(x,y) = ( u(x,y) , v(x,y) ), son champ scalaire de pression p(x,y) la densité <img class="mwe-math-fallback-image-inline tex" alt="\rho_0" src="//upload.wikimedia.org/math/6/f/7/6f73b1f3b5cebee295bbaf00db4e0624.png" /> et la viscosité <img class="mwe-math-fallback-image-inline tex" alt="\mu" src="//upload.wikimedia.org/math/b/7/2/b72bb92668acc30b4474caff40274044.png" />. Selon les <a href="/wiki/%C3%89quations_de_Navier-Stokes" title="Équations de Navier-Stokes">équations de Navier-Stokes</a> qui régissent le mouvement des fluides&#160;:</p>
+<ul>
+<li>La conservation de la masse se réduit à la non-divergence de la vitesse&#160;: <img class="mwe-math-fallback-image-inline tex" alt="\nabla \cdot \vec U = 0" src="//upload.wikimedia.org/math/e/5/7/e57fd37d4a64ddd57ddb418483061de5.png" /></li>
+<li>La conservation de la quantité de mouvement devient&#160;: <img class="mwe-math-fallback-image-inline tex" alt=" \rho \left ( \frac {\partial \vec U}{\partial t} + \left ( \vec U \cdot \nabla \right ) \vec U \right ) = - \nabla p + \mu \Delta \vec U" src="//upload.wikimedia.org/math/5/6/a/56a102f10200eb7a0b39aaf51c5d74c0.png" /></li>
+</ul>
+<p>À cause de la viscosité, la vitesse de déplacement à la frontière aura tendance à s'égaliser et donc on aura une gradation dans chacun des fluides de la vitesse entre celle originale dans le fluide et celle à la frontière (image du haut à droite). On introduit ainsi un <a href="/wiki/Cisaillement_(m%C3%A9t%C3%A9orologie)" title="Cisaillement (météorologie)">cisaillement</a> du déplacement et donc une rotation, un <a href="/wiki/Tourbillon_(physique)" title="Tourbillon (physique)">tourbillon</a>, dans chacun des fluides près de la surface de contact. Les fluides doivent être stable thermiquement pour que la rotation se propage en aval de son point de création, autrement le cisaillement se propage sur une large couche dans la verticale et l'onde générée est très faible.</p>
+<h2><a href="#Applications" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;veaction=edit&amp;vesection=2" title="Modifier la section : Applications" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;section=2" title="Modifier la section : Applications">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Kelvin_Helmholz_wave_clouds.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kelvin_Helmholz_wave_clouds.jpg/220px-Kelvin_Helmholz_wave_clouds.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kelvin_Helmholz_wave_clouds.jpg/330px-Kelvin_Helmholz_wave_clouds.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kelvin_Helmholz_wave_clouds.jpg/440px-Kelvin_Helmholz_wave_clouds.jpg 2x" data-file-width="1000" data-file-height="666" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Kelvin_Helmholz_wave_clouds.jpg" class="internal" title="Agrandir"></a></div>
+Onde de Kelvin Helmholtz au sommet des nuages dans le ciel de <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Saturn_Kelvin_Helmholtz.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Saturn_Kelvin_Helmholtz.jpg/220px-Saturn_Kelvin_Helmholtz.jpg" width="220" height="126" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Saturn_Kelvin_Helmholtz.jpg/330px-Saturn_Kelvin_Helmholtz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Saturn_Kelvin_Helmholtz.jpg/440px-Saturn_Kelvin_Helmholtz.jpg 2x" data-file-width="550" data-file-height="315" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Saturn_Kelvin_Helmholtz.jpg" class="internal" title="Agrandir"></a></div>
+Onde de Kelvin-Helmholtz visible à la rencontre entre deux bandes de nuages sur la planète <a href="/wiki/Saturne_(plan%C3%A8te)" title="Saturne (planète)">Saturne</a></div>
+</div>
+</div>
+<p>En <a href="/wiki/M%C3%A9t%C3%A9orologie" title="Météorologie">météorologie</a>, les variations de vitesses et de densité sont le plus souvent importantes à la frontière entre les nuages et l'air clair et c'est souvent là que l'on retrouve les ondes de Kelvin-Helmholtz. On peut retrouver les conditions nécessaires dans les flux en aval d'obstacles avec les vents forts au-dessus de ce dernier et presque nuls en dessous. Les ondes sont rendus visibles seulement s'il y a formation de nuages. Elles peuvent être dangereuses car elles sont le site de <a href="/wiki/Turbulence" title="Turbulence">turbulence</a> pour les avions.</p>
+<p>En <a href="/wiki/Oc%C3%A9anographie" title="Océanographie">océanographie</a>, on peut retrouver ces ondes dans la masse océanique lors de variation de densité dans la verticale, comme dans la thermocline, ou dans des variations horizontales, comme à la rencontre d'eau douce et d'eau salée à la sortie d'un fleuve. Les <a href="/wiki/Vague" title="Vague">vagues</a> peuvent être également associés en partie à cette instabilité.</p>
+<p>En <a href="/wiki/Astronomie" title="Astronomie">astronomie</a>, dans tout corps céleste ayant une atmosphère, étoile ou planète, on peut retrouver des conditions favorables à cette instabilité. Cette instabilité a également été observée à la surface d'un <a href="/wiki/Nuage_interstellaire" title="Nuage interstellaire">nuage interstellaire</a> dans la <a href="/wiki/N%C3%A9buleuse_d%27Orion" title="Nébuleuse d'Orion">nébuleuse d'Orion</a> <sup id="cite_ref-Nature_2-0" class="reference"><a href="#cite_note-Nature-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup></p>
+<p>En <a href="/wiki/Physique" title="Physique">physique</a>, elle peut être particulièrement importante dans l'étude de la <a href="/wiki/Fusion_par_confinement_inertiel" title="Fusion par confinement inertiel">fusion par confinement inertiel</a> et de l'interface <a href="/wiki/Physique_des_plasmas" title="Physique des plasmas">plasma</a>-<a href="/wiki/B%C3%A9ryllium" title="Béryllium">béryllium</a>.</p>
+<h2><a href="#Voir_aussi" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;veaction=edit&amp;vesection=3" title="Modifier la section : Voir aussi" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;section=3" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;position:relative;display:block;width:480px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; style=&quot;width:480px;height:240px&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kelvin-Helmholtz_Instability.ogv/479px--Kelvin-Helmholtz_Instability.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; class=&quot;kskin&quot; data-durationhint=&quot;8.2666666666667&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Kelvin-Helmholtz_Instability.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Kelvin-Helmholtz_Instability.ogv/Kelvin-Helmholtz_Instability.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; transcodekey=&quot;360p.webm&quot; data-title=&quot;WebM lisible en continu depuis le web (360p)&quot; data-shorttitle=&quot;WebM 360p&quot; data-width=&quot;480&quot; data-height=&quot;240&quot; data-bandwidth=&quot;513096&quot; data-framerate=&quot;15&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Kelvin-Helmholtz_Instability.ogv/Kelvin-Helmholtz_Instability.ogv.160p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; transcodekey=&quot;160p.ogv&quot; data-title=&quot;Vidéo Ogg bas débit (160P)&quot; data-shorttitle=&quot;Ogg 160p&quot; data-width=&quot;288&quot; data-height=&quot;144&quot; data-bandwidth=&quot;177320&quot; data-framerate=&quot;15&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/d/d8/Kelvin-Helmholtz_Instability.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora&amp;quot;&quot; data-title=&quot;Original fichier Ogg, 479 × 240 (1,41&#160;Mbps)&quot; data-shorttitle=&quot;Source Ogg&quot; data-width=&quot;479&quot; data-height=&quot;240&quot; data-bandwidth=&quot;1409023&quot; data-framerate=&quot;15&quot; /&gt;Désolé, soit votre navigateur a JavaScript désactivé, soit il ne dispose d’aucun lecteur pris en charge.&lt;br /&gt;
+Vous pouvez &lt;a href=&quot;//upload.wikimedia.org/wikipedia/commons/d/d8/Kelvin-Helmholtz_Instability.ogv&quot;&gt;télécharger le clip&lt;/a&gt; ou &lt;a href=&quot;https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download&quot;&gt;télécharger un lecteur&lt;/a&gt; pour lire le clip dans votre navigateur.&lt;/video&gt;&lt;/div&gt;"><img alt="Fichier:Kelvin-Helmholtz Instability.ogv" style="width:220px;height:110px" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kelvin-Helmholtz_Instability.ogv/220px--Kelvin-Helmholtz_Instability.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/d/d8/Kelvin-Helmholtz_Instability.ogv" title="Lire le média" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Lire le média</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Kelvin-Helmholtz_Instability.ogv" class="internal" title="Agrandir"></a></div>
+Simulation numérique de l'instabilité de Kelvin–Helmholtz</div>
+</div>
+</div>
+<h3><a href="#Articles_connexes" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Articles_connexes">Articles connexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;veaction=edit&amp;vesection=4" title="Modifier la section : Articles connexes" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;section=4" title="Modifier la section : Articles connexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Dynamique_des_fluides" title="Dynamique des fluides">Dynamique des fluides</a>
+<ul>
+<li><a href="/wiki/%C3%89quations_de_Navier-Stokes" title="Équations de Navier-Stokes">Équations de Navier-Stokes</a></li>
+<li><a href="/wiki/Instabilit%C3%A9_de_Rayleigh-Taylor" title="Instabilité de Rayleigh-Taylor">Instabilité de Rayleigh-Taylor</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Circulation_atmosph%C3%A9rique" title="Circulation atmosphérique">Circulation atmosphérique</a>
+<ul>
+<li><a href="/wiki/Onde_de_gravit%C3%A9" title="Onde de gravité">Onde de gravité</a></li>
+<li><a href="/wiki/Onde_de_Rossby" title="Onde de Rossby">Onde de Rossby</a></li>
+</ul>
+</li>
+</ul>
+<h2><a href="#Bibliographie" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Bibliographie">Bibliographie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;veaction=edit&amp;vesection=5" title="Modifier la section : Bibliographie" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;section=5" title="Modifier la section : Bibliographie">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="autres-projets boite-grise boite-a-droite noprint js-interprojets">
+<p class="titre">Sur les autres projets Wikimedia&#160;:</p>
+<ul class="noarchive plainlinks">
+<li class="commons"><a class="external text" href="//commons.wikimedia.org/wiki/Category:Kelvin-Helmholtz_waves?uselang=fr">Instabilité de Kelvin-Helmholtz</a>, sur <span class="project">Wikimedia Commons</span></li>
+</ul>
+</div>
+<ul>
+<li>Kelvin, Lord (William Thomson), "Hydrokinetic solutions and observations," <i>Philosophical Magazine</i>, vol. 42, pages 362–377 (1871).</li>
+<li>Helmholtz, Hermann Ludwig Ferdinand von, "Über discontinuierliche Flüssigkeits-Bewegungen [On the discontinuous movements of fluids]," <i>Monatsberichte der Königlichen Preussiche Akademie der Wissenschaften zu Berlin</i> [Monthly Reports of the Royal Prussian Academy of Philosophy in Berlin], vol. 23, pages 215 ff (1868).</li>
+</ul>
+<h2><a href="#Notes_et_r.C3.A9f.C3.A9rences" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;veaction=edit&amp;vesection=6" title="Modifier la section : Notes et références" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;section=6" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small decimal" style="column-count: 1; -moz-column-count: 1; -webkit-column-count: 1">
+<div style="font-size: 85%">
+<ol class="references">
+<li id="cite_note-EUMETCAL-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-EUMETCAL_1-0">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: français">fr</abbr>)</span> <span class="ouvrage"><a rel="nofollow" class="external text" href="http://www.eumetcal.org/euromet/french/navig/glossf.htm">«&#160;<cite style="font-style: normal">Instabilité de Helmholtz, onde de Kelvin-Helmholtz et lames de Kelvin-Helmholtz</cite>&#160;»</a>, <i>Glossaire météorologique</i>, <a href="/wiki/Eumetcal" title="Eumetcal">Eumetcal</a> <small style="line-height:1em;">(consulté le <span class="nowrap">2008-02-023</span>)</small></span></span></li>
+<li id="cite_note-Nature-2"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-Nature_2-0">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Bern.C3.A9MarcelinoCernicharo2010"><span class="ouvrage" id="Olivier_Bern.C3.A9N.C3.BAria_MarcelinoJos.C3.A9_Cernicharo2010"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> Olivier <span class="nom_auteur">Berné</span>, Núria <span class="nom_auteur">Marcelino</span> et José <span class="nom_auteur">Cernicharo</span>, <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Waves on the surface of the Orion molecular cloud</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en"><a href="/wiki/Nature_(revue)" title="Nature (revue)">Nature</a></span></i>, <abbr class="abbr" title="volume">vol.</abbr>&#160;466,‎ 19&#160;août&#160;2010, <abbr class="abbr" title="page(s)">p.</abbr>&#160;947–949 <small style="line-height:1em;">(<a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="http://dx.doi.org/10.1038/nature09289">10.1038/nature09289</a></span>, <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v466/n7309/full/nature09289.html">résumé</a>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Waves+on+the+surface+of+the+Orion+molecular+cloud&amp;rft.jtitle=Nature&amp;rft.aulast=Bern%C3%A9&amp;rft.aufirst=Olivier&amp;rft.au=Marcelino%2C+N%C3%BAria&amp;rft.au=Cernicharo%2C+Jos%C3%A9&amp;rft.date=2010-08-19&amp;rft.volume=466&amp;rft.pages=947%E2%80%93949&amp;rft_id=info%3Adoi%2F10.1038%2Fnature09289&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+de+Kelvin-Helmholtz" id="COinS_38605"></span></span></span></span></li>
+</ol>
+</div>
+</div>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Physique" title="Portail de la physique"><img alt="Portail de la physique" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/24px-Logo_physics.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/36px-Logo_physics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/48px-Logo_physics.svg.png 2x" data-file-width="438" data-file-height="438" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Physique" title="Portail:Physique">Portail de la physique</a></span></span></li>
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:M%C3%A9t%C3%A9orologie" title="Portail de la météorologie"><img alt="Portail de la météorologie" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/24px-Weather-more-clouds.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/36px-Weather-more-clouds.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/48px-Weather-more-clouds.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:M%C3%A9t%C3%A9orologie" title="Portail:Météorologie">Portail de la météorologie</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1164
+CPU time usage: 0.163 seconds
+Real time usage: 0.231 seconds
+Preprocessor visited node count: 726/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10202/2097152 bytes
+Template argument size: 556/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1.39 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  152.049      1 - -total
+ 46.86%   71.247      1 - Modèle:Références
+ 20.83%   31.668      1 - Modèle:Portail
+ 19.65%   29.876      1 - Modèle:Fr
+ 18.37%   27.936      1 - Modèle:Indication_de_langue
+ 17.99%   27.350      1 - Modèle:Autres_projets
+ 14.20%   21.592      1 - Modèle:Lien_web
+  7.59%   11.543      1 - Modèle:Catégorisation_badges
+  7.49%   11.387      1 - Modèle:Portail_Physique
+  6.52%    9.921      1 - Modèle:Article
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:2800175-0!*!0!!fr!4!*!math=0 and timestamp 20150312223056 and revision id 110046149
+ -->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Instabilité_de_Kelvin-Helmholtz&amp;oldid=110046149">http://fr.wikipedia.org/w/index.php?title=Instabilité_de_Kelvin-Helmholtz&amp;oldid=110046149</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:M%C3%A9canique_des_fluides" title="Catégorie:Mécanique des fluides">Mécanique des fluides</a></li><li><a href="/wiki/Cat%C3%A9gorie:Th%C3%A9orie_m%C3%A9t%C3%A9orologique" title="Catégorie:Théorie météorologique">Théorie météorologique</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_identique_sur_Wikidata" title="Catégorie:Catégorie Commons avec lien local identique sur Wikidata">Catégorie Commons avec lien local identique sur Wikidata</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Physique/Articles_li%C3%A9s" title="Catégorie:Portail:Physique/Articles liés">Portail:Physique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:M%C3%A9t%C3%A9orologie/Articles_li%C3%A9s" title="Catégorie:Portail:Météorologie/Articles liés">Portail:Météorologie/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+de+Kelvin-Helmholtz&amp;returntoquery=diff%3D110046149%26oldid%3D96696394%26rcid%3D131637223&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+de+Kelvin-Helmholtz&amp;returntoquery=diff%3D110046149%26oldid%3D96696394%26rcid%3D131637223" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Instabilit%C3%A9_de_Kelvin-Helmholtz"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discussion:Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit&amp;redlink=1"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Instabilit%C3%A9_de_Kelvin-Helmholtz" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=edit"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Instabilit%C3%A9+de+Kelvin-Helmholtz">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Instabilit%C3%A9+de+Kelvin-Helmholtz&amp;oldid=96696394&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Instabilit%C3%A9_de_Kelvin-Helmholtz" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Instabilit%C3%A9_de_Kelvin-Helmholtz" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;oldid=110046149" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1571116" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;id=110046149" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9D%D0%B5%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%9A%D0%B5%D0%BB%D0%B2%D0%B8%D0%BD-%D0%A5%D0%B5%D0%BB%D0%BC%D1%85%D0%BE%D0%BB%D1%86" title="Неустойчивост на Келвин-Хелмхолц — bulgare" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kelvinova-Helmholtzova_nestabilita" title="Kelvinova-Helmholtzova nestabilita — tchèque" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Kelvin-Helmholtz-Instabilit%C3%A4t" title="Kelvin-Helmholtz-Instabilität — allemand" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Kelvin%E2%80%93Helmholtz_instability" title="Kelvin–Helmholtz instability — anglais" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Inestabilidad_Kelvin-Helmholtz" title="Inestabilidad Kelvin-Helmholtz — espagnol" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C_%DA%A9%D9%84%D9%88%DB%8C%D9%86%E2%80%93%D9%87%D9%84%D9%85%D9%87%D9%88%D9%84%D8%AA%D8%B2" title="ناپایداری کلوین–هلمهولتز — persan" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Instabilit%C3%A0_di_Kelvin-Helmholtz" title="Instabilità di Kelvin-Helmholtz — italien" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%93%E3%83%B3%E3%83%BB%E3%83%98%E3%83%AB%E3%83%A0%E3%83%9B%E3%83%AB%E3%83%84%E4%B8%8D%E5%AE%89%E5%AE%9A%E6%80%A7" title="ケルビン・ヘルムホルツ不安定性 — japonais" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Kelvin-Helmholtz-instabilitet" title="Kelvin-Helmholtz-instabilitet — norvégien nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Kelvin-Helmholtz-instabilitet" title="Kelvin-Helmholtz-instabilitet — norvégien" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C_%D0%9A%D0%B5%D0%BB%D1%8C%D0%B2%D0%B8%D0%BD%D0%B0_%E2%80%94_%D0%93%D0%B5%D0%BB%D1%8C%D0%BC%D0%B3%D0%BE%D0%BB%D1%8C%D1%86%D0%B0" title="Неустойчивость Кельвина — Гельмгольца — russe" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/B%E1%BA%A5t_%E1%BB%95n_%C4%91%E1%BB%8Bnh_Kelvin_-_Helmholtz" title="Bất ổn định Kelvin - Helmholtz — vietnamien" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%BC%80%E5%B0%94%E6%96%87-%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E4%B8%8D%E7%A8%B3%E5%AE%9A%E6%80%A7" title="开尔文-亥姆霍兹不稳定性 — chinois" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1571116#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Dernière modification de cette page le 17 décembre 2014 à 23:34.</li>
+											<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons paternité partage des conditions initiales à l’identique 3.0 unported">licence Creative Commons paternité partage à l’identique</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Instabilit%C3%A9_de_Kelvin-Helmholtz" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="//wikimediafoundation.org/wiki/Accueil" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Instabilit%C3%A9_de_Kelvin-Helmholtz&amp;diff=110046149&amp;oldid=96696394&amp;rcid=131637223&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=mw.PopUpMediaTransform\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1257"});
+}</script>
+	</body>
+</html>

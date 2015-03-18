@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Shared services: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shared_services&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shared_services&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Shared_services" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=622760957&amp;oldid=609383884" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shared_services","wgTitle":"Shared services","wgCurRevisionId":640340924,"wgRevisionId":622760957,"wgArticleId":1838287,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2013","All articles with unsourced statements","Articles with unsourced statements from April 2007","Articles with unsourced statements from October 2010","Business terms","Services management and marketing","Service-oriented (business computing)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shared_services","wgRelevantArticleId":1838287,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1431598"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Shared_services skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Shared services: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Shared_services&amp;oldid=609383884" title="Shared services">Revision as of 14:03, 20 May 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Shared_services&amp;action=edit&amp;oldid=609383884" title="Shared services">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/w/index.php?title=User:Yohosuff&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Yohosuff (page does not exist)">Yohosuff</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=User_talk:Yohosuff&amp;action=edit&amp;redlink=1" class="new" title="User talk:Yohosuff (page does not exist)">talk</a> | <a href="/wiki/Special:Contributions/Yohosuff" title="Special:Contributions/Yohosuff">contribs</a>)</span></div><div id="mw-diff-otitle3"></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Shared_services&amp;diff=prev&amp;oldid=609383884" title="Shared services" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Shared_services&amp;oldid=622760957" title="Shared services">Revision as of 16:29, 25 August 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Shared_services&amp;action=edit&amp;oldid=622760957" title="Shared services">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Shared_services&amp;action=edit&amp;undoafter=609383884&amp;undo=622760957" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/198.103.184.76" title="Special:Contributions/198.103.184.76" class="mw-userlink mw-anonuserlink">198.103.184.76</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:198.103.184.76" title="User talk:198.103.184.76">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#New_trends">→</a>‎<span dir="auto"><span class="autocomment">New trends: </span>  added link to Enterprise Content Management page</span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Shared_services&amp;diff=next&amp;oldid=622760957" title="Shared services" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 82:</td>
+  <td colspan="2" class="diff-lineno">Line 82:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Organizations that have centralized their IT functions have now begun to take a close look at the technology services that their IT departments provide to internal customers, evaluating where it makes sense to provide specific technology components as a shared service.  E-mail and scanning operations were obvious early candidates; many organizations with document-intensive operations are deploying scanning centers as a shared service.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Organizations that have centralized their IT functions have now begun to take a close look at the technology services that their IT departments provide to internal customers, evaluating where it makes sense to provide specific technology components as a shared service.  E-mail and scanning operations were obvious early candidates; many organizations with document-intensive operations are deploying scanning centers as a shared service.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>Many large organizations, in both the public and private sectors, are now considering deploying enterprise content management <del class="diffchange diffchange-inline">[[</del>(ECM)<del class="diffchange diffchange-inline"> technology</del>]] as a shared service.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>Many large organizations, in both the public and private sectors, are now considering deploying <ins class="diffchange diffchange-inline">[[Enterprise Content Management|</ins>enterprise content management (ECM)]]<ins class="diffchange diffchange-inline"> technology</ins> as a shared service.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==See also==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==See also==</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 16:29, 25 August 2014</h2>
+<p><b>Shared services</b> is the provision of a service by one part of an organization or group where that service had previously been found in more than one part of the organization or group. Thus the funding and resourcing of the service is shared and the providing department effectively becomes an internal service provider. The key here is the idea of 'sharing' within an organization or group. This sharing needs to fundamentally include shared accountability of results by the unit from where the work is migrated to the provider. The provider on the other hand needs to ensure that the agreed results are delivered based on defined measures (KPI's, cost, quality etc.,).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Critics_of_shared_services"><span class="tocnumber">2</span> <span class="toctext">Critics of shared services</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Commercial_structures"><span class="tocnumber">3</span> <span class="toctext">Commercial structures</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Location_variations"><span class="tocnumber">4</span> <span class="toctext">Location variations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Benchmarking_and_measurement"><span class="tocnumber">5</span> <span class="toctext">Benchmarking and measurement</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#In_the_private_sector"><span class="tocnumber">6</span> <span class="toctext">In the private sector</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#In_the_public_sector"><span class="tocnumber">7</span> <span class="toctext">In the public sector</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#UK"><span class="tocnumber">7.1</span> <span class="toctext">UK</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Canada"><span class="tocnumber">7.2</span> <span class="toctext">Canada</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Ireland"><span class="tocnumber">7.3</span> <span class="toctext">Ireland</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#New_trends"><span class="tocnumber">8</span> <span class="toctext">New trends</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>Shared services is similar to collaboration that might take place between different organizations such as a Hospital Trust or a Police Force. For example, adjacent Trusts might decide to collaborate by merging their HR or IT functions.</p>
+<p>There are two arguments for sharing services.<sup id="cite_ref-thesystemsthinkingreview18_1-0" class="reference"><a href="#cite_note-thesystemsthinkingreview18-1"><span>[</span>1<span>]</span></a></sup> The ‘less of a common resource' argument and the ‘efficiency through industrialization' argument. The former is ‘obvious': if you have fewer managers, IT systems, buildings etc; if you use less of some resource, it will reduce costs. The second argument is ‘efficiency through industrialization’. This argument assumes that efficiencies follow from specialization and standardization – resulting in the creation of ‘front' and ‘back' offices. The typical method is to simplify, standardize and then centralize, using an IT 'solution' as the means.</p>
+<p>Shared services is different from the model of <a href="/wiki/Outsourcing" title="Outsourcing">outsourcing</a>, which is where an external third party is paid to provide a service that was previously internal to the buying organization, typically leading to redundancies and re-organization. There is an on-going debate about the advantages of shared services over <a href="/wiki/Outsourcing" title="Outsourcing">outsourcing</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> It is sometimes assumed that a <a href="/wiki/Joint_venture" title="Joint venture">joint venture</a> between a government department and a commercial organization is an example of shared services. The joint venture involves the creation of a separate legal commercial entity (jointly owned), which provides profit to its shareholders.</p>
+<p>Traditionally the development of a shared-service organization (SSO) or shared-service centre (SSC) within an organization is an attempt to reduce costs (often attempted through <a href="/wiki/Economies_of_scale" title="Economies of scale">economies of scale</a>), standardized processes (through centralization). A global Service Center Benchmark study<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> carried out by the Shared Services &amp; Outsourcing Network (SSON) and the Hackett Group, which surveyed more than 250 companies, found that only about a third of all participants were able to generate cost savings of 20% or greater from their SSOs.</p>
+<p>A large scale cultural and process transformation can be a key component of a move to shared services and may include redundancies and changes of work practices. It is claimed that transformation often results in a better quality of work life for employees although there are few case studies to back this up<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2007)">citation needed</span></a></i>]</sup>.</p>
+<p>Shared services are more than just centralization or consolidation of similar activities in one location. Shared services can mean running these service activities like a business and delivering services to internal customers at a cost, quality and timeliness that is competitive with alternatives.</p>
+<h2><span class="mw-headline" id="Critics_of_shared_services">Critics of shared services</span></h2>
+<p>The management thinker and inventor of <a href="/wiki/The_Vanguard_Method" title="The Vanguard Method">The Vanguard Method</a>, Professor <a href="/wiki/John_Seddon" title="John Seddon">John Seddon</a> claims that shared service projects based on attempts to achieve '<a href="/wiki/Economies_of_scale" title="Economies of scale">economies of scale</a>' are a mix of the plausibly obvious and a little hard data, brought together to produce two broad assertions, for which there is little hard factual evidence.<sup id="cite_ref-thesystemsthinkingreview18_1-1" class="reference"><a href="#cite_note-thesystemsthinkingreview18-1"><span>[</span>1<span>]</span></a></sup> He argues that shared service projects fail (and often end up costing more than they hoped to save) because they cause a disruption to the service flow by moving the work to a central location, creating waste in handoffs, rework and duplication, lengthening the time it takes to deliver a service and consequently creating <a href="/wiki/Failure_demand" title="Failure demand">failure demand</a> (demand caused by a failure to do something or do something right for a customer).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>The <a rel="nofollow" class="external text" href="http://calchaspss.wordpress.com/">Calchas</a> blog has written a number of articles about flaws in the reporting, research and methodologies used in shared services (e.g. '<a rel="nofollow" class="external text" href="http://calchaspss.wordpress.com/2012/11/15/the-biggest-cause-of-shared-services-failure/">The Causes of Shared Services failure</a>').</p>
+<p>The <a rel="nofollow" class="external text" href="http://www.hrssi.net">HR Shared Services Institute</a>, a professional services firm that specializes in this arena, also criticizes many shared services implementations for the same reasons, but does not blame the shared services model itself or centralization per se, rather the cost-and scale-driven approach many organization take. Damning shared services because of these failures is to throw the baby out with the bath water.</p>
+<h2><span class="mw-headline" id="Commercial_structures">Commercial structures</span></h2>
+<p>A shared service can take a variety of different commercial structures. The basic commercial structures include:</p>
+<dl>
+<dt>Unitary</dt>
+<dd>A single organization consolidating and centralizing a business service</dd>
+<dd>Lead department: An organization consolidating and centralizing a business service that will be shared by other organizations</dd>
+<dt>Joint initiatives</dt>
+<dd>Agreement between two or more organizations to set up and operate shared services</dd>
+</dl>
+<h2><span class="mw-headline" id="Location_variations">Location variations</span></h2>
+<p>It is sometimes argued that there are three basic location variations for a shared service including:</p>
+<dl>
+<dt>On-shore</dt>
+<dd>Work is carried out in the same country but at a different location</dd>
+<dt><a href="/wiki/Nearshoring" title="Nearshoring">Near-shore</a></dt>
+<dd>Work is carried out in a close location (e.g. continental Europe relative to the UK)</dd>
+<dt><a href="/wiki/Offshoring" title="Offshoring">Off-shore</a></dt>
+<dd>Work is carried out anywhere in the world that is not on-shore or near-shore</dd>
+</dl>
+<p>This is not just to take advantage of wage arbitrage but to appreciate the talents of particular economies in delivering specific service offerings.</p>
+<p>The difficulty with this argument is that near-shore and off-shore are normally associated with the <a href="/wiki/Outsourcing" title="Outsourcing">outsourcing</a> model and are difficult to reconcile with the notion of an internally shared service as distinct from an externally purchased service. Clearly the use of off-shore facilities by a government department is not an example of shared services.</p>
+<h2><span class="mw-headline" id="Benchmarking_and_measurement">Benchmarking and measurement</span></h2>
+<p>In establishing and running a shared service, <a href="/wiki/Benchmarking" title="Benchmarking">benchmarking</a> and <a href="/wiki/Measurement" title="Measurement">measurement</a> is considered by some as a necessity. Benchmarking is the comparison of the service provision usually against <a href="/w/index.php?title=Best_in_class&amp;action=edit&amp;redlink=1" class="new" title="Best in class (page does not exist)">best in class</a>. The measurement occurs by using agreed key performance indicators (KPIs). Although the amount of KPIs chosen differs greatly it is generally accepted that fewer than 10 carefully chosen KPIs will deliver the best results.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2010)">citation needed</span></a></i>]</sup></p>
+<p>Organizations do attempt to define benchmarks for processes and business operations.</p>
+<p>Benchmarking can be used to achieve different goals including:<br />
+<b>1.</b> To drive performance improvements using benchmarks as a means for setting performance targets that are met either through incremental performance improvements or transformational change.<br />
+- Strategic: with a focus on a long term horizon; and<br />
+- Tactical: with a focus on the short and medium term</p>
+<p><b>2.</b> To focus an organization on becoming world class with processes that deliver the highest levels of performance that are better than those of its peer group.</p>
+<h2><span class="mw-headline" id="In_the_private_sector">In the private sector</span></h2>
+<p>The <a href="/wiki/Private_sector" title="Private sector">private sector</a> has been moving towards shared services since the beginning of the 1980s. Large organizations such as the <a href="/wiki/BBC" title="BBC">BBC</a>, <a href="/wiki/BP" title="BP">BP</a>, <a href="/wiki/Bristol_Myers_Squibb" title="Bristol Myers Squibb" class="mw-redirect">Bristol Myers Squibb</a>, <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>, <a href="/wiki/GE" title="GE" class="mw-redirect">GE</a>, <a href="/wiki/HP" title="HP" class="mw-redirect">HP</a>, <a href="/wiki/Pfizer" title="Pfizer">Pfizer</a>, <a href="/wiki/Rolls-Royce_plc" title="Rolls-Royce plc" class="mw-redirect">Rolls-Royce</a>, <a href="/wiki/ArcelorMittal" title="ArcelorMittal">ArcelorMittal</a>, and <a href="/wiki/SAP_AG" title="SAP AG" class="mw-redirect">SAP</a> are operating them with great success. According to the English Institute of Chartered Accountants, more than 30% of U.S. Fortune 500 companies have implemented a shared-service center, and are reporting cost savings in their general accounting functions of up to 46%.</p>
+<p>The conventional accounting practice used to generate these figures is disputed however by management thinker Professor <a href="/wiki/John_Seddon" title="John Seddon">John Seddon</a>, who argues that the measurement known as 'unit cost' tells you nothing about overall costs. Overall costs include '<a href="/wiki/Failure_demand" title="Failure demand">failure demand</a>', which is defined as a failure to do something or do something right for the customer.</p>
+<h2><span class="mw-headline" id="In_the_public_sector">In the public sector</span></h2>
+<p>The public sector has taken note of the benefits derived in the private sector and continues to strive for best practice. The United States and Australia among others have had shared services in government since the late 1990s. However, the failures of these projects are increasingly being reported by the press<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> and exposed by opposition politicians.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="UK">UK</span></h3>
+<p>The UK government under a central drive to efficiency following from the <a href="/wiki/Gershon_Review" title="Gershon Review">Gershon Review</a> are working to an overall plan for realizing the benefits of shared services. The <a href="/wiki/Cabinet_Office" title="Cabinet Office">Cabinet Office</a> has established a team specifically tasked with the role of accelerating the take up and developing the strategy for all government departments to converge and consolidate. The savings potential of this transformation in the UK Public Sector was initially estimated by the <a href="/wiki/Cabinet_Office" title="Cabinet Office">Cabinet Office</a> at £1.4bn per annum (20% of the estimated cost of HR and Finance functions). The <a href="/wiki/National_Audit_Office_(United_Kingdom)" title="National Audit Office (United Kingdom)">National Audit Office (United Kingdom)</a> in its November 2007 report<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> pointed out that this £1.4bn figure lacked a clear baseline of costs and contained several uncertainties, such as the initial expenditure required and the time frame for the savings.</p>
+<p>There are reports of UK government shared service centres failing to realise savings, such as the Department of Transport's project, described as 'stupendous incompetence' by the Parliament's Public Accounts Committee.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>The Northern Ireland Civil Service (NICS), has implemented shared services for a number of departments and functions. For example, IT Assist (the ICT Shared Service Centre) provides common infrastructure and desktop services to NICS staff in the office, at home or when mobile working.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Canada">Canada</span></h3>
+<p>The government of Canada instituted Shared Services Canada on August 4, 2011, with the objective of consolidating its data centres, networks and email systems.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> This follows a tendency to centralize IT services that has been followed by the provinces of British Columbia, Québec, and Ontario, as well as the federal government of the United States of America and some states like Texas. PriceWaterhouseCoopers recommended integrating government data centres in a report ordered by Public Works and Government Services Canada, revealed in December 2011.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Ireland">Ireland</span></h3>
+<p>In the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>, the health service nationally has been reorganized from a set of regional Health Boards to a unified national structure, the Health Services Executive. Within this structure there will be a National Shared Services Organisation, based on the model developed at the former Eastern Health Shared Services, where procurement, HR, finance and ICT services were provided to health agencies in the Eastern Region of Ireland on a business-to business basis.</p>
+<h2><span class="mw-headline" id="New_trends">New trends</span></h2>
+<p>Organizations that have centralized their IT functions have now begun to take a close look at the technology services that their IT departments provide to internal customers, evaluating where it makes sense to provide specific technology components as a shared service. E-mail and scanning operations were obvious early candidates; many organizations with document-intensive operations are deploying scanning centers as a shared service.</p>
+<p>Many large organizations, in both the public and private sectors, are now considering deploying <a href="/wiki/Enterprise_Content_Management" title="Enterprise Content Management" class="mw-redirect">enterprise content management (ECM)</a> technology as a shared service.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Integration_Competency_Center" title="Integration Competency Center" class="mw-redirect">Integration Competency Center</a></li>
+<li><a href="/wiki/Offshoring" title="Offshoring">Offshoring</a></li>
+<li><a href="/wiki/Outsourcing" title="Outsourcing">Outsourcing</a></li>
+<li><a href="/wiki/Offshoring_Research_Network" title="Offshoring Research Network">Offshoring Research Network</a></li>
+<li><a href="/wiki/Portable_Employer_of_Record" title="Portable Employer of Record" class="mw-redirect">Portable Employer of Record</a></li>
+<li><a href="/wiki/Shared_Services_Center" title="Shared Services Center" class="mw-redirect">Shared Services Center</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-thesystemsthinkingreview18-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-thesystemsthinkingreview18_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-thesystemsthinkingreview18_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thesystemsthinkingreview.co.uk/index.php?pg=18&amp;utwkstoryid=266">Why do we believe in economy of scale?</a>. Thesystemsthinkingreview.co.uk. Retrieved on 2013-07-26.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.infoworld.com/article/06/05/30/78681_23OPreality_1.html">Outsourcing vs. shared services | InfoWorld | Column | 2006-05-30 | By Ephraim Schwartz</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.itbusinessedge.com/item/?ci=18405">Shared Services vs. Outsourcing | IT Business Edge</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.us.capgemini.com/news/current_news.asp?ID=441&amp;PRyear=2004">Capgemini U.S. | Jury Is Still Out On Outsourcing Versus Shared Services As Dominant Service Delivery Model, Says Capgemini Survey</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation journal">Janssen, M.; Joha, A. (2006). "Motives for Establishing Shared Service Centers in Public Administrations". <i>International Journal of Information Management</i> <b>26</b> (2): 102–116. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0268-4012">0268-4012</a>. <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.6832">10<wbr />.1<wbr />.1<wbr />.109<wbr />.6832</a></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShared+services&amp;rft.atitle=Motives+for+Establishing+Shared+Service+Centers+in+Public+Administrations&amp;rft.aufirst=M.&amp;rft.au=Janssen%2C+M.&amp;rft.au=Joha%2C+A.&amp;rft.aulast=Janssen&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issn=0268-4012&amp;rft.issue=2&amp;rft.jtitle=International+Journal+of+Information+Management&amp;rft.pages=102-116&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ssonetwork.com/business-process-outsourcing/webinars/the-hackett-group-and-sson-service-center-benchmar/#.UdGPftfF8ms">SSON and Hackett Group global Service Center Benchmark study | Shared Services &amp; Outsourcing Network (SSON) | Webinar | 2009-03-31 | Presented by Penny Weller</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Systems Thinking in the Public Sector, John Seddon, Page 57</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cio.com.au/article/392372/government_shared_services_navigate_rocky_road_-_part_1">Government shared services navigate a rocky road - Part 1 - shared services, government services division, queensland health</a>. CIO (2011-07-04). Retrieved on 2013-07-26.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.roblucas.com.au/news/default.asp?action=article&amp;ID=525">The Hon. Rob Lucas MLC - Media</a>. Roblucas.com.au (2011-06-14). Retrieved on 2013-07-26.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nao.org.uk/publications/nao_reports/07-08/07089.pdf">NAO report (HC 2007-08): improving corporate functions using shared services</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.zdnet.co.uk/news/systems-management/2008/12/16/mps-condemn-dft-shared-services-failure-39578367/">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since July 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sogeti.ie/en/News--Events/Events/New-Webinar-Series--Software-Test-Leadership-/New-Webinar-Series-Business-Transformation/Public-Sector-Shared-Services/">Case study presentation on the IT Assist programme in Northern Ireland</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.gc.ca/web/article-eng.do?nid=614499">Canada News Centre - Government of Canada to Reduce Information Technology Costs and Save Taxpayers' Dollars</a>. News.gc.ca (2011-08-04). Retrieved on 2013-07-26.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tpsgc-pwgsc.gc.ca/comm/vedette-features/2011-12-02-00-eng.html">PricewaterhouseCoopers feasibility study provides valuable insight into Government of Canada Data Centre Environment - Features - PWGSC</a>. Tpsgc-pwgsc.gc.ca. Retrieved on 2013-07-26.</span></li>
+</ol>
+</div>
+<ul>
+<li>Overview: <a rel="nofollow" class="external text" href="http://zinnov.com/pdf/Shared-Services.pdf">Shared Services Outsourcing &amp; Consolidated Centers of Excellence</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1178
+CPU time usage: 0.165 seconds
+Real time usage: 0.204 seconds
+Preprocessor visited node count: 831/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8402/2097152 bytes
+Template argument size: 1584/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 1.8 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  148.739      1 - -total
+ 47.53%   70.700      1 - Template:Reflist
+ 46.16%   68.653      2 - Template:Citation_needed
+ 34.45%   51.247      3 - Template:Fix
+ 31.01%   46.121      6 - Template:Category_handler
+ 26.35%   39.191      1 - Template:Cite_journal
+  7.48%   11.128      1 - Template:Dead_link
+  6.15%    9.145      1 - Template:Citeseerx
+  4.52%    6.721      1 - Template:URL
+  4.42%    6.577      3 - Template:Fix/category
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Shared_services&amp;oldid=622760957">http://en.wikipedia.org/w/index.php?title=Shared_services&amp;oldid=622760957</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Business_terms" title="Category:Business terms">Business terms</a></li><li><a href="/wiki/Category:Services_management_and_marketing" title="Category:Services management and marketing">Services management and marketing</a></li><li><a href="/wiki/Category:Service-oriented_(business_computing)" title="Category:Service-oriented (business computing)">Service-oriented (business computing)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2013" title="Category:Articles with dead external links from July 2013">Articles with dead external links from July 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2007" title="Category:Articles with unsourced statements from April 2007">Articles with unsourced statements from April 2007</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2010" title="Category:Articles with unsourced statements from October 2010">Articles with unsourced statements from October 2010</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shared+services&amp;returntoquery=diff%3D622760957%26oldid%3D609383884&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shared+services&amp;returntoquery=diff%3D622760957%26oldid%3D609383884" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Shared_services"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Shared_services"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Shared_services" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Shared_services&amp;action=edit&amp;oldid=622760957"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shared_services&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shared_services" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shared_services" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Shared_services&amp;oldid=622760957" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Shared_services&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1431598" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shared_services&amp;id=622760957" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shared+services">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Shared+services&amp;oldid=609383884&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Shared_services&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Shared_Services" title="Shared Services – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Shared_services" title="Shared services – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%BC%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9" title="シェアードサービス – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B" title="Разделяемые сервисы – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Shared_services" title="Shared services – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1431598#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shared_services&amp;diff=622760957&amp;oldid=609383884&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":396,"wgHostname":"mw1178"});
+}</script>
+	</body>
+</html>

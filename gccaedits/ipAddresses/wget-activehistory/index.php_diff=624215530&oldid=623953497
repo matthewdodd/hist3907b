@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Harmonic oscillator: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Harmonic_oscillator&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Harmonic_oscillator&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Harmonic_oscillator" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=624215530&amp;oldid=623953497" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Harmonic_oscillator","wgTitle":"Harmonic oscillator","wgCurRevisionId":649313231,"wgRevisionId":624215530,"wgArticleId":13899,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","CS1 errors: ISSN","Mechanical vibrations","Ordinary differential equations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Harmonic_oscillator","wgRelevantArticleId":13899,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q190070"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Harmonic_oscillator skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Harmonic oscillator: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Harmonic_oscillator&amp;oldid=623953497" title="Harmonic oscillator">Revision as of 03:32, 3 September 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Harmonic_oscillator&amp;action=edit&amp;oldid=623953497" title="Harmonic oscillator">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Dexbot" title="User:Dexbot" class="mw-userlink">Dexbot</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Dexbot" title="User talk:Dexbot">talk</a> | <a href="/wiki/Special:Contributions/Dexbot" title="Special:Contributions/Dexbot">contribs</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="comment">(Removing Link GA template (<a href="//www.wikidata.org/wiki/Wikidata:Development_plan#Badges" class="extiw" title="d:Wikidata:Development plan">handled by wikidata</a>))</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Harmonic_oscillator&amp;diff=prev&amp;oldid=623953497" title="Harmonic oscillator" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Harmonic_oscillator&amp;oldid=624215530" title="Harmonic oscillator">Revision as of 22:25, 4 September 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Harmonic_oscillator&amp;action=edit&amp;oldid=624215530" title="Harmonic oscillator">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Harmonic_oscillator&amp;action=edit&amp;undoafter=623953497&amp;undo=624215530" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/132.156.214.35" title="Special:Contributions/132.156.214.35" class="mw-userlink mw-anonuserlink">132.156.214.35</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=User_talk:132.156.214.35&amp;action=edit&amp;redlink=1" class="new" title="User talk:132.156.214.35 (page does not exist)">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#References">→</a>‎<span dir="auto"><span class="autocomment">References</span></span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Harmonic_oscillator&amp;diff=next&amp;oldid=624215530" title="Harmonic oscillator" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 348:</td>
+  <td colspan="2" class="diff-lineno">Line 348:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* {{cite book | last1 = Tipler | first1 =  Paul | title = Physics for Scientists and Engineers: Vol. 1 | edition = 4th | publisher = W. H. Freeman | year = 1998 | isbn = 1-57259-492-6 }}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* {{cite book | last1 = Tipler | first1 =  Paul | title = Physics for Scientists and Engineers: Vol. 1 | edition = 4th | publisher = W. H. Freeman | year = 1998 | isbn = 1-57259-492-6 }}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* {{cite book | last1 = Wylie | first1 =  C. R. | title = Advanced Engineering Mathematics | edition = 4th | publisher = McGraw-Hill | year = 1975 | isbn = 0-07-072180-7 }}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* {{cite book | last1 = Wylie | first1 =  C. R. | title = Advanced Engineering Mathematics | edition = 4th | publisher = McGraw-Hill | year = 1975 | isbn = 0-07-072180-7 }}</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>* {{cite journal|last1=Hayek|first1=Sabih I.|title=Mechanical Vibration and Damping|journal=Encyclopedia of Applied Physics|date=15 APR 2003|doi=10.1002/3527600434.eap231|publisher=WILEY-VCH Verlag GmbH &amp; Co KGaA|issn=9783527600434}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==External links==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==External links==</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 22:25, 4 September 2014</h2>
+<div class="hatnote">This article is about the harmonic oscillator in classical mechanics.  For its uses in <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>, see <a href="/wiki/Quantum_harmonic_oscillator" title="Quantum harmonic oscillator">quantum harmonic oscillator</a>.</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-left:0.9em;padding-right:0.9em;"><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical mechanics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><img class="mwe-math-fallback-image-inline tex" alt="\vec{F} = m\vec{a}" src="//upload.wikimedia.org/math/0/b/a/0ba118c2d8c335e2f96292a1e771bc09.png" />
+<div style="padding-top:0.2em;line-height:1.2em;font-size:90%;padding:0.6em 0;font-style:italic;"><a href="/wiki/Second_law_of_motion" title="Second law of motion" class="mw-redirect">Second law of motion</a></div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#ddf; display:block;margin-bottom:1.0em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_classical_mechanics" title="History of classical mechanics">History</a></li>
+<li><a href="/wiki/Timeline_of_classical_mechanics" title="Timeline of classical mechanics">Timeline</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Applied_mechanics" title="Applied mechanics">Applied</a></li>
+<li><a href="/wiki/Celestial_mechanics" title="Celestial mechanics">Celestial</a></li>
+<li><a href="/wiki/Continuum_mechanics" title="Continuum mechanics">Continuum</a></li>
+<li><a href="/wiki/Analytical_dynamics" title="Analytical dynamics">Dynamics</a></li>
+<li><a href="/wiki/Kinematics" title="Kinematics">Kinematics</a></li>
+<li><a href="/wiki/Kinetics_(physics)" title="Kinetics (physics)">Kinetics</a></li>
+<li><a href="/wiki/Statics" title="Statics">Statics</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Fundamentals</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Acceleration" title="Acceleration">Acceleration</a></li>
+<li><a href="/wiki/Angular_momentum" title="Angular momentum">Angular momentum</a></li>
+<li><a href="/wiki/Couple_(mechanics)" title="Couple (mechanics)">Couple</a></li>
+<li><a href="/wiki/D%27Alembert%27s_principle" title="D'Alembert's principle">D'Alembert's principle</a></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a>
+<ul>
+<li><a href="/wiki/Kinetic_energy#Newtonian_kinetic_energy" title="Kinetic energy">kinetic</a></li>
+<li><a href="/wiki/Potential_energy" title="Potential energy">potential</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Force" title="Force">Force</a></li>
+<li><a href="/wiki/Frame_of_reference" title="Frame of reference">Frame of reference</a></li>
+<li><a href="/wiki/Impulse_(physics)" title="Impulse (physics)">Impulse</a></li>
+<li><span class="nowrap"><a href="/wiki/Inertia" title="Inertia">Inertia</a>&#160;/ <a href="/wiki/Moment_of_inertia" title="Moment of inertia">Moment of inertia</a></span></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a></li>
+<li><br />
+<a href="/wiki/Power_(physics)" title="Power (physics)">Mechanical power</a></li>
+<li><a href="/wiki/Work_(physics)" title="Work (physics)">Mechanical work</a></li>
+<li><br />
+<a href="/wiki/Moment_(physics)" title="Moment (physics)">Moment</a></li>
+<li><a href="/wiki/Momentum" title="Momentum">Momentum</a></li>
+<li><a href="/wiki/Space" title="Space">Space</a></li>
+<li><a href="/wiki/Speed" title="Speed">Speed</a></li>
+<li><a href="/wiki/Time" title="Time">Time</a></li>
+<li><a href="/wiki/Torque" title="Torque">Torque</a></li>
+<li><a href="/wiki/Velocity" title="Velocity">Velocity</a></li>
+<li><a href="/wiki/Virtual_work" title="Virtual work">Virtual work</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Formulations</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<ul>
+<li>
+<div style="padding:0.1em 0;line-height:1.2em;padding-bottom:0.5em;"><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion"><b>Newtonian mechanics</b><br />
+(vectorial mechanics)</a></div>
+</li>
+<li>
+<div style="padding:0.1em 0;line-height:1.2em;"><b><a href="/wiki/Analytical_mechanics" title="Analytical mechanics">Analytical mechanics</a></b><br />
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a><br />
+<a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian mechanics</a></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Core topics</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Damping" title="Damping">Damping</a>&#160;(<a href="/wiki/Damping_ratio" title="Damping ratio">ratio</a>)</li>
+<li><a href="/wiki/Displacement_(vector)" title="Displacement (vector)">Displacement</a></li>
+<li><a href="/wiki/Equations_of_motion" title="Equations of motion">Equations of motion</a></li>
+<li><a href="/wiki/Euler%27s_laws_of_motion" title="Euler's laws of motion"><span class="wrap">Euler's laws of motion</span></a></li>
+<li><a href="/wiki/Fictitious_force" title="Fictitious force">Fictitious force</a></li>
+<li><a href="/wiki/Friction" title="Friction">Friction</a></li>
+<li><strong class="selflink">Harmonic oscillator</strong></li>
+</ul>
+</div>
+<ul>
+<li><span class="nowrap"><a href="/wiki/Inertial_frame_of_reference" title="Inertial frame of reference">Inertial</a>&#160;/ <a href="/wiki/Non-inertial_reference_frame" title="Non-inertial reference frame">Non-inertial reference frame</a></span></li>
+<li><a href="/wiki/Mechanics_of_planar_particle_motion" title="Mechanics of planar particle motion">Mechanics of planar particle motion</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Motion_(physics)" title="Motion (physics)">Motion</a>&#160;(<a href="/wiki/Linear_motion" title="Linear motion">linear</a>)</li>
+<li><a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation"><span class="wrap">Newton's law of universal gravitation</span></a></li>
+<li><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a></li>
+<li><a href="/wiki/Relative_velocity" title="Relative velocity">Relative velocity</a></li>
+<li><a href="/wiki/Rigid_body" title="Rigid body">Rigid body</a>
+<ul>
+<li><a href="/wiki/Rigid_body_dynamics" title="Rigid body dynamics">dynamics</a></li>
+<li><a href="/wiki/Euler%27s_equations_(rigid_body_dynamics)" title="Euler's equations (rigid body dynamics)">Euler's equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Simple_harmonic_motion" title="Simple harmonic motion">Simple harmonic motion</a></li>
+<li><a href="/wiki/Vibration" title="Vibration">Vibration</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Rotation_around_a_fixed_axis" title="Rotation around a fixed axis">Rotation</a></div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Circular_motion" title="Circular motion">Circular motion</a></li>
+<li><a href="/wiki/Rotating_reference_frame" title="Rotating reference frame">Rotating reference frame</a></li>
+<li><a href="/wiki/Centripetal_force" title="Centripetal force">Centripetal force</a></li>
+<li><a href="/wiki/Centrifugal_force" title="Centrifugal force">Centrifugal force</a>
+<ul>
+<li><a href="/wiki/Reactive_centrifugal_force" title="Reactive centrifugal force">reactive</a></li>
+<li><a href="/wiki/Centrifugal_force_(rotating_reference_frame)" title="Centrifugal force (rotating reference frame)">rotating reference frame</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis force</a></li>
+<li><a href="/wiki/Pendulum_(mathematics)" title="Pendulum (mathematics)">Pendulum</a></li>
+<li><a href="/wiki/Speed#Tangential_speed" title="Speed">Tangential speed</a></li>
+<li><a href="/wiki/Rotational_speed" title="Rotational speed">Rotational speed</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Angular_acceleration" title="Angular acceleration">Angular acceleration</a>&#160;/ <a href="/wiki/Angular_displacement" title="Angular displacement">displacement</a>&#160;/ <a href="/wiki/Angular_frequency" title="Angular frequency">frequency</a>&#160;/ <a href="/wiki/Angular_velocity" title="Angular velocity">velocity</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a></li>
+<li><a href="/wiki/Johannes_Kepler" title="Johannes Kepler">Kepler</a></li>
+<li><a href="/wiki/Jeremiah_Horrocks" title="Jeremiah Horrocks">Horrocks</a></li>
+<li><a href="/wiki/Edmond_Halley" title="Edmond Halley">Halley</a></li>
+<li><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li>
+<li><a href="/wiki/Jean_le_Rond_d%27Alembert" title="Jean le Rond d'Alembert">d'Alembert</a></li>
+<li><a href="/wiki/Alexis_Clairaut" title="Alexis Clairaut">Clairaut</a></li>
+<li><a href="/wiki/Joseph-Louis_Lagrange" title="Joseph-Louis Lagrange">Lagrange</a></li>
+<li><a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">Laplace</a></li>
+<li><a href="/wiki/William_Rowan_Hamilton" title="William Rowan Hamilton">Hamilton</a></li>
+<li><a href="/wiki/Sim%C3%A9on_Denis_Poisson" title="Siméon Denis Poisson">Poisson</a></li>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Daniel Bernoulli</a></li>
+<li><a href="/wiki/Johann_Bernoulli" title="Johann Bernoulli">Johann Bernoulli</a></li>
+<li><a href="/wiki/Augustin-Louis_Cauchy" title="Augustin-Louis Cauchy">Cauchy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;padding-top:0.15em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Classical_mechanics" title="Template:Classical mechanics"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Classical_mechanics" title="Template talk:Classical mechanics"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Classical_mechanics&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a>, a <b>harmonic oscillator</b> is a system that, when displaced from its equilibrium position, experiences a <a href="/wiki/Restoring_force" title="Restoring force">restoring force</a>, <i>F</i>, <a href="/wiki/Proportionality_(mathematics)" title="Proportionality (mathematics)">proportional</a> to the displacement, <i>x</i>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \vec F = -k \vec x \, " src="//upload.wikimedia.org/math/9/1/0/910c7213b1ce55fefc0ca0de9977732e.png" /></dd>
+</dl>
+<p>where <i>k</i> is a positive <a href="/wiki/Coefficient" title="Coefficient">constant</a>.</p>
+<p>If <i>F</i> is the only force acting on the system, the system is called a <b>simple harmonic oscillator</b>, and it undergoes <a href="/wiki/Simple_harmonic_motion" title="Simple harmonic motion">simple harmonic motion</a>: <a href="/wiki/Sinusoidal" title="Sinusoidal" class="mw-redirect">sinusoidal</a> <a href="/wiki/Oscillation" title="Oscillation">oscillations</a> about the equilibrium point, with a constant <a href="/wiki/Amplitude" title="Amplitude">amplitude</a> and a constant <a href="/wiki/Frequency" title="Frequency">frequency</a> (which does not depend on the amplitude).</p>
+<p>If a frictional force (<a href="/wiki/Damping" title="Damping">damping</a>) proportional to the <a href="/wiki/Velocity" title="Velocity">velocity</a> is also present, the harmonic oscillator is described as a <b>damped oscillator</b>. Depending on the friction coefficient, the system can:</p>
+<ul>
+<li>Oscillate with a frequency smaller than in the non-damped case, and an <a href="/wiki/Amplitude" title="Amplitude">amplitude</a> decreasing with time (<i>underdamped</i> oscillator).</li>
+<li>Decay to the equilibrium position, without oscillations (<i>overdamped</i> oscillator).</li>
+</ul>
+<p>The boundary solution between an underdamped oscillator and an overdamped oscillator occurs at a particular value of the friction coefficient and is called "critically damped."</p>
+<p>If an external time dependent force is present, the harmonic oscillator is described as a <b>driven oscillator</b>.</p>
+<p>Mechanical examples include <a href="/wiki/Pendulum" title="Pendulum">pendulums</a> (with <a href="/wiki/Small-angle_approximation#Motion_of_a_pendulum" title="Small-angle approximation">small angles of displacement</a>), masses connected to <a href="/wiki/Spring_(device)" title="Spring (device)">springs</a>, and <a href="/wiki/Acoustics" title="Acoustics">acoustical systems</a>. Other <a href="#Equivalent_systems">analogous systems</a> include electrical harmonic oscillators such as <a href="/wiki/RLC_circuit" title="RLC circuit">RLC circuits</a>. The harmonic oscillator model is very important in physics, because any mass subject to a force in stable equilibrium acts as a harmonic oscillator for small vibrations. Harmonic oscillators occur widely in nature and are exploited in many manmade devices, such as <a href="/wiki/Clock" title="Clock">clocks</a> and radio circuits. They are the source of virtually all sinusoidal vibrations and waves.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Simple_harmonic_oscillator"><span class="tocnumber">1</span> <span class="toctext">Simple harmonic oscillator</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Damped_harmonic_oscillator"><span class="tocnumber">2</span> <span class="toctext">Damped harmonic oscillator</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Driven_harmonic_oscillators"><span class="tocnumber">3</span> <span class="toctext">Driven harmonic oscillators</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Step_input"><span class="tocnumber">3.1</span> <span class="toctext">Step input</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Sinusoidal_driving_force"><span class="tocnumber">3.2</span> <span class="toctext">Sinusoidal driving force</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Parametric_oscillators"><span class="tocnumber">4</span> <span class="toctext">Parametric oscillators</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Universal_oscillator_equation"><span class="tocnumber">5</span> <span class="toctext">Universal oscillator equation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Transient_solution"><span class="tocnumber">5.1</span> <span class="toctext">Transient solution</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Steady-state_solution"><span class="tocnumber">5.2</span> <span class="toctext">Steady-state solution</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Amplitude_part"><span class="tocnumber">5.2.1</span> <span class="toctext">Amplitude part</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Phase_part"><span class="tocnumber">5.2.2</span> <span class="toctext">Phase part</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Full_solution"><span class="tocnumber">5.3</span> <span class="toctext">Full solution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Equivalent_systems"><span class="tocnumber">6</span> <span class="toctext">Equivalent systems</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Application_to_a_conservative_force"><span class="tocnumber">7</span> <span class="toctext">Application to a conservative force</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Examples"><span class="tocnumber">8</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Simple_pendulum"><span class="tocnumber">8.1</span> <span class="toctext">Simple pendulum</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Pendulum_swinging_over_turntable"><span class="tocnumber">8.2</span> <span class="toctext">Pendulum swinging over turntable</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Spring.2Fmass_system"><span class="tocnumber">8.3</span> <span class="toctext">Spring/mass system</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Energy_variation_in_the_spring.E2.80.93damping_system"><span class="tocnumber">8.3.1</span> <span class="toctext">Energy variation in the spring–damping system</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Notes"><span class="tocnumber">10</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Simple_harmonic_oscillator">Simple harmonic oscillator</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Simple_harmonic_motion" title="Simple harmonic motion">Simple harmonic motion</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Simple_harmonic_motion_animation.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Simple_harmonic_motion_animation.gif/220px-Simple_harmonic_motion_animation.gif" width="220" height="104" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Simple_harmonic_motion_animation.gif/330px-Simple_harmonic_motion_animation.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Simple_harmonic_motion_animation.gif/440px-Simple_harmonic_motion_animation.gif 2x" data-file-width="512" data-file-height="242" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Simple_harmonic_motion_animation.gif" class="internal" title="Enlarge"></a></div>
+Simple harmonic motion</div>
+</div>
+</div>
+<p>A simple harmonic oscillator is an oscillator that is neither driven nor <a href="/wiki/Damping" title="Damping">damped</a>. It consists of a mass <i>m</i>, which experiences a single force, <i>F</i>, which pulls the mass in the direction of the point <i>x</i>=0 and depends only on the mass's position <i>x</i> and a constant <i>k</i>. Balance of forces (<a href="/wiki/Newton%27s_second_law" title="Newton's second law" class="mw-redirect">Newton's second law</a>) for the system is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="F = m a = m \frac{\mathrm{d}^2x}{\mathrm{d}t^2} = -k x. " src="//upload.wikimedia.org/math/f/2/2/f22813cd6f45a2a9d1e70f37d26bb7cf.png" /></dd>
+</dl>
+<p>Solving this <a href="/wiki/Differential_equation" title="Differential equation">differential equation</a>, we find that the motion is described by the function</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" x(t) = A\cos\left( \omega t+\phi\right), " src="//upload.wikimedia.org/math/a/2/4/a244a326d750677fb1c8f8b87c8f5485.png" /></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\omega = \sqrt{\frac{k}{m}} = \frac{2\pi}{T}." src="//upload.wikimedia.org/math/8/b/b/8bb3924c66ebd6d8820110fa5a67d8fe.png" /></dd>
+</dl>
+<p>The motion is <a href="/wiki/Periodic_function" title="Periodic function">periodic</a>, repeating itself in a <a href="/wiki/Sine_wave" title="Sine wave">sinusoidal</a> fashion with constant amplitude, <i>A</i>. In addition to its amplitude, the motion of a simple harmonic oscillator is characterized by its <a href="/wiki/Frequency" title="Frequency">period</a> <i>T</i>, the time for a single oscillation or its frequency <i>f</i>&#160;=&#160;<span class="frac nowrap"><sup>1</sup>⁄<sub><i>T</i></sub></span>, the number of cycles per unit time. The position at a given time <i>t</i> also depends on the <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a>, <i>φ</i>, which determines the starting point on the sine wave. The period and frequency are determined by the size of the mass <i>m</i> and the force constant <i>k</i>, while the amplitude and phase are determined by the starting position and <a href="/wiki/Velocity" title="Velocity">velocity</a>.</p>
+<p>The velocity and <a href="/wiki/Acceleration" title="Acceleration">acceleration</a> of a simple harmonic oscillator oscillate with the same frequency as the position but with shifted phases. The velocity is maximum for zero displacement, while the acceleration is in the opposite direction as the displacement.</p>
+<p>The potential energy stored in a simple harmonic oscillator at position <i>x</i> is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="U = \frac{1}{2}kx^2." src="//upload.wikimedia.org/math/e/f/9/ef95cb9c51c3be7a766734c988e0976e.png" /></dd>
+</dl>
+<h2><span class="mw-headline" id="Damped_harmonic_oscillator">Damped harmonic oscillator</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Damping" title="Damping">Damping</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Damping_1.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Damping_1.svg/200px-Damping_1.svg.png" width="200" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Damping_1.svg/300px-Damping_1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Damping_1.svg/400px-Damping_1.svg.png 2x" data-file-width="650" data-file-height="356" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Damping_1.svg" class="internal" title="Enlarge"></a></div>
+Dependence of the system behavior on the value of the damping ratio <i>ζ</i></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;position:relative;display:block;width:640px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; style=&quot;width:640px;height:480px&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Oscillatory_motion_acceleration.ogv/640px--Oscillatory_motion_acceleration.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; class=&quot;kskin&quot; data-durationhint=&quot;27.694333333333&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Oscillatory_motion_acceleration.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/a/a5/Oscillatory_motion_acceleration.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 640 × 480 (1.07 Mbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;640&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1067408&quot; data-framerate=&quot;29.97002997003&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Oscillatory_motion_acceleration.ogv/Oscillatory_motion_acceleration.ogv.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; transcodekey=&quot;480p.webm&quot; data-title=&quot;Web streamable WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-width=&quot;640&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1118888&quot; data-framerate=&quot;29.97002997003&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Oscillatory_motion_acceleration.ogv/Oscillatory_motion_acceleration.ogv.480p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; transcodekey=&quot;480p.ogv&quot; data-title=&quot;Web streamable Ogg video (480P)&quot; data-shorttitle=&quot;Ogg 480P&quot; data-width=&quot;640&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1123176&quot; data-framerate=&quot;29.97002997003&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Oscillatory_motion_acceleration.ogv/Oscillatory_motion_acceleration.ogv.160p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; transcodekey=&quot;160p.ogv&quot; data-title=&quot;Low bandwidth Ogg video (160P)&quot; data-shorttitle=&quot;Ogg 160P&quot; data-width=&quot;214&quot; data-height=&quot;160&quot; data-bandwidth=&quot;198480&quot; data-framerate=&quot;15&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Oscillatory_motion_acceleration.ogv/Oscillatory_motion_acceleration.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; transcodekey=&quot;360p.webm&quot; data-title=&quot;Web streamable WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-width=&quot;480&quot; data-height=&quot;360&quot; data-bandwidth=&quot;597448&quot; data-framerate=&quot;29.97002997003&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Oscillatory_motion_acceleration.ogv/Oscillatory_motion_acceleration.ogv.360p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; transcodekey=&quot;360p.ogv&quot; data-title=&quot;Web streamable Ogg video (360P)&quot; data-shorttitle=&quot;Ogg 360P&quot; data-width=&quot;480&quot; data-height=&quot;360&quot; data-bandwidth=&quot;601232&quot; data-framerate=&quot;29.97002997003&quot; /&gt;Sorry, your browser either has JavaScript disabled or does not have any supported player.&lt;br /&gt;
+You can &lt;a href=&quot;//upload.wikimedia.org/wikipedia/commons/a/a5/Oscillatory_motion_acceleration.ogv&quot;&gt;download the clip&lt;/a&gt; or &lt;a href=&quot;https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download&quot;&gt;download a player&lt;/a&gt; to play the clip in your browser.&lt;/video&gt;&lt;/div&gt;"><img alt="File:Oscillatory motion acceleration.ogv" style="width:220px;height:165px" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Oscillatory_motion_acceleration.ogv/220px--Oscillatory_motion_acceleration.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/a/a5/Oscillatory_motion_acceleration.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Oscillatory_motion_acceleration.ogv" class="internal" title="Enlarge"></a></div>
+A damped harmonic oscillator, which slows down due to friction</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Guitar_strings.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Guitar_strings.jpg/220px-Guitar_strings.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Guitar_strings.jpg/330px-Guitar_strings.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Guitar_strings.jpg/440px-Guitar_strings.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Guitar_strings.jpg" class="internal" title="Enlarge"></a></div>
+Another damped harmonic oscillator</div>
+</div>
+</div>
+<p>In real oscillators, friction, or damping, slows the motion of the system. Due to frictional force, the velocity decreases in proportion to the acting frictional force. While simple harmonic motion oscillates with only the restoring force acting on the system, damped harmonic motion experiences friction. In many vibrating systems the frictional force <i>F</i><sub>f</sub> can be modeled as being proportional to the velocity <i>v</i> of the object: <span class="nowrap"><i>F</i><sub>f</sub> = −<i>cv</i></span>, where <i>c</i> is called the <i>viscous damping coefficient</i>.</p>
+<p>Balance of forces (<a href="/wiki/Newton%27s_second_law" title="Newton's second law" class="mw-redirect">Newton's second law</a>) for damped harmonic oscillators is then</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" F = -kx - c\frac{\mathrm{d}x}{\mathrm{d}t} = m \frac{\mathrm{d}^2x}{\mathrm{d}t^2}." src="//upload.wikimedia.org/math/8/b/5/8b50bc6bfdc58c819572ac6e24a43280.png" /></dd>
+</dl>
+<p>This is rewritten into the form</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \frac{\mathrm{d}^2x}{\mathrm{d}t^2} + 2\zeta\omega_0\frac{\mathrm{d}x}{\mathrm{d}t} + \omega_0^{\,2} x = 0, " src="//upload.wikimedia.org/math/1/0/a/10a12769f0ef501e525dafcce2e4d973.png" /></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\omega_0 = \sqrt{\frac{k}{m}}" src="//upload.wikimedia.org/math/6/d/e/6de7bf74078af37ab43b51aa1d7bbb3c.png" /> is called the 'undamped <a href="/wiki/Angular_frequency" title="Angular frequency">angular frequency</a> of the oscillator' and</dd>
+</dl>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\zeta = \frac{c}{2 \sqrt{mk}}" src="//upload.wikimedia.org/math/b/2/a/b2a736cc671a9b6a9a868f12b64103e8.png" /> is called the 'damping ratio'.</dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Step_response_for_two-pole_feedback_amplifier.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Step_response_for_two-pole_feedback_amplifier.PNG/200px-Step_response_for_two-pole_feedback_amplifier.PNG" width="200" height="213" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Step_response_for_two-pole_feedback_amplifier.PNG/300px-Step_response_for_two-pole_feedback_amplifier.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Step_response_for_two-pole_feedback_amplifier.PNG/400px-Step_response_for_two-pole_feedback_amplifier.PNG 2x" data-file-width="465" data-file-height="496" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Step_response_for_two-pole_feedback_amplifier.PNG" class="internal" title="Enlarge"></a></div>
+Step-response of a damped harmonic oscillator; curves are plotted for three values of <span class="nowrap"><i>μ</i> = <i>ω</i><sub>1</sub> = <i>ω</i><sub>0</sub><span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">1−<i>ζ</i><sup>2</sup></span></span></span>. Time is in units of the decay time <span class="nowrap"><i>τ</i> = 1/(<i>ζω</i><sub>0</sub>)</span>.</div>
+</div>
+</div>
+<p>The value of the damping ratio <i>ζ</i> critically determines the behavior of the system. A damped harmonic oscillator can be:</p>
+<ul>
+<li><i>Overdamped</i> (<i>ζ</i> &gt; 1): The system returns (<a href="/wiki/Exponential_decay" title="Exponential decay">exponentially decays</a>) to steady state without oscillating. Larger values of the damping ratio <i>ζ</i> return to equilibrium slower.</li>
+<li><i>Critically damped</i> (<i>ζ</i> = 1): The system returns to steady state as quickly as possible without oscillating. This is often desired for the damping of systems such as doors.</li>
+<li><i>Underdamped</i> (<i>ζ</i> &lt; 1): The system oscillates (with a slightly different frequency than the undamped case) with the amplitude gradually decreasing to zero. The <a href="/wiki/Angular_frequency" title="Angular frequency">angular frequency</a> of the underdamped harmonic oscillator is given by</li>
+</ul>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\omega_1 = \omega_0\sqrt{1 - \zeta^2}." src="//upload.wikimedia.org/math/3/f/4/3f4c27ee9c558194578ff0bb27c29cf4.png" /></dd>
+</dl>
+<p>The <a href="/wiki/Q_factor" title="Q factor">Q factor</a> of a damped oscillator is defined as</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="Q = 2\pi \times \frac{\text{Energy stored}}{\text{Energy lost per cycle}}." src="//upload.wikimedia.org/math/2/b/f/2bf029492dd92bc3f8d6462046e7fdf5.png" /></dd>
+</dl>
+<p><i>Q</i> is related to the damping ratio by the equation <img class="mwe-math-fallback-image-inline tex" alt="Q = \frac{1}{2\zeta}." src="//upload.wikimedia.org/math/4/e/7/4e714b2268395397a10d5dbb0b3ff848.png" /></p>
+<h2><span class="mw-headline" id="Driven_harmonic_oscillators">Driven harmonic oscillators</span></h2>
+<p>Driven harmonic oscillators are damped oscillators further affected by an externally applied force <i>F</i>(<i>t</i>).</p>
+<p><a href="/wiki/Newton%27s_second_law" title="Newton's second law" class="mw-redirect">Newton's second law</a> takes the form</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="F(t)-kx-c\frac{\mathrm{d}x}{\mathrm{d}t}=m\frac{\mathrm{d}^2x}{\mathrm{d}t^2}. " src="//upload.wikimedia.org/math/e/7/3/e7360ea6086eb70d7346d1653f043ce7.png" /></dd>
+</dl>
+<p>It is usually rewritten into the form</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \frac{\mathrm{d}^2x}{\mathrm{d}t^2} + 2\zeta\omega_0\frac{\mathrm{d}x}{\mathrm{d}t} + \omega_0^2 x = \frac{F(t)}{m}. " src="//upload.wikimedia.org/math/7/6/9/7697d6546901bd4dc9d915e3b37a84bd.png" /></dd>
+</dl>
+<p>This equation can be solved exactly for any driving force, using the solutions <i>z</i>(<i>t</i>) which satisfy the unforced equation:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \frac{\mathrm{d}^2z}{\mathrm{d}t^2} + 2\zeta\omega_0\frac{\mathrm{d}z}{\mathrm{d}t} + \omega_0^2 z = 0," src="//upload.wikimedia.org/math/f/c/0/fc01c7b5183c42ae4569d9b931442bf6.png" /></dd>
+</dl>
+<p>and which can be expressed as damped sinusoidal oscillations,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="z(t) = A \mathrm{e}^{-\zeta \omega_0 t} \ \sin \left( \sqrt{1-\zeta^2} \ \omega_0 t + \phi \right), " src="//upload.wikimedia.org/math/d/9/f/d9f5de755d516c4a116b521b35258c66.png" /></dd>
+</dl>
+<p>in the case where <i>ζ</i>&#160;≤&#160;1. The amplitude <i>A</i> and phase <i>φ</i> determine the behavior needed to match the initial conditions.</p>
+<h3><span class="mw-headline" id="Step_input">Step input</span></h3>
+<div class="hatnote boilerplate seealso">See also: <a href="/wiki/Step_response" title="Step response">Step response</a></div>
+<p>In the case <i>ζ</i>&#160;&lt;&#160;1 and a unit step input with&#160;<i>x</i>(0)&#160;=&#160;0:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" {F(t) \over m} = \begin{cases} \omega _0^2  &amp; t \geq 0 \\ 0 &amp; t &lt; 0 \end{cases}" src="//upload.wikimedia.org/math/9/2/3/92324dcfc7489aedc5a87d784ad1b4e0.png" /></dd>
+</dl>
+<p>the solution is:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" x(t) = 1 - \mathrm{e}^{-\zeta \omega_0 t} \frac{\sin \left( \sqrt{1-\zeta^2} \ \omega_0 t + \varphi \right)}{\sin(\varphi)}," src="//upload.wikimedia.org/math/8/9/4/894588a2a216980916416ade01f8802a.png" /></dd>
+</dl>
+<p>with phase <i>φ</i> given by</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\cos \varphi = \zeta. \, " src="//upload.wikimedia.org/math/e/2/2/e22dc449c56dc5c7dfdaa8623cd64f7a.png" /></dd>
+</dl>
+<p>The time an oscillator needs to adapt to changed external conditions is of the order <i>τ</i>&#160;=&#160;1/(<i>ζω</i><sub>0</sub>). In physics, the adaptation is called <a href="/wiki/Relaxation_(physics)" title="Relaxation (physics)">relaxation</a>, and τ is called the relaxation time.</p>
+<p>In electrical engineering, a multiple of τ is called the <i>settling time</i>, i.e. the time necessary to ensure the signal is within a fixed departure from final value, typically within 10%. The term <i>overshoot</i> refers to the extent the maximum response exceeds final value, and <i>undershoot</i> refers to the extent the response falls below final value for times following the maximum response.</p>
+<h3><span class="mw-headline" id="Sinusoidal_driving_force">Sinusoidal driving force</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Resonance.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Resonance.PNG/300px-Resonance.PNG" width="300" height="217" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Resonance.PNG/450px-Resonance.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Resonance.PNG/600px-Resonance.PNG 2x" data-file-width="3249" data-file-height="2351" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Resonance.PNG" class="internal" title="Enlarge"></a></div>
+Steady state variation of amplitude with frequency and <a href="/wiki/Damping" title="Damping">damping</a> of a driven <a href="/wiki/Simple_harmonic_oscillator" title="Simple harmonic oscillator" class="mw-redirect">simple harmonic oscillator</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></div>
+</div>
+</div>
+<p>In the case of a sinusoidal driving force:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \frac{\mathrm{d}^2x}{\mathrm{d}t^2} + 2\zeta\omega_0\frac{\mathrm{d}x}{\mathrm{d}t} + \omega_0^2 x = \frac{1}{m} F_0 \sin(\omega t)," src="//upload.wikimedia.org/math/4/b/c/4bc6ebfe10ca3133701a6761bd5cc324.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="\,\!F_0" src="//upload.wikimedia.org/math/b/1/4/b14ef07b7f87b961dfca8479bb13516c.png" /> is the driving amplitude and <img class="mwe-math-fallback-image-inline tex" alt="\,\!\omega" src="//upload.wikimedia.org/math/d/3/2/d32e2314492ff189867cfa1afadb31e5.png" /> is the driving <a href="/wiki/Frequency" title="Frequency">frequency</a> for a sinusoidal driving mechanism. This type of system appears in <a href="/wiki/Alternating_current" title="Alternating current">AC</a> driven <a href="/wiki/RLC_circuit" title="RLC circuit">RLC circuits</a> (<a href="/wiki/Electrical_resistance" title="Electrical resistance" class="mw-redirect">resistor</a>-<a href="/wiki/Inductor" title="Inductor">inductor</a>-<a href="/wiki/Capacitor" title="Capacitor">capacitor</a>) and driven spring systems having internal mechanical resistance or external <a href="/wiki/Air_resistance" title="Air resistance" class="mw-redirect">air resistance</a>.</p>
+<p>The general solution is a sum of a <a href="/wiki/Transient_(oscillation)" title="Transient (oscillation)">transient</a> solution that depends on initial conditions, and a <a href="/wiki/Steady_state" title="Steady state">steady state</a> that is independent of initial conditions and depends only on the driving amplitude <img class="mwe-math-fallback-image-inline tex" alt="\,\!F_0" src="//upload.wikimedia.org/math/b/1/4/b14ef07b7f87b961dfca8479bb13516c.png" />, driving frequency, <img class="mwe-math-fallback-image-inline tex" alt="\,\!\omega" src="//upload.wikimedia.org/math/d/3/2/d32e2314492ff189867cfa1afadb31e5.png" />, undamped angular frequency <img class="mwe-math-fallback-image-inline tex" alt="\,\!\omega_0" src="//upload.wikimedia.org/math/1/b/1/1b1f32a909acb8863b5a6b3651f73e7c.png" />, and the damping ratio <img class="mwe-math-fallback-image-inline tex" alt="\,\!\zeta" src="//upload.wikimedia.org/math/e/b/b/ebb98a0450a6c075ec887f6fab263fab.png" />.</p>
+<p>The steady-state solution is proportional to the driving force with an induced phase change of <img class="mwe-math-fallback-image-inline tex" alt="\,\!\phi" src="//upload.wikimedia.org/math/f/2/3/f23f880e5553ab01bcc6d97912108ef4.png" />:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" x(t) = \frac{F_0}{m Z_m \omega} \sin(\omega t + \phi)" src="//upload.wikimedia.org/math/b/f/e/bfec1800129538132d10fe7f74d4ebd5.png" /></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" Z_m = \sqrt{\left(2\omega_0\zeta\right)^2 + \frac{1}{\omega^2}\left(\omega_0^2  - \omega^2\right)^2}" src="//upload.wikimedia.org/math/c/2/9/c29641a35b5a5a9bc5c5606e94fb8619.png" /></dd>
+</dl>
+<p>is the absolute value of the <a href="/wiki/Mechanical_impedance" title="Mechanical impedance">impedance</a> or <a href="/wiki/Linear_response_function" title="Linear response function">linear response function</a> and</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \phi = \arctan\left(\frac{\omega_0^2-\omega^2}{2\omega \omega_0\zeta}\right)" src="//upload.wikimedia.org/math/e/8/6/e86fdf341aa79302936d34acfe654ec4.png" /></dd>
+</dl>
+<p>is the <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> of the oscillation relative to the driving force, if the arctan value is taken to be between -180 degrees and 0 (that is, it represents a phase lag, for both positive and negative values of the arctan's argument).</p>
+<p>For a particular driving frequency called the <a href="/wiki/Resonance" title="Resonance">resonance</a>, or resonant frequency <img class="mwe-math-fallback-image-inline tex" alt="\,\!\omega_r = \omega_0\sqrt{1-2\zeta^2}" src="//upload.wikimedia.org/math/f/9/7/f97c107690bcada6d6a7752e8be374d8.png" />, the amplitude (for a given <img class="mwe-math-fallback-image-inline tex" alt="\,\!F_0" src="//upload.wikimedia.org/math/b/1/4/b14ef07b7f87b961dfca8479bb13516c.png" />) is maximum. This resonance effect only occurs when <img class="mwe-math-fallback-image-inline tex" alt="\,\zeta &lt; 1 / \sqrt{2}" src="//upload.wikimedia.org/math/1/4/a/14a3fbc53593f0787a98c0a63f568db6.png" />, i.e. for significantly underdamped systems. For strongly underdamped systems the value of the amplitude can become quite large near the resonance frequency.</p>
+<p>The transient solutions are the same as the unforced (<img class="mwe-math-fallback-image-inline tex" alt="\,\!F_0 = 0" src="//upload.wikimedia.org/math/c/f/b/cfb8f4120e920cd7b2e8a155021adea7.png" />) <a href="/wiki/Damping" title="Damping">damped harmonic oscillator</a> and represent the systems response to other events that occurred previously. The transient solutions typically die out rapidly enough that they can be ignored.</p>
+<h2><span class="mw-headline" id="Parametric_oscillators">Parametric oscillators</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Parametric_oscillator" title="Parametric oscillator">Parametric oscillator</a></div>
+<p>A <a href="/wiki/Parametric_oscillator" title="Parametric oscillator">parametric oscillator</a> is a driven harmonic oscillator in which the drive energy is provided by varying the parameters of the oscillator, such as the damping or restoring force. A familiar example of parametric oscillation is "pumping" on a playground <a href="/wiki/Swing_(seat)" title="Swing (seat)">swing</a>.<sup id="cite_ref-Case_3-0" class="reference"><a href="#cite_note-Case-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Case96_4-0" class="reference"><a href="#cite_note-Case96-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Roura_5-0" class="reference"><a href="#cite_note-Roura-5"><span>[</span>5<span>]</span></a></sup> A person on a moving swing can increase the amplitude of the swing's oscillations without any external drive force (pushes) being applied, by changing the moment of inertia of the swing by rocking back and forth ("pumping") or alternately standing and squatting, in rhythm with the swing's oscillations. The varying of the parameters drives the system. Examples of parameters that may be varied are its resonance frequency <img class="mwe-math-fallback-image-inline tex" alt="\omega" src="//upload.wikimedia.org/math/4/d/1/4d1b7b74aba3cfabd624e898d86b4602.png" /> and damping <img class="mwe-math-fallback-image-inline tex" alt="\beta" src="//upload.wikimedia.org/math/0/7/1/071997f13634882f823041b057f90923.png" />.</p>
+<p>Parametric oscillators are used in many applications. The classical <a href="/wiki/Varactor" title="Varactor" class="mw-redirect">varactor</a> parametric oscillator oscillates when the diode's capacitance is varied periodically. The circuit that varies the diode's capacitance is called the "pump" or "driver". In microwave electronics, <a href="/wiki/Waveguide_(electromagnetism)" title="Waveguide (electromagnetism)">waveguide</a>/<a href="/wiki/Yttrium_aluminum_garnet" title="Yttrium aluminum garnet" class="mw-redirect">YAG</a> based parametric oscillators operate in the same fashion. The designer varies a parameter periodically to induce oscillations.</p>
+<p>Parametric oscillators have been developed as low-noise amplifiers, especially in the radio and microwave frequency range. Thermal noise is minimal, since a reactance (not a resistance) is varied. Another common use is frequency conversion, e.g., conversion from audio to radio frequencies. For example, the <a href="/wiki/Optical_parametric_oscillator" title="Optical parametric oscillator">Optical parametric oscillator</a> converts an input <a href="/wiki/Laser" title="Laser">laser</a> wave into two output waves of lower frequency (<img class="mwe-math-fallback-image-inline tex" alt="\omega_s, \omega_i" src="//upload.wikimedia.org/math/5/d/6/5d603e9a7fc809c038ea5e695d755499.png" />).</p>
+<p>Parametric resonance occurs in a mechanical system when a system is parametrically excited and oscillates at one of its resonant frequencies. Parametric excitation differs from forcing, since the action appears as a time varying modification on a system parameter. This effect is different from regular resonance because it exhibits the <a href="/wiki/Instability" title="Instability">instability</a> phenomenon.</p>
+<h2><span class="mw-headline" id="Universal_oscillator_equation">Universal oscillator equation</span></h2>
+<p>The equation</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\mathrm{d}^2q}{\mathrm{d} \tau^2} + 2 \zeta \frac{\mathrm{d}q}{\mathrm{d}\tau} + q = 0" src="//upload.wikimedia.org/math/8/6/1/861a359e8e4c54a14e7a7062c9e1a2d1.png" /></dd>
+</dl>
+<p>is known as the <b>universal oscillator equation</b> since all second order linear oscillatory systems can be reduced to this form. This is done through <a href="/wiki/Nondimensionalization" title="Nondimensionalization">nondimensionalization</a>.</p>
+<p>If the forcing function is <i>f</i>(<i>t</i>) =&#160;cos(<i>ωt</i>) =&#160;cos(<i>ωt<sub>c</sub>τ</i>) =&#160;cos(<i>ωτ</i>), where <i>ω</i>&#160;=&#160;<i>ωt</i><sub><i>c</i></sub>, the equation becomes</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\mathrm{d}^2q}{\mathrm{d} \tau^2} + 2 \zeta \frac{\mathrm{d}q}{\mathrm{d}\tau} + q = \cos(\omega \tau)." src="//upload.wikimedia.org/math/2/9/d/29da1e0120982e495daba5b4abd9c3b2.png" /></dd>
+</dl>
+<p>The solution to this differential equation contains two parts, the "transient" and the "steady state".</p>
+<h3><span class="mw-headline" id="Transient_solution">Transient solution</span></h3>
+<p>The solution based on solving the <a href="/wiki/Ordinary_differential_equation" title="Ordinary differential equation">ordinary differential equation</a> is for arbitrary constants <i>c</i><sub>1</sub> and <i>c</i><sub>2</sub></p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="q_t (\tau) = \begin{cases} \mathrm{e}^{-\zeta\tau} \left( c_1 \mathrm{e}^{\tau \sqrt{\zeta^2 - 1}} + c_2 \mathrm{e}^{- \tau \sqrt{\zeta^2 - 1}} \right) &amp; \zeta &gt; 1 \text{ (overdamping)} \\ \mathrm{e}^{-\zeta\tau} (c_1+c_2 \tau) = \mathrm{e}^{-\tau}(c_1+c_2 \tau) &amp; \zeta = 1 \text{ (critical damping)} \\ \mathrm{e}^{-\zeta \tau} \left[ c_1 \cos \left(\sqrt{1-\zeta^2} \tau\right) +c_2 \sin\left(\sqrt{1-\zeta^2} \tau\right) \right] &amp; \zeta &lt; 1 \text{(underdamping)} \end{cases}" src="//upload.wikimedia.org/math/2/8/8/2885f1873be326d16d8f9daac72ae585.png" /></p>
+<p>The transient solution is independent of the forcing function.</p>
+<h3><span class="mw-headline" id="Steady-state_solution">Steady-state solution</span></h3>
+<p>Apply the "<a href="/wiki/Complex_analysis" title="Complex analysis">complex variables</a> method" by solving the <a href="/wiki/Auxiliary_equation" title="Auxiliary equation" class="mw-redirect">auxiliary equation</a> below and then finding the real part of its solution:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\mathrm{d}^2 q}{\mathrm{d}\tau^2} + 2 \zeta \frac{\mathrm{d}q}{\mathrm{d}\tau} + q = \cos(\omega \tau) + \mathrm{i}\sin(\omega \tau) = \mathrm{e}^{ \mathrm{i} \omega \tau} ." src="//upload.wikimedia.org/math/b/2/c/b2c3259ff6ea439205772d1bc46dd36f.png" /></dd>
+</dl>
+<p>Supposing the solution is of the form</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! q_s(\tau) = A \mathrm{e}^{\mathrm{i} ( \omega \tau + \phi ) } . " src="//upload.wikimedia.org/math/4/8/6/486fe4deb850f8791e064bc8ed3236d9.png" /></dd>
+</dl>
+<p>Its derivatives from zero to 2nd order are</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="q_s = A \mathrm{e}^{\mathrm{i} ( \omega \tau + \phi ) }, \ \frac{\mathrm{d}q_s}{\mathrm{d} \tau} = \mathrm{i} \omega A \mathrm{e}^{\mathrm{i} ( \omega \tau + \phi ) }, \ \frac{\mathrm{d}^2 q_s}{\mathrm{d} \tau^2} = - \omega^2 A \mathrm{e}^{\mathrm{i} ( \omega \tau + \phi ) } ." src="//upload.wikimedia.org/math/0/8/6/0866b30125ebb492391ee404baee4404.png" /></dd>
+</dl>
+<p>Substituting these quantities into the differential equation gives</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! -\omega^2 A \mathrm{e}^{\mathrm{i} (\omega \tau + \phi)} + 2 \zeta \mathrm{i} \omega A \mathrm{e}^{\mathrm{i}(\omega \tau + \phi)} + A \mathrm{e}^{\mathrm{i}(\omega \tau + \phi)} = (-\omega^2 A \, + \, 2 \zeta \mathrm{i} \omega A \, + \, A) \mathrm{e}^{\mathrm{i} (\omega \tau + \phi)} = \mathrm{e}^{\mathrm{i} \omega \tau} ." src="//upload.wikimedia.org/math/d/c/5/dc57321534097597f186a3a6440c3525.png" /></dd>
+</dl>
+<p>Dividing by the exponential term on the left results in</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! -\omega^2 A + 2 \zeta \mathrm{i} \omega A + A = \mathrm{e}^{-\mathrm{i} \phi} = \cos\phi - \mathrm{i} \sin\phi . " src="//upload.wikimedia.org/math/a/8/c/a8c9ee13408c43f2fd53d8e0fb546532.png" /></dd>
+</dl>
+<p>Equating the real and imaginary parts results in two independent equations</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="A (1-\omega^2)=\cos\phi \qquad 2 \zeta \omega A = - \sin\phi." src="//upload.wikimedia.org/math/8/1/9/819be116eaf9328b49795349cad7b979.png" /></dd>
+</dl>
+<h4><span class="mw-headline" id="Amplitude_part">Amplitude part</span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Harmonic_oscillator_gain.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Harmonic_oscillator_gain.svg/220px-Harmonic_oscillator_gain.svg.png" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Harmonic_oscillator_gain.svg/330px-Harmonic_oscillator_gain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Harmonic_oscillator_gain.svg/440px-Harmonic_oscillator_gain.svg.png 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Harmonic_oscillator_gain.svg" class="internal" title="Enlarge"></a></div>
+Bode plot of the frequency response of an ideal harmonic oscillator.</div>
+</div>
+</div>
+<p>Squaring both equations and adding them together gives</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left . \begin{array}{rcl} A^2  (1-\omega^2)^2 &amp; = &amp; \cos^2\phi \\[6pt] (2 \zeta \omega A)^2 &amp; = &amp; \sin^2\phi \end{array} \right \} \Rightarrow A^2[(1-\omega^2)^2 + (2 \zeta \omega)^2] = 1. " src="//upload.wikimedia.org/math/6/2/2/622f099529705ddd1b3307db1c99f83f.png" /></dd>
+</dl>
+<p>Therefore,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="A = A( \zeta, \omega) = \text{sign} \left( \frac{-\sin\phi}{2 \zeta \omega} \right) \frac{1}{\sqrt{(1-\omega^2)^2 + (2 \zeta \omega)^2}}." src="//upload.wikimedia.org/math/6/6/e/66e4baa9eb22572ebaf39245f3cff713.png" /></dd>
+</dl>
+<p>Compare this result with the theory section on <a href="/wiki/Resonance" title="Resonance">resonance</a>, as well as the "magnitude part" of the <a href="/wiki/RLC_circuit" title="RLC circuit">RLC circuit</a>. This amplitude function is particularly important in the analysis and understanding of the <a href="/wiki/Frequency_response" title="Frequency response">frequency response</a> of second-order systems.</p>
+<h4><span class="mw-headline" id="Phase_part">Phase part</span></h4>
+<p>To solve for φ, divide both equations to get</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\tan\phi = - \frac{2 \zeta \omega}{ 1 - \omega^2} = \frac{2 \zeta \omega}{\omega^2 - 1} \Rightarrow \phi \equiv \phi(\zeta, \omega) = \arctan \left( \frac{2 \zeta \omega}{\omega^2 - 1} \right ). " src="//upload.wikimedia.org/math/7/a/a/7aa2e41395a679f5a9da3c918e25f223.png" /></dd>
+</dl>
+<p>This phase function is particularly important in the analysis and understanding of the <a href="/wiki/Frequency_response" title="Frequency response">frequency response</a> of second-order systems.</p>
+<h3><span class="mw-headline" id="Full_solution">Full solution</span></h3>
+<p>Combining the amplitude and phase portions results in the steady-state solution</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! q_s (\tau) = A(\zeta,\omega) \cos(\omega \tau + \phi(\zeta,\omega)) = A\cos(\omega \tau + \phi)." src="//upload.wikimedia.org/math/b/7/8/b786a80497d63a06e4a1412c448b713e.png" /></dd>
+</dl>
+<p>The solution of original universal oscillator equation is a <a href="/wiki/Superposition_principle" title="Superposition principle">superposition</a> (sum) of the transient and steady-state solutions</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! q(\tau) = q_t (\tau) + q_s (\tau)." src="//upload.wikimedia.org/math/9/3/4/934ae511b1322b62cb0a86ef5ebe55f2.png" /></dd>
+</dl>
+<p>For a more complete description of how to solve the above equation, see <a href="/wiki/Ordinary_differential_equation#Linear_ODEs_with_constant_coefficients" title="Ordinary differential equation">linear ODEs with constant coefficients</a>.</p>
+<h2><span class="mw-headline" id="Equivalent_systems">Equivalent systems</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/System_equivalence" title="System equivalence">System equivalence</a></div>
+<p>Harmonic oscillators occurring in a number of areas of engineering are equivalent in the sense that their mathematical models are identical (see <a href="#Universal_oscillator_equation">universal oscillator equation</a> above). Below is a table showing analogous quantities in four harmonic oscillator systems in mechanics and electronics. If analogous parameters on the same line in the table are given numerically equal values, the behavior of the oscillators—their output waveform, resonant frequency, damping factor, etc.—are the same.</p>
+<table class="wikitable" cellpadding="4" style="background:#F8F8F8;">
+<tr>
+<th width="225" align="left">Translational Mechanical</th>
+<th width="225" align="left">Torsional Mechanical</th>
+<th width="225" align="left"><a href="/wiki/RLC_Circuit#Series_RLC_circuit" title="RLC Circuit" class="mw-redirect">Series RLC Circuit</a></th>
+<th width="225" align="left"><a href="/wiki/RLC_Circuit#Parallel_RLC_circuit" title="RLC Circuit" class="mw-redirect">Parallel RLC Circuit</a></th>
+</tr>
+<tr>
+<td>Position <img class="mwe-math-fallback-image-inline tex" alt="x\," src="//upload.wikimedia.org/math/6/b/2/6b206a28e60f665e235f89f460448467.png" /></td>
+<td>Angle <img class="mwe-math-fallback-image-inline tex" alt=" \theta\,\! " src="//upload.wikimedia.org/math/0/a/5/0a5000fe8b6b5570dd5a1ce00b828ef6.png" /></td>
+<td><a href="/wiki/Charge_(physics)" title="Charge (physics)">Charge</a> <img class="mwe-math-fallback-image-inline tex" alt="q\," src="//upload.wikimedia.org/math/d/3/5/d35e628d4924b45b5200ab2b56b1efb8.png" /></td>
+<td><a href="/wiki/Flux_linkage" title="Flux linkage">Flux linkage</a> <img class="mwe-math-fallback-image-inline tex" alt="\phi\," src="//upload.wikimedia.org/math/c/d/0/cd014731964c742c274df08d7cc238fb.png" /></td>
+</tr>
+<tr>
+<td><a href="/wiki/Velocity" title="Velocity">Velocity</a> <img class="mwe-math-fallback-image-inline tex" alt="\frac{\mathrm{d}x}{\mathrm{d}t}\," src="//upload.wikimedia.org/math/8/e/9/8e964de621774bb7a38b0cd8509c30c5.png" /></td>
+<td><a href="/wiki/Angular_velocity" title="Angular velocity">Angular velocity</a> <img class="mwe-math-fallback-image-inline tex" alt="\frac{\mathrm{d}\theta}{\mathrm{d}t}\," src="//upload.wikimedia.org/math/a/4/9/a49566a6184015a84a9581a663c53e55.png" /></td>
+<td><a href="/wiki/Electric_current" title="Electric current">Current</a> <img class="mwe-math-fallback-image-inline tex" alt="\frac{\mathrm{d}q}{\mathrm{d}t}\," src="//upload.wikimedia.org/math/8/c/1/8c1a931f1db50303a064f241932071bf.png" /></td>
+<td><a href="/wiki/Voltage" title="Voltage">Voltage</a> <img class="mwe-math-fallback-image-inline tex" alt="\frac{\mathrm{d}\phi}{\mathrm{d}t}\," src="//upload.wikimedia.org/math/3/b/5/3b5aa57d5313e782e9360c0a19f517b4.png" /></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mass" title="Mass">Mass</a> <img class="mwe-math-fallback-image-inline tex" alt="M\," src="//upload.wikimedia.org/math/1/d/d/1dd4ab77983ec94cab2e7ff337a739e8.png" /></td>
+<td><a href="/wiki/Moment_of_inertia" title="Moment of inertia">Moment of inertia</a> <img class="mwe-math-fallback-image-inline tex" alt="I\," src="//upload.wikimedia.org/math/8/e/a/8eac61b98a5665772fe9372b60176a9b.png" /></td>
+<td><a href="/wiki/Inductance" title="Inductance">Inductance</a> <img class="mwe-math-fallback-image-inline tex" alt="L\," src="//upload.wikimedia.org/math/4/3/a/43afc2e242876990f6bf778f2a2278d7.png" /></td>
+<td><a href="/wiki/Capacitance" title="Capacitance">Capacitance</a> <img class="mwe-math-fallback-image-inline tex" alt="C\," src="//upload.wikimedia.org/math/7/6/1/761e195b5e8196bddef5841e9451e2a6.png" /></td>
+</tr>
+<tr>
+<td><a href="/wiki/Hooke%27s_law" title="Hooke's law">Spring constant</a> <img class="mwe-math-fallback-image-inline tex" alt="K\," src="//upload.wikimedia.org/math/d/0/e/d0e1b8571128845c03a4cfac00d43b66.png" /></td>
+<td><a href="/wiki/Torsion_spring#Torsion_coefficient" title="Torsion spring">Torsion constant</a> <img class="mwe-math-fallback-image-inline tex" alt="\mu\," src="//upload.wikimedia.org/math/9/3/9/939974a71dda1b83cce5ab82a2d2cec1.png" /></td>
+<td><a href="/wiki/Capacitance#Elastance" title="Capacitance">Elastance</a> <img class="mwe-math-fallback-image-inline tex" alt="1/C\," src="//upload.wikimedia.org/math/c/c/9/cc91aa2a82b220ba5b47e8ec3f24e33a.png" /></td>
+<td><a href="/wiki/Susceptance" title="Susceptance">Susceptance</a> <img class="mwe-math-fallback-image-inline tex" alt="1/L\," src="//upload.wikimedia.org/math/3/d/3/3d3da5d1b7abba432d991b6fc6b6f693.png" /></td>
+</tr>
+<tr>
+<td><a href="/wiki/Damping" title="Damping">Damping</a> <img class="mwe-math-fallback-image-inline tex" alt="\gamma\," src="//upload.wikimedia.org/math/4/4/d/44ddf6e825ef5a1ea521e708af7deb73.png" /></td>
+<td><a href="/wiki/Torsion_spring#Motion_of_torsion_balances_and_pendulums" title="Torsion spring">Rotational friction</a> <img class="mwe-math-fallback-image-inline tex" alt="\Gamma\," src="//upload.wikimedia.org/math/9/c/0/9c057f7e7e7e8a781beff7d4a3f30980.png" /></td>
+<td><a href="/wiki/Electrical_resistance" title="Electrical resistance" class="mw-redirect">Resistance</a> <img class="mwe-math-fallback-image-inline tex" alt="R\," src="//upload.wikimedia.org/math/1/5/3/153fc2a5a0a49d52dda62d96ae0a293f.png" /></td>
+<td><a href="/wiki/Electrical_conductance" title="Electrical conductance" class="mw-redirect">Conductance</a> <img class="mwe-math-fallback-image-inline tex" alt="G=1/R\," src="//upload.wikimedia.org/math/1/f/3/1f373b80cfaeeb80595fd7def3d72c68.png" /></td>
+</tr>
+<tr>
+<td>Drive <a href="/wiki/Force" title="Force">force</a> <img class="mwe-math-fallback-image-inline tex" alt="F(t)\," src="//upload.wikimedia.org/math/3/3/7/337d9b361ea3e4ca74e85e056ee3f979.png" /></td>
+<td>Drive <a href="/wiki/Torque" title="Torque">torque</a> <img class="mwe-math-fallback-image-inline tex" alt="\tau(t)\," src="//upload.wikimedia.org/math/5/1/f/51f0d7621ff73b78ea7a878d12424eee.png" /></td>
+<td><a href="/wiki/Voltage" title="Voltage">Voltage</a> <img class="mwe-math-fallback-image-inline tex" alt="e\," src="//upload.wikimedia.org/math/b/5/f/b5f7e60e340c9674ec2f7559eb9505d5.png" /></td>
+<td><a href="/wiki/Electric_current" title="Electric current">Current</a> <img class="mwe-math-fallback-image-inline tex" alt="i\," src="//upload.wikimedia.org/math/6/6/c/66c1e9c9357288ba6a1a52d275a97896.png" /></td>
+</tr>
+<tr>
+<td colspan="4" align="center">Undamped <a href="/wiki/Resonance" title="Resonance">resonant frequency</a> <img class="mwe-math-fallback-image-inline tex" alt="f_n\," src="//upload.wikimedia.org/math/f/c/a/fcad2ba12c3b484e42a2200922721375.png" />:</td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{1}{2\pi}\sqrt{\frac{K}{M}}\," src="//upload.wikimedia.org/math/9/6/4/9640bb79d6243ec1e9e88fc06e9d370a.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{1}{2\pi}\sqrt{\frac{\mu}{I}}\," src="//upload.wikimedia.org/math/5/f/2/5f2fe8365354ad7331996c0b061ed8d3.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{1}{2\pi}\sqrt{\frac{1}{LC}}\," src="//upload.wikimedia.org/math/6/1/e/61e47d97cbd02043d6d043ad21950e4a.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{1}{2\pi}\sqrt{\frac{1}{LC}}\," src="//upload.wikimedia.org/math/6/1/e/61e47d97cbd02043d6d043ad21950e4a.png" /></td>
+</tr>
+<tr>
+<td colspan="4" align="center">Differential equation:</td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="M\ddot x + 
+\gamma\dot x + Kx = F\," src="//upload.wikimedia.org/math/0/b/1/0b168a5b30d15c70d407293791bc5513.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="I\ddot \theta + \Gamma\dot \theta + \mu \theta = \tau\," src="//upload.wikimedia.org/math/2/1/0/2107cd47abc1d7456f32c8480c8e8bdc.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="L\ddot q + R\dot q + q/C = e\," src="//upload.wikimedia.org/math/8/a/8/8a89f7d3622fc859d3bc910a8691b9e9.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="C\ddot \phi + G\dot \phi + \phi/L = i\," src="//upload.wikimedia.org/math/8/3/8/8383fa6312eb5e0b7befb1b4172ae749.png" /></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Application_to_a_conservative_force">Application to a conservative force</span></h2>
+<p>The problem of the simple harmonic oscillator occurs frequently in physics, because a mass at equilibrium under the influence of any <a href="/wiki/Conservative_force" title="Conservative force">conservative force</a>, in the limit of small motions, behaves as a simple harmonic oscillator.</p>
+<p>A conservative force is one that has a <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a> function. The potential energy function of a harmonic oscillator is:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="V(x) = \frac{1}{2} k x^2" src="//upload.wikimedia.org/math/b/f/0/bf03d7b3000c2a4fdc5e22e239328963.png" /></dd>
+</dl>
+<p>Given an arbitrary potential energy function <img class="mwe-math-fallback-image-inline tex" alt="V(x)" src="//upload.wikimedia.org/math/7/d/a/7da3f9417e349bc472da3b128413cd70.png" />, one can do a <a href="/wiki/Taylor_series" title="Taylor series">Taylor expansion</a> in terms of <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> around an energy minimum (<img class="mwe-math-fallback-image-inline tex" alt="x = x_0" src="//upload.wikimedia.org/math/4/3/5/4354047bfb538af878fb79fb1fd72899.png" />) to model the behavior of small perturbations from equilibrium.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="V(x) = V(x_0) + (x-x_0) V'(x_0) + \frac{1}{2} (x-x_0)^2 V^{(2)}(x_0) + O(x-x_0)^3" src="//upload.wikimedia.org/math/a/6/4/a6408d9552d8a02f8f95fa29277ae3d8.png" /></dd>
+</dl>
+<p>Because <img class="mwe-math-fallback-image-inline tex" alt="V(x_0)" src="//upload.wikimedia.org/math/8/0/c/80c09c7d1c0db4c7f109e591dc776972.png" /> is a minimum, the first derivative evaluated at <img class="mwe-math-fallback-image-inline tex" alt="x_0" src="//upload.wikimedia.org/math/0/b/2/0b21a666a81629962ade8afd967826ed.png" /> must be zero, so the linear term drops out:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="V(x) = V(x_0) + \frac{1}{2} (x-x_0)^2 V^{(2)}(x_0) + O(x-x_0)^3" src="//upload.wikimedia.org/math/c/a/7/ca7a31107dd2fcce7d3ab7d6e6cd059b.png" /></dd>
+</dl>
+<p>The <a href="/wiki/Constant_term" title="Constant term">constant term</a> <i>V</i>(<i>x</i><sub>0</sub>) is arbitrary and thus may be dropped, and a coordinate transformation allows the form of the simple harmonic oscillator to be retrieved:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="V(x) \approx \frac{1}{2} x^2 V^{(2)}(0) = \frac{1}{2} k x^2" src="//upload.wikimedia.org/math/6/0/d/60dd2eab051887bef0f3082cb59ec95c.png" /></dd>
+</dl>
+<p>Thus, given an arbitrary potential energy function <img class="mwe-math-fallback-image-inline tex" alt="V(x)" src="//upload.wikimedia.org/math/7/d/a/7da3f9417e349bc472da3b128413cd70.png" /> with a non-vanishing second derivative, one can use the solution to the simple harmonic oscillator to provide an approximate solution for small perturbations around the equilibrium point.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span></h2>
+<h3><span class="mw-headline" id="Simple_pendulum">Simple pendulum</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Simple_pendulum_height.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Simple_pendulum_height.svg/250px-Simple_pendulum_height.svg.png" width="250" height="245" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Simple_pendulum_height.svg/375px-Simple_pendulum_height.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Simple_pendulum_height.svg/500px-Simple_pendulum_height.svg.png 2x" data-file-width="512" data-file-height="501" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Simple_pendulum_height.svg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Simple_pendulum" title="Simple pendulum" class="mw-redirect">simple pendulum</a> exhibits simple harmonic motion under the conditions of no damping and small amplitude.</div>
+</div>
+</div>
+<p>Assuming no damping and small amplitudes, the differential equation governing a simple pendulum is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="{\mathrm{d}^2\theta\over \mathrm{d}t^2}+{g\over \ell}\theta=0." src="//upload.wikimedia.org/math/2/3/b/23b3f85fac136ef5b75a52167aa5cc68.png" /></dd>
+</dl>
+<p>The solution to this equation is given by:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\theta(t) = \theta_0\cos\left(\sqrt{g\over \ell}t\right) \quad\quad\quad\quad |\theta_0| \ll 1" src="//upload.wikimedia.org/math/3/a/a/3aa4416aac47cb6fe214540ad7e9a7cc.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="\theta_0" src="//upload.wikimedia.org/math/3/d/7/3d7e996adfe310516ca31c796df1ce8c.png" /> is the largest angle attained by the pendulum. The <a href="/wiki/Sine" title="Sine">period</a>, the time for one complete oscillation, is given by <img class="mwe-math-fallback-image-inline tex" alt="2\pi" src="//upload.wikimedia.org/math/4/6/a/46a6c4d715584adb3e6681ee351d1df6.png" /> divided by whatever is multiplying the time in the argument of the cosine (<img class="mwe-math-fallback-image-inline tex" alt="\sqrt{g\over \ell}" src="//upload.wikimedia.org/math/2/d/1/2d189e45ae1f1fa4ec90079a3d08f780.png" /> here).</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="T_0 = 2\pi\sqrt{\ell\over g}\quad\quad\quad\quad |\theta_0| \ll 1." src="//upload.wikimedia.org/math/2/3/9/239d590d0f1f4791e99ad12b0f8b0c1a.png" /></dd>
+</dl>
+<h3><span class="mw-headline" id="Pendulum_swinging_over_turntable">Pendulum swinging over turntable</span></h3>
+<p>Simple harmonic motion can in some cases be considered to be the one-dimensional <a href="/wiki/Projection_(mathematics)" title="Projection (mathematics)">projection</a> of two-dimensional <a href="/wiki/Circular_motion" title="Circular motion">circular motion</a>. Consider a long <a href="/wiki/Pendulum" title="Pendulum">pendulum</a> swinging over the turntable of a <a href="/wiki/Record_player" title="Record player" class="mw-redirect">record player</a>. On the edge of the turntable there is an object. If the object is viewed from the same level as the turntable, a projection of the motion of the object seems to be moving backwards and forwards on a straight line orthogonal to the view direction, sinusoidally like the pendulum.</p>
+<h3><span class="mw-headline" id="Spring.2Fmass_system">Spring/mass system</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Harmonic_oscillator.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harmonic_oscillator.svg/250px-Harmonic_oscillator.svg.png" width="250" height="486" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harmonic_oscillator.svg/375px-Harmonic_oscillator.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harmonic_oscillator.svg/500px-Harmonic_oscillator.svg.png 2x" data-file-width="900" data-file-height="1750" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Harmonic_oscillator.svg" class="internal" title="Enlarge"></a></div>
+Spring–mass system in equilibrium (A), compressed (B) and stretched (C) states.</div>
+</div>
+</div>
+<p>When a spring is stretched or compressed by a mass, the spring develops a restoring force. <a href="/wiki/Hooke%27s_law" title="Hooke's law">Hooke's law</a> gives the relationship of the force exerted by the spring when the spring is compressed or stretched a certain length:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="F \left( t \right) =-kx \left( t \right) " src="//upload.wikimedia.org/math/5/d/a/5da02c1099213ebfea8703c83ae533cf.png" /></dd>
+</dl>
+<p>where <i>F</i> is the force, <i>k</i> is the spring constant, and <i>x</i> is the displacement of the mass with respect to the equilibrium position. The minus sign in the equation indicates that the force exerted by the spring always acts in a direction that is opposite to the displacement (i.e. the force always acts towards the zero position), and so prevents the mass from flying off to infinity.</p>
+<p>By using either force balance or an energy method, it can be readily shown that the motion of this system is given by the following differential equation:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" F(t) = -kx(t) = m \frac {\mathrm{d}^{2}}{\mathrm{d}{t}^{2}} x \left( t \right) = ma. " src="//upload.wikimedia.org/math/1/4/4/144e581f71fa2a3b90113a87353e710f.png" /></dd>
+</dl>
+<p>...the latter being <a href="/wiki/Newton%27s_laws_of_motion#Newton.27s_second_law" title="Newton's laws of motion">Newton's second law of motion</a>.</p>
+<p>If the initial displacement is A, and there is no initial velocity, the solution of this equation is given by:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" x \left( t \right) =A \cos \left( \sqrt{k \over m}t \right)." src="//upload.wikimedia.org/math/8/f/b/8fb8215b51f0127c256ccd10fe176fde.png" /></dd>
+</dl>
+<p>Given an ideal massless spring, <img class="mwe-math-fallback-image-inline tex" alt="m" src="//upload.wikimedia.org/math/6/f/8/6f8f57715090da2632453988d9a1501b.png" /> is the mass on the end of the spring. If the spring itself has mass, its <a href="/wiki/Effective_mass_(spring-mass_system)" title="Effective mass (spring-mass system)" class="mw-redirect">effective mass</a> must be included in <img class="mwe-math-fallback-image-inline tex" alt="m" src="//upload.wikimedia.org/math/6/f/8/6f8f57715090da2632453988d9a1501b.png" />.</p>
+<h4><span class="mw-headline" id="Energy_variation_in_the_spring.E2.80.93damping_system">Energy variation in the spring–damping system</span></h4>
+<p>In terms of energy, all systems have two types of energy, <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a> and <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a>. When a spring is stretched or compressed, it stores elastic potential energy, which then is transferred into kinetic energy. The potential energy within a spring is determined by the equation <img class="mwe-math-fallback-image-inline tex" alt=" U = k{x}^{2}/ 2 . " src="//upload.wikimedia.org/math/e/4/b/e4bacc829240be77b92a0476527d23da.png" /></p>
+<p>When the spring is stretched or compressed, kinetic energy of the mass gets converted into potential energy of the spring. By conservation of energy, assuming the datum is defined at the equilibrium position, when the spring reaches its maximum potential energy, the kinetic energy of the mass is zero. When the spring is released, it tries to return to equilibrium, and all its potential energy converts to kinetic energy of the mass.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Anharmonic_oscillator" title="Anharmonic oscillator" class="mw-redirect">Anharmonic oscillator</a></li>
+<li><a href="/wiki/Critical_speed" title="Critical speed">Critical speed</a></li>
+<li><a href="/wiki/Effective_mass_(spring-mass_system)" title="Effective mass (spring-mass system)" class="mw-redirect">Effective mass (spring-mass system)</a></li>
+<li><a href="/wiki/Normal_mode" title="Normal mode">Normal mode</a></li>
+<li><a href="/wiki/Parametric_oscillator" title="Parametric oscillator">Parametric oscillator</a></li>
+<li><a href="/wiki/Phasor" title="Phasor">Phasor</a></li>
+<li><a href="/wiki/Q_factor" title="Q factor">Q factor</a></li>
+<li><a href="/wiki/Quantum_harmonic_oscillator" title="Quantum harmonic oscillator">Quantum harmonic oscillator</a></li>
+<li><a href="/wiki/Bertrand%27s_theorem#Radial_harmonic_oscillator" title="Bertrand's theorem">Radial harmonic oscillator</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Ogata, Katsuhiko (2004). <i>System dynamics</i> (4th ed.). Upper Saddle River, NJ: Pearson Education. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780131247147" title="Special:BookSources/9780131247147">9780131247147</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.aufirst=Katsuhiko&amp;rft.aulast=Ogata&amp;rft.au=Ogata%2C+Katsuhiko&amp;rft.btitle=System+dynamics&amp;rft.date=2004&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=9780131247147&amp;rft.place=Upper+Saddle+River%2C+NJ&amp;rft.pub=Pearson+Education&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Ajoy_Ghatak" title="Ajoy Ghatak">Ajoy Ghatak</a> (2005). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=jStDc2LmU5IC&amp;pg=PT97&amp;dq=damping-decreases+resonance+amplitude#v=onepage&amp;q=damping-decreases%20resonance%20amplitude&amp;f=false"><i>Optics, 3E</i></a> (3rd ed.). Tata McGraw-Hill. p.&#160;6.10. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-07-058583-6" title="Special:BookSources/978-0-07-058583-6">978-0-07-058583-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.au=Ajoy+Ghatak&amp;rft.aulast=Ajoy+Ghatak&amp;rft.btitle=Optics%2C+3E&amp;rft.date=2005&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DjStDc2LmU5IC%26pg%3DPT97%26dq%3Ddamping-decreases%2Bresonance%2Bamplitude%23v%3Donepage%26q%3Ddamping-decreases%2520resonance%2520amplitude%26f%3Dfalse&amp;rft.isbn=978-0-07-058583-6&amp;rft.pages=6.10&amp;rft.pub=Tata+McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Case-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Case_3-0">^</a></b></span> <span class="reference-text"><span class="citation web">Case, William. <a rel="nofollow" class="external text" href="http://www.grinnell.edu/academic/physics/faculty/case/swing/">"Two ways of driving a child's swing"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 November</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.au=Case%2C+William&amp;rft.aufirst=William&amp;rft.aulast=Case&amp;rft.btitle=Two+ways+of+driving+a+child%27s+swing&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.grinnell.edu%2Facademic%2Fphysics%2Ffaculty%2Fcase%2Fswing%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Case96-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Case96_4-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Case, W. B. (1996). "The pumping of a swing from the standing position". <i>American Journal of Physics</i> <b>64</b> (3): 215–211. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1119%2F1.18209">10.1119/1.18209</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.atitle=The+pumping+of+a+swing+from+the+standing+position&amp;rft.au=Case%2C+W.+B.&amp;rft.aufirst=W.+B.&amp;rft.aulast=Case&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1119%2F1.18209&amp;rft.issue=3&amp;rft.jtitle=American+Journal+of+Physics&amp;rft.pages=215-211&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=64" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1119.2F1.18209&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-Roura-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Roura_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Roura, P.; Gonzalez, J.A. (2010). "Towards a more realistic description of swing pumping due to the exchange of angular momentum". <i>European Journal of Physics</i> <b>31</b> (5): 1195–1207. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010EJPh...31.1195R">2010EJPh...31.1195R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0143-0807%2F31%2F5%2F020">10.1088/0143-0807/31/5/020</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.atitle=Towards+a+more+realistic+description+of+swing+pumping+due+to+the+exchange+of+angular+momentum&amp;rft.aufirst=P.&amp;rft.au=Gonzalez%2C+J.A.&amp;rft.aulast=Roura&amp;rft.au=Roura%2C+P.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2010EJPh...31.1195R&amp;rft_id=info%3Adoi%2F10.1088%2F0143-0807%2F31%2F5%2F020&amp;rft.issue=5&amp;rft.jtitle=European+Journal+of+Physics&amp;rft.pages=1195-1207&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li><span class="citation book">Serway, Raymond A.; Jewett, John W. (2003). <i>Physics for Scientists and Engineers</i>. Brooks/Cole. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-534-40842-7" title="Special:BookSources/0-534-40842-7">0-534-40842-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.aufirst=Raymond+A.&amp;rft.au=Jewett%2C+John+W.&amp;rft.aulast=Serway&amp;rft.au=Serway%2C+Raymond+A.&amp;rft.btitle=Physics+for+Scientists+and+Engineers&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-534-40842-7&amp;rft.pub=Brooks%2FCole&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Tipler, Paul (1998). <i>Physics for Scientists and Engineers: Vol. 1</i> (4th ed.). W. H. Freeman. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-57259-492-6" title="Special:BookSources/1-57259-492-6">1-57259-492-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.aufirst=Paul&amp;rft.aulast=Tipler&amp;rft.au=Tipler%2C+Paul&amp;rft.btitle=Physics+for+Scientists+and+Engineers%3A+Vol.+1&amp;rft.date=1998&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=1-57259-492-6&amp;rft.pub=W.+H.+Freeman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Wylie, C. R. (1975). <i>Advanced Engineering Mathematics</i> (4th ed.). McGraw-Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-072180-7" title="Special:BookSources/0-07-072180-7">0-07-072180-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.aufirst=C.+R.&amp;rft.aulast=Wylie&amp;rft.au=Wylie%2C+C.+R.&amp;rft.btitle=Advanced+Engineering+Mathematics&amp;rft.date=1975&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-07-072180-7&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Hayek, Sabih I. (15 APR 2003). "Mechanical Vibration and Damping". <i>Encyclopedia of Applied Physics</i> (WILEY-VCH Verlag GmbH &amp; Co KGaA). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F3527600434.eap231">10.1002/3527600434.eap231</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/9783527600434">9783527600434</a> <span style="font-size:100%" class="error citation-comment">Check <code style="color:inherit; border:inherit; padding:inherit;">|issn=</code> value (<a href="/wiki/Help:CS1_errors#bad_issn" title="Help:CS1 errors">help</a>)</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.atitle=Mechanical+Vibration+and+Damping&amp;rft.aufirst=Sabih+I.&amp;rft.au=Hayek%2C+Sabih+I.&amp;rft.aulast=Hayek&amp;rft.date=15+APR+2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F3527600434.eap231&amp;rft.issn=9783527600434&amp;rft.jtitle=Encyclopedia+of+Applied+Physics&amp;rft.pub=WILEY-VCH+Verlag+GmbH+%26+Co+KGaA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><span id="CITEREFHazewinkel2001" class="citation">Hazewinkel, Michiel, ed. (2001), <a rel="nofollow" class="external text" href="http://www.encyclopediaofmath.org/index.php?title=p/o070530">"Oscillator, harmonic"</a>, <i><a href="/wiki/Encyclopedia_of_Mathematics" title="Encyclopedia of Mathematics">Encyclopedia of Mathematics</a></i>, <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-55608-010-4" title="Special:BookSources/978-1-55608-010-4">978-1-55608-010-4</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarmonic+oscillator&amp;rft.atitle=Oscillator%2C+harmonic&amp;rft.btitle=Encyclopedia+of+Mathematics&amp;rft.date=2001&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.encyclopediaofmath.org%2Findex.php%3Ftitle%3Dp%2Fo070530&amp;rft.isbn=978-1-55608-010-4&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://hypertextbook.com/chaos/41.shtml">Harmonic Oscillator</a> from The Chaos Hypertextbook</li>
+<li><a rel="nofollow" class="external text" href="http://phy.hk/wiki/englishhtm/Damped.htm">A Java applet of harmonic oscillator with damping proportional to velocity or damping caused by dry friction</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1061
+CPU time usage: 0.491 seconds
+Real time usage: 0.804 seconds
+Preprocessor visited node count: 1734/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46479/2097152 bytes
+Template argument size: 1452/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 2.33 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  578.483      1 - -total
+ 19.21%  111.131      1 - Template:Reflist
+ 10.51%   60.776      5 - Template:Cite_book
+  9.67%   55.923      1 - Template:Classical_mechanics
+  9.33%   53.965      1 - Template:About
+  8.96%   51.816      1 - Template:Sidebar_with_collapsible_lists
+  8.12%   46.948      1 - Template:Hatnote
+  3.48%   20.129      3 - Template:Cite_journal
+  2.79%   16.116      1 - Template:Cite_doi
+  2.58%   14.938      1 - Template:Namespace_detect
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Harmonic_oscillator&amp;oldid=624215530">http://en.wikipedia.org/w/index.php?title=Harmonic_oscillator&amp;oldid=624215530</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Mechanical_vibrations" title="Category:Mechanical vibrations">Mechanical vibrations</a></li><li><a href="/wiki/Category:Ordinary_differential_equations" title="Category:Ordinary differential equations">Ordinary differential equations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:CS1_errors:_ISSN" title="Category:CS1 errors: ISSN">CS1 errors: ISSN</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harmonic+oscillator&amp;returntoquery=diff%3D624215530%26oldid%3D623953497&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harmonic+oscillator&amp;returntoquery=diff%3D624215530%26oldid%3D623953497" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Harmonic_oscillator"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Harmonic_oscillator"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Harmonic_oscillator" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Harmonic_oscillator&amp;action=edit&amp;oldid=624215530"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Harmonic_oscillator&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Harmonic_oscillator" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Harmonic_oscillator" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Harmonic_oscillator&amp;oldid=624215530" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Harmonic_oscillator&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q190070" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Harmonic_oscillator&amp;id=624215530" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Harmonic+oscillator">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Harmonic+oscillator&amp;oldid=623953497&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Harmonic_oscillator&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%87%D8%B2%D8%A7%D8%B2_%D8%AA%D9%88%D8%A7%D9%81%D9%82%D9%8A" title="هزاز توافقي – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D0%BD_%D0%BE%D1%81%D1%86%D0%B8%D0%BB%D0%B0%D1%82%D0%BE%D1%80" title="Хармоничен осцилатор – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Harmonijsko_osciliranje" title="Harmonijsko osciliranje – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Oscil%C2%B7lador_harm%C3%B2nic" title="Oscil·lador harmònic – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Osgiliadur_harmonig" title="Osgiliadur harmonig – Welsh" lang="cy" hreflang="cy">Cymraeg</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Harmonisk_oscillator" title="Harmonisk oscillator – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Harmonischer_Oszillator" title="Harmonischer Oszillator – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es badge-Q17437798 badge-goodarticle" title="good article"><a href="//es.wikipedia.org/wiki/Oscilador_arm%C3%B3nico" title="Oscilador armónico – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Simpla_vibra_movo" title="Simpla vibra movo – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B3%D8%A7%D9%86%DA%AF%D8%B1_%D9%87%D9%85%D8%A7%D9%87%D9%86%DA%AF" title="نوسانگر هماهنگ – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Oscillateur_harmonique" title="Oscillateur harmonique – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Oscilador_harm%C3%B3nico" title="Oscilador harmónico – Galician" lang="gl" hreflang="gl">Galego</a></li>
+													<li class="interlanguage-link interwiki-ko badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//ko.wikipedia.org/wiki/%EC%A1%B0%ED%99%94_%EC%A7%84%EB%8F%99%EC%9E%90" title="조화 진동자 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B0%E0%A4%B2_%E0%A4%86%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80_%E0%A4%A6%E0%A5%8B%E0%A4%B2%E0%A4%95" title="सरल आवर्ती दोलक – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Harmonijsko_titranje" title="Harmonijsko titranje – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Moto_armonico" title="Moto armonico – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%AA%D7%A0%D7%93_%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99" title="מתנד הרמוני – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%B0%E1%83%90%E1%83%A0%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9D%E1%83%A1%E1%83%AA%E1%83%98%E1%83%9A%E1%83%90%E1%83%A2%E1%83%9D%E1%83%A0%E1%83%98" title="ჰარმონიული ოსცილატორი – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Harmoninis_osciliatorius" title="Harmoninis osciliatorius – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li>
+													<li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%81%D0%BA%D0%B8_%D1%82%D1%80%D0%B5%D0%BF%D0%B5%D1%80%D0%BD%D0%B8%D0%BA" title="Хармониски треперник – Macedonian" lang="mk" hreflang="mk">Македонски</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Harmonische_oscillator" title="Harmonische oscillator – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E8%AA%BF%E5%92%8C%E6%8C%AF%E5%8B%95%E5%AD%90" title="調和振動子 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Harmonisk_oscillator" title="Harmonisk oscillator – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Harmonisk_oscillator" title="Harmonisk oscillator – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Oscylator_harmoniczny" title="Oscylator harmoniczny – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Oscilador_harm%C3%B4nico" title="Oscilador harmônico – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Oscilator_armonic" title="Oscilator armonic – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%81%D1%86%D0%B8%D0%BB%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Гармонический осциллятор – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B6%85%E0%B6%B1%E0%B7%94%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B7%93_%E0%B6%AF%E0%B7%9D%E0%B6%BD%E0%B6%9A%E0%B6%BA" title="අනුවර්තී දෝලකය – Sinhala" lang="si" hreflang="si">සිංහල</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Harmoni%C4%8Dni_oscilator" title="Harmonični oscilator – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Harmonijski_oscilator" title="Harmonijski oscilator – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Harmonijski_oscilator" title="Harmonijski oscilator – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Harmoninen_v%C3%A4r%C3%A4htelij%C3%A4" title="Harmoninen värähtelijä – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Harmonisk_oscillator" title="Harmonisk oscillator – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA_%D1%82%D0%B8%D1%80%D0%B1%D3%99%D0%BD%D2%AF%D0%BB%D3%99%D1%80" title="Гармоник тирбәнүләр – Tatar" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D1%81%D1%86%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Гармонічний осцилятор – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Dao_%C4%91%E1%BB%99ng_t%E1%BB%AD_%C4%91i%E1%BB%81u_h%C3%B2a" title="Dao động tử điều hòa – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%AB%A7%E6%8C%AF%E5%AD%90" title="諧振子 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q190070#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Harmonic_oscillator&amp;diff=624215530&amp;oldid=623953497&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=mw.PopUpMediaTransform\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":1046,"wgHostname":"mw1061"});
+}</script>
+	</body>
+</html>

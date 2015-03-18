@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Instabilité géométrique : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Instabilit%C3%A9_g%C3%A9om%C3%A9trique" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=110046301&amp;oldid=107793740&amp;rcid=131637514" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Instabilité_géométrique","wgTitle":"Instabilité géométrique","wgCurRevisionId":111160931,"wgRevisionId":110046301,"wgArticleId":7868742,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portail:Bâtiment et travaux publics/Articles liés","Portail:Physique/Articles liés","Portail:Sciences/Articles liés","Portail:Matériaux/Articles liés","Bâtiment","Génie civil","Construction","Résistance des matériaux","Mécanique des milieux continus"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Instabilité_géométrique","wgRelevantArticleId":7868742,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q16643656"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Instabilité_géométrique skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Instabilité géométrique : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;oldid=107793740" title="Instabilité géométrique">Version du 28 septembre 2014 à 04:32</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=edit&amp;oldid=107793740" title="Instabilité géométrique">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Utilisateur:Oimabe" title="Utilisateur:Oimabe" class="mw-userlink">Oimabe</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Oimabe" title="Discussion utilisateur:Oimabe">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Oimabe" title="Spécial:Contributions/Oimabe">contributions</a>)</span></div><div id="mw-diff-otitle3"></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;diff=prev&amp;oldid=107793740" title="Instabilité géométrique" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;oldid=110046301" title="Instabilité géométrique">Version du 17 décembre 2014 à 23:38</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=edit&amp;oldid=110046301" title="Instabilité géométrique">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=edit&amp;undoafter=107793740&amp;undo=110046301" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/205.211.133.128" title="Spécial:Contributions/205.211.133.128" class="mw-userlink mw-anonuserlink">205.211.133.128</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:205.211.133.128" title="Discussion utilisateur:205.211.133.128">discuter</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(+homon)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;diff=next&amp;oldid=110046301" title="Instabilité géométrique" id="differences-nextlink">Modification suivante →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{{Voir homonymes|Instabilité}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Fichier:Knickendes Lineal01.jpg|vignette|Fig. 1, flexion d'une règle en plastique.]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Fichier:Knickendes Lineal01.jpg|vignette|Fig. 1, flexion d'une règle en plastique.]]</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"></td>
+  <td colspan="2" class="diff-empty">&#160;</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Les '''instabilités géométriques''' se produisent dans le domaine de la statique des constructions soumises à des charges lentement croissantes&lt;ref&gt;Cet article ne couvre pas le domaine des forces très rapidement appliquées (chocs ou impacts) ni celui des charges variables en sens divers (dynamique).&lt;/ref&gt;.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Les '''instabilités géométriques''' se produisent dans le domaine de la statique des constructions soumises à des charges lentement croissantes&lt;ref&gt;Cet article ne couvre pas le domaine des forces très rapidement appliquées (chocs ou impacts) ni celui des charges variables en sens divers (dynamique).&lt;/ref&gt;.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+
+<!-- diff cache key frwiki:diff:version:1.11a:oldid:107793740:newid:110046301 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version du 17 décembre 2014 à 23:38</h2>
+<div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d'aide sur l'homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a> Pour les articles homonymes, voir <a href="/wiki/Instabilit%C3%A9" title="Instabilité" class="mw-disambig">Instabilité</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Knickendes_Lineal01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Knickendes_Lineal01.jpg/220px-Knickendes_Lineal01.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Knickendes_Lineal01.jpg/330px-Knickendes_Lineal01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Knickendes_Lineal01.jpg/440px-Knickendes_Lineal01.jpg 2x" data-file-width="1024" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Knickendes_Lineal01.jpg" class="internal" title="Agrandir"></a></div>
+Fig. 1, flexion d'une règle en plastique.</div>
+</div>
+</div>
+<p>Les <b>instabilités géométriques</b> se produisent dans le domaine de la statique des constructions soumises à des charges lentement croissantes<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Sommaire</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Principe"><span class="tocnumber">1</span> <span class="toctext">Principe</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Exemple_1"><span class="tocnumber">1.1</span> <span class="toctext">Exemple 1</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Exemple_2"><span class="tocnumber">1.2</span> <span class="toctext">Exemple 2</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Exemple_3"><span class="tocnumber">1.3</span> <span class="toctext">Exemple 3</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Vocabulaire"><span class="tocnumber">2</span> <span class="toctext">Vocabulaire</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#D.C3.A9termination_des_charges_critiques"><span class="tocnumber">3</span> <span class="toctext">Détermination des charges critiques</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Effets_des_impr.C3.A9cisions_ou_d.C3.A9fauts_de_forme"><span class="tocnumber">4</span> <span class="toctext">Effets des imprécisions ou défauts de forme</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Solutions_d.27.C3.A9vitement"><span class="tocnumber">5</span> <span class="toctext">Solutions d'évitement</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Histoire"><span class="tocnumber">6</span> <span class="toctext">Histoire</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Codes_et_r.C3.A8glements"><span class="tocnumber">7</span> <span class="toctext">Codes et règlements</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">8</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Bibliographie"><span class="tocnumber">9</span> <span class="toctext">Bibliographie</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Voir_aussi"><span class="tocnumber">10</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Articles_connexes"><span class="tocnumber">10.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Liens_externes"><span class="tocnumber">10.2</span> <span class="toctext">Liens externes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Principe">Principe</span></h2>
+<p>Une instabilité est une modification soudaine de la réponse d’une structure soumise à une charge statique augmentant progressivement. Lors d’une instabilité, les structures donnent l’impression de se dérober sous leurs charges.</p>
+<h3><span class="mw-headline" id="Exemple_1">Exemple 1</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;">
+<div class="thumbimage"><a href="/wiki/Fichier:Instabilite_fig2.png" class="image" title="Fig.2, sous de faibles charges."><img alt="Fig.2, sous de faibles charges." src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Instabilite_fig2.png/180px-Instabilite_fig2.png" width="180" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Instabilite_fig2.png/270px-Instabilite_fig2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Instabilite_fig2.png/360px-Instabilite_fig2.png 2x" data-file-width="725" data-file-height="450" /></a></div>
+<div class="thumbcaption">Fig.2, sous de faibles charges.</div>
+<span style="display: block; height: 2px; font-size: 1px;">&#160;</span>
+<div class="thumbimage"><a href="/wiki/Fichier:Instabilite_fig3.png" class="image" title="Fig.3, à la charge critique."><img alt="Fig.3, à la charge critique." src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Instabilite_fig3.png/180px-Instabilite_fig3.png" width="180" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Instabilite_fig3.png/270px-Instabilite_fig3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Instabilite_fig3.png/360px-Instabilite_fig3.png 2x" data-file-width="734" data-file-height="445" /></a></div>
+<div class="thumbcaption">Fig.3, à la charge critique.</div>
+</div>
+</div>
+<p>À considérer un poteau stabilisé par un <a href="/wiki/Ressort_(m%C3%A9canique_%C3%A9l%C3%A9mentaire)" title="Ressort (mécanique élémentaire)">ressort</a> en tête (Fig. 2). Il est relativement massif et est soumis à une force de <a href="/wiki/Compression" title="Compression" class="mw-disambig">compression</a> axiale <i>F</i> croissante. Pour de faibles valeurs de <i>F</i>, la <a href="/wiki/D%C3%A9formation_des_mat%C3%A9riaux" title="Déformation des matériaux" class="mw-redirect">déformation</a> du poteau est axiale. Lorsque <i>F</i> atteint une valeur dite <i>charge critique</i>, le ressort de tête s’écrase et l’ensemble prend la déformation de la fig. 3.</p>
+<p>L’équilibre moment calculé au pied du poteau (point A) donne la charge critique&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="F_\mathrm{crit} * x - K * x * H = 0 " src="//upload.wikimedia.org/math/6/a/5/6a5af7baaa7963779769c751896df372.png" /></dd>
+</dl>
+<p>soit&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="F_\mathrm{crit} = K * H" src="//upload.wikimedia.org/math/7/d/f/7dfe68edc95ddd2076ce5dabaabdf495.png" /></dd>
+</dl>
+<p>où <i>K</i> est la <a href="/wiki/Raideur_(m%C3%A9canique)" title="Raideur (mécanique)">raideur</a> du ressort et <i>H</i> la hauteur du poteau.</p>
+<p>Remarques&#160;:</p>
+<ul>
+<li>la charge critique dépend des paramètres de la géométrie (ici <i>K</i> et <i>H</i>) et pas de la qualité des matériaux (que l’ensemble soit en acier, en béton ou en un autre matériau, <i>F</i><sub>crit</sub> est la même). Il s'agira d'instabilité géométrique&#160;;</li>
+<li>à la charge critique, nous assistons à une <i>bifurcation</i> c’est-à-dire à un changement de mode de déformation.</li>
+</ul>
+<h3><span class="mw-headline" id="Exemple_2">Exemple 2</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;">
+<div class="thumbimage"><a href="/wiki/Fichier:Instabilite_fig4.png" class="image" title="Fig. 4, sous de faibles charges."><img alt="Fig. 4, sous de faibles charges." src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Instabilite_fig4.png/180px-Instabilite_fig4.png" width="180" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Instabilite_fig4.png/270px-Instabilite_fig4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Instabilite_fig4.png/360px-Instabilite_fig4.png 2x" data-file-width="723" data-file-height="439" /></a></div>
+<div class="thumbcaption">Fig. 4, sous de faibles charges.</div>
+<span style="display: block; height: 2px; font-size: 1px;">&#160;</span>
+<div class="thumbimage"><a href="/wiki/Fichier:Instalite_fig5.png" class="image" title="Fig. 5, à la charge critique."><img alt="Fig. 5, à la charge critique." src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Instalite_fig5.png/180px-Instalite_fig5.png" width="180" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Instalite_fig5.png/270px-Instalite_fig5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Instalite_fig5.png/360px-Instalite_fig5.png 2x" data-file-width="723" data-file-height="448" /></a></div>
+<div class="thumbcaption">Fig. 5, à la charge critique.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/Fichier:Spoorspatting_Landgraaf.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spoorspatting_Landgraaf.jpg/180px-Spoorspatting_Landgraaf.jpg" width="180" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/a1/Spoorspatting_Landgraaf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a1/Spoorspatting_Landgraaf.jpg 2x" data-file-width="240" data-file-height="180" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Spoorspatting_Landgraaf.jpg" class="internal" title="Agrandir"></a></div>
+Déformation de rails sous l'effet du soleil.</div>
+</div>
+</div>
+<p>À considérer la même structure que précédemment mais avec un poteau beaucoup plus élancé (par exemple, parce qu’il a une section plus faible), ou un <a href="/wiki/Ressort_(m%C3%A9canique_%C3%A9l%C3%A9mentaire)" title="Ressort (mécanique élémentaire)">ressort</a> beaucoup plus raide (Fig.4). Pour de faibles valeurs de <i>F</i>, la déformation est une compression axiale du poteau. Lorsque <i>F</i> atteint une valeur dite <i>charge critique</i>, le poteau se déforme dans le plan perpendiculaire à son axe (Fig. 5). Il est dit que le poteau «&#160;flambe&#160;». La charge critique est donnée par la formule d’<a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a>&#160;:</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="F_\mathrm{crit}=\frac{\pi^2 \cdot E \cdot I}{H^2}" src="//upload.wikimedia.org/math/6/7/0/67037cfa1927238b3e9712bba61a76f7.png" /></p>
+<p>où&#160;:</p>
+<ul>
+<li><i>E</i> = le <a href="/wiki/Module_de_Young" title="Module de Young">module de Young</a> du matériau&#160;;</li>
+<li><i>I</i> = l'<a href="/wiki/Inertie" title="Inertie">inertie</a> du poteau&#160;;</li>
+<li><i>H</i> = la hauteur du poteau.</li>
+</ul>
+<p>Remarque&#160;: à la charge critique, la déformation dans le poteau ne dépend pas du matériau utilisé. Divisons <i>F</i><sub>crit</sub> par la section et par le module de Young. Une déformation critique <img class="mwe-math-fallback-image-inline tex" alt="{\varepsilon}_\mathrm{crit}=\frac{\pi^2 \cdot I}{A \cdot H^2}" src="//upload.wikimedia.org/math/4/e/a/4ea22a44faff30bd1853f82710ad21b9.png" /> est obtenue, (où <i>A</i> est la section du poteau) dépendant seulement de la géométrie.</p>
+<p>D’une façon générale&#160;:</p>
+<ul>
+<li>c’est la plus petite des charges critiques des exemples 1 et 2 qui déterminera le mode d’instabilité réel de la structure<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>&#160;;</li>
+<li>les structures élancées<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup> sont plus sensibles à l’instabilité que les structures massives. En ce sens, les constructions métalliques sont plus souvent concernées que les constructions en béton&#160;;</li>
+</ul>
+<ul>
+<li>les charges peuvent être d’origine mécanique ou thermique&#160;;</li>
+<li>les charges à l’origine des instabilités sont presque toujours des forces de compression<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup>.</li>
+</ul>
+<h3><span class="mw-headline" id="Exemple_3">Exemple 3</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/Fichier:Chaplin_Vevey_23.12.2006.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chaplin_Vevey_23.12.2006.jpg/180px-Chaplin_Vevey_23.12.2006.jpg" width="180" height="270" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chaplin_Vevey_23.12.2006.jpg/270px-Chaplin_Vevey_23.12.2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chaplin_Vevey_23.12.2006.jpg/360px-Chaplin_Vevey_23.12.2006.jpg 2x" data-file-width="1664" data-file-height="2496" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Chaplin_Vevey_23.12.2006.jpg" class="internal" title="Agrandir"></a></div>
+Statue en bronze de <a href="/wiki/Charlie_Chaplin" title="Charlie Chaplin">Charlie Chaplin</a> à <a href="/wiki/Vevey" title="Vevey">Vevey</a> (<a href="/wiki/Suisse" title="Suisse">Suisse</a>).</div>
+</div>
+</div>
+<p>D’une manière générale, on essaye d’éviter les instabilités et leurs effets néfastes. Voici cependant un exemple d’utilisation positive.</p>
+<p>L’acteur de cinéma <a href="/wiki/Charlie_Chaplin" title="Charlie Chaplin">Charlie Chaplin</a> se promène souvent avec l’aide d’une canne en jonc. Au départ, celle-ci est rectiligne. Quand l’acteur s’appuie légèrement, elle reste rectiligne et soutient son effort. S’il s’appuie plus fortement, elle prend une forme <i>courbe</i> et s’avère incapable de soutenir l’acteur. Cela peut aller jusqu’à la chute pour la plus grande joie des petits et des grands. L’acteur a ainsi popularisé une forme d’instabilité, c'est-à-dire que lorsque la force appliquée (ici la poussée de l’acteur) atteint une certaine valeur, la structure (ici la canne) change subitement de géométrie et devient incapable de soutenir la charge.</p>
+<h2><span class="mw-headline" id="Vocabulaire">Vocabulaire</span></h2>
+<p>L'instabilité géométrique est le terme général couvrant le phénomène. Divers termes plus précis permettent de qualifier le comportement des structures&#160;:</p>
+<ul>
+<li><i>bifurcation</i>&#160;: une <a href="/wiki/Bifurcation" title="Bifurcation" class="mw-redirect">bifurcation</a> intervient lorsqu'une petite augmentation des charges produit un changement majeur dans le mode de déformation de la structure. C’est le comportement théorique pour l’instabilité d’une structure parfaite (sans défaut de forme). Voir fig. 3 et 5&#160;;</li>
+<li><i>charge critique</i>&#160;: charge correspondant au début de l’instabilité&#160;;</li>
+<li><i>claquage</i>&#160;: à sa charge critique, la structure passe brusquement d’un état d’<a href="/wiki/%C3%89quilibre_statique" title="Équilibre statique">équilibre</a> à un autre qui lui est fortement éloigné. Le chemin parcouru entre ces deux équilibres stables passe par des positions d’équilibre instable. Il s'agit d’un mouvement dynamique. Les claquages concernent principalement les <a href="/wiki/Pont_en_arc" title="Pont en arc">arcs</a> et les <a href="/wiki/Coque_(m%C3%A9canique)" title="Coque (mécanique)">coques</a>&#160;;</li>
+</ul>
+<p><a href="/wiki/Fichier:Limit_point_instability.png" class="image"><img alt="Limit point instability.png" src="//upload.wikimedia.org/wikipedia/commons/0/0e/Limit_point_instability.png" width="712" height="250" data-file-width="712" data-file-height="250" /></a></p>
+<ul>
+<li><i>comportement post-critique</i>&#160;: comportement de la structure si elle est chargée au-delà de sa charge critique&#160;;</li>
+</ul>
+<ul>
+<li><i>déversement</i>&#160;: le <a href="/wiki/D%C3%A9versement" title="Déversement">déversement</a> est une instabilité affectant les <a href="/wiki/Poutre" title="Poutre" class="mw-disambig">poutres</a> et surtout les <a href="/wiki/Poutrelle_(construction_m%C3%A9tallique)" title="Poutrelle (construction métallique)">poutrelles</a> utilisées en <a href="/wiki/Construction_m%C3%A9tallique" title="Construction métallique">construction métallique</a>. Un <a href="/wiki/Moment_de_flexion" title="Moment de flexion" class="mw-redirect">moment de flexion</a> sollicitant une poutre correspond à une traction dans une semelle et à une compression dans l’autre. Si la semelle comprimée atteint sa charge critique et flambe latéralement, toute la poutre se déverse comme si elle était soumise localement à un moment de torsion&#160;;</li>
+</ul>
+<ul>
+<li><i>divergence</i>&#160;: une divergence se produit pour les structures possédant des défauts de forme. Lors de la mise en charge, ce défaut croit perpendiculairement à l’axe (ou au plan) de référence de la structure. La forme de la structure diverge de plus en plus de la forme au repos&#160;;</li>
+</ul>
+<ul>
+<li><i>flambement</i>&#160;: le <i><a href="/wiki/Flambage" title="Flambage">flambage</a></i> ou flambement est la bifurcation d'un poteau soumis à un effort normal de compression atteignant la charge critique. Il fléchit et se déforme dans une direction perpendiculaire à l'axe de compression. Voir fig. 5&#160;;</li>
+</ul>
+<ul>
+<li><i>instabilité <a href="/wiki/D%C3%A9formation_%C3%A9lastique" title="Déformation élastique">élastique</a> ou <a href="/wiki/D%C3%A9formation_plastique" title="Déformation plastique">plastique</a></i>&#160;: une instabilité est dite <i>élastique</i> quand elle se produit pour des contraintes inférieures à la <a href="/wiki/Limite_%C3%A9lastique" title="Limite élastique" class="mw-redirect">limite élastique</a> du matériau. Elle est dite <i>plastique</i> si ces contraintes dépassent cette <a href="/wiki/Limite_%C3%A9lastique" title="Limite élastique" class="mw-redirect">limite élastique</a>&#160;;</li>
+</ul>
+<ul>
+<li><i>mode de flambement</i>&#160;: forme que prend la structure lorsque l’instabilité commence&#160;;</li>
+</ul>
+<ul>
+<li><i>voilement</i>&#160;: le voilement (ou <i>cloquage</i>) est une instabilité des plaques et des coques qui se manifeste par des boursoufflures perpendiculaires à la plaque ou à la coque.</li>
+</ul>
+<h2><span class="mw-headline" id="D.C3.A9termination_des_charges_critiques">Détermination des charges critiques</span></h2>
+<p>En dehors de quelques cas simples traités «&#160;manuellement&#160;» (comme l’exemple 1), les calculs de charge critique sont souvent longs et complexes. L’aide les programmes informatique est souvent indispensable. À la charge critique, un léger surcroît de charge induit des déplacements très importants. En d’autres termes, la raideur tangente s’annule<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>. On utilisera donc des méthodes mathématiques permettant d’isoler les conditions d’annulation de la raideur<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite_crochet">[</span>6<span class="cite_crochet">]</span></a></sup>, ou des méthodes exprimant la conservation de l'égergie<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite_crochet">[</span>7<span class="cite_crochet">]</span></a></sup>.</p>
+<h2><span class="mw-headline" id="Effets_des_impr.C3.A9cisions_ou_d.C3.A9fauts_de_forme">Effets des imprécisions ou défauts de forme</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Instabilite_figure6.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Instabilite_figure6.png/220px-Instabilite_figure6.png" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Instabilite_figure6.png/330px-Instabilite_figure6.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Instabilite_figure6.png/440px-Instabilite_figure6.png 2x" data-file-width="960" data-file-height="720" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Instabilite_figure6.png" class="internal" title="Agrandir"></a></div>
+Fig.6, mode théorique d'instabilité d'un cylindre chargé axialement.</div>
+</div>
+</div>
+<p>Les études théoriques donnent la charge critique des structures considérées comme parfaites (c'est-à-dire des poutres bien droites et de section constante, des plaques uniformément planes,&#160;<abbr class="abbr" title="et cetera">etc.</abbr>). Les structures réelles sont cependant loin de cette perfection idéale et présentent des défauts de géométrie (variation locale de l’épaisseur, ovalisation, distance entre la ligne neutre théorique et réelle, discontinuité au droit des soudures,&#160;<abbr class="abbr" title="et cetera">etc.</abbr>). Ces défauts influencent la charge critique. Certaines structures sont particulièrement sensibles à la présence d’un défaut de forme. C’est, par exemple, le cas des cylindres chargés selon leur axe<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite_crochet">[</span>8<span class="cite_crochet">]</span></a></sup>.</p>
+<h2><span class="mw-headline" id="Solutions_d.27.C3.A9vitement">Solutions d'évitement</span></h2>
+<p>Pour éviter une instabilité, le constructeur dispose de plusieurs moyens&#160;:</p>
+<ul>
+<li>diminuer la taille des imprécisions et des défauts de forme&#160;;</li>
+<li>augmenter les épaisseurs, ce qui augmente d’autant le poids de la structure&#160;;</li>
+<li>prévoir des <a href="/w/index.php?title=Raidisseur&amp;action=edit&amp;redlink=1" class="new" title="Raidisseur (page inexistante)">raidisseurs</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite_crochet">[</span>9<span class="cite_crochet">]</span></a></sup> (cas des plaques et coques, par exemple pour les réservoirs métalliques)&#160;;</li>
+<li>prévoir des <a href="/wiki/Contreventement" title="Contreventement">contreventements</a> (cas fréquent en <a href="/wiki/Construction_m%C3%A9tallique" title="Construction métallique">construction métallique</a>, par exemple pour les <a href="/wiki/Pyl%C3%B4ne_%C3%A9lectrique" title="Pylône électrique">pylônes en treillis</a> supportant les lignes électriques).</li>
+</ul>
+<h2><span class="mw-headline" id="Histoire">Histoire</span></h2>
+<p>L’instabilité des colonnes idéales comprimées a été découverte par <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Leonhard Euler</a> en 1744. En son honneur, la formule correspondante a gardé son nom<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite_crochet">[</span>10<span class="cite_crochet">]</span></a></sup>. En 1892, le mathématicien <a href="/wiki/Alexandre_Liapounov" title="Alexandre Liapounov">Alexandre Liapounov</a> introduit la notion de <a href="/wiki/Stabilit%C3%A9_de_Lyapunov" title="Stabilité de Lyapunov">stabilité de Lyapunov</a> pour les systèmes dynamiques. Ce théorème très général couvre également le cas spécifique des systèmes statiques<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite_crochet">[</span>11<span class="cite_crochet">]</span></a></sup>.</p>
+<p>Ces dernières années<sup class="need_ref_tag" style="padding-left:2px; cursor:help;" title="Ce passage devrait préciser au minimum la décennie ou l'année."><a href="/wiki/Aide:Quand" title="Aide:Quand">[Quand&#160;?]</a></sup>, les structures sont de plus en plus légères et élancées. Les développements informatiques permettent aux constructeurs de les utiliser au plus près de leur charge critique<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite_crochet">[</span>12<span class="cite_crochet">]</span></a></sup>.</p>
+<h2><span class="mw-headline" id="Codes_et_r.C3.A8glements">Codes et règlements</span></h2>
+<p>La <a href="/wiki/Stabilit%C3%A9_des_constructions" title="Stabilité des constructions">stabilité des constructions</a> exige de se prémunir contre les diverses instabilités possibles. Plusieurs règlements donnent des critères d’acceptation pour les structures concernées&#160;:</p>
+<ul>
+<li>les <a href="/wiki/Eurocodes" title="Eurocodes">Eurocodes</a> développés par le <a href="/wiki/Comit%C3%A9_europ%C3%A9en_de_normalisation" title="Comité européen de normalisation">Comité européen de normalisation</a> (CEN), et plus spécifiquement l’Eurocode 3&#160;: Calcul des structures en acier (EN 1993)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite_crochet">[</span>13<span class="cite_crochet">]</span></a></sup>&#160;;</li>
+<li>voilement des coques – Recommandations de la Convention européenne de la construction métallique (CECM)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite_crochet">[</span>14<span class="cite_crochet">]</span></a></sup>&#160;;</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a href="/wiki/American_Society_of_Mechanical_Engineers" title="American Society of Mechanical Engineers">American Society of Mechanical Engineers</a> (ASME)&#160;: <i><span class="lang-en" lang="en" xml:lang="en">Boiler and pressure vessel code</span></i>, section VIII division 1&#160;: <i><span class="lang-en" lang="en" xml:lang="en">Design and fabrication of pressure vessels</span></i>.</li>
+</ul>
+<h2><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span></h2>
+<div class="references-small decimal" style="column-count: 2; -moz-column-count: 2; -webkit-column-count: 2">
+<div style="font-size: 85%">
+<ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Cet article ne couvre pas le domaine des forces très rapidement appliquées (chocs ou impacts) ni celui des charges variables en sens divers (dynamique).</span></li>
+<li id="cite_note-2"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Pour certaines valeurs de la raideur <i>K</i> du ressort, une combinaison des deux modes de ruine peut se produire.</span></li>
+<li id="cite_note-3"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Leur longueur comprimée est grande par rapport à leur épaisseur, ou plus précisément par rapport à leur <a href="/wiki/Rayon_de_giration" title="Rayon de giration" class="mw-disambig">rayon de giration</a>.</span></li>
+<li id="cite_note-4"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Il existe de rares cas où la traction est à l’origine d’une instabilité – voir par exemple <a rel="nofollow" class="external free" href="http://ssmg.ing.unitn.it/tensile_buckling.html">http://ssmg.ing.unitn.it/tensile_buckling.html</a></span></li>
+<li id="cite_note-5"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">La raideur tangente est la raideur calculée compte tenu des déplacements déjà obtenus pour la charge considérée.</span></li>
+<li id="cite_note-6"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Méthode d’évolution pas à pas ou méthodes aux valeurs propres (voir <a href="/wiki/Valeur_propre_(synth%C3%A8se)" title="Valeur propre (synthèse)">Valeur propre (synthèse)</a>)</span></li>
+<li id="cite_note-7"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Concernant les méthodes énergétiques, voir par exemple <span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <i><a href="//en.wikipedia.org/wiki/Buckling" class="extiw" title="en:Buckling"><span class="lang-en" lang="en" xml:lang="en">Energy method</span></a></i></span></li>
+<li id="cite_note-8"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> Convention européenne de la construction métallique (CECM), <span class="lang-en" lang="en" xml:lang="en">Buckling of Steel Shells – European recommendations</span> - <a href="/wiki/Bruxelles" title="Bruxelles">Bruxelles</a>, 1988.</span></li>
+<li id="cite_note-9"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Raidisseur = profilé métallique soudé et judicieusement positionné</span></li>
+<li id="cite_note-10"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Voir <a href="/wiki/Liste_des_sujets_nomm%C3%A9s_d%27apr%C3%A8s_Leonhard_Euler" title="Liste des sujets nommés d'après Leonhard Euler">Liste des sujets nommés d'après Leonhard Euler</a></span></li>
+<li id="cite_note-11"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Articles de J. Mézière et J. Devos, «&#160;Flambage élastique et plastique des coques minces&#160;», cours de l’Institut pour la Promotion des Sciences de l’Ingénieur (IPSI), Paris, avril 1982-</span></li>
+<li id="cite_note-12"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> David Bushnell, «&#160;<i>Buckling of shells – Pitfall for designers</i>&#160;», Lockheed Palo Alto Research Laboratory, Palo Alto, Calif.&#160;; in <i>AIAA J.</i> <abbr class="abbr" title="volume">vol.</abbr>&#160;19, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;9, septembre 1981.</span></li>
+<li id="cite_note-13"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://eurocodes.fr/fr/eurocode3.html">http://eurocodes.fr/fr/eurocode3.html</a></span></li>
+<li id="cite_note-14"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i>La Construction Métallique</i>, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;4, décembre 1981</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Bibliographie">Bibliographie</span></h2>
+<p><span title="Document utilisé pour la rédaction de l’article"><img alt="Document utilisé pour la rédaction de l’article" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/30px-Nuvola_apps_ksig_horizonta.png" width="30" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/45px-Nuvola_apps_ksig_horizonta.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/60px-Nuvola_apps_ksig_horizonta.png 2x" data-file-width="155" data-file-height="49" /></span>&#160;: document utilisé comme source pour la rédaction de cet article.</p>
+<ul>
+<li>«&#160;Flambage élastique et plastique des coques minces&#160;», cours de l’Institut pour la Promotion des Sciences de l’Ingénieur (IPSI), Paris, avril 1982 <span title="Document utilisé pour la rédaction de l’article"><img alt="Document utilisé pour la rédaction de l’article" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/30px-Nuvola_apps_ksig_horizonta.png" width="30" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/45px-Nuvola_apps_ksig_horizonta.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/60px-Nuvola_apps_ksig_horizonta.png 2x" data-file-width="155" data-file-height="49" /></span></li>
+<li>«&#160;Flambage des coques minces&#160;», cours de l’Institut pour la Promotion des Sciences de l’Ingénieur (IPSI), Paris, avril 1986</li>
+<li>Charles Massonnet, «&#160;Résistance des Matériaux&#160;», Sciences et Lettres - Liège - 1960 <span title="Document utilisé pour la rédaction de l’article"><img alt="Document utilisé pour la rédaction de l’article" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/30px-Nuvola_apps_ksig_horizonta.png" width="30" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/45px-Nuvola_apps_ksig_horizonta.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuvola_apps_ksig_horizonta.png/60px-Nuvola_apps_ksig_horizonta.png 2x" data-file-width="155" data-file-height="49" /></span></li>
+<li>Elie Absi, «&#160;Grandes Déformations et Instabilité des Structures&#160;», in Annales de l’Institut Technique du Bâtiment et des Travaux Publics, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;469, novembre 1988, Paris</li>
+<li>S. Timoshenko, «&#160;Théorie de la stabilité élastique&#160;», Librairie Polytechnique Béranger, Paris et Liège</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> J.E. Gordon, «&#160;<i>Structures or why things don’t fall</i>&#160;», Penguin Books, 1978</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> David Bushnell, «&#160;<i><span class="lang-en" lang="en" xml:lang="en">Buckling of shells – Pitfall for designers</span></i>&#160;», Lockheed Palo Alto Research Laboratory, Palo Alto, Calif.&#160;; in <i>AIAA J.</i>, <abbr class="abbr" title="volume">vol.</abbr>&#160;19, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;9, septembre 1981</li>
+</ul>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span></h2>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span></h3>
+<ul>
+<li><a href="/wiki/Th%C3%A9orie_des_poutres" title="Théorie des poutres">Théorie des poutres</a></li>
+<li><a href="/wiki/Th%C3%A9orie_des_plaques" title="Théorie des plaques">Théorie des plaques</a></li>
+<li><a href="/wiki/Coque_(m%C3%A9canique)" title="Coque (mécanique)">Coque (mécanique)</a></li>
+<li><a href="/wiki/Flambage" title="Flambage">Flambage</a></li>
+<li><a href="/wiki/%C3%89quilibre_statique" title="Équilibre statique">Équilibre statique</a></li>
+<li><a href="/wiki/Th%C3%A9orie_des_bifurcations" title="Théorie des bifurcations">Théorie des bifurcations</a></li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a href="//en.wikipedia.org/wiki/Elastic_instability" class="extiw" title="en:Elastic instability">Elastic instability</a></li>
+</ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span></h3>
+<ul>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: français">fr</abbr>)</span> <a rel="nofollow" class="external text" href="http://www.mmaya.fr/Insta/amphi/Texte-6-7.htm">Centre d'Enseignement et de Recherche de l'École Nationale Supérieure d'Arts et Métiers de Cluny, Flambement des éléments réels de structure</a></li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: français">fr</abbr>)</span> <abbr class="abbr indicateur-format" title="Document au format Portable Document Format (PDF) d'Adobe">[PDF]</abbr> <a rel="nofollow" class="external free" href="http://homepages.ulb.ac.be/~pbouilla/cours/II-14-instabilites.pdf">http://homepages.ulb.ac.be/~pbouilla/cours/II-14-instabilites.pdf</a> Université Libre de Bruxelles&#160;: Cours d’instabilités]</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <abbr class="abbr indicateur-format" title="Document au format Portable Document Format (PDF) d'Adobe">[PDF]</abbr> <a rel="nofollow" class="external text" href="http://www.colorado.edu/engineering/CAS/courses.d/NFEM.d/NFEM.Ch01.d/NFEM.Ch01.pdf">University of Colorado Boulder, Cours d’éléments finis</a></li>
+</ul>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:B%C3%A2timent_et_travaux_publics" title="Portail du bâtiment et des travaux publics"><img alt="Portail du bâtiment et des travaux publics" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Applications-development.svg/24px-Applications-development.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Applications-development.svg/36px-Applications-development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Applications-development.svg/48px-Applications-development.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:B%C3%A2timent_et_travaux_publics" title="Portail:Bâtiment et travaux publics">Portail du bâtiment et des travaux publics</a></span></span></li>
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Physique" title="Portail de la physique"><img alt="Portail de la physique" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/24px-Logo_physics.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/36px-Logo_physics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/48px-Logo_physics.svg.png 2x" data-file-width="438" data-file-height="438" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Physique" title="Portail:Physique">Portail de la physique</a></span></span></li>
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Mat%C3%A9riaux" title="Portail des sciences des matériaux"><img alt="Portail des sciences des matériaux" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Symbol_cristallography2.svg/23px-Symbol_cristallography2.svg.png" width="23" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Symbol_cristallography2.svg/35px-Symbol_cristallography2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Symbol_cristallography2.svg/47px-Symbol_cristallography2.svg.png 2x" data-file-width="135" data-file-height="138" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Mat%C3%A9riaux" title="Portail:Matériaux">Portail des sciences des matériaux</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1113
+CPU time usage: 0.235 seconds
+Real time usage: 0.444 seconds
+Preprocessor visited node count: 1184/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13762/2097152 bytes
+Template argument size: 1422/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1.22 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  318.462      1 - -total
+ 16.22%   51.664      1 - Modèle:Portail
+ 11.98%   38.146      8 - Modèle:En
+ 11.69%   37.222      3 - Modèle:Indication_de_langue
+ 10.70%   34.083      1 - Modèle:Références
+  7.69%   24.489      1 - Modèle:Catégorisation_badges
+  4.21%   13.418      3 - Modèle:Méta_lien_vers_portail
+  4.03%   12.831      5 - Modèle:Lang
+  3.23%   10.302      1 - Modèle:Portail_bâtiment_et_travaux_publics
+  2.92%    9.299      4 - Modèle:N°
+-->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Instabilité_géométrique&amp;oldid=110046301">http://fr.wikipedia.org/w/index.php?title=Instabilité_géométrique&amp;oldid=110046301</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:B%C3%A2timent" title="Catégorie:Bâtiment">Bâtiment</a></li><li><a href="/wiki/Cat%C3%A9gorie:G%C3%A9nie_civil" title="Catégorie:Génie civil">Génie civil</a></li><li><a href="/wiki/Cat%C3%A9gorie:Construction" title="Catégorie:Construction">Construction</a></li><li><a href="/wiki/Cat%C3%A9gorie:R%C3%A9sistance_des_mat%C3%A9riaux" title="Catégorie:Résistance des matériaux">Résistance des matériaux</a></li><li><a href="/wiki/Cat%C3%A9gorie:M%C3%A9canique_des_milieux_continus" title="Catégorie:Mécanique des milieux continus">Mécanique des milieux continus</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Portail:B%C3%A2timent_et_travaux_publics/Articles_li%C3%A9s" title="Catégorie:Portail:Bâtiment et travaux publics/Articles liés">Portail:Bâtiment et travaux publics/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Physique/Articles_li%C3%A9s" title="Catégorie:Portail:Physique/Articles liés">Portail:Physique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Mat%C3%A9riaux/Articles_li%C3%A9s" title="Catégorie:Portail:Matériaux/Articles liés">Portail:Matériaux/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+g%C3%A9om%C3%A9trique&amp;returntoquery=diff%3D110046301%26oldid%3D107793740%26rcid%3D131637514&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+g%C3%A9om%C3%A9trique&amp;returntoquery=diff%3D110046301%26oldid%3D107793740%26rcid%3D131637514" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Instabilit%C3%A9_g%C3%A9om%C3%A9trique"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Instabilit%C3%A9_g%C3%A9om%C3%A9trique"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Instabilit%C3%A9_g%C3%A9om%C3%A9trique" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;oldid=110046301&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=edit&amp;oldid=110046301"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Instabilit%C3%A9+g%C3%A9om%C3%A9trique">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Instabilit%C3%A9+g%C3%A9om%C3%A9trique&amp;oldid=107793740&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Instabilit%C3%A9_g%C3%A9om%C3%A9trique" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Instabilit%C3%A9_g%C3%A9om%C3%A9trique" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;oldid=110046301" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q16643656" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;id=110046301" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q16643656#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">Vous êtes sur une ancienne version de l’article. <br />Il a depuis été corrigé pour cause d’informations erronées, de vandalisme ou de contenu incompatible avec la <a href="/wiki/Wikip%C3%A9dia:Licence_Creative_Commons_Paternit%C3%A9-Partage_des_Conditions_Initiales_%C3%A0_l%27Identique_3.0_Unported" title="Wikipédia:Licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique 3.0 Unported">licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique</a>, ou simplement amélioré.<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Instabilit%C3%A9_g%C3%A9om%C3%A9trique&amp;diff=110046301&amp;oldid=107793740&amp;rcid=131637514&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":627,"wgHostname":"mw1113"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="uk" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Відмінності між версіями «Modus tollens» — Вікіпедія</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Редагувати" href="/w/index.php?title=Modus_tollens&amp;action=edit" />
+<link rel="edit" title="Редагувати" href="/w/index.php?title=Modus_tollens&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Вікіпедія (uk)" />
+<link rel="EditURI" type="application/rsd+xml" href="//uk.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Modus_tollens" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Вікіпедія — Atom-стрічка" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F&amp;feed=atom" />
+<link rel="canonical" href="http://uk.wikipedia.org/w/index.php?diff=15390581&amp;oldid=15332195" />
+<link rel="stylesheet" href="//bits.wikimedia.org/uk.wikipedia.org/load.php?debug=false&amp;lang=uk&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.ReferenceTooltips%2Ccollapserefs%2Cedittop%7Cext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/uk.wikipedia.org/load.php?debug=false&amp;lang=uk&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/uk.wikipedia.org/load.php?debug=false&amp;lang=uk&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: ukwiki:resourceloader:filter:minify-css:7:6db59253d84cef16cf455667e1305a87 */</style>
+<script src="//bits.wikimedia.org/uk.wikipedia.org/load.php?debug=false&amp;lang=uk&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Modus_tollens","wgTitle":"Modus tollens","wgCurRevisionId":15771401,"wgRevisionId":15390581,"wgArticleId":12826,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Незавершені статті з логіки","Статті без джерел","Всі статті без джерел","Логіка"],"wgBreakFrames":false,"wgPageContentLanguage":"uk","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","січень","лютий","березень","квітень","травень","червень","липень","серпень","вересень","жовтень","листопад","грудень"],"wgMonthNamesShort":["","січ","лют","бер","квіт","трав","чер","лип","сер","вер","жов","лис","груд"],"wgRelevantPageName":"Modus_tollens","wgRelevantArticleId":12826,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"uk","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"українська","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":15771401,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q844118"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"uk"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: ukwiki:resourceloader:filter:minify-js:7:0cc48f61ee544694ec0eee13ec30659c */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Modus_tollens skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"uk\" dir=\"ltr\"\u003E\u003Cdiv class=\"plainlinks\"\u003E \n\u003Cdiv style=\"color: white; height: 100px; max-width:1280px; margin:0 auto; font-family: Tahoma, \u0026#39;DejaVu Sans Condensed\u0026#39;, sans-serif; text-shadow: 0 0 12px rgba(0, 0, 0, 0.4); text-align: center; font-size: 18pt; line-height: 125%; overflow: hidden; position: relative;\"\u003E\n\u003Cdiv style=\"top: 0; left: 0; position: absolute;\"\u003E\u003Ca href=\"http://freepanorama.org.ua/\" rel=\"nofollow\"\u003E\u003Cimg alt=\"Стара фортеця crop.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/3/38/%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_crop.jpg\" width=\"1280\" height=\"125\" data-file-width=\"1280\" data-file-height=\"125\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003Cdiv style=\"position: absolute; right: 0; top: 0; padding: 0.25em; font-size: 85%;\"\u003E#freepanorama\u003C/div\u003E\n\u003Cp style=\"position: relative; z-index: 50;\"\u003E\u003Ca rel=\"nofollow\" class=\"external text\" href=\"http://freepanorama.org.ua/\"\u003E\u003Cspan style=\"color: white;\"\u003EСвобода панорами у вільній країні\u003C/span\u003E\u003C/a\u003E\u003C/p\u003E\n\u003Cp style=\"position: relative; color: #dd8; z-index: 50;\"\u003E\u003Ca rel=\"nofollow\" class=\"external text\" href=\"http://freepanorama.org.ua/support\"\u003E\u003Cspan style=\"color: #dd8;\"\u003EПідтримай законопроект № 1677\u003C/span\u003E\u003C/a\u003E\u003Cp\u003E\n\u003Cdiv style=\"position: absolute; bottom:0; right: 0; padding: 0.25em; font-size: 50%\"\u003E\u003Ca href=\"/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F.jpg\" title=\"Файл:Стара фортеця.jpg\"\u003E\u003Cspan style=\"color: white; font-style: italic;\"\u003EФото: Богдан Репетило, CC BY-SA 3.0\u003C/span\u003E\u003C/a\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv style=\"position: relative; overflow: hidden; margin-bottom: 0.5em !important; background-color: white;\"\u003E\n\u003Cdiv style=\"margin: 5px;\"\u003E\n\u003Cdiv class=\"floatleft\"\u003E\u003Ca href=\"/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:WLM-logo-uk.svg\" class=\"image\"\u003E\u003Cimg alt=\"WLM-logo-uk.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WLM-logo-uk.svg/80px-WLM-logo-uk.svg.png\" width=\"80\" height=\"92\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WLM-logo-uk.svg/120px-WLM-logo-uk.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WLM-logo-uk.svg/160px-WLM-logo-uk.svg.png 2x\" data-file-width=\"352\" data-file-height=\"405\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003Cdiv class=\"floatright\"\u003E\u003Ca href=\"/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Svjatogorsk,_Lavra_3.jpg\" class=\"image\" title=\"Святогірська лавра (комплекс пам\u0026#39;яток архітектури національного значення № 154). Донецька область, Святогірськ. Автор фото Konstantin Brizhnichenko\"\u003E\u003Cimg alt=\"Святогірська лавра (комплекс пам\u0026#39;яток архітектури національного значення № 154). Донецька область, Святогірськ. Автор фото Konstantin Brizhnichenko\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Svjatogorsk%2C_Lavra_3.jpg/130px-Svjatogorsk%2C_Lavra_3.jpg\" width=\"130\" height=\"87\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Svjatogorsk%2C_Lavra_3.jpg/195px-Svjatogorsk%2C_Lavra_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Svjatogorsk%2C_Lavra_3.jpg/260px-Svjatogorsk%2C_Lavra_3.jpg 2x\" data-file-width=\"5896\" data-file-height=\"3936\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv style=\"position:relative; padding: 5px 5px; text-align: center;\"\u003E \n\u003Cp\u003E\u003Ca href=\"//ua.wikimedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D1%8C_%D0%BF%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BA%D0%B8/%D0%A3%D0%BC%D0%BE%D0%B2%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%83\" class=\"extiw\" title=\"wmua:Вікіпедія любить пам'ятки/Умови конкурсу\"\u003E\u003Cspan style=\"color: #8B0000; font-size: 1.5em; font-weight:bold; line-height: 1.2em;\"\u003E«Вікіпедія любить пам'ятки»\u003Cbr/\u003EВізьміть участь у конкурсі з написання статей про пам'ятки України!\u003C/span\u003E\u003C/a\u003E\n\u003C/p\u003E\n\u003C/div\u003E\u003C/div\u003E\n\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="uk">Відмінності між версіями «Modus tollens»</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Матеріал з Вікіпедії — вільної енциклопедії.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Перейти до:					<a href="#mw-head">навігація</a>, 					<a href="#p-search">пошук</a>
+				</div>
+				<div id="mw-content-text" lang="uk" dir="ltr" class="mw-content-ltr"><div id="mw-fr-diff-headeritems"><form id="mw-fr-diff-dataform"><input type="hidden" value="15332195" name="oldid" /><input type="hidden" value="15390581" name="newid" /></form>
+<table class='fr-diff-ratings'><tr><td width='50%' align='center'><span class='flaggedrevs-color-1'>[перевірена версія]</span></td><td width='50%' align='center'><span class='flaggedrevs-color-1'>[перевірена версія]</span></td></tr></table>
+</div><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Modus_tollens&amp;oldid=15332195" title="Modus tollens">Версія за 17:14, 24 грудня 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Modus_tollens&amp;action=edit&amp;oldid=15332195" title="Modus tollens">ред.</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87:Vlasenko_D" title="Користувач:Vlasenko D" class="mw-userlink">Vlasenko D</a> <span class="mw-usertoollinks">(<a href="/wiki/%D0%9E%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0:Vlasenko_D" title="Обговорення користувача:Vlasenko D">обговорення</a> • <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%BD%D0%B5%D1%81%D0%BE%D0%BA/Vlasenko_D" title="Спеціальна:Внесок/Vlasenko D">внесок</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(шаблон, вікіфікація)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Modus_tollens&amp;diff=prev&amp;oldid=15332195" title="Modus tollens" id="differences-prevlink">← Попереднє редагування</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Modus_tollens&amp;oldid=15390581" title="Modus tollens">Версія за 16:25, 6 січня 2015</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Modus_tollens&amp;action=edit&amp;oldid=15390581" title="Modus tollens">ред.</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Modus_tollens&amp;action=edit&amp;undoafter=15332195&amp;undo=15390581" title="Прибрати внесені зміни і показати попередній перегляд. Дозволяє зазначити причину скасування.">скасувати</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%BD%D0%B5%D1%81%D0%BE%D0%BA/198.103.167.20" title="Спеціальна:Внесок/198.103.167.20" class="mw-userlink mw-anonuserlink">198.103.167.20</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=%D0%9E%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0:198.103.167.20&amp;action=edit&amp;redlink=1" class="new" title="Обговорення користувача:198.103.167.20 (ще не написана)">обговорення</a>)</span> </div><div id="mw-diff-ntitle3"></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Modus_tollens&amp;diff=next&amp;oldid=15390581" title="Modus tollens" id="differences-nextlink">Наступне редагування →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Рядок 1:</td>
+  <td colspan="2" class="diff-lineno">Рядок 1:</td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>'''Modus tollens''' ([[Латинська мова|Латиною]]: ''спосіб що заперечує'') це формальна назва для '''доведення від супротивного'''. Вживається також скорочення '''MT'''.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>'''Modus tollens''' ([[Латинська мова|Латиною]]: ''спосіб<ins class="diffchange diffchange-inline">,</ins> що заперечує'') це формальна назва для '''доведення від супротивного'''. Вживається також скорочення '''MT'''.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>''Modus tollens'' є простою, часто вживаною формою аргументації:</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>''Modus tollens'' є простою, часто вживаною формою аргументації:</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Рядок 21:</td>
+  <td colspan="2" class="diff-lineno">Рядок 21:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>Аргумент має два посилання. Перше посилання це умовне твердження «якщо-то», а саме що із P слідує Q. Другим посиланням є те, що Q є фальш. Із цих двох посилань слідує що P є фальш. (Якщо P істинне, то Q також істинне <del class="diffchange diffchange-inline">із</del> першого посилання, але це суперечить другому посиланню.) Важливо зауважити що в достовірному судженні, ''якщо'' посилання істинні то висновок ''обов'язково'' слідує.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>Аргумент має два посилання. Перше посилання це умовне твердження «якщо<ins class="diffchange diffchange-inline"> </ins>-<ins class="diffchange diffchange-inline"> </ins>то», а саме<ins class="diffchange diffchange-inline">,</ins> що із P слідує Q. Другим посиланням є те, що Q є фальш. Із цих двох посилань слідує<ins class="diffchange diffchange-inline">,</ins> що P є фальш. (Якщо P істинне, то Q також істинне <ins class="diffchange diffchange-inline">з</ins> першого посилання, але це суперечить другому посиланню.) Важливо зауважити<ins class="diffchange diffchange-inline">,</ins> що в достовірному судженні, ''якщо'' посилання істинні<ins class="diffchange diffchange-inline">,</ins> то висновок ''обов'язково'' слідує.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Див. також ==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Див. також ==</div></td>
+</tr>
+
+<!-- diff cache key ukwiki:diff:version:1.11a:oldid:15332195:newid:15390581 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Версія за 16:25, 6 січня 2015</h2>
+<p><b>Modus tollens</b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0" title="Латинська мова">Латиною</a>: <i>спосіб, що заперечує</i>) це формальна назва для <b>доведення від супротивного</b>. Вживається також скорочення <b>MT</b>.</p>
+<p><i>Modus tollens</i> є простою, часто вживаною формою аргументації:</p>
+<dl>
+<dd>Якщо P, то Q.</dd>
+<dd>Q є фальш.</dd>
+<dd>Тому P є фальш.</dd>
+</dl>
+<p><br />
+Використовуючи логіко-операторну нотацію:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" p \rightarrow q, " src="//upload.wikimedia.org/math/6/a/c/6ace8537c3ad1281a15485d61bc80225.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \neg q \quad " src="//upload.wikimedia.org/math/9/e/2/9e2196ff1b678ec097d47c108bd2a2f7.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \vdash \neg p. \quad" src="//upload.wikimedia.org/math/1/3/e/13e125378e1cce1124db600ca8b2ab99.png" /></dd>
+</dl>
+<p>де <img class="mwe-math-fallback-image-inline tex" alt="\vdash" src="//upload.wikimedia.org/math/b/f/7/bf73c9341a48c47c84a48dad635ff940.png" /> є логічним твердженням.</p>
+<p><br />
+Або, у <a href="/wiki/%D0%90%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B8%D0%BD" title="Алгебра множин">теоретико-множинній</a> формі:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="P\subseteq Q" src="//upload.wikimedia.org/math/3/1/2/3123db3742d6cc713044041946982d07.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x\not\in Q" src="//upload.wikimedia.org/math/4/a/c/4ac9275335b2a2ef3c0c40d93c03c981.png" /></dd>
+<dd>∴<img class="mwe-math-fallback-image-inline tex" alt="x\not\in P" src="//upload.wikimedia.org/math/c/3/1/c318af7eeba7dcb2ed49f81d6fda3337.png" /></dd>
+</dl>
+<p>(P є підмножиною Q. x не належить Q. Отже, x не належить P.)</p>
+<p><br />
+Аргумент має два посилання. Перше посилання це умовне твердження «якщо - то», а саме, що із P слідує Q. Другим посиланням є те, що Q є фальш. Із цих двох посилань слідує, що P є фальш. (Якщо P істинне, то Q також істинне з першого посилання, але це суперечить другому посиланню.) Важливо зауважити, що в достовірному судженні, <i>якщо</i> посилання істинні, то висновок <i>обов'язково</i> слідує.</p>
+<h2><span class="mw-headline" id=".D0.94.D0.B8.D0.B2._.D1.82.D0.B0.D0.BA.D0.BE.D0.B6">Див. також</span></h2>
+<ul>
+<li><a href="/wiki/Modus_ponens" title="Modus ponens">Modus ponens</a></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Заперечення">Заперечення</a></li>
+</ul>
+<p><br style="clear:both;" /></p>
+<table class="noprint metadata" align="center" border="0" cellpadding="0" cellspacing="4">
+<tr>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Formal_logic_template.svg" class="image" title="Логіка"><img alt="Логіка" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Formal_logic_template.svg/45px-Formal_logic_template.svg.png" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Formal_logic_template.svg/68px-Formal_logic_template.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Formal_logic_template.svg/90px-Formal_logic_template.svg.png 2x" data-file-width="48" data-file-height="48" /></a></td>
+<td><i>Це незавершена стаття з <a href="/wiki/%D0%9B%D0%BE%D0%B3%D1%96%D0%BA%D0%B0" title="Логіка">логіки</a>.<br />
+Ви можете <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%AF%D0%BA_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D1%82%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8E" title="Вікіпедія:Як редагувати статтю">допомогти</a> проекту, <a class="external text" href="//uk.wikipedia.org/w/index.php?stub&amp;title=Modus_tollens&amp;action=edit">виправивши або дописавши її</a>.</i></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">Ця стаття <b>не містить <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BD%D0%B0_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0" title="Вікіпедія:Посилання на джерела">посилань на джерела</a></b>. <span class="hide-when-compact">Ви можете допомогти <a class="external text" href="//uk.wikipedia.org/w/index.php?title=Modus_tollens&amp;action=edit">поліпшити цю статтю</a>, додавши посилання на <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%96_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0" title="Вікіпедія:Авторитетні джерела">надійні джерела</a>. Матеріал без джерел може бути підданний сумніву та вилучений.</span> </span></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1210
+CPU time usage: 0.064 seconds
+Real time usage: 0.112 seconds
+Preprocessor visited node count: 434/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6091/2097152 bytes
+Template argument size: 2204/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   39.148      1 - -total
+ 85.27%   33.383      1 - Шаблон:Без_джерел
+ 79.49%   31.119      1 - Шаблон:Ambox
+ 44.90%   17.578      1 - Шаблон:Category_handler
+ 23.54%    9.215      1 - Шаблон:Ambox/core
+ 19.06%    7.461      1 - Шаблон:Category_handler/numbered
+ 14.44%    5.652      1 - Шаблон:Logic-stub
+ 11.59%    4.537      1 - Шаблон:Namespace_detect
+ 10.93%    4.280      1 - Шаблон:FULLROOTPAGENAME
+  9.67%    3.787      1 - Шаблон:MetaPicstub
+-->
+<noscript><img src="//uk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Отримано з <a dir="ltr" href="http://uk.wikipedia.org/w/index.php?title=Modus_tollens&amp;oldid=15390581">http://uk.wikipedia.org/w/index.php?title=Modus_tollens&amp;oldid=15390581</a>					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%97" title="Спеціальна:Категорії">Категорія</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9B%D0%BE%D0%B3%D1%96%D0%BA%D0%B0" title="Категорія:Логіка">Логіка</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Приховані категорії: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96_%D0%B7_%D0%BB%D0%BE%D0%B3%D1%96%D0%BA%D0%B8" title="Категорія:Незавершені статті з логіки">Незавершені статті з логіки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%82%D1%96_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB" title="Категорія:Статті без джерел">Статті без джерел</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D1%81%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB" title="Категорія:Всі статті без джерел">Всі статті без джерел</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Навігаційне меню</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Особисті інструменти</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D1%85%D1%96%D0%B4&amp;returnto=Modus+tollens&amp;returntoquery=diff%3D15390581%26oldid%3D15332195&amp;type=signup" title="Пропонуємо створити обліковий запис і увійти в систему; однак, це не обов'язково">Створити обліковий запис</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D1%85%D1%96%D0%B4&amp;returnto=Modus+tollens&amp;returntoquery=diff%3D15390581%26oldid%3D15332195" title="Вам рекомендовано увійти в систему, але це не обов'язково. [o]" accesskey="o">Увійти</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Простори назв</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Modus_tollens"  title="Вміст статті [c]" accesskey="c">Стаття</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%D0%9E%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F:Modus_tollens"  title="Обговорення змісту сторінки [t]" accesskey="t">Обговорення</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Варіанти</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Перегляди</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Modus_tollens" >Читати</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Modus_tollens&amp;oldid=15390581&amp;veaction=edit"  title="Редагувати сторінку у візуальному редакторі [v]" accesskey="v">Редагувати</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Modus_tollens&amp;action=edit&amp;oldid=15390581"  title="Ви можете редагувати цю сторінку. Будь ласка, використовуйте кнопку попереднього перегляду перед збереженням [e]" accesskey="e">Редагувати код</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Modus_tollens&amp;action=history"  title="Журнал змін сторінки [h]" accesskey="h">Перегляд історії</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Ще</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Пошук</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Пошук" title="Шукати у Вікіпедії [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Спеціальна:Пошук" name="title" /><input type="submit" name="fulltext" value="Пошук" title="Знайти сторінки, що містять зазначений текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Перейти" title="Перейти до сторінки, що має точно таку назву (якщо вона існує)" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0"  title="Перейти на головну сторінку"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Навігація</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перейти на Головну сторінку [z]" accesskey="z">Головна сторінка</a></li>
+													<li id="n-currentevents"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Знайдіть інформацію про поточні події">Поточні події</a></li>
+													<li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Список поточних редагувань у цій вікі. [r]" accesskey="r">Нові редагування</a></li>
+													<li id="n-newpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8">Нові сторінки</a></li>
+													<li id="n-randompage"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Переглянути випадкову сторінку [x]" accesskey="x">Випадкова стаття</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.D0.A3.D1.87.D0.B0.D1.81.D1.82.D1.8C' aria-labelledby='p-.D0.A3.D1.87.D0.B0.D1.81.D1.82.D1.8C-label'>
+			<h3 id='p-.D0.A3.D1.87.D0.B0.D1.81.D1.82.D1.8C-label'>Участь</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-portal"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B8" title="Про проект, що робити, де шукати">Портал спільноти</a></li>
+													<li id="n-tavern"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0">Кнайпа</a></li>
+													<li id="n-help"><a href="/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0" title="Поміч">Довідка</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_uk.wikipedia.org&amp;uselang=uk" title="Підтримайте проект">Пожертвування</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Панель інструментів</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D1%81%D1%8E%D0%B4%D0%B8/Modus_tollens" title="Перелік усіх сторінок, які посилаються на цю сторінку [j]" accesskey="j">Посилання сюди</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D0%B2%27%D1%8F%D0%B7%D0%B0%D0%BD%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/Modus_tollens" title="Останні зміни на сторінках, на які посилається ця сторінка [k]" accesskey="k">Пов'язані редагування</a></li>
+													<li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Перелік спеціальних сторінок [q]" accesskey="q">Спеціальні сторінки</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Modus_tollens&amp;oldid=15390581" title="Постійне посилання на цю версію сторінки">Постійне посилання</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Modus_tollens&amp;action=info" title="Додаткові відомості про цю сторінку">Інформація про сторінку</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q844118" title="Посилання на пов’язаний елемент сховища даних [g]" accesskey="g">Елемент Вікіданих</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Modus_tollens&amp;id=15390581" title="Інформація про те, як цитувати цю сторінку">Цитувати сторінку</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Друк/експорт</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&amp;bookcmd=book_creator&amp;referer=Modus+tollens">Створення книги</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&amp;bookcmd=render_article&amp;arttitle=Modus+tollens&amp;oldid=15332195&amp;writer=rdf2latex">Завантажити як PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Modus_tollens&amp;printable=yes" title="Версія для друку [p]" accesskey="p">Версія до друку</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Іншими мовами</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Modus_tollendo_tollens" title="Modus tollendo tollens — каталонська" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — чеська" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — данська" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — німецька" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CE%AD%CE%B8%CE%BF%CE%B4%CE%BF%CF%82_%CE%B4%CE%B9%CE%AC%CF%88%CE%B5%CF%85%CF%83%CE%B7%CF%82" title="Μέθοδος διάψευσης — грецька" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — англійська" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Modus_tollendo_tollens" title="Modus tollendo tollens — іспанська" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — естонська" lang="et" hreflang="et">Eesti</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%86%D9%81%DB%8C_%D8%AA%D8%A7%D9%84%DB%8C" title="نفی تالی — перська" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%95%D7%93%D7%95%D7%A1_%D7%98%D7%95%D7%9C%D7%A0%D7%A1" title="מודוס טולנס — іврит" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Neikv%C3%A6%C3%B0_neitunarregla" title="Neikvæð neitunarregla — ісландська" lang="is" hreflang="is">Íslenska</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — італійська" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B9" title="モーダストレンス — японська" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%9B%84%EA%B1%B4_%EB%B6%80%EC%A0%95%EC%9D%98_%ED%98%95%EC%8B%9D" title="후건 부정의 형식 — корейська" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — голландська" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — польська" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — португальська" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — російська" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — словацька" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D1%81_%D1%82%D0%BE%D0%BB%D0%B5%D0%BD%D1%81" title="Модус толенс — сербська" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Modus_tollens" title="Modus tollens — шведська" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%90%A6%E5%AE%9A%E5%BE%8C%E4%BB%B6" title="否定後件 — китайська" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q844118#sitelinks-wikipedia" text="Редагувати посилання" title="Редагувати міжмовні посилання" class="wbc-editpage">Редагувати посилання</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">Текст доступний на умовах ліцензії <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Умови використання</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D1%96%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Вікіпедія:Політика конфіденційності">Політика конфіденційності</a></li>
+											<li id="footer-places-about"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE" title="Вікіпедія:Про">Про Вікіпедію</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0_%D0%B2%D1%96%D0%B4_%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Вікіпедія:Відмова від відповідальності">Відмова від відповідальності</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Розробники</a></li>
+											<li id="footer-places-mobileview"><a href="//uk.m.wikipedia.org/w/index.php?title=Modus_tollens&amp;diff=15390581&amp;oldid=15332195&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобільний вигляд</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.flaggedRevs.advanced","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.collapserefs","ext.gadget.ReferenceTooltips","ext.gadget.edittop","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;9970370"></script>
+<script src="/w/index.php?title=MediaWiki:Gadget-Statistics.js&amp;action=raw&amp;ctype=text/javascript&amp;13872049"></script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/uk.wikipedia.org/load.php?debug=false\u0026amp;lang=uk\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":223,"wgHostname":"mw1210"});
+}</script>
+	</body>
+</html>

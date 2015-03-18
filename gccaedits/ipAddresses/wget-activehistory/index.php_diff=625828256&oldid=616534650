@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>GURPS: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=GURPS&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=GURPS&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/GURPS" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=625828256&amp;oldid=616534650" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"GURPS","wgTitle":"GURPS","wgCurRevisionId":644727101,"wgRevisionId":625828256,"wgArticleId":12228,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2012","Articles with specifically marked weasel-worded phrases from April 2013","Articles with unsourced statements from January 2013","Articles with French-language external links","Universal role-playing games","GURPS","Origins Award winners","Steve Jackson Games games"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"GURPS","wgRelevantArticleId":12228,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1047814"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-GURPS skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">GURPS: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=GURPS&amp;oldid=616534650" title="GURPS">Revision as of 15:09, 11 July 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=GURPS&amp;action=edit&amp;oldid=616534650" title="GURPS">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Oknazevad" title="User:Oknazevad" class="mw-userlink">Oknazevad</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Oknazevad" title="User talk:Oknazevad">talk</a> | <a href="/wiki/Special:Contributions/Oknazevad" title="Special:Contributions/Oknazevad">contribs</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#Attributes">→</a>‎<span dir="auto"><span class="autocomment">Attributes: </span> remove unsourced opinion.</span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=GURPS&amp;diff=prev&amp;oldid=616534650" title="GURPS" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=GURPS&amp;oldid=625828256" title="GURPS">Revision as of 15:59, 16 September 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=GURPS&amp;action=edit&amp;oldid=625828256" title="GURPS">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=GURPS&amp;action=edit&amp;undoafter=616534650&amp;undo=625828256" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/198.103.109.141" title="Special:Contributions/198.103.109.141" class="mw-userlink mw-anonuserlink">198.103.109.141</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:198.103.109.141" title="User talk:198.103.109.141">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#Combat">→</a>‎<span dir="auto"><span class="autocomment">Combat</span></span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=GURPS&amp;diff=next&amp;oldid=625828256" title="GURPS" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 101:</td>
+  <td colspan="2" class="diff-lineno">Line 101:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>There are two kinds of attacks: Melee (possibly with hand-to-hand weapons, or unarmed combat) and Ranged (bows, guns, thrown weapons, some Innate Attacks, etc.). Attacks made by a character are checked against their skill with the particular weapon they carry. For instance, if a character is using a pistol, as with any other skill, it is beneficial to have a high level in the [[Gun]]s skill. Like any other skill check, a player must roll equal to or less than the level of the skill to succeed. Failure means a miss, success scores a hit. Similarly, critical hits mean that the blow might inflict significantly more damage to its target; critical misses may lead to a rather unpleasant and unexpected event (such as dropping the weapon or hitting the wrong target). Attack modifiers are set by the GM when factoring in things like distance, speed and cover that make a successful strike more difficult.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>There are two kinds of attacks: Melee (possibly with hand-to-hand weapons, or unarmed combat) and Ranged (bows, guns, thrown weapons, some Innate Attacks, etc.). Attacks made by a character are checked against their skill with the particular weapon they carry. For instance, if a character is using a pistol, as with any other skill, it is beneficial to have a high level in the [[Gun]]s skill. Like any other skill check, a player must roll equal to or less than the level of the skill to succeed. Failure means a miss, success scores a hit. Similarly, critical hits mean that the blow might inflict significantly more damage to its target; critical misses may lead to a rather unpleasant and unexpected event (such as dropping the weapon or hitting the wrong target). Attack modifiers are set by the GM when factoring in things like distance, speed and cover that make a successful strike more difficult.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>After a successful attack, except in the case of a critical hit, the defender usually gets a chance to avoid the blow.  This is called an Active Defense, and takes the form of a Dodge (deliberate movement out of the perceived path of the attack), Parry (attempt to deflect or intercept the attack with a limb or weapon), or Block (effort to interpose a shield or similar object between the attack and the defender's body).  Unlike many RPG systems, an Active Defense is an unopposed check, meaning that in most cases, the success of an attack has no effect on the difficulty of the defense.  Dodge is based on the Basic Speed characteristic, while Parry and Block are each based on individual combat skills, such as Fencing, Karate, or Staff for Parry, and Shield or Cloak for Block.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>After a successful attack, except in the case of a critical hit, the defender usually gets a chance to avoid the blow.  This is called an Active Defense, and takes the form of a Dodge (deliberate movement out of the perceived path of the attack), Parry (attempt to deflect or intercept the attack with a limb or weapon), or Block (effort to interpose a shield or similar object between the attack and the defender's body).  Unlike many RPG systems, an Active Defense is an unopposed check, meaning that in most cases, the success of an attack has no effect on the difficulty of the defense.  Dodge is based on the Basic Speed characteristic, while Parry and Block are each based on individual combat skills, such as Fencing, Karate, or Staff for Parry, and Shield or Cloak for Block<ins class="diffchange diffchange-inline">. A common criticism is that characters can achieve a relatively high Active Defense value, drawing out fights considerably. The only mechanic within the system to adress this is the Feint action, which if successful will place the adversary in an unfavorable position, reducing their active defense against that character only, on the subsequent turn</ins>.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Certain skills, attributes and equipment, when strung together, can be used to great effect. Let us say a gunslinger from the Old West is facing a foe; he can use the Combat Reflexes ability to react before his enemy, the Fast-Draw(Pistol) skill to get his two guns out, the Gunslinger ability to allow him to skip the aiming step, and the Dual-Weapon Attack(Pistol) skill to fire both his guns at once. This would have taken around 6 turns, if he had none of these skills.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Certain skills, attributes and equipment, when strung together, can be used to great effect. Let us say a gunslinger from the Old West is facing a foe; he can use the Combat Reflexes ability to react before his enemy, the Fast-Draw(Pistol) skill to get his two guns out, the Gunslinger ability to allow him to skip the aiming step, and the Dual-Weapon Attack(Pistol) skill to fire both his guns at once. This would have taken around 6 turns, if he had none of these skills.</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 15:59, 16 September 2014</h2>
+<table class="infobox" style="width:22em">
+<caption>GURPS</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:GURPS_4th_logo.png" class="image"><img alt="GURPS 4th logo.png" src="//upload.wikimedia.org/wikipedia/en/1/1d/GURPS_4th_logo.png" width="203" height="72" data-file-width="203" data-file-height="72" /></a>
+<div><i>GURPS Fourth Edition</i> logo</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Game_designer" title="Game designer" class="mw-redirect">Designer(s)</a></th>
+<td><a href="/wiki/Steve_Jackson_(US)" title="Steve Jackson (US)" class="mw-redirect">Steve Jackson</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Publisher(s)</th>
+<td><a href="/wiki/Steve_Jackson_Games" title="Steve Jackson Games">Steve Jackson Games</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Publication date</th>
+<td>1986 (1st and 2nd ed.), 1988 (3rd ed.), 2004 (4th ed.)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Genre(s)</th>
+<td>Universal</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">System(s)</th>
+<td><i>GURPS</i></td>
+</tr>
+</table>
+<p>The <i><b>Generic Universal RolePlaying System</b></i>, or <i><b>GURPS</b></i>, is a <a href="/wiki/Role-playing_game_(pen_and_paper)" title="Role-playing game (pen and paper)" class="mw-redirect">tabletop</a> <a href="/wiki/Role-playing_game_system" title="Role-playing game system">role-playing game system</a> designed to allow for play in any game setting. It was created by <a href="/wiki/Steve_Jackson_Games" title="Steve Jackson Games">Steve Jackson Games</a> and first published in 1986 at a time when most such systems were story- or genre-specific.</p>
+<p>Players control their in-game characters verbally and the success of their actions are determined by the skill of their character, the difficulty of the action, and the rolling of dice. Characters earn points during play which are used to gain greater abilities. Gaming sessions are story-told and run by "<a href="/wiki/Game_Masters" title="Game Masters" class="mw-redirect">Game Masters</a>" (often referred to as simply: "GMs").</p>
+<p><i>GURPS</i> won the <a href="/wiki/Origins_Award" title="Origins Award">Origins Award</a> for <i>Best Roleplaying Rules of 1988</i>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> and in 2000 it was inducted into the <a href="/wiki/Origins_Game_Fair" title="Origins Game Fair">Origins</a> <a href="/wiki/Hall_of_Fame" title="Hall of Fame" class="mw-redirect">Hall of Fame</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Many of its expansions have also won awards.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Prior_RPG_history"><span class="tocnumber">1.1</span> <span class="toctext">Prior RPG history</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_GURPS_concept"><span class="tocnumber">1.2</span> <span class="toctext">The GURPS concept</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#GURPS_history"><span class="tocnumber">1.3</span> <span class="toctext">GURPS history</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Mechanics_of_the_game"><span class="tocnumber">2</span> <span class="toctext">Mechanics of the game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Character_points"><span class="tocnumber">2.1</span> <span class="toctext">Character points</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Attributes"><span class="tocnumber">2.2</span> <span class="toctext">Attributes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Character_advantages_and_disadvantages"><span class="tocnumber">2.3</span> <span class="toctext">Character advantages and disadvantages</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Skills"><span class="tocnumber">2.4</span> <span class="toctext">Skills</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Success_rolls"><span class="tocnumber">2.5</span> <span class="toctext">Success rolls</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Combat"><span class="tocnumber">2.6</span> <span class="toctext">Combat</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Damage_and_defenses"><span class="tocnumber">2.7</span> <span class="toctext">Damage and defenses</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Advancement"><span class="tocnumber">2.8</span> <span class="toctext">Advancement</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Licensed_works"><span class="tocnumber">3</span> <span class="toctext">Licensed works</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<h3><span class="mw-headline" id="Prior_RPG_history">Prior RPG history</span></h3>
+<p>Prior to <i>GURPS</i>, <a href="/wiki/Role-playing_game" title="Role-playing game">roleplaying games</a> (RPGs) of the 1970s and early 1980s were developed especially for certain gaming environments, and they were largely incompatible with one another. For example, <a href="/wiki/TSR,_Inc." title="TSR, Inc." class="mw-redirect">TSR</a> published its <i><a href="/wiki/Dungeons_%26_Dragons" title="Dungeons &amp; Dragons">Dungeons &amp; Dragons</a></i> game specifically for a <a href="/wiki/Fantasy" title="Fantasy">fantasy</a> environment. Another game from the same company, <i><a href="/wiki/Star_Frontiers" title="Star Frontiers">Star Frontiers</a></i>, was developed for <a href="/wiki/Science_fiction" title="Science fiction">science fiction</a>-based role-playing. TSR produced other games for other environments, such as <i><a href="/wiki/Gamma_World" title="Gamma World">Gamma World</a></i> (<a href="/wiki/Apocalyptic_and_post-apocalyptic_fiction" title="Apocalyptic and post-apocalyptic fiction">post-apocalyptic</a> adventures), <i><a href="/wiki/Top_Secret_(game)" title="Top Secret (game)" class="mw-redirect">Top Secret</a></i> (<a href="/wiki/Espionage" title="Espionage">spies</a> and secret agents), <i><a href="/wiki/Gangbusters_(role-playing_game)" title="Gangbusters (role-playing game)">Gangbusters</a></i> (<a href="/wiki/Roaring_Twenties" title="Roaring Twenties">Roaring Twenties</a> adventures), and <i><a href="/wiki/Boot_Hill_(role-playing_game)" title="Boot Hill (role-playing game)">Boot Hill</a></i> (<a href="/wiki/American_Old_West" title="American Old West" class="mw-redirect">American Old West</a>). Each of these games was set with its own self-contained <a href="/wiki/Role-playing_game_system" title="Role-playing game system">rules system</a>, and the rules for playing each game differed greatly from one game to the next. Attempts were made in <i>Advanced Dungeons and Dragons</i> to allow cross-genre games using <i>Gamma World</i> and <i>Boot Hill</i> rules; however, characters could only be used in a new genre by converting their statistics. Though it was preceded by <i><a href="/wiki/Basic_Role-Playing" title="Basic Role-Playing">Basic Role-Playing</a></i> (<a href="/wiki/Chaosium" title="Chaosium">Chaosium</a>, 1980) and the <a href="/wiki/Hero_System" title="Hero System">Hero System</a> (<a href="/wiki/Hero_Games" title="Hero Games">Hero Games</a>, a system that expanded to multiple genres starting in 1982),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> <i>GURPS</i> was the most commercially successful<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> <a href="/wiki/Generic_role-playing_game_system" title="Generic role-playing game system">generic role-playing game system</a> to allow players to role-play in any environment they please while still using the same set of core rules. This flexibility of environment is greatly aided by the use of technology levels (or "tech-levels") that allow a campaign to be set from The Stone Age (TL-0) to the Digital Age (TL-8) or beyond.</p>
+<h3><span class="mw-headline" id="The_GURPS_concept">The GURPS concept</span></h3>
+<p>Role-playing games of the 1970s and 1980s, such as <i>Dungeons &amp; Dragons</i>, generally used random numbers generated by dice rolls to assign statistics to player characters. <i>GURPS</i>, following the lead of the <a href="/wiki/Hero_System" title="Hero System">Hero System</a> first used by the <i><a href="/wiki/Champions_(role-playing_game)" title="Champions (role-playing game)">Champions</a></i> role-playing game, assigned players a specified number of <i>points</i> with which to build their characters. These points were spent to get attributes, skills, and advantages, such as the ability to cast magic spells.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Additional points can be obtained by accepting lower-than-average attributes, disadvantages, and other limitations.</p>
+<p><i>GURPS</i>' emphasis on its generic aspect has proven to be a successful marketing tactic, as many game series have source engines which can be retrofitted to many styles.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Its approach to versatility includes using real world measurements wherever possible ("reality-checking" is an important part of any <i>GURPS</i> book).</p>
+<p><i>GURPS</i> also benefits from the many dozens of worldbooks describing settings or additional rules in all genres including science fiction, fantasy, and historical. Many popular game designers began their professional careers as <i>GURPS</i> writers, including C.J. Carella,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/Robin_Laws" title="Robin Laws">Robin Laws</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> <a href="/wiki/S._John_Ross_(game_designer)" title="S. John Ross (game designer)">S. John Ross</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> and <i><a href="/wiki/Fudge_(role-playing_game_system)" title="Fudge (role-playing game system)">Fudge</a></i> creator Steffan O'Sullivan.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> It is sometimes stated<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (April 2013)">by whom?</span></a></i>]</sup> that a large contingent of people who do not play <i>GURPS</i> purchase <i>GURPS</i> supplements because of the talented and creative writers. <i>GURPS</i> worldbooks set in historical periods can often be used as reference books<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup> as they usually include a bibliography suggesting additional sources.</p>
+<h3><span class="mw-headline" id="GURPS_history">GURPS history</span></h3>
+<p>The immediate mechanical antecedent of <i>GURPS</i> was <i><a href="/wiki/The_Fantasy_Trip" title="The Fantasy Trip">The Fantasy Trip</a></i> (<i>TFT</i>), an early role-playing game written by Steve Jackson for the company <a href="/wiki/Metagaming_Concepts" title="Metagaming Concepts">Metagaming Concepts</a>. Several of the core concepts of <i>GURPS</i> first appeared in <i>TFT</i>, including the inclusion of Strength, Dexterity and Intelligence as the core abilities scores of each character.</p>
+<p>A Basic GURPS set was published in 1986 and 1987 and included two booklets, one for developing characters and one for Adventuring.</p>
+<p>In 1990 <i>GURPS</i> intersected part of the <a href="/wiki/Hacker_(computer_security)" title="Hacker (computer security)">hacker</a> subculture<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> when the company's <a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin</a>, <a href="/wiki/Texas" title="Texas">Texas</a>, offices were <a href="/wiki/SJ_Games_vs._The_Secret_Service" title="SJ Games vs. The Secret Service" class="mw-redirect">raided</a> by the <a href="/wiki/United_States_Secret_Service" title="United States Secret Service">Secret Service</a>. The target was the author of <i><a href="/wiki/GURPS_Cyberpunk" title="GURPS Cyberpunk">GURPS Cyberpunk</a></i> in relation to <a href="/wiki/E911" title="E911" class="mw-redirect">E911</a> Emergency Response system documents stolen from <a href="/wiki/Bell_South" title="Bell South" class="mw-redirect">Bell South</a>.<sup id="cite_ref-ssincident_11-0" class="reference"><a href="#cite_note-ssincident-11"><span>[</span>11<span>]</span></a></sup> The incident was a direct contributor to the founding of the <a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a>. A common misconception holds that this raid was part of <a href="/wiki/Operation_Sundevil" title="Operation Sundevil">Operation Sundevil</a> and carried out by the <a href="/wiki/FBI" title="FBI" class="mw-redirect">FBI</a>. Operation: Sundevil was in action at the same time, but it was completely separate.<sup id="cite_ref-sundevil_12-0" class="reference"><a href="#cite_note-sundevil-12"><span>[</span>12<span>]</span></a></sup> See <i><a href="/wiki/Steve_Jackson_Games,_Inc._v._United_States_Secret_Service" title="Steve Jackson Games, Inc. v. United States Secret Service">Steve Jackson Games, Inc. v. United States Secret Service</a></i>.</p>
+<p>A free <a href="/wiki/PDF" title="PDF" class="mw-redirect">PDF</a> version of the <i>GURPS</i> rules was released as <i><b>GURPS Lite</b></i>. This limited ruleset was also included with various books such as <i><a href="/wiki/GURPS_Discworld" title="GURPS Discworld">GURPS Discworld</a></i> and <i><a href="/wiki/Transhuman_Space" title="Transhuman Space">Transhuman Space</a></i>.</p>
+<p>Steve Jackson Games released <i>GURPS Fourth Edition</i> at the first day of <a href="/wiki/Gen_Con" title="Gen Con">Gen Con</a> on August 19, 2004. It promised to simplify and streamline most areas of play and character creation. The changes include modification of the attribute point adjustments, an edited and rationalized skill list, clarification of the differences between abilities from experience and from inborn talent, more detailed language rules, and revised technology levels. Designed by <a href="/wiki/Sean_Punch" title="Sean Punch">Sean Punch</a>, the Fourth Edition is sold as two full-color hardcover books as well as in the PDF format.<sup id="cite_ref-rpgnet1_13-0" class="reference"><a href="#cite_note-rpgnet1-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Mechanics_of_the_game">Mechanics of the game</span></h2>
+<h3><span class="mw-headline" id="Character_points">Character points</span></h3>
+<p>A character in <i>GURPS</i> is built with <a href="/wiki/Character_point" title="Character point" class="mw-redirect">character points</a>. For a beginning character in an average power game, the 4th edition suggests 100–150 points to modify attribute stats, select advantages and disadvantages, and purchase levels in skills. Normal <a href="/wiki/Non-player_character" title="Non-player character">NPCs</a> are built on 25-50 points. Full-fledged heroes usually have 200–250 points, while superheroes are commonly built with 400–800 points.<sup id="cite_ref-rpgnet2_14-0" class="reference"><a href="#cite_note-rpgnet2-14"><span>[</span>14<span>]</span></a></sup> The highest point value recorded for a character in a <i>GURPS</i> sourcebook is 10,452 for <i>the Harvester</i> (p.&#160;88) in <i><a href="/wiki/GURPS_Monsters" title="GURPS Monsters">GURPS Monsters</a></i>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>In principle, a <a href="/wiki/Game_Master" title="Game Master" class="mw-redirect">Game Master</a> can balance the power of foes to the abilities of the player characters by comparing their relative point values.</p>
+<h3><span class="mw-headline" id="Attributes">Attributes</span></h3>
+<p>Characters in <i>GURPS</i> have four basic <a href="/wiki/Attribute_(role-playing_games)" title="Attribute (role-playing games)">attributes</a>:</p>
+<ul>
+<li><b>Strength (ST)</b> — A measure of the character's physical power and bulk, ability to lift, carry, and do damage</li>
+<li><b>Dexterity (DX)</b> — A measure of the character's physical agility, coordination, and manual dexterity</li>
+<li><b>Intelligence (IQ)</b> — A measure of the character's mental capacity, acuity and sense of the world</li>
+<li><b>Health (HT)</b> — A measure of the character's physical stamina, recovery speed, energy and vitality, ability to resist disease</li>
+</ul>
+<p>Each attribute has a number rating assigned to it. Normally they begin at 10, representing typical human ability, but can go as low as 1 for nearly useless, to 20 (or higher) for superhuman power. Anything in the 8 to 12 range is considered to be in the <i>normal</i> or <i>average</i> area for humans. Basic attribute scores of 6 or less are considered <i>crippling</i> — they are so far below the human norm that they are only used for severely handicapped characters. Scores of 15 or more are described as <i>amazing</i> — they are immediately apparent and draw constant comment.</p>
+<p>Players assign these ratings spending <a href="/wiki/Character_point" title="Character point" class="mw-redirect">character points</a>. The higher the rating the more points it will cost the player, however, assigning a score below the average 10 gives the player points back to assign elsewhere. Since almost all skills are based on Dexterity or Intelligence, those attributes are twice as expensive (or yield twice the points, if purchased below 10). In earlier editions (pre 4th Edition) all attributes followed the same cost-progression, where higher attributes cost more per increase than attributes close to the average of 10.</p>
+<p>Attribute scores also determine several <i>secondary characteristics</i>. The four major ones are each directly based on a single attribute:</p>
+<ul>
+<li><b>Hit Points (HP)</b> — how much damage and injury can be sustained, based on <i>ST</i></li>
+<li><b>Will (Will)</b> — mental focus and strength, withstanding stress, based on <i>IQ</i></li>
+<li><b>Perception (Per)</b> — general sensory alertness, based on <i>IQ</i></li>
+<li><b>Fatigue Points (FP)</b> — a measure of exertion, tiredness, and hunger, based on <i>HT</i></li>
+</ul>
+<p>In earlier <i>GURPS</i> editions (that is, prior to the 4th Edition) Hit Points were based on HT and Fatigue Points were based on ST.</p>
+<p>The other secondary characteristics (Damage, Basic Lift, Basic Speed, Dodge, Move) are calculated from one or more attribute values using individual <a href="/wiki/Mathematical_table" title="Mathematical table">tables</a> or <a href="/wiki/Formula" title="Formula">formulae</a>.</p>
+<h3><span class="mw-headline" id="Character_advantages_and_disadvantages">Character advantages and disadvantages</span></h3>
+<p><i>GURPS</i> has a profusion of advantages and disadvantages which enable players or Game Masters to customize their characters. The myriad options available and the rewards the system provides players for carefully creating their characters are attractive to gamers who enjoy a high degree of flexibility in character design.</p>
+<p>A player can select numerous Advantages and Disadvantages to differentiate the character; the system supports both mundane traits (such as above-average or below-average Wealth, Status and Reputation) as well as more exotic special abilities and weaknesses. These are categorized as physical, mental or social, and as exotic, supernatural, or mundane. Advantages benefit the character and cost points to purchase. Selecting Disadvantages returns character points and allows players to limit their characters in one way in exchange for being more powerful or gifted in other areas. Disadvantages include such positive attributes as honesty and truthfulness which limit the way a character is played. There are also many Perks and Quirks to choose from which give a character some personality. Perks (minor Advantages) and Quirks (minor Disadvantages) benefit or hinder the character a bit, but they mostly add role-playing flavor.</p>
+<p>Enhancements and limitations can tailor an advantage or disadvantage to suit creative players. These modify the effects and point cost of advantages and disadvantages. For example, to create a "dragon's breath" attack, a player would select the Innate Attack ability (the ability that allows a player to perform an attack most humans could not), and select burning attack 4D (normally 20 points). Then, the player would modify it as follows: cone, 5 yards (+100%); limited use, 3/day (-20%); reduced range, x1/5 (-20%). The final percentage modifier would be +60%, making the final cost 32 points. This addition to the system greatly increases its flexibility while decreasing the number of specific advantages and disadvantages that must be listed. Finally, <i>mitigators</i> can themselves tailor advantages and disadvantages (see <i><a href="/wiki/GURPS_Bio-Tech" title="GURPS Bio-Tech">GURPS Bio-Tech</a></i> for such an example).</p>
+<h3><span class="mw-headline" id="Skills">Skills</span></h3>
+<p><i>GURPS</i> has a wide variety of <a href="/wiki/Skill_(role-playing)" title="Skill (role-playing)" class="mw-redirect">skills</a> intended to enable it to support any conceivable genre (such as <a href="/wiki/Acrobatics" title="Acrobatics">Acrobatics</a> and Vehicle Piloting). Each skill is tied to at least one attribute, and the characters' abilities in that skill is a function of their base attributes + or - a certain amount.</p>
+<p>The availability of skills depends on the particular genre the <i>GURPS</i> game is played. For instance, in a generic <a href="/wiki/Medieval" title="Medieval" class="mw-redirect">medieval</a> <a href="/wiki/Fantasy" title="Fantasy">fantasy</a> setting, skills for operating a <a href="/wiki/Computer" title="Computer">computer</a>, or flying a <a href="/wiki/Fighter_aircraft" title="Fighter aircraft">fighter jet</a> would not normally be available. Skills are rated by level, and the more levels purchased with character points, the better the characters are at that particular skill relative to their base attribute.</p>
+<p>Skills are categorized by difficulty: Easy, Average, Hard, and Very Hard. Easy skills cost few points to purchase levels in, and the cost per skill level increases with each level of difficulty. Game mechanics allow that eventually it may be less expensive to raise the level of the base attribute the skills depend on as opposed to purchasing higher levels of skills. A player can generally purchase a skill for his character at any level he or she can afford. The lower you choose the fewer points it costs to buy the skill, and the higher you go, the more points it costs. Some skills have default levels, which indicate the level rating a character has when using that skill untrained (i.e. not purchased). For example, a character with a Dexterity of 12, is using the Climbing skill untrained. Climbing has a default of DX-5 or ST-5, which means that using the skill untrained gives him a Climbing skill level of 7 (12-5) if he tied it to the Dexterity stat. If the character had a higher Strength stat, he could have a better chance of success if he tied the Climbing skill there instead.</p>
+<p>Some skills also have a Tech Level (TL) rating attached to them, to differentiate between Skills that concern similar concepts, but whose tasks are accomplished in different ways when used with differing levels of technology. This helps during time traveling scenarios, or when characters are forced to deal with particularly outdated or advanced equipment. For instance, a modern boat builder's skills will be of less use if he is stuck on a desert island and forced to work with primitive tools and techniques. Thus, the skills he uses are different when in his shop (Shipbuilding/TL8) and when he is on the island (Shipbuilding/TL0).</p>
+<h3><span class="mw-headline" id="Success_rolls">Success rolls</span></h3>
+<p><i>GURPS</i> uses six-sided <a href="/wiki/Dice" title="Dice">dice</a> for all game mechanics using <a href="/wiki/Dice_notation" title="Dice notation">standard dice notation</a>. An "average roll" of three six sided dice generates a total of 10.5; this makes an "average" skill check (a skill of 10, based on an unmodified attribute) equally likely to succeed or fail.</p>
+<p>Making statistic and skill checks in <i>GURPS</i> is the reverse of the mechanics of most other RPGs, where the higher the total of the die roll, the better. <i>GURPS</i> players hope to roll as low as possible under the tested statistic's rating or skill's level. If the roll is less than or equal to that number, the check succeeds. There is no "target number" or "difficulty rating" set by the Game Master, as would be the case in many other RPG systems. Instead the GM will apply various modifiers to add or subtract to the skill level. In this way, positive modifiers increase the chance for success by adding to the stat or skill level you must roll under while negative modifiers deduct from it, making things more difficult.</p>
+<p>For example: a player makes a pick pocketing test for her character. The character has a Pickpocket skill with a level of 11. Under normal circumstances - i.e., under an <i>average stressful situation</i>, according to the manual - the player must roll an 11 or less for the character to succeed. If the player rolls above 11, then the character has failed the attempt at pick pocketing.</p>
+<p>There are some exceptions for very high or low rolls, deemed <a href="/wiki/Critical_hit" title="Critical hit">criticals</a>. No matter the level of the skill, a die roll of 18 is always a <i>critical failure</i>, and a roll of 3 or 4 is always a critical success (a roll of 17 is a critical failure as well, unless the character relevant skill level is 16 or more). The Game Master may decide in such cases that, in first case (a roll of 18, or 10+ over the modified skill level), the character has failed miserably and caused something disastrous to happen or, in the other case, that he or she succeeds incredibly well and gains some benefit as a result.</p>
+<h3><span class="mw-headline" id="Combat">Combat</span></h3>
+<p>Combat in <i>GURPS</i> is organized in personal turns: i.e., every character gets a turn each <a href="/wiki/Second" title="Second">second</a>, and during his or her character's turn he or she may take an action, such as attack or move. After all characters have taken their action, one second has elapsed. Free actions are simple actions that can be done at any time. Characters in a party have a set initiative that is entirely based upon their Basic Speed characteristic.<sup id="cite_ref-rpgnet3_16-0" class="reference"><a href="#cite_note-rpgnet3-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>There are two kinds of attacks: Melee (possibly with hand-to-hand weapons, or unarmed combat) and Ranged (bows, guns, thrown weapons, some Innate Attacks, etc.). Attacks made by a character are checked against their skill with the particular weapon they carry. For instance, if a character is using a pistol, as with any other skill, it is beneficial to have a high level in the <a href="/wiki/Gun" title="Gun">Guns</a> skill. Like any other skill check, a player must roll equal to or less than the level of the skill to succeed. Failure means a miss, success scores a hit. Similarly, critical hits mean that the blow might inflict significantly more damage to its target; critical misses may lead to a rather unpleasant and unexpected event (such as dropping the weapon or hitting the wrong target). Attack modifiers are set by the GM when factoring in things like distance, speed and cover that make a successful strike more difficult.</p>
+<p>After a successful attack, except in the case of a critical hit, the defender usually gets a chance to avoid the blow. This is called an Active Defense, and takes the form of a Dodge (deliberate movement out of the perceived path of the attack), Parry (attempt to deflect or intercept the attack with a limb or weapon), or Block (effort to interpose a shield or similar object between the attack and the defender's body). Unlike many RPG systems, an Active Defense is an unopposed check, meaning that in most cases, the success of an attack has no effect on the difficulty of the defense. Dodge is based on the Basic Speed characteristic, while Parry and Block are each based on individual combat skills, such as Fencing, Karate, or Staff for Parry, and Shield or Cloak for Block. A common criticism is that characters can achieve a relatively high Active Defense value, drawing out fights considerably. The only mechanic within the system to adress this is the Feint action, which if successful will place the adversary in an unfavorable position, reducing their active defense against that character only, on the subsequent turn.</p>
+<p>Certain skills, attributes and equipment, when strung together, can be used to great effect. Let us say a gunslinger from the Old West is facing a foe; he can use the Combat Reflexes ability to react before his enemy, the Fast-Draw(Pistol) skill to get his two guns out, the Gunslinger ability to allow him to skip the aiming step, and the Dual-Weapon Attack(Pistol) skill to fire both his guns at once. This would have taken around 6 turns, if he had none of these skills.</p>
+<h3><span class="mw-headline" id="Damage_and_defenses">Damage and defenses</span></h3>
+<p>Damage from muscle-powered weapons, (clubs, swords, bows, etc.) is calculated based on the character's ST rating. The weaker a character is physically, the less damage he or she is capable of inflicting with such a weapon. Purely mechanical weapons (guns, beam sabers, bombs, etc.) have a set damage value.</p>
+<p>When damage is inflicted upon characters, it is deducted from their <a href="/wiki/Hit_point" title="Hit point" class="mw-redirect">Hit Points</a>, which are calculated with the Strength stat (prior to <i>GURPS</i> 4th Edition, Hit Points were derived from the Health stat). Like most other RPGs, a loss of hit points indicates physical harm being inflicted upon a character, which can potentially lead to death. <i>GURPS</i> calculates shock penalties when someone is hit, representing the impact it causes and the rush of pain that interferes with concentration. Different weapons can cause different 'types' of damage, ranging from crushing (a club or mace), impaling (a spear or arrow), cutting (most swords and axes), piercing (bullets), and so on.</p>
+<p>One peculiarity about loss of Hit Points is that in GURPS, death is not certain. While a very high amount of total HP loss will cause certain death, there are also several points at which a player must successfully roll HT, with different grades of failure indicating character death or a mortal injury.</p>
+<p>Depending on the nature of the attack, there will sometimes be additional effects.</p>
+<h3><span class="mw-headline" id="Advancement">Advancement</span></h3>
+<p>Character advancement follows the same system as character creation. Characters are awarded character points to improve themselves at regular intervals (usually at the end of a game session or story).</p>
+<p>GMs are free to distribute experience as they see fit. This contrasts with some traditional RPGs where players receive a predictable amount of experience for defeating foes. The book recommends providing 1-3 points for completing objectives and 1-3 points for good role-playing per game session.</p>
+<p>Advancement can also come through study, work, or other activities, either during game play or between sessions. In general, 200 hours of study equals one character point which can be applied for the area being studied. Self-study and on the job experience take more time per character point while high tech teaching aids can reduce the time required.</p>
+<p>Some intensive situations let a character advance quickly, as most waking hours are considered study. For instance, characters travelling through the Amazon may count every waking moment as study of jungle survival, while living in a foreign country could count as eight hours per day of language study or more.</p>
+<h2><span class="mw-headline" id="Licensed_works">Licensed works</span></h2>
+<p>The computer game publisher <a href="/wiki/Interplay_Productions" title="Interplay Productions" class="mw-redirect">Interplay</a> licensed <i>GURPS</i> as the basis for a post-<a href="/wiki/Nuclear_warfare" title="Nuclear warfare">nuclear war</a> <a href="/wiki/Role-playing_video_game" title="Role-playing video game">role-playing video game</a> (<i><a href="/wiki/Fallout_(computer_game)" title="Fallout (computer game)" class="mw-redirect">Fallout</a></i>) in 1995. Late in development, Interplay replaced the <i>GURPS</i> character-building system with their own <a href="/wiki/SPECIAL_System" title="SPECIAL System" class="mw-redirect">SPECIAL System</a>. According to Steve Jackson, "The statement on the Interplay web site, to the effect that this was a mutual decision of SJ Games and Interplay, is not true. [...] We are not clear what their proposal to finish and release the game without the [<i>GURPS</i>] license entails, for us or for the game, and have absolutely not agreed to it." <sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p><i>GURPS <a href="/wiki/...For_Dummies" title="...For Dummies" class="mw-redirect">For Dummies</a></i> (<a href="/wiki/Special:BookSources/0471783293" class="internal mw-magiclink-isbn">ISBN 0-471-78329-3</a>), a guidebook by Stuart J. Stuple, Bjoern-Erik Hartsfvang, and Adam Griffith, was published in 2006.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/List_of_GURPS_books" title="List of GURPS books">List of <i>GURPS</i> books</a>, especially
+<ul>
+<li><i><a href="/wiki/GURPS_4e_Basic_Set" title="GURPS 4e Basic Set" class="mw-redirect">GURPS 4e Basic Set</a></i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Pyramid_(magazine)" title="Pyramid (magazine)">Pyramid</a></i>, a monthly online magazine with <i>GURPS</i> support</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20090505174856/http://www.originsgamefair.com/awards/1988">"Origins Award Winners (1988)"</a>. Academy of Adventure Gaming Arts &amp; Design. Archived from <a rel="nofollow" class="external text" href="http://www.originsgamefair.com/awards/1988">the original</a> on May 5, 2009.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=Origins+Award+Winners+%281988%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.originsgamefair.com%2Fawards%2F1988&amp;rft.pub=Academy+of+Adventure+Gaming+Arts+%26+Design&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20090505171407/http://www.originsgamefair.com/awards/1999/list-of-winners">"Origins Award Winners (1999)"</a>. Academy of Adventure Gaming Arts &amp; Design. Archived from <a rel="nofollow" class="external text" href="http://www.originsgamefair.com/awards/1999/list-of-winners">the original</a> on May 5, 2009.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=Origins+Award+Winners+%281999%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.originsgamefair.com%2Fawards%2F1999%2Flist-of-winners&amp;rft.pub=Academy+of+Adventure+Gaming+Arts+%26+Design&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Shannon Appelcline (September 4, 2006). <a rel="nofollow" class="external text" href="http://www.rpg.net/columns/briefhistory/briefhistory3.phtml">"A Brief History of Game #3: Chaosium: 1975-Present"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 4,</span> 2012</span>. <q>They published a cut-down version of the <i>RQ</i> rules called <i>Basic Role-Playing</i>. By extracting their core game engine they created the first generic roleplaying system, two years before the Hero System expanded beyond <i>Champions</i> and six years before <i>The Fantasy Trip</i> became <i>GURPS</i>.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.aulast=Shannon+Appelcline&amp;rft.au=Shannon+Appelcline&amp;rft.btitle=A+Brief+History+of+Game+%233%3A+Chaosium%3A+1975-Present&amp;rft.date=September+4%2C+2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rpg.net%2Fcolumns%2Fbriefhistory%2Fbriefhistory3.phtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Rowland, Marcus L. (Nov 1986). "Open Box - GURPS: Generic Universal Roleplaying System Basic Set". <i><a href="/wiki/White_Dwarf_(magazine)" title="White Dwarf (magazine)">White Dwarf</a></i> (review) (<a href="/wiki/Games_Workshop" title="Games Workshop">Games Workshop</a>) (83): 4.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.atitle=Open+Box+-+GURPS%3A+Generic+Universal+Roleplaying+System+Basic+Set&amp;rft.aufirst=Marcus+L.&amp;rft.aulast=Rowland&amp;rft.au=Rowland%2C+Marcus+L.&amp;rft.date=Nov+1986&amp;rft.genre=article&amp;rft.issue=83&amp;rft.jtitle=White+Dwarf&amp;rft.pages=4&amp;rft.pub=Games+Workshop&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Ken_Hite" title="Ken Hite" class="mw-redirect">Hite, Ken</a> (1999). <a rel="nofollow" class="external text" href="http://www.amazon.com/Nightmares-Mine-Rolemaster-Standard-System/dp/1558063676"><i>Nightmares of Mine</i></a> (1st ed.). <a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a>. p.&#160;171. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55806-367-6" title="Special:BookSources/1-55806-367-6">1-55806-367-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.aufirst=Ken&amp;rft.au=Hite%2C+Ken&amp;rft.aulast=Hite&amp;rft.btitle=Nightmares+of+Mine&amp;rft.date=1999&amp;rft.edition=1st&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FNightmares-Mine-Rolemaster-Standard-System%2Fdp%2F1558063676&amp;rft.isbn=1-55806-367-6&amp;rft.pages=171&amp;rft.pub=Iron+Crown+Enterprises&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20071005013848/http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=879">"Pen &amp; Paper RPG Database: C.J. Carella"</a>. Pen &amp; Paper. Archived from <a rel="nofollow" class="external text" href="http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=879">the original</a> on 2007-10-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-19</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=Pen+%26+Paper+RPG+Database%3A+C.J.+Carella&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pen-paper.net%2Frpgdb.php%3Fop%3Dshowcreator%26creatorid%3D879&amp;rft.pub=Pen+%26+Paper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070930181216/http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=513">"Pen &amp; Paper RPG Database: Robin D. Laws"</a>. Pen &amp; Paper. Archived from <a rel="nofollow" class="external text" href="http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=513">the original</a> on 2007-09-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-19</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=Pen+%26+Paper+RPG+Database%3A+Robin+D.+Laws&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pen-paper.net%2Frpgdb.php%3Fop%3Dshowcreator%26creatorid%3D513&amp;rft.pub=Pen+%26+Paper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070930200952/http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=1019">"Pen &amp; Paper RPG Database: S. John Ross"</a>. Pen &amp; Paper. Archived from <a rel="nofollow" class="external text" href="http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=1019">the original</a> on 2007-09-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-19</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=Pen+%26+Paper+RPG+Database%3A+S.+John+Ross&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pen-paper.net%2Frpgdb.php%3Fop%3Dshowcreator%26creatorid%3D1019&amp;rft.pub=Pen+%26+Paper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20050830160941/http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=1111">"Pen &amp; Paper RPG Database: Steffan O'Sullivan"</a>. Pen &amp; Paper. Archived from <a rel="nofollow" class="external text" href="http://www.pen-paper.net/rpgdb.php?op=showcreator&amp;creatorid=1111">the original</a> on 2005-08-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-19</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=Pen+%26+Paper+RPG+Database%3A+Steffan+O%27Sullivan&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pen-paper.net%2Frpgdb.php%3Fop%3Dshowcreator%26creatorid%3D1111&amp;rft.pub=Pen+%26+Paper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Bruce_Sterling" title="Bruce Sterling">Sterling, Bruce</a> (November 1, 1993). <a rel="nofollow" class="external text" href="http://www.gutenberg.org/etext/101"><i>The Hacker Crackdown</i></a>. <a href="/wiki/Bantam_Books" title="Bantam Books">Bantam Books</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.aufirst=Bruce&amp;rft.aulast=Sterling&amp;rft.au=Sterling%2C+Bruce&amp;rft.btitle=The+Hacker+Crackdown&amp;rft.date=November+1%2C+1993&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.gutenberg.org%2Fetext%2F101&amp;rft.pub=Bantam+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ssincident-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-ssincident_11-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sjgames.com/SS/">"SJ Games vs. the Secret Service"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=SJ+Games+vs.+the+Secret+Service&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sjgames.com%2FSS%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sundevil-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-sundevil_12-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sjgames.com/SS/topten.html">"The top ten media errors about the SJ Games raid (#6)"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.btitle=The+top+ten+media+errors+about+the+SJ+Games+raid+%28%236%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sjgames.com%2FSS%2Ftopten.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rpgnet1-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-rpgnet1_13-0">^</a></b></span> <span class="reference-text"><span class="citation web">Muadib, Rob (2004-11-22). <a rel="nofollow" class="external text" href="http://www.rpg.net/reviews/archive/10/10852.phtml">"GURPS Fourth Edition Characters &amp; Campaigns Review"</a>. <i>website</i> (review). RPGNet.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-08</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.atitle=GURPS+Fourth+Edition+Characters+%26+Campaigns+Review&amp;rft.aufirst=Rob&amp;rft.aulast=Muadib&amp;rft.au=Muadib%2C+Rob&amp;rft.date=2004-11-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rpg.net%2Freviews%2Farchive%2F10%2F10852.phtml&amp;rft.jtitle=website&amp;rft.pub=RPGNet.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rpgnet2-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-rpgnet2_14-0">^</a></b></span> <span class="reference-text"><span class="citation web">Smith, Eli (2004-10-11). <a rel="nofollow" class="external text" href="http://www.rpg.net/reviews/archive/10/10731.phtml">"GURPS Fourth Edition Basic Set Review"</a>. <i>website</i> (review). RPGNet.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-08</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.atitle=GURPS+Fourth+Edition+Basic+Set+Review&amp;rft.aufirst=Eli&amp;rft.aulast=Smith&amp;rft.au=Smith%2C+Eli&amp;rft.date=2004-10-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rpg.net%2Freviews%2Farchive%2F10%2F10731.phtml&amp;rft.jtitle=website&amp;rft.pub=RPGNet.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation book">Johnson, Hunter (2002). <a rel="nofollow" class="external text" href="http://www.sjgames.com/gurps/books/monsters/"><i>GURPS: Monsters</i></a> (3rd ed.). <a href="/wiki/Steve_Jackson_Games" title="Steve Jackson Games">Steve Jackson Games</a>. p.&#160;128. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55634-518-6" title="Special:BookSources/1-55634-518-6">1-55634-518-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.aufirst=Hunter&amp;rft.au=Johnson%2C+Hunter&amp;rft.aulast=Johnson&amp;rft.btitle=GURPS%3A+Monsters&amp;rft.date=2002&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sjgames.com%2Fgurps%2Fbooks%2Fmonsters%2F&amp;rft.isbn=1-55634-518-6&amp;rft.pages=128&amp;rft.pub=Steve+Jackson+Games&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rpgnet3-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-rpgnet3_16-0">^</a></b></span> <span class="reference-text"><span class="citation web">Chu-Carroll, Mark (2004-11-17). <a rel="nofollow" class="external text" href="http://www.rpg.net/reviews/archive/10/10646.phtml">"GURPS Fourth Edition Characters Review"</a>. <i>website</i> (review). RPGNet.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-08</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.atitle=GURPS+Fourth+Edition+Characters+Review&amp;rft.au=Chu-Carroll%2C+Mark&amp;rft.aufirst=Mark&amp;rft.aulast=Chu-Carroll&amp;rft.date=2004-11-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rpg.net%2Freviews%2Farchive%2F10%2F10646.phtml&amp;rft.jtitle=website&amp;rft.pub=RPGNet.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web">Jackson, Steve (12 February 1997). <a rel="nofollow" class="external text" href="http://www.sjgames.com/ill/1997/ill-feb97.html">"Rumor Control about Interplay"</a>. <i>The Daily Illuminator</i>. Steve Jackson Games<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.atitle=Rumor+Control+about+Interplay&amp;rft.aufirst=Steve&amp;rft.au=Jackson%2C+Steve&amp;rft.aulast=Jackson&amp;rft.date=12+February+1997&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sjgames.com%2Fill%2F1997%2Fill-feb97.html&amp;rft.jtitle=The+Daily+Illuminator&amp;rft.pub=Steve+Jackson+Games&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><span class="citation journal">Lejoyeux, Pierre (July–August 1992). "GURPS". <i>Casus Belli</i> (70): 17.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGURPS&amp;rft.atitle=GURPS&amp;rft.aufirst=Pierre&amp;rft.aulast=Lejoyeux&amp;rft.au=Lejoyeux%2C+Pierre&amp;rft.date=July-August+1992&amp;rft.genre=article&amp;rft.issue=70&amp;rft.jtitle=Casus+Belli&amp;rft.pages=17&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Review of the French translation <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.sjgames.com/gurps/">Official website</a>:</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:RPG_systems" title="Template:RPG systems"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:RPG_systems" title="Template talk:RPG systems"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:RPG_systems&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Role-playing_game_system" title="Role-playing game system">Role-playing game systems</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3D%26T" title="3D&amp;T">3D&amp;T</a></li>
+<li><a href="/wiki/Advanced_Fighting_Fantasy" title="Advanced Fighting Fantasy">Advanced Fighting Fantasy</a></li>
+<li><a href="/wiki/Alternity" title="Alternity">Alternity</a></li>
+<li><a href="/wiki/Amazing_Engine" title="Amazing Engine">Amazing Engine</a></li>
+<li><a href="/wiki/Basic_Role-Playing" title="Basic Role-Playing">BRP</a></li>
+<li><a href="/wiki/CODA_System" title="CODA System">CODA</a></li>
+<li><a href="/wiki/CORPS" title="CORPS">CORPS</a></li>
+<li><a href="/wiki/Cortex_System" title="Cortex System">Cortex</a></li>
+<li><a href="/wiki/Cortex_Plus" title="Cortex Plus">Cortex Plus</a></li>
+<li><a href="/wiki/D20_System" title="D20 System">d20</a></li>
+<li><a href="/wiki/D6_System" title="D6 System">D6</a></li>
+<li><a href="/wiki/EABA" title="EABA">EABA</a></li>
+<li><a href="/wiki/Fate_(role-playing_game_system)" title="Fate (role-playing game system)">Fate</a></li>
+<li><a href="/wiki/Fudge_(role-playing_game_system)" title="Fudge (role-playing game system)">Fudge</a></li>
+<li><a href="/wiki/Fuzion" title="Fuzion">Fuzion</a></li>
+<li><a href="/wiki/GUMSHOE_System" title="GUMSHOE System">GUMSHOE</a></li>
+<li><strong class="selflink">GURPS</strong></li>
+<li><a href="/wiki/High_Adventure_Role_Playing" title="High Adventure Role Playing">HARP</a></li>
+<li><a href="/wiki/Hero_System" title="Hero System">Hero</a></li>
+<li><a href="/wiki/Interlock_System" title="Interlock System">Interlock</a></li>
+<li><a href="/wiki/Masterbook" title="Masterbook">Masterbook</a></li>
+<li><a href="/wiki/Mayfair_Exponential_Game_System" title="Mayfair Exponential Game System">MEGS</a></li>
+<li><a href="/wiki/Megaversal_system" title="Megaversal system">Megaversal/Palladium</a></li>
+<li><a href="/wiki/Talislanta#System" title="Talislanta">Omni</a></li>
+<li><a href="/wiki/One-Roll_Engine" title="One-Roll Engine">One-Roll Engine</a></li>
+<li><a href="/wiki/Powered_by_the_Apocalypse" title="Powered by the Apocalypse">Powered by the Apocalypse</a></li>
+<li><a href="/wiki/QAGS" title="QAGS">QAGS</a></li>
+<li><a href="/wiki/Risus" title="Risus">Risus</a></li>
+<li><a href="/wiki/Rolemaster" title="Rolemaster">Rolemaster</a></li>
+<li><a href="/w/index.php?title=Roll-and-Keep_system&amp;action=edit&amp;redlink=1" class="new" title="Roll-and-Keep system (page does not exist)">R&amp;K</a> <small>(<a href="/wiki/Legend_of_the_Five_Rings_Roleplaying_Game" title="Legend of the Five Rings Roleplaying Game">L5R</a></small></li>
+<li><small><a href="/wiki/7th_Sea_(role-playing_game)" title="7th Sea (role-playing game)">7th Sea</a>)</small></li>
+<li><a href="/wiki/SAGA_System" title="SAGA System">SAGA</a></li>
+<li><a href="/wiki/Savage_Worlds" title="Savage Worlds">Savage Worlds</a></li>
+<li><a href="/wiki/Castles_%26_Crusades" title="Castles &amp; Crusades">SIEGE</a></li>
+<li><a href="/wiki/Heavy_Gear#Silhouette_CORE_RPG_Rules" title="Heavy Gear">SilCore</a></li>
+<li><a href="/wiki/Standard_RPG_System" title="Standard RPG System">SRS</a></li>
+<li><a href="/wiki/Storytelling_System" title="Storytelling System">Storyteller</a>/<a href="/wiki/Storytelling_System" title="Storytelling System">Storytelling</a></li>
+<li><a href="/wiki/Traveller_(role-playing_game)" title="Traveller (role-playing game)">Traveller</a></li>
+<li><a href="/wiki/Tri-Stat_dX" title="Tri-Stat dX">Tri-Stat</a></li>
+<li><a href="/wiki/True20" title="True20">True20</a></li>
+<li><a href="/wiki/TWERPS" title="TWERPS">TWERPS</a></li>
+<li><a href="/wiki/Ubiquity_(role-playing_game_system)" title="Ubiquity (role-playing game system)" class="mw-redirect">Ubiquity</a></li>
+<li><a href="/wiki/Unisystem" title="Unisystem">Unisystem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1188
+CPU time usage: 0.307 seconds
+Real time usage: 0.377 seconds
+Preprocessor visited node count: 1678/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41188/2097152 bytes
+Template argument size: 1673/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 3.31 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  262.729      1 - -total
+ 42.33%  111.221      1 - Template:Reflist
+ 21.84%   57.390     13 - Template:Cite_web
+ 19.05%   50.045      1 - Template:Infobox_game
+ 17.56%   46.131      1 - Template:Infobox
+ 17.55%   46.109      2 - Template:Citation_needed
+ 16.25%   42.696      3 - Template:Fix
+ 15.07%   39.604      6 - Template:Category_handler
+  5.58%   14.665      1 - Template:RPG_systems
+  4.48%   11.781      3 - Template:Cite_book
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=GURPS&amp;oldid=625828256">http://en.wikipedia.org/w/index.php?title=GURPS&amp;oldid=625828256</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Universal_role-playing_games" title="Category:Universal role-playing games">Universal role-playing games</a></li><li><a href="/wiki/Category:GURPS" title="Category:GURPS">GURPS</a></li><li><a href="/wiki/Category:Origins_Award_winners" title="Category:Origins Award winners">Origins Award winners</a></li><li><a href="/wiki/Category:Steve_Jackson_Games_games" title="Category:Steve Jackson Games games">Steve Jackson Games games</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2012" title="Category:Articles with unsourced statements from July 2012">Articles with unsourced statements from July 2012</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_April_2013" title="Category:Articles with specifically marked weasel-worded phrases from April 2013">Articles with specifically marked weasel-worded phrases from April 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=GURPS&amp;returntoquery=diff%3D625828256%26oldid%3D616534650&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=GURPS&amp;returntoquery=diff%3D625828256%26oldid%3D616534650" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/GURPS"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:GURPS"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/GURPS" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=GURPS&amp;action=edit&amp;oldid=625828256"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=GURPS&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/GURPS" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/GURPS" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=GURPS&amp;oldid=625828256" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=GURPS&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1047814" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=GURPS&amp;id=625828256" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=GURPS">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=GURPS&amp;oldid=616534650&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=GURPS&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Generic_Universal_Role-Playing_System" title="Generic Universal Role-Playing System – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/GURPS" title="GURPS – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/GURPS" title="GURPS – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/GURPS" title="GURPS – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/GURPS" title="GURPS – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B2%81%EC%8A%A4" title="겁스 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/GURPS" title="GURPS – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/GURPS" title="GURPS – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/GURPS" title="GURPS – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%97%E3%82%B9" title="ガープス – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/GURPS" title="GURPS – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/GURPS" title="GURPS – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/GURPS" title="GURPS – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/GURPS" title="GURPS – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/GURPS" title="GURPS – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/GURPS" title="GURPS – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B3%9B%E7%94%A8%E6%97%A0%E7%95%8C%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E7%B3%BB%E7%BB%9F" title="泛用无界角色扮演系统 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1047814#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=GURPS&amp;diff=625828256&amp;oldid=616534650&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":584,"wgHostname":"mw1188"});
+}</script>
+	</body>
+</html>

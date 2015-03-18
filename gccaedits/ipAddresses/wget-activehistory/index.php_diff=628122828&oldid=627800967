@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Multivariate adaptive regression splines: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Multivariate_adaptive_regression_splines" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=628122828&amp;oldid=627800967" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Multivariate_adaptive_regression_splines","wgTitle":"Multivariate adaptive regression splines","wgCurRevisionId":642374542,"wgRevisionId":628122828,"wgArticleId":18475546,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Regression analysis","Machine learning"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Multivariate_adaptive_regression_splines","wgRelevantArticleId":18475546,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3455882"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Multivariate_adaptive_regression_splines skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Multivariate adaptive regression splines: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;oldid=627800967" title="Multivariate adaptive regression splines">Revision as of 11:17, 1 October 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=edit&amp;oldid=627800967" title="Multivariate adaptive regression splines">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/w/index.php?title=User:Velvel2&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Velvel2 (page does not exist)">Velvel2</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Velvel2" title="User talk:Velvel2">talk</a> | <a href="/wiki/Special:Contributions/Velvel2" title="Special:Contributions/Velvel2">contribs</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="comment">(<a href="#Hinge_functions">→</a>‎<span dir="auto"><span class="autocomment">Hinge functions</span></span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;diff=prev&amp;oldid=627800967" title="Multivariate adaptive regression splines" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;oldid=628122828" title="Multivariate adaptive regression splines">Revision as of 19:47, 3 October 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=edit&amp;oldid=628122828" title="Multivariate adaptive regression splines">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=edit&amp;undoafter=627800967&amp;undo=628122828" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/142.206.2.12" title="Special:Contributions/142.206.2.12" class="mw-userlink mw-anonuserlink">142.206.2.12</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:142.206.2.12" title="User talk:142.206.2.12">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#See_also">→</a>‎<span dir="auto"><span class="autocomment">See also: </span> commercial links discouraged</span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;diff=next&amp;oldid=628122828" title="Multivariate adaptive regression splines" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 346:</td>
+  <td colspan="2" class="diff-lineno">Line 346:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* [[Rational function modeling]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* [[Rational function modeling]]</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* [[Spline interpolation]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* [[Spline interpolation]]</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>* [[TSMARS]]. Time Series Mars is the term used when MARS models are applied in a time series context. Typically in this set up the predictors are the lagged time series values resulting in autoregressive spline models. These models and extensions to include moving average spline models are described in "Univariate Time Series Modelling and Forecasting using TSMARS: A study of threshold time series autoregressive, seasonal and moving average models using TSMARS"<del class="diffchange diffchange-inline">, http://www</del>.<del class="diffchange diffchange-inline">amazon.com/Univariate-Series-Modelling-Forecasting-TSMARS/dp/3838335953</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>* [[TSMARS]]. Time Series Mars is the term used when MARS models are applied in a time series context. Typically in this set up the predictors are the lagged time series values resulting in autoregressive spline models. These models and extensions to include moving average spline models are described in "Univariate Time Series Modelling and Forecasting using TSMARS: A study of threshold time series autoregressive, seasonal and moving average models using TSMARS".</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Software ==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Software ==</div></td>
+</tr>
+
+<!-- diff cache key enwiki:diff:version:1.11a:oldid:627800967:newid:628122828 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 19:47, 3 October 2014</h2>
+<p><b>Multivariate adaptive regression splines (MARS)</b> is a form of <a href="/wiki/Regression_analysis" title="Regression analysis">regression analysis</a> introduced by <a href="/wiki/Jerome_H._Friedman" title="Jerome H. Friedman">Jerome H. Friedman</a> in 1991.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It is a non-parametric regression technique and can be seen as an extension of <a href="/wiki/Linear_model" title="Linear model">linear models</a> that automatically models non-linearities and interactions between variables.</p>
+<p>The term "MARS" is trademarked and licensed to Salford Systems. In order to avoid trademark infringements, many open source implementations of MARS are called "Earth".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_basics"><span class="tocnumber">1</span> <span class="toctext">The basics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_MARS_model"><span class="tocnumber">2</span> <span class="toctext">The MARS model</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Hinge_functions"><span class="tocnumber">3</span> <span class="toctext">Hinge functions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#The_model_building_process"><span class="tocnumber">4</span> <span class="toctext">The model building process</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#The_forward_pass"><span class="tocnumber">4.1</span> <span class="toctext">The forward pass</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#The_backward_pass"><span class="tocnumber">4.2</span> <span class="toctext">The backward pass</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Generalized_cross_validation_.28GCV.29"><span class="tocnumber">4.3</span> <span class="toctext">Generalized cross validation (GCV)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Constraints"><span class="tocnumber">4.4</span> <span class="toctext">Constraints</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Pros_and_cons"><span class="tocnumber">5</span> <span class="toctext">Pros and cons</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Software"><span class="tocnumber">7</span> <span class="toctext">Software</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Free"><span class="tocnumber">7.1</span> <span class="toctext">Free</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Commercial"><span class="tocnumber">7.2</span> <span class="toctext">Commercial</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="The_basics">The basics</span></h2>
+<p>This section introduces MARS using a few examples. We start with a set of data: a matrix of input variables <i>x</i>, and a vector of the observed responses <i>y</i>, with a response for each row in <i>x</i>. For example, the data could be:</p>
+<table>
+<tr>
+<th><i>x</i></th>
+<th><i>y</i></th>
+</tr>
+<tr>
+<td>10.5</td>
+<td>16.4</td>
+</tr>
+<tr>
+<td>10.7</td>
+<td>18.8</td>
+</tr>
+<tr>
+<td>10.8</td>
+<td>19.7</td>
+</tr>
+<tr>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>20.6</td>
+<td>77.0</td>
+</tr>
+</table>
+<p>Here there is only one <a href="/wiki/Dependent_and_independent_variables" title="Dependent and independent variables">independent variable</a>, so the <i>x</i> matrix is just a single column. Given these measurements, we would like to build a model which predicts the expected <i>y</i> for a given <i>x</i>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Friedmans_mars_linear_model.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/6f/Friedmans_mars_linear_model.png" width="240" height="240" class="thumbimage" data-file-width="240" data-file-height="240" /></a>
+<div class="thumbcaption">A linear model</div>
+</div>
+</div>
+<p>A <a href="/wiki/Linear_model" title="Linear model">linear model</a> for the above data is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\hat{y} = -37 + 5.1 x
+" src="//upload.wikimedia.org/math/e/a/9/ea9a6be4e4e9d77ff43aaa22e8c5777c.png" /></dd>
+</dl>
+<p>The hat on the <img class="mwe-math-fallback-image-inline tex" alt="\hat{y}" src="//upload.wikimedia.org/math/7/b/5/7b5fdad25716879ce0706bf95efd82c0.png" /> indicates that <img class="mwe-math-fallback-image-inline tex" alt="\hat{y}" src="//upload.wikimedia.org/math/7/b/5/7b5fdad25716879ce0706bf95efd82c0.png" /> is estimated from the data. The figure on the right shows a plot of this function: a line giving the predicted <img class="mwe-math-fallback-image-inline tex" alt="\hat{y}" src="//upload.wikimedia.org/math/7/b/5/7b5fdad25716879ce0706bf95efd82c0.png" /> versus <i>x</i>, with the original values of <i>y</i> shown as red dots.</p>
+<p>The data at the extremes of <i>x</i> indicates that the relationship between <i>y</i> and <i>x</i> may be non-linear (look at the red dots relative to the regression line at low and high values of <i>x</i>). We thus turn to MARS to automatically build a model taking into account non-linearities. MARS software constructs a model from the given <i>x</i> and <i>y</i> as follows</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\begin{align}
+\hat{y} = &amp;\ 25 \\
+&amp; + 6.1 \max(0, x  - 13) \\
+&amp; - 3.1 \max(0, 13 - x) \\
+\end{align}
+" src="//upload.wikimedia.org/math/f/2/1/f21ebe62ae7f642c360b8b7d919f2c8b.png" /></dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Friedmans_mars_simple_model.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/a/a7/Friedmans_mars_simple_model.png" width="240" height="240" class="thumbimage" data-file-width="240" data-file-height="240" /></a>
+<div class="thumbcaption">A simple MARS model of the same data</div>
+</div>
+</div>
+<p>The figure on the right shows a plot of this function: the predicted <img class="mwe-math-fallback-image-inline tex" alt="\hat{y}" src="//upload.wikimedia.org/math/7/b/5/7b5fdad25716879ce0706bf95efd82c0.png" /> versus <i>x</i>, with the original values of y once again shown as red dots. The predicted response is now a better fit to the original <i>y</i> values.</p>
+<p>MARS has automatically produced a kink in the predicted <i>y</i> to take into account non-linearity. The kink is produced by <i>hinge functions</i>. The hinge functions are the expressions starting with <img class="mwe-math-fallback-image-inline tex" alt="\max" src="//upload.wikimedia.org/math/9/a/c/9ac24059464ca54850fc0f0f2b96d8fb.png" /> (where <img class="mwe-math-fallback-image-inline tex" alt="\max(a,b)" src="//upload.wikimedia.org/math/c/1/2/c127dd900ad6da8f10bb5be56a860c91.png" /> is <img class="mwe-math-fallback-image-inline tex" alt="a" src="//upload.wikimedia.org/math/0/c/c/0cc175b9c0f1b6a831c399e269772661.png" /> if <img class="mwe-math-fallback-image-inline tex" alt="a &gt; b" src="//upload.wikimedia.org/math/4/6/f/46fa7900cc397f3a4b3fa2e72d6885e7.png" />, else <img class="mwe-math-fallback-image-inline tex" alt="b" src="//upload.wikimedia.org/math/9/2/e/92eb5ffee6ae2fec3ad71c777531578f.png" />). Hinge functions are described in more detail below.</p>
+<p>In this simple example, we can easily see from the plot that <i>y</i> has a non-linear relationship with <i>x</i> (and might perhaps guess that y varies with the square of <i>x</i>). However, in general there will be multiple <a href="/wiki/Dependent_and_independent_variables" title="Dependent and independent variables">independent variables</a>, and the relationship between <i>y</i> and these variables will be unclear and not easily visible by plotting. We can use MARS to discover that non-linear relationship.</p>
+<p>An example MARS expression with multiple variables is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\begin{align}
+  \mathrm{ozone} = &amp;\ 5.2 \\
+&amp;      +    0.93 \max(0, \mathrm{temp} - 58)  \\
+&amp;      -   0.64 \max(0, \mathrm{temp} - 68)  \\
+&amp;      -   0.046 \max(0,  234 - \mathrm{ibt})  \\
+&amp;      -   0.016 \max(0, \mathrm{wind} - 7) \max(0, 200 - \mathrm{vis})\\
+\end{align}
+" src="//upload.wikimedia.org/math/2/9/c/29c001fca7907cf02edc1f5e9676cacf.png" /></dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Friedmans_mars_ozone_model.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/9/9e/Friedmans_mars_ozone_model.png" width="280" height="280" class="thumbimage" data-file-width="280" data-file-height="280" /></a>
+<div class="thumbcaption">Variable interaction in a MARS model</div>
+</div>
+</div>
+<p>This expression models air pollution (the ozone level) as a function of the temperature and a few other variables. Note that the last term in the formula (on the last line) incorporates an interaction between <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{wind}" src="//upload.wikimedia.org/math/5/a/3/5a38f33d428c1853ccf5b33e40e96bf6.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{vis}" src="//upload.wikimedia.org/math/3/0/8/308e5a15635e83188ea4c16187dd472b.png" />.</p>
+<p>The figure on the right plots the predicted <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{ozone}" src="//upload.wikimedia.org/math/2/c/8/2c86a66855b680259871b53c99cf003c.png" /> as <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{wind}" src="//upload.wikimedia.org/math/5/a/3/5a38f33d428c1853ccf5b33e40e96bf6.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{vis}" src="//upload.wikimedia.org/math/3/0/8/308e5a15635e83188ea4c16187dd472b.png" /> vary, with the other variables fixed at their median values. The figure shows that wind does not affect the ozone level unless visibility is low. We see that MARS can build quite flexible regression surfaces by combining hinge functions.</p>
+<p>To obtain the above expression, the MARS model building procedure automatically selects which variables to use (some variables are important, others not), the positions of the kinks in the hinge functions, and how the hinge functions are combined.</p>
+<h2><span class="mw-headline" id="The_MARS_model">The MARS model</span></h2>
+<p>MARS builds models of the form</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\hat{f}(x) = \sum_{i=1}^{k} c_i B_i(x) " src="//upload.wikimedia.org/math/5/6/f/56f9a7a1bcf72264fddb3d3eab815dcd.png" />.</dd>
+</dl>
+<p>The model is a weighted sum of basis functions <img class="mwe-math-fallback-image-inline tex" alt="B_i(x)" src="//upload.wikimedia.org/math/f/2/0/f203c0382d6c9ae8bad96d1b12a9506b.png" />. Each <img class="mwe-math-fallback-image-inline tex" alt="c_i" src="//upload.wikimedia.org/math/d/9/8/d9899588b2b28a768a63ade0f3523596.png" /> is a constant coefficient. For example, each line in the formula for ozone above is one basis function multiplied by its coefficient.</p>
+<p>Each <a href="/wiki/Basis_function" title="Basis function">basis function</a> <img class="mwe-math-fallback-image-inline tex" alt="B_i(x)" src="//upload.wikimedia.org/math/f/2/0/f203c0382d6c9ae8bad96d1b12a9506b.png" /> takes one of the following three forms:</p>
+<p>1) a constant 1. There is just one such term, the intercept. In the ozone formula above, the intercept term is 5.2.</p>
+<p>2) a <i>hinge</i> function. A hinge function has the form <img class="mwe-math-fallback-image-inline tex" alt=" \max(0, x - const) " src="//upload.wikimedia.org/math/4/3/9/439893cc2ca5baeb61fc16c1dd595998.png" /> or <img class="mwe-math-fallback-image-inline tex" alt=" \max(0, const - x) " src="//upload.wikimedia.org/math/8/2/2/822b97eae958adc1b1d02ac5b7a30376.png" />. MARS automatically selects variables and values of those variables for knots of the hinge functions. Examples of such basis functions can be seen in the middle three lines of the ozone formula.</p>
+<p>3) a product of two or more hinge functions. These basis function can model interaction between two or more variables. An example is the last line of the ozone formula.</p>
+<h2><span class="mw-headline" id="Hinge_functions">Hinge functions</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Friedmans_mars_hinge_functions.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/7/74/Friedmans_mars_hinge_functions.png" width="280" height="220" class="thumbimage" data-file-width="280" data-file-height="220" /></a>
+<div class="thumbcaption">A mirrored pair of hinge functions with a knot at x=3.1</div>
+</div>
+</div>
+<p>Hinge functions are a key part of MARS models. A hinge function takes the form</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\max(0,x-c)" src="//upload.wikimedia.org/math/5/2/4/524d799332a7be240320bc823b9068c2.png" /></dd>
+</dl>
+<p>or</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\max(0,c-x)" src="//upload.wikimedia.org/math/d/9/2/d92561a442d934553c691b53e152b0ae.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="c" src="//upload.wikimedia.org/math/4/a/8/4a8a08f09d37b73795649038408b5f33.png" /> is a constant, called the <i>knot</i>. The figure on the right shows a mirrored pair of hinge functions with a knot at 3.1.</p>
+<p>A hinge function is zero for part of its range, so can be used to partition the data into disjoint regions, each of which can be treated independently. Thus for example a mirrored pair of hinge functions in the expression</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+6.1 \max(0, x  - 13)
+- 3.1 \max(0, 13 - x)
+" src="//upload.wikimedia.org/math/c/b/6/cb6e6150a51702edffbead63b54e67bf.png" /></dd>
+</dl>
+<p>creates the <a href="/wiki/Piecewise" title="Piecewise">piecewise</a> linear graph shown for the simple MARS model in the previous section.</p>
+<p>One might assume that only piecewise linear functions can be formed from hinge functions, but hinge functions can be multiplied together to form non-linear functions.</p>
+<p>Hinge functions are also called <a href="/wiki/Ice_hockey_stick" title="Ice hockey stick">hockey stick</a> functions. Instead of the <img class="mwe-math-fallback-image-inline tex" alt="\max" src="//upload.wikimedia.org/math/9/a/c/9ac24059464ca54850fc0f0f2b96d8fb.png" /> notation used in this article, hinge functions are often represented by <img class="mwe-math-fallback-image-inline tex" alt="[\pm(x_i - c)]_+" src="//upload.wikimedia.org/math/5/5/9/5596657a5c99c18f31e77dc2cb790f67.png" /> where <img class="mwe-math-fallback-image-inline tex" alt="[\cdot]_+" src="//upload.wikimedia.org/math/7/3/8/738a1cd6eb971430fbbffd53e648d192.png" /> means take the positive part; for example, the optimization function for soft margin maximization of <a href="/wiki/Support_vector_machine" title="Support vector machine">Support vector machine</a> is equivalent to minimize <img class="mwe-math-fallback-image-inline tex" alt=" \sum_i [1-y_i(w \cdot x_i + b)]_+ + \lambda \|w\|^2" src="//upload.wikimedia.org/math/4/1/a/41a7dff440ef1d5594108f91164bc7e7.png" />.</p>
+<h2><span class="mw-headline" id="The_model_building_process">The model building process</span></h2>
+<p>MARS builds a model in two phases: the forward and the backward pass. This two stage approach is the same as that used by <a href="/wiki/Recursive_partitioning" title="Recursive partitioning">recursive partitioning</a> trees.</p>
+<h3><span class="mw-headline" id="The_forward_pass">The forward pass</span></h3>
+<p>MARS starts with a model which consists of just the intercept term (which is the mean of the response values).</p>
+<p>MARS then repeatedly adds basis function in pairs to the model. At each step it finds the pair of basis functions that gives the maximum reduction in sum-of-squares <a href="/wiki/Errors_and_residuals_in_statistics" title="Errors and residuals in statistics">residual</a> error (it is a <a href="/wiki/Greedy_algorithm" title="Greedy algorithm">greedy algorithm</a>). The two basis functions in the pair are identical except that a different side of a mirrored hinge function is used for each function. Each new basis function consists of a term already in the model (which could perhaps be the intercept i.e. a constant 1) multiplied by a new hinge function. A hinge function is defined by a variable and a knot, so to add a new basis function, MARS must search over all combinations of the following:</p>
+<p>1) existing terms (called <i>parent terms</i> in this context)</p>
+<p>2) all variables (to select one for the new basis function)</p>
+<p>3) all values of each variable (for the knot of the new hinge function).</p>
+<p>This process of adding terms continues until the change in residual error is too small to continue or until the maximum number of terms is reached. The maximum number of terms is specified by the user before model building starts.</p>
+<p>The search at each step is done in a <a href="/wiki/Brute-force_search" title="Brute-force search">brute force</a> fashion, but a key aspect of MARS is that because of the nature of hinge functions the search can be done relatively quickly using a fast least-squares update technique. Actually, the search is not quite brute force. The search can be sped up with a <a href="/wiki/Heuristics" title="Heuristics" class="mw-redirect">heuristic</a> that reduces the number of parent terms to consider at each step ("Fast MARS" <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup>).</p>
+<h3><span class="mw-headline" id="The_backward_pass">The backward pass</span></h3>
+<p>The forward pass usually builds an <a href="/wiki/Overfit" title="Overfit" class="mw-redirect">overfit</a> model. (An overfit model has a good fit to the data used to build the model but will not generalize well to new data.) To build a model with better generalization ability, the backward pass prunes the model. It removes terms one by one, deleting the least effective term at each step until it finds the best submodel. Model subsets are compared using the GCV criterion described below.</p>
+<p>The backward pass has an advantage over the forward pass: at any step it can choose any term to delete, whereas the forward pass at each step can only see the next pair of terms.</p>
+<p>The forward pass adds terms in pairs, but the backward pass typically discards one side of the pair and so terms are often not seen in pairs in the final model. A paired hinge can be seen in the equation for <img class="mwe-math-fallback-image-inline tex" alt="\hat{y}" src="//upload.wikimedia.org/math/7/b/5/7b5fdad25716879ce0706bf95efd82c0.png" /> in the first MARS example above; there are no complete pairs retained in the ozone example.</p>
+<h3><span class="mw-headline" id="Generalized_cross_validation_.28GCV.29">Generalized cross validation (GCV)</span></h3>
+<p>The backward pass uses GCV to compare the performance of model subsets in order to choose the best subset: lower values of GCV are better. The GCV is a form of <a href="/wiki/Regularization_(machine_learning)" title="Regularization (machine learning)" class="mw-redirect">regularization</a>: it trades off goodness-of-fit against model complexity.</p>
+<p>(We want to estimate how well a model performs on <i>new</i> data, not on the training data. Such new data is usually not available at the time of model building, so instead we use GCV to estimate what performance would be on new data. The raw <a href="/wiki/Residual_sum_of_squares" title="Residual sum of squares">residual sum-of-squares</a> (RSS) on the training data is inadequate for comparing models, because the RSS always increases as MARS terms are dropped. In other words, if the RSS were used to compare models, the backward pass would always choose the largest model—but the largest model typically does not have the best generalization performance.)</p>
+<p>The formula for the GCV is</p>
+<p><b>GCV = RSS / (N * (1 - EffectiveNumberOfParameters / N)^2)</b></p>
+<p>where <b>RSS</b> is the residual sum-of-squares measured on the training data and <b>N</b> is the number of observations (the number of rows in the <b>x</b> matrix).</p>
+<p>The <b>EffectiveNumberOfParameters</b> is defined in the MARS context as</p>
+<p><b>EffectiveNumberOfParameters = NumberOfMarsTerms + Penalty * (NumberOfMarsTerms - 1 ) / 2</b></p>
+<p>where <b>Penalty</b> is about 2 or 3 (the MARS software allows the user to preset Penalty).</p>
+<p>Note that <b>(NumberOfMarsTerms - 1 ) / 2</b> is the number of hinge-function knots, so the formula penalizes the addition of knots. Thus the GCV formula adjusts (i.e. increases) the training RSS to take into account the flexibility of the model. We penalize flexibility because models that are too flexible will model the specific realization of noise in the data instead of just the systematic structure of the data.</p>
+<p>Generalized Cross Validation is so named because it uses a formula to approximate the error that would be determined by leave-one-out validation. It is just an approximation but works well in practice. GCVs were introduced by Craven and <a href="/wiki/Grace_Wahba" title="Grace Wahba">Wahba</a> and extended by Friedman for MARS.</p>
+<h3><span class="mw-headline" id="Constraints">Constraints</span></h3>
+<p>One constraint has already been mentioned: the user can specify the maximum number of terms in the forward pass.</p>
+<p>A further constraint can be placed on the forward pass by specifying a maximum allowable degree of interaction. Typically only one or two degrees of interaction are allowed, but higher degrees can be used when the data warrants it. The maximum degree of interaction in the first MARS example above is one (i.e. no interactions or an <i>additive model</i>); in the ozone example it is two.</p>
+<p>Other constraints on the forward pass are possible. For example, the user can specify that interactions are allowed only for certain input variables. Such constraints could make sense because of knowledge of the process that generated the data.</p>
+<h2><span class="mw-headline" id="Pros_and_cons">Pros and cons</span></h2>
+<p>No regression modeling technique is best for all situations. The guidelines below are intended to give an idea of the pros and cons of MARS, but there will be exceptions to the guidelines. It is useful to compare MARS to <a href="/wiki/Recursive_partitioning" title="Recursive partitioning">recursive partitioning</a> and this is done below. (Recursive partitioning is also commonly called <i>regression trees</i>, <i>decision trees</i>, or <a href="/wiki/Predictive_analytics#Classification_and_regression_trees" title="Predictive analytics">CART</a>; see the <a href="/wiki/Decision_tree_learning" title="Decision tree learning">recursive partitioning</a> article for details).</p>
+<ul>
+<li>MARS models are more flexible than <a href="/wiki/Linear_regression" title="Linear regression">linear regression</a> models.</li>
+</ul>
+<ul>
+<li>MARS models are simple to understand and interpret. Compare the equation for ozone concentration above to, say, the innards of a trained <a href="/wiki/Artificial_neural_network" title="Artificial neural network">neural network</a> or a <a href="/wiki/Random_forest" title="Random forest">random forest</a>.</li>
+</ul>
+<ul>
+<li>MARS can handle both continuous and categorical data.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> MARS tends to be better than recursive partitioning for numeric data because hinges are more appropriate for numeric variables than the piecewise constant segmentation used by recursive partitioning.</li>
+</ul>
+<ul>
+<li>Building MARS models often requires little or no data preparation. The hinge functions automatically partition the input data, so the effect of outliers is contained. In this respect MARS is similar to <a href="/wiki/Recursive_partitioning" title="Recursive partitioning">recursive partitioning</a> which also partitions the data into disjoint regions, although using a different method. (Nevertheless, as with most statistical modeling techniques, known outliers should be considered for removal before training a MARS model.)</li>
+</ul>
+<ul>
+<li>MARS (like recursive partitioning) does <i>automatic variable selection</i> (meaning it includes important variables in the model and excludes unimportant ones). However, bear in mind that variable selection is not a clean problem and there is usually some arbitrariness in the selection, especially in the presence of <a href="/wiki/Multicollinearity" title="Multicollinearity">collinearity</a> and 'concurvity'.</li>
+</ul>
+<ul>
+<li>MARS models tend to have a good bias-variance trade-off. The models are flexible enough to model non-linearity and variable interactions (thus MARS models have fairly low bias), yet the constrained form of MARS basis functions prevents too much flexibility (thus MARS models have fairly low variance).</li>
+</ul>
+<ul>
+<li>MARS is suitable for handling fairly large datasets. It is a routine matter to build a MARS model from an input matrix with, say, 100 predictors and 10<sup>5</sup> observations. Such a model can be built in about a minute on a 1&#160;GHz machine, assuming the maximum degree of interaction of MARS terms is limited to one (i.e. additive terms only). A degree two model with the same data on the same 1&#160;GHz machine takes longer—about 12 minutes. Be aware that these times are highly data dependent. Recursive partitioning is much faster than MARS.</li>
+</ul>
+<ul>
+<li>With MARS models, as with any non-parametric regression, parameter confidence intervals and other checks on the model cannot be calculated directly (unlike <a href="/wiki/Linear_regression" title="Linear regression">linear regression</a> models). <a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a> and related techniques must be used for validating the model instead.</li>
+</ul>
+<ul>
+<li>MARS models do not give as good fits as <a href="/wiki/Boosting_(meta-algorithm)" title="Boosting (meta-algorithm)" class="mw-redirect">boosted</a> trees, but can be built much more quickly and are more interpretable. (An 'interpretable' model is in a form that makes it clear what the effect of each predictor is.)</li>
+</ul>
+<ul>
+<li>The <code>earth</code>, <code>mda</code>, and <code>polspline</code> implementations do not allow missing values in predictors, but free implementations of regression trees (such as <code>rpart</code> and <code>party</code>) do allow missing values using a technique called surrogate splits.</li>
+</ul>
+<ul>
+<li>MARS models can make predictions quickly. The prediction function simply has to evaluate the MARS model formula. Compare that to making a prediction with say a <a href="/wiki/Support_Vector_Machine" title="Support Vector Machine" class="mw-redirect">Support Vector Machine</a>, where every variable has to be multiplied by the corresponding element of every support vector. That can be a slow process if there are many variables and many support vectors.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Linear_regression" title="Linear regression">Linear regression</a></li>
+<li><a href="/wiki/Segmented_regression" title="Segmented regression">Segmented regression</a></li>
+<li><a href="/wiki/Generalized_linear_model" title="Generalized linear model">Generalized linear models</a> (GLMs) can be incorporated into MARS models by applying a link function after the MARS model is built. Thus, for example, MARS models can incorporate <a href="/wiki/Logistic_regression" title="Logistic regression">logistic regression</a> to predict probabilities.</li>
+<li><a href="/wiki/Nonlinear_regression" title="Nonlinear regression">Non-linear regression</a> is used when the underlying form of the function is known and regression is used only to estimate the parameters of that function. MARS, on the other hand, estimates the functions themselves, albeit with severe constraints on the nature of the functions. (These constraints are necessary because discovering a model from the data is an <a href="/wiki/Inverse_problem" title="Inverse problem">inverse problem</a> that is not <a href="/wiki/Well-posed_problem" title="Well-posed problem">well-posed</a> without constraints on the model.)</li>
+<li><a href="/wiki/Recursive_partitioning" title="Recursive partitioning">Recursive partitioning</a> (commonly called CART). MARS can be seen as a generalization of recursive partitioning that allows the model to better handle numerical (i.e. non-categorical) data.</li>
+<li><a href="/wiki/Generalized_additive_model" title="Generalized additive model">Generalized additive models</a>. From the user's perspective GAMs are similar to MARS but (a) fit smooth <a href="/wiki/Local_regression" title="Local regression">loess</a> or polynomial <a href="/wiki/Spline_(mathematics)" title="Spline (mathematics)">splines</a> instead of MARS basis functions, and (b) do not automatically model variable interactions. The fitting method used internally by GAMs is very different from that of MARS. For models that do not require automatic discovery of variable interactions GAMs often compete favorably with MARS.</li>
+<li><a href="/wiki/Rational_function_modeling" title="Rational function modeling" class="mw-redirect">Rational function modeling</a></li>
+<li><a href="/wiki/Spline_interpolation" title="Spline interpolation">Spline interpolation</a></li>
+<li><a href="/w/index.php?title=TSMARS&amp;action=edit&amp;redlink=1" class="new" title="TSMARS (page does not exist)">TSMARS</a>. Time Series Mars is the term used when MARS models are applied in a time series context. Typically in this set up the predictors are the lagged time series values resulting in autoregressive spline models. These models and extensions to include moving average spline models are described in "Univariate Time Series Modelling and Forecasting using TSMARS: A study of threshold time series autoregressive, seasonal and moving average models using TSMARS".</li>
+</ul>
+<h2><span class="mw-headline" id="Software">Software</span></h2>
+<h3><span class="mw-headline" id="Free">Free</span></h3>
+<ul>
+<li>Several <a href="/wiki/R_(programming_language)" title="R (programming language)">R</a> packages fit MARS-type models:
+<ul>
+<li><code>earth</code> function in the <code><a rel="nofollow" class="external text" href="http://cran.r-project.org/web/packages/earth/index.html">earth</a></code> package</li>
+<li><code>mars</code> function in the <code><a rel="nofollow" class="external text" href="http://cran.r-project.org/web/packages/mda/index.html">mda</a></code> package</li>
+<li><code>polymars</code> function in the <code><a rel="nofollow" class="external text" href="http://cran.r-project.org/web/packages/polspline/index.html">polspline</a></code> package. Not Friedman's MARS.</li>
+</ul>
+</li>
+<li>Matlab code:
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cs.rtu.lv/jekabsons/regression.html">ARESLab: Adaptive Regression Splines toolbox for Matlab</a></li>
+</ul>
+</li>
+<li>Python
+<ul>
+<li><a rel="nofollow" class="external text" href="http://orange.biolab.si/blog/2011/12/20/earth-multivariate-adaptive-regression-splines/">Earth - Multivariate adaptive regression splines</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/jcrudy/py-earth/">py-earth</a></li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Commercial">Commercial</span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.salfordsystems.com/mars.php">MARS</a> from Salford Systems. Based on Friedman's implementation.</li>
+<li><a rel="nofollow" class="external text" href="http://statsoft.com/products/data-mining-solutions/">STATISTICA Data Miner</a> from StatSoft</li>
+<li><a rel="nofollow" class="external text" href="http://support.sas.com/documentation/cdl/en/statug/65328/HTML/default/viewer.htm#statug_adaptivereg_overview.htm">ADAPTIVEREG</a> from SAS.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal">Friedman, J. H. (1991). "Multivariate Adaptive Regression Splines". <i>The Annals of Statistics</i> <b>19</b>: 1. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1214%2Faos%2F1176347963">10.1214/aos/1176347963</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2241837">2241837</a>. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1091842">1091842</a>. <a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">Zbl</a>&#160;<a rel="nofollow" class="external text" href="//zbmath.org/?format=complete&amp;q=an:0765.62064">0765.62064</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultivariate+adaptive+regression+splines&amp;rft.atitle=Multivariate+Adaptive+Regression+Splines&amp;rft.aufirst=J.+H.&amp;rft.au=Friedman%2C+J.+H.&amp;rft.aulast=Friedman&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1214%2Faos%2F1176347963&amp;rft_id=info%3Azbl%2F0765.62064&amp;rft.jstor=2241837&amp;rft.jtitle=The+Annals+of+Statistics&amp;rft.mr=1091842&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1214.2Faos.2F1176347963&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cran.r-project.org/web/packages/earth/index.html">CRAN Package earth</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://orange.biolab.si/blog/2011/12/20/earth-multivariate-adaptive-regression-splines/">Earth - Multivariate adaptive regression splines in Orange (Python machine learning library)</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Friedman,_J._H." title="Friedman, J. H." class="mw-redirect">Friedman, J. H.</a> (1993) <i>Fast MARS</i>, Stanford University Department of Statistics, Technical Report 110</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Friedman,_J._H." title="Friedman, J. H." class="mw-redirect">Friedman, J. H.</a> (1993) <i>Estimating Functions of Mixed Ordinal and Categorical Variables Using Adaptive Splines</i>, New Directions in Statistical Data Analysis and Robustness (Morgenthaler, Ronchetti, Stahel, eds.), Birkhauser</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Hastie T., Tibshirani R., and Friedman J.H. (2009) <a rel="nofollow" class="external text" href="http://www-stat.stanford.edu/~tibs/ElemStatLearn"><i>The Elements of Statistical Learning</i></a>, 2nd edition. Springer, <a href="/wiki/Special:BookSources/9780387848570" class="internal mw-magiclink-isbn">ISBN 978-0-387-84857-0</a> (has a section on MARS)</li>
+<li>Faraway J. (2005) <a rel="nofollow" class="external text" href="http://www.maths.bath.ac.uk/~jjf23"><i>Extending the Linear Model with R</i></a>, CRC, <a href="/wiki/Special:BookSources/9781584884248" class="internal mw-magiclink-isbn">ISBN 978-1-58488-424-8</a> (has an example using MARS with R)</li>
+<li>Heping Zhang and Burton H. Singer (2010) <a rel="nofollow" class="external text" href="http://www.amazon.com/Recursive-Partitioning-Applications-Springer-Statistics/dp/1441968237"><i>Recursive Partitioning and Applications</i></a>, 2nd edition. Springer, <a href="/wiki/Special:BookSources/9781441968234" class="internal mw-magiclink-isbn">ISBN 978-1-4419-6823-4</a> (has a chapter on MARS and discusses some tweaks to the algorithm)</li>
+<li>Denison D.G.T., Holmes C.C., Mallick B.K., and Smith A.F.M. (2004) <a rel="nofollow" class="external text" href="http://www.stat.tamu.edu/~bmallick/wileybook/book_code.html"><i>Bayesian Methods for Nonlinear Classification and Regression</i></a>, Wiley, <a href="/wiki/Special:BookSources/9780471490364" class="internal mw-magiclink-isbn">ISBN 978-0-471-49036-4</a></li>
+<li>Berk R.A. (2008) <i>Statistical learning from a regression persepective</i>, Springer, <a href="/wiki/Special:BookSources/9780387775005" class="internal mw-magiclink-isbn">ISBN 978-0-387-77500-5</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1035
+CPU time usage: 0.180 seconds
+Real time usage: 0.511 seconds
+Preprocessor visited node count: 523/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8696/2097152 bytes
+Template argument size: 133/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.018/10.000 seconds
+Lua memory usage: 933 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  115.428      1 - Template:Reflist
+100.00%  115.428      1 - -total
+ 90.39%  104.331      1 - Template:Cite_doi
+ 45.79%   52.856      1 - Template:Cite_doi/10.1214.2Faos.2F1176347963
+ 44.11%   50.917      1 - Template:Cite_journal
+  2.28%    2.632      1 - Template:Str_left
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Multivariate_adaptive_regression_splines&amp;oldid=628122828">http://en.wikipedia.org/w/index.php?title=Multivariate_adaptive_regression_splines&amp;oldid=628122828</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Regression_analysis" title="Category:Regression analysis">Regression analysis</a></li><li><a href="/wiki/Category:Machine_learning" title="Category:Machine learning">Machine learning</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Multivariate+adaptive+regression+splines&amp;returntoquery=diff%3D628122828%26oldid%3D627800967&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Multivariate+adaptive+regression+splines&amp;returntoquery=diff%3D628122828%26oldid%3D627800967" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Multivariate_adaptive_regression_splines"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Multivariate_adaptive_regression_splines"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Multivariate_adaptive_regression_splines" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=edit&amp;oldid=628122828"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Multivariate_adaptive_regression_splines" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Multivariate_adaptive_regression_splines" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;oldid=628122828" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3455882" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Multivariate_adaptive_regression_splines&amp;id=628122828" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Multivariate+adaptive+regression+splines">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Multivariate+adaptive+regression+splines&amp;oldid=627800967&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Multivariate_adaptive_regression_splines&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/R%C3%A9gression_multivari%C3%A9e_par_spline_adaptative" title="Régression multivariée par spline adaptative – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q3455882#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Multivariate_adaptive_regression_splines&amp;diff=628122828&amp;oldid=627800967&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":658,"wgHostname":"mw1035"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Shadow price: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shadow_price&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shadow_price&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Shadow_price" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=618141620&amp;oldid=617384822" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shadow_price","wgTitle":"Shadow price","wgCurRevisionId":651601978,"wgRevisionId":618141620,"wgArticleId":1913196,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles that are too technical from February 2014","All articles that are too technical","Articles needing expert attention from February 2014","All articles needing expert attention","Articles needing additional references from February 2014","All articles needing additional references","Wikipedia articles needing style editing from February 2014","All articles needing style editing","Operations research","Mathematical economics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shadow_price","wgRelevantArticleId":1913196,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3308839"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Shadow_price skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Shadow price: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Shadow_price&amp;oldid=617384822" title="Shadow price">Revision as of 23:16, 17 July 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Shadow_price&amp;action=edit&amp;oldid=617384822" title="Shadow price">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Special:Contributions/173.70.32.58" title="Special:Contributions/173.70.32.58" class="mw-userlink mw-anonuserlink">173.70.32.58</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=User_talk:173.70.32.58&amp;action=edit&amp;redlink=1" class="new" title="User talk:173.70.32.58 (page does not exist)">talk</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(Added citations)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Shadow_price&amp;diff=prev&amp;oldid=617384822" title="Shadow price" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Shadow_price&amp;oldid=618141620" title="Shadow price">Revision as of 16:15, 23 July 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Shadow_price&amp;action=edit&amp;oldid=618141620" title="Shadow price">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Shadow_price&amp;action=edit&amp;undoafter=617384822&amp;undo=618141620" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/198.103.161.1" title="Special:Contributions/198.103.161.1" class="mw-userlink mw-anonuserlink">198.103.161.1</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:198.103.161.1" title="User talk:198.103.161.1">talk</a>)</span> </div><div id="mw-diff-ntitle3"></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Shadow_price&amp;diff=next&amp;oldid=618141620" title="Shadow price" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 5:</td>
+  <td colspan="2" class="diff-lineno">Line 5:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>}}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>{{IEP assignment|course=Wikipedia:India_Education_Program/Courses/Fall_2011/Development Economics_Year_3_Group_A|university=Symbiosis School of Economics|term=2011 Q3}}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>{{IEP assignment|course=Wikipedia:India_Education_Program/Courses/Fall_2011/Development Economics_Year_3_Group_A|university=Symbiosis School of Economics|term=2011 Q3}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>The terms "Shadow Price" or "Shadow Pricing" are used to refer to monitory values assigned to currently unknowable or difficult to calculate costs.  The origin of these costs is typically due to<del class="diffchange diffchange-inline"> a</del> an externalization of costs or an unwillingness to recalculate a system to account for marginal production.  For example consider a firm that already has a factory full of equipment and staff. They might estimate the shadow price for a few more units of production as simply the cost of the overtime. In this manner some goods and services have near zero shadow prices, for example [[information goods]].</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>The terms "Shadow Price" or "Shadow Pricing" are used to refer to monitory values assigned to currently unknowable or difficult to calculate costs.  The origin of these costs is typically due to an externalization of costs or an unwillingness to recalculate a system to account for marginal production.  For example consider a firm that already has a factory full of equipment and staff. They might estimate the shadow price for a few more units of production as simply the cost of the overtime. In this manner some goods and services have near zero shadow prices, for example [[information goods]].</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Less formally, the cost of decisions made at the margin without consideration of the total cost. For example consider a trip in your car. You might estimate the shadow price of that trip by including the cost of gas; but you unlikely to include the wear on the tires or the cost of the money you might have borrowed to purchase the car.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Less formally, the cost of decisions made at the margin without consideration of the total cost. For example consider a trip in your car. You might estimate the shadow price of that trip by including the cost of gas; but you unlikely to include the wear on the tires or the cost of the money you might have borrowed to purchase the car.</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 16:15, 23 July 2014</h2>
+<table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<table class="collapsible" style="width:95%; background:transparent;">
+<tr>
+<th style="text-align:left; padding:0.2em 2px 0.2em 0;">This article has multiple issues. <span style="font-weight: normal;">Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Shadow_price&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Shadow_price" title="Talk:Shadow price">talk page</a></b>.</span></th>
+</tr>
+<tr>
+<td>
+<table class="metadata plainlinks ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be too <a href="//en.wiktionary.org/wiki/technical#Adjective" class="extiw" title="wikt:technical">technical</a> for most readers to understand</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Shadow_price&amp;action=edit">improve</a> this article to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. The <a href="/wiki/Talk:Shadow_price" title="Talk:Shadow price">talk page</a> may contain suggestions.</span> <small><i>(February 2014)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-one_source" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>relies largely or entirely upon a <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">single source</a></b>. <span class="hide-when-compact">Relevant discussion may be found on the <a href="/wiki/Talk:Shadow_price#.23" title="Talk:Shadow price">talk page</a>. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Shadow_price&amp;action=edit">improve this article</a> by introducing <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to additional sources.</span> <small><i>(February 2014)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-style ambox-Tone" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>tone or style may not reflect the encyclopedic tone used on Wikipedia</b>. <span class="hide-when-compact">See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small><i>(February 2014)</i></small></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The terms "Shadow Price" or "Shadow Pricing" are used to refer to monitory values assigned to currently unknowable or difficult to calculate costs. The origin of these costs is typically due to an externalization of costs or an unwillingness to recalculate a system to account for marginal production. For example consider a firm that already has a factory full of equipment and staff. They might estimate the shadow price for a few more units of production as simply the cost of the overtime. In this manner some goods and services have near zero shadow prices, for example <a href="/wiki/Information_goods" title="Information goods" class="mw-redirect">information goods</a>.</p>
+<p>Less formally, the cost of decisions made at the margin without consideration of the total cost. For example consider a trip in your car. You might estimate the shadow price of that trip by including the cost of gas; but you unlikely to include the wear on the tires or the cost of the money you might have borrowed to purchase the car.</p>
+<p>In <a href="/wiki/Constrained_optimization" title="Constrained optimization">constrained optimization</a> in <a href="/wiki/Economics" title="Economics">economics</a>, the <b>shadow price</b> is the instantaneous change, per unit of the constraint, in the objective value of the optimal solution of an <a href="/wiki/Optimization_problem" title="Optimization problem">optimization problem</a> obtained by relaxing the <a href="/wiki/Constraint_(mathematics)" title="Constraint (mathematics)">constraint</a>. In other words, it is the <a href="/wiki/Marginal_utility" title="Marginal utility">marginal utility</a> of relaxing the constraint, or, equivalently, the <a href="/wiki/Marginal_cost" title="Marginal cost">marginal cost</a> of strengthening the constraint.</p>
+<p>In a <a href="/wiki/Business" title="Business">business</a> application, a shadow price is the maximum price that management is willing to pay for an extra unit of a given limited resource.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> For example, if a production line is already operating at its maximum 40-hour limit, the shadow price would be the maximum price the manager would be willing to pay for operating it for an additional hour, based on the benefits he would get from this change.</p>
+<p>More formally, the shadow price is the value of the <a href="/wiki/Lagrange_multiplier" title="Lagrange multiplier">Lagrange multiplier</a> at the optimal solution, which means that it is the <a href="/wiki/Infinitesimal" title="Infinitesimal">infinitesimal</a> change in the objective function arising from an infinitesimal change in the constraint. This follows from the fact that at the optimal solution the gradient of the objective function is a linear combination of the constraint function gradients with the weights equal to the Lagrange multipliers. Each constraint in an <a href="/wiki/Optimization_(mathematics)" title="Optimization (mathematics)" class="mw-redirect">optimization</a> problem has a shadow price or <a href="/wiki/Dual_problem" title="Dual problem" class="mw-redirect">dual</a> variable.</p>
+<p>The value of the shadow price can provide decision-makers with insights into problems. For instance if a constraint limits the amount of labor available to you to 40 hours per week, the shadow price will tell you how much you should be willing to pay for an additional hour of labor. If your shadow price is $10 for the labor constraint, for instance, you should pay no more than $10 an hour for additional labor. Labor costs of less than $10/hour will increase the objective value; labor costs of more than $10/hour will decrease the objective value. Labor costs of exactly $10 will cause the objective function value to remain the same.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Shadow_Pricing_in_Investing"><span class="tocnumber">1</span> <span class="toctext">Shadow Pricing in Investing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Shadow_Price_on_a_Balance_Sheet"><span class="tocnumber">2</span> <span class="toctext">Shadow Price on a Balance Sheet</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Shadow_Price_of_Foreign_Exchange"><span class="tocnumber">3</span> <span class="toctext">Shadow Price of Foreign Exchange</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Illustration_.231"><span class="tocnumber">4</span> <span class="toctext">Illustration #1</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Illustration_.232"><span class="tocnumber">5</span> <span class="toctext">Illustration #2</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Control_theory"><span class="tocnumber">6</span> <span class="toctext">Control theory</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Shadow_Pricing_in_Investing">Shadow Pricing in Investing</span></h2>
+<p>Money market funds are always prices with a nominal value of $1.00 per share. That $1.00 price however does not accurately reflect the value of the fund. The Shadow Price refers to the amortized value of rather than the assigned market value.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Shadow_Price_on_a_Balance_Sheet">Shadow Price on a Balance Sheet</span></h2>
+<p>In advance of adequate regulation or market pricing for some commodity items conservative organizations will place on their balance sheets a value they believe to be an accurate reflection of the value of those items to their operations. This is common for companies with a large carbon footprint or water footprint. As an example <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> has placed a $27/ton price on it's carbon emissions which is then billed to the P&amp;L of its individual business units and used to fund the company's renewable energy &amp; efficiency programs.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Shadow_Price_of_Foreign_Exchange">Shadow Price of Foreign Exchange</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:ForexShadowPrice.jpg" class="image"><img alt="ForexShadowPrice.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/ForexShadowPrice.jpg/400px-ForexShadowPrice.jpg" width="400" height="265" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/4/44/ForexShadowPrice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/44/ForexShadowPrice.jpg 2x" data-file-width="578" data-file-height="383" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ForexShadowPrice.jpg" class="internal" title="Enlarge"></a></div>
+</div>
+</div>
+</div>
+<p><br style="clear:both;" /></p>
+<h2><span class="mw-headline" id="Illustration_.231">Illustration #1</span></h2>
+<p>Suppose a consumer faces prices <img class="mwe-math-fallback-image-inline tex" alt="\,\! p_1,p_2" src="//upload.wikimedia.org/math/0/3/3/033312cd7e4fe81d951c85540b69dbe6.png" /> and is endowed with income <img class="mwe-math-fallback-image-inline tex" alt="\,\!m" src="//upload.wikimedia.org/math/8/9/b/89bdcf4f84466004b5712f33f3a774ce.png" />, then the consumer's problem is: <img class="mwe-math-fallback-image-inline tex" alt="
+\max \{\,\!u(x_1,x_2)\mbox{ } :\mbox{ } p_1x_1+p_2x_2=m\}" src="//upload.wikimedia.org/math/9/7/8/978b1cc639fad584b81de79d22454130.png" />. Forming the Lagrangian auxiliary function <img class="mwe-math-fallback-image-inline tex" alt="\,\! L(x_1,x_2,\lambda):= u(x_1,x_2)+\lambda(m-p_1x_1-p_2x_2)" src="//upload.wikimedia.org/math/f/6/4/f64d5329e5739679198ed84f6c72ebc8.png" />, taking first order conditions and solving for its saddle point we obtain <img class="mwe-math-fallback-image-inline tex" alt="\,\! x^*_1\mbox{, }x^*_2\mbox{, }\lambda^*" src="//upload.wikimedia.org/math/c/7/3/c73aba927dc5b1f3c20fbc98f471bb33.png" /> which satisfy:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \lambda^*=\frac{\frac{\partial u(x^*_1,x^*_2)}{\partial x_1}}{p_1}= \frac{\frac{\partial u(x^*_1,x^*_2)}{\partial x_2}}{p_2}" src="//upload.wikimedia.org/math/d/3/f/d3fcdc85a098277d85b5abb46f07b805.png" /></dd>
+</dl>
+<p>This gives us a clear interpretation of the Lagrange Multiplier in the context of consumer maximization. If the consumer is given an extra dollar (the budget constraint is relaxed) at the optimal consumption level where the marginal utility per dollar for each good is equal to <img class="mwe-math-fallback-image-inline tex" alt="\,\! \lambda^*" src="//upload.wikimedia.org/math/5/2/2/522a17eb867ea413293797eadd0ddfd9.png" /> as above, then the change in maximal utility per dollar of additional income will be equal to <img class="mwe-math-fallback-image-inline tex" alt="\,\! \lambda^*" src="//upload.wikimedia.org/math/5/2/2/522a17eb867ea413293797eadd0ddfd9.png" /> since at the optimum the consumer gets the same amount of marginal utility per dollar from spending his additional income on either goods. In this case the shadow price concept does not carry much importance because the objective function (utility) and the constraint (income) are measured in different units.</p>
+<h2><span class="mw-headline" id="Illustration_.232">Illustration #2</span></h2>
+<p>Holding prices fixed, if we define</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" U(p_1,p_2,m) = \max \{\,\!u(x_1,x_2)\mbox{ } :\mbox{ } p_1x_1+p_2x_2=m\}" src="//upload.wikimedia.org/math/9/1/a/91a5fe7569f02c7d1d94dbb48f2c4430.png" />,</dd>
+</dl>
+<p>then we have the identity</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! U(p_1,p_2,m)=u(x_1^*(p_1,p_2,m),x_2^*(p_1,p_2,m)) " src="//upload.wikimedia.org/math/0/8/a/08aff228032801480328fca60fd2d2e1.png" />,</dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="\,\! x_1^*(\cdot,\cdot,\cdot),x_2^*(\cdot,\cdot,\cdot)" src="//upload.wikimedia.org/math/4/0/3/40364f913463678f5cc998aea6742c86.png" /> are the demand functions, i.e. <img class="mwe-math-fallback-image-inline tex" alt=" x_i^*(p_1,p_2,m) = \arg\max \{\,\!u(x_1,x_2)\mbox{ } :\mbox{ } p_1x_1+p_2x_2=m\} \mbox{ for } i=1,2" src="//upload.wikimedia.org/math/7/8/1/7814f23b0d764e69cd696cb4c659fcb0.png" /></p>
+<p>Now define the optimal expenditure function</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! E(p_1,p_2,m) =p_1x_1^*(p_1,p_2,m)+p_2x_2^*(p_1,p_2,m) " src="//upload.wikimedia.org/math/4/1/a/41a7751613cce30f4fe78c10b639538e.png" /></dd>
+</dl>
+<p>Assume differentiability and that <img class="mwe-math-fallback-image-inline tex" alt="\,\! \lambda^* " src="//upload.wikimedia.org/math/5/2/2/522a17eb867ea413293797eadd0ddfd9.png" /> is the solution at <img class="mwe-math-fallback-image-inline tex" alt="\,\! p_1,p_2,m" src="//upload.wikimedia.org/math/1/9/b/19b9ae3a7852029ad78f0f7e6e0e80c0.png" />, then we have from the multivariate chain rule:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! \frac{\partial U}{\partial m} =\frac{\partial u}{\partial x_1}\frac{\partial x_1^*}{\partial m} + \frac{\partial u}{\partial x_2}\frac{\partial x_2^*}{\partial m} =\lambda^* p_1\frac{\partial x_1^*}{\partial m} + \lambda^* p_2 \frac{\partial x_2^*}{\partial m}=\lambda^* \left(p_1\frac{\partial x_1^*}{\partial m} +  p_2 \frac{\partial x_2^*}{\partial m} \right) =\lambda^* \frac{\partial E}{\partial m} " src="//upload.wikimedia.org/math/9/3/d/93de60637a91abf60a5519d88ebc6936.png" /></dd>
+</dl>
+<p>Now we may conclude that</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\,\! \lambda^* = \frac{\partial U/\partial m}{\partial E/\partial m} \approx \frac{\Delta \mbox{Optimal Utility }}{\Delta \mbox{Optimal Expenditure}}" src="//upload.wikimedia.org/math/6/1/0/6102b98c30e59f09b759451c9230cd60.png" /></dd>
+</dl>
+<p>This again gives the obvious interpretation, one extra dollar of optimal expenditure will lead to <img class="mwe-math-fallback-image-inline tex" alt="\,\! \lambda^*" src="//upload.wikimedia.org/math/5/2/2/522a17eb867ea413293797eadd0ddfd9.png" /> units of optimal utility.</p>
+<h2><span class="mw-headline" id="Control_theory">Control theory</span></h2>
+<p>In <a href="/wiki/Optimal_control" title="Optimal control">optimal control</a> theory, the concept of shadow price is reformulated as <a href="/wiki/Costate_equations" title="Costate equations">costate equations</a>, and one solves the problem by minimization of the associated <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian</a> via <a href="/wiki/Pontryagin%27s_minimum_principle" title="Pontryagin's minimum principle">Pontryagin's minimum principle</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Market_price" title="Market price">Market price</a></li>
+<li><a href="/wiki/Reduced_cost" title="Reduced cost">Reduced cost</a></li>
+<li><a href="/wiki/Linear_programming" title="Linear programming">Linear programming</a></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Ravi Kanbur (1987). "shadow pricing ," <i><a href="/wiki/The_New_Palgrave:_A_Dictionary_of_Economics" title="The New Palgrave: A Dictionary of Economics" class="mw-redirect">The New Palgrave: A Dictionary of Economics</a></i>, v. 4, pp. 316-17.</li>
+<li>Economics of Development and Planning(Theory and Practice)- S.K Mishra, V.K Puri</li>
+<li>Hueting, R. (2011): <a rel="nofollow" class="external text" href="http://www.oekologisches-wirtschaften.de/index.php/oew/article/view/1161">The future of the Environmentally sustainable national income</a>. Ökologisches Wirtschaften, 4/2011, 30-35</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.answers.com/topic/shadow-price">Shadow Price: Definition and Much More from Answers.com</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.investopedia.com/terms/s/shadowpricing.asp">Definition of 'Shadow Price' from Investopedia.com</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://climatemoneypolicy.squarespace.com/latest/carbon-shadow-pricing">"Carbon Shadow Pricing" from www.ClimateMoneyPolicy.com</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.linkedin.com/today/post/article/20140717224824-31648971-carbon-shadow-pricing?trk=hb_ntf_MEGAPHONE_ARTICLE_LIKE">"Carbon Shadow Pricing" Via www.LinkedIn.com</a></span></li>
+</ol>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1213
+CPU time usage: 0.152 seconds
+Real time usage: 0.490 seconds
+Preprocessor visited node count: 511/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23302/2097152 bytes
+Template argument size: 2618/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1.27 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+115.85%  107.111      4 - Template:Ambox
+100.00%   92.455      1 - -total
+ 88.42%   81.747      1 - Template:Multiple_issues
+ 28.81%   26.639      1 - Template:Too_technical
+  8.32%    7.691      1 - Template:One_source
+  7.30%    6.751      1 - Template:Tone
+  4.87%    4.501      1 - Template:IEP_assignment
+  2.20%    2.034      1 - Template:Main_other
+  2.12%    1.961      1 - Template:The_artipage
+  1.72%    1.591      1 - Template:-
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Shadow_price&amp;oldid=618141620">http://en.wikipedia.org/w/index.php?title=Shadow_price&amp;oldid=618141620</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Operations_research" title="Category:Operations research">Operations research</a></li><li><a href="/wiki/Category:Mathematical_economics" title="Category:Mathematical economics">Mathematical economics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_February_2014" title="Category:Wikipedia articles that are too technical from February 2014">Wikipedia articles that are too technical from February 2014</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_February_2014" title="Category:Articles needing expert attention from February 2014">Articles needing expert attention from February 2014</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2014" title="Category:Articles needing additional references from February 2014">Articles needing additional references from February 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_February_2014" title="Category:Wikipedia articles needing style editing from February 2014">Wikipedia articles needing style editing from February 2014</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shadow+price&amp;returntoquery=diff%3D618141620%26oldid%3D617384822&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shadow+price&amp;returntoquery=diff%3D618141620%26oldid%3D617384822" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Shadow_price"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Shadow_price"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Shadow_price" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Shadow_price&amp;action=edit&amp;oldid=618141620"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shadow_price&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shadow_price" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shadow_price" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Shadow_price&amp;oldid=618141620" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Shadow_price&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3308839" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shadow_price&amp;id=618141620" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shadow+price">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Shadow+price&amp;oldid=617384822&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Shadow_price&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Preu_ombra" title="Preu ombra – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Varihind" title="Varihind – Estonian" lang="et" hreflang="et">Eesti</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Precio_sombra" title="Precio sombra – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pre%C3%A7o_sombra" title="Preço sombra – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%BD%B1%E5%AD%90%E4%BB%B7%E6%A0%BC" title="影子价格 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q3308839#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shadow_price&amp;diff=618141620&amp;oldid=617384822&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":643,"wgHostname":"mw1213"});
+}</script>
+	</body>
+</html>

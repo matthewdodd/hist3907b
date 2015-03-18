@@ -1,0 +1,1638 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>ISO 8601: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ISO_8601&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=ISO_8601&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/ISO_8601" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=637492775&amp;oldid=637135245" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ISO_8601","wgTitle":"ISO 8601","wgCurRevisionId":648807654,"wgRevisionId":637492775,"wgArticleId":15024,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Wikipedia articles needing clarification from October 2013","All Wikipedia articles needing clarification","Articles with DMOZ links","Specific calendars","ISO standards","Date and time representation","Time measurement systems"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ISO_8601","wgRelevantArticleId":15024,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q50101"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-ISO_8601 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">ISO 8601: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=ISO_8601&amp;oldid=637135245" title="ISO 8601">Revision as of 07:37, 8 December 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=ISO_8601&amp;action=edit&amp;oldid=637135245" title="ISO 8601">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Bgwhite" title="User:Bgwhite" class="mw-userlink">Bgwhite</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Bgwhite" title="User talk:Bgwhite">talk</a> | <a href="/wiki/Special:Contributions/Bgwhite" title="Special:Contributions/Bgwhite">contribs</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(restore back. using <a href="/wiki/Wikipedia:AWB" class="mw-redirect" title="Wikipedia:AWB">AWB</a> (10505))</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=ISO_8601&amp;diff=prev&amp;oldid=637135245" title="ISO 8601" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=ISO_8601&amp;oldid=637492775" title="ISO 8601">Revision as of 16:59, 10 December 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=ISO_8601&amp;action=edit&amp;oldid=637492775" title="ISO 8601">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=ISO_8601&amp;action=edit&amp;undoafter=637135245&amp;undo=637492775" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/198.103.167.20" title="Special:Contributions/198.103.167.20" class="mw-userlink mw-anonuserlink">198.103.167.20</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:198.103.167.20" title="User talk:198.103.167.20">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#General_principles">→</a>‎<span dir="auto"><span class="autocomment">General principles</span></span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=ISO_8601&amp;diff=next&amp;oldid=637492775" title="ISO 8601" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 29:</td>
+  <td colspan="2" class="diff-lineno">Line 29:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==General principles==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==General principles==</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>*Date and time values are ordered from the <del class="diffchange diffchange-inline">most</del> to the <del class="diffchange diffchange-inline">least</del> <del class="diffchange diffchange-inline">significant</del>: year, month (or week), day, hour, minute, second, and fraction of second. The [[lexicographical order]] of the representation thus corresponds to chronological order, except for date representations involving negative years. This allows dates to be naturally [[sorting|sorted]] by, for example, file systems.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>*Date and time values are ordered from the <ins class="diffchange diffchange-inline">largest</ins> to the <ins class="diffchange diffchange-inline">smallest</ins> <ins class="diffchange diffchange-inline">measurement of time</ins>: year, month (or week), day, hour, minute, second, and fraction of second. The [[lexicographical order]] of the representation thus corresponds to chronological order, except for date representations involving negative years. This allows dates to be naturally [[sorting|sorted]] by, for example, file systems.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>*Each date and time value has a fixed number of digits that must be padded with [[leading zero]]s.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>*Each date and time value has a fixed number of digits that must be padded with [[leading zero]]s.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>*Representations can be done in one of two formats{{spaced ndash}}a basic format with a minimal number of separators or an extended format with separators added to enhance human readability.&lt;ref name=isofaqtnd&gt;ISO, FAQ: ''[http://www.iso.org/iso/iso8601 Numeric representation of Dates and Time]''&lt;/ref&gt; The standard notes that "The basic format should be avoided in plain text."&lt;ref&gt;ISO 8601:2004 section 2.3.3 basic format&lt;/ref&gt; The separator used between date values (year, month, week, and day) is the [[hyphen]], while the [[Colon (punctuation)|colon]] is used as the separator between time values (hours, minutes, and seconds).&lt;!--dead link: [http://lists.ebxml.org/archives/ebxml-core/200104/pdf00005.pdf]--&gt; For example, the 6th day of the 1st month of the year 2009 may be written as {{nowrap|"2009-01-06"}} in the extended format or simply as "20090106" in the basic format without ambiguity.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>*Representations can be done in one of two formats{{spaced ndash}}a basic format with a minimal number of separators or an extended format with separators added to enhance human readability.&lt;ref name=isofaqtnd&gt;ISO, FAQ: ''[http://www.iso.org/iso/iso8601 Numeric representation of Dates and Time]''&lt;/ref&gt; The standard notes that "The basic format should be avoided in plain text."&lt;ref&gt;ISO 8601:2004 section 2.3.3 basic format&lt;/ref&gt; The separator used between date values (year, month, week, and day) is the [[hyphen]], while the [[Colon (punctuation)|colon]] is used as the separator between time values (hours, minutes, and seconds).&lt;!--dead link: [http://lists.ebxml.org/archives/ebxml-core/200104/pdf00005.pdf]--&gt; For example, the 6th day of the 1st month of the year 2009 may be written as {{nowrap|"2009-01-06"}} in the extended format or simply as "20090106" in the basic format without ambiguity.</div></td>
+</tr>
+
+<!-- diff cache key enwiki:diff:version:1.11a:oldid:637135245:newid:637492775 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 16:59, 10 December 2014</h2>
+<p><b>ISO 8601</b> <i>Data elements and interchange formats – Information interchange – Representation of dates and times</i> is an <a href="/wiki/International_standard" title="International standard">international standard</a> covering the exchange of <a href="/wiki/Calendar_date" title="Calendar date">date</a> and <a href="/wiki/Time" title="Time">time</a>-related data. It was issued by the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO) and was first published in 1988. The purpose of this standard is to provide an unambiguous and well-defined method of representing dates and times, so as to avoid misinterpretation of numeric representations of dates and times, particularly when data are transferred between <a href="/wiki/Date_and_time_notation_by_country" title="Date and time notation by country" class="mw-redirect">countries with different conventions</a> for writing numeric dates and times.</p>
+<p>In general, ISO 8601 applies to representations and formats of dates in the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a> (and potentially <a href="/wiki/Proleptic_Gregorian_calendar" title="Proleptic Gregorian calendar">proleptic Gregorian</a>) calendar, times based on the <a href="/wiki/24-hour_clock" title="24-hour clock">24-hour timekeeping system</a> (including optional <a href="/wiki/Time_zone" title="Time zone">time zone</a> information), <a href="/wiki/Time_interval#Time-like_concepts:_terminology" title="Time interval" class="mw-redirect">time intervals</a> and combinations thereof.<sup id="cite_ref-scope_1-0" class="reference"><a href="#cite_note-scope-1"><span>[</span>1<span>]</span></a></sup> The standard does not assign any specific meaning to elements of the date/time to be represented; the meaning will depend on the context of its use. In addition, dates and times to be represented cannot include words with no specified numerical meaning in the standard (e.g. names of <a href="/wiki/Chinese_calendar_correspondence_table" title="Chinese calendar correspondence table">years in the Chinese calendar</a>) or that do not use <a href="/wiki/Character_(computing)" title="Character (computing)">characters</a> (e.g. images, sounds).<sup id="cite_ref-scope_1-1" class="reference"><a href="#cite_note-scope-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In representations for interchange, dates and times are arranged so the largest temporal term (the year) is placed to the left and each successively smaller term is placed to the right of the previous term. Representations must be written in a combination of <a href="/wiki/Arabic_numerals" title="Arabic numerals">Arabic numerals</a> and certain characters (such as "-", "W", and "Z") that are given specific meanings within the standard; The implication is that some commonplace ways of writing parts of dates, such as "January" or "Thursday", are not allowed in interchange representations.</p>
+<table class="infobox">
+<tr>
+<th colspan="2">Date and time <small>(current at page generation)</small><br />
+expressed according to ISO 8601:</th>
+</tr>
+<tr>
+<td>Date:</td>
+<td><b>2015-03-18</b></td>
+</tr>
+<tr>
+<td>Combined date and time in <a href="/wiki/UTC" title="UTC" class="mw-redirect">UTC</a>:</td>
+<td><b>2015-03-18T21:02:31+00:00</b><br />
+<b>2015-03-18T21:02:31Z</b></td>
+</tr>
+<tr>
+<td>Week:</td>
+<td><b>2015-W12</b></td>
+</tr>
+<tr>
+<td>Date with week number:</td>
+<td><b>2015-W12-3</b></td>
+</tr>
+<tr>
+<td>Ordinal date:</td>
+<td><b>2015-077</b></td>
+</tr>
+</table>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_principles"><span class="tocnumber">2</span> <span class="toctext">General principles</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Dates"><span class="tocnumber">3</span> <span class="toctext">Dates</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Years"><span class="tocnumber">3.1</span> <span class="toctext">Years</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Calendar_dates"><span class="tocnumber">3.2</span> <span class="toctext">Calendar dates</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Week_dates"><span class="tocnumber">3.3</span> <span class="toctext">Week dates</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ordinal_dates"><span class="tocnumber">3.4</span> <span class="toctext">Ordinal dates</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Times"><span class="tocnumber">4</span> <span class="toctext">Times</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Time_zone_designators"><span class="tocnumber">4.1</span> <span class="toctext">Time zone designators</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#UTC"><span class="tocnumber">4.1.1</span> <span class="toctext">UTC</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Time_offsets_from_UTC"><span class="tocnumber">4.1.2</span> <span class="toctext">Time offsets from UTC</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Combined_date_and_time_representations"><span class="tocnumber">5</span> <span class="toctext">Combined date and time representations</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Durations"><span class="tocnumber">6</span> <span class="toctext">Durations</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Time_intervals"><span class="tocnumber">7</span> <span class="toctext">Time intervals</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Repeating_intervals"><span class="tocnumber">7.1</span> <span class="toctext">Repeating intervals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Truncated_representations"><span class="tocnumber">8</span> <span class="toctext">Truncated representations</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Usage"><span class="tocnumber">9</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Related_standards"><span class="tocnumber">10</span> <span class="toctext">Related standards</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Notes_and_references"><span class="tocnumber">12</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>The first edition of the ISO 8601 standard was published in 1988. It unified and replaced a number of older ISO standards on various aspects of date and time notation: <a href="/wiki/ISO_2014" title="ISO 2014">ISO 2014</a>, <a href="/wiki/ISO_2015" title="ISO 2015">ISO 2015</a>, <a href="/wiki/ISO_2711" title="ISO 2711">ISO 2711</a>, <a href="/wiki/ISO_3307" title="ISO 3307">ISO 3307</a>, and <a href="/wiki/ISO_4031" title="ISO 4031">ISO 4031</a>.<sup id="cite_ref-doc2004_2-0" class="reference"><a href="#cite_note-doc2004-2"><span>[</span>2<span>]</span></a></sup> It has been superseded by a second edition in 2000 and by the current third edition published on 3 December 2004. ISO 8601 was prepared by,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> and is under the direct responsibility of, <a href="/wiki/List_of_ISO_technical_committees" title="List of ISO technical committees">ISO Technical Committee</a> TC 154.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>ISO 2014, though superseded, is the standard that originally introduced the all-numeric date notation in most-to-least-significant order <span class="nowrap">[YYYY]-[MM]-[DD]</span>. The ISO week numbering system was introduced in ISO 2015, and the identification of days by ordinal dates was originally defined in ISO 2711.</p>
+<h2><span class="mw-headline" id="General_principles">General principles</span></h2>
+<ul>
+<li>Date and time values are ordered from the largest to the smallest measurement of time: year, month (or week), day, hour, minute, second, and fraction of second. The <a href="/wiki/Lexicographical_order" title="Lexicographical order">lexicographical order</a> of the representation thus corresponds to chronological order, except for date representations involving negative years. This allows dates to be naturally <a href="/wiki/Sorting" title="Sorting">sorted</a> by, for example, file systems.</li>
+<li>Each date and time value has a fixed number of digits that must be padded with <a href="/wiki/Leading_zero" title="Leading zero">leading zeros</a>.</li>
+<li>Representations can be done in one of two formats&#160;– a basic format with a minimal number of separators or an extended format with separators added to enhance human readability.<sup id="cite_ref-isofaqtnd_5-0" class="reference"><a href="#cite_note-isofaqtnd-5"><span>[</span>5<span>]</span></a></sup> The standard notes that "The basic format should be avoided in plain text."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> The separator used between date values (year, month, week, and day) is the <a href="/wiki/Hyphen" title="Hyphen">hyphen</a>, while the <a href="/wiki/Colon_(punctuation)" title="Colon (punctuation)">colon</a> is used as the separator between time values (hours, minutes, and seconds). For example, the 6th day of the 1st month of the year 2009 may be written as <span class="nowrap">"2009-01-06"</span> in the extended format or simply as "20090106" in the basic format without ambiguity.</li>
+<li>For reduced precision,<sup id="cite_ref-AccuracyVsPrecision_7-0" class="reference"><a href="#cite_note-AccuracyVsPrecision-7"><span>[</span>7<span>]</span></a></sup> any number of values may be dropped from any of the date and time representations, but in the order from the least to the most significant. For example, "2004-05" is a valid ISO 8601 date, which indicates May (the fifth month) 2004. This format will never represent the 5th day of an unspecified month in 2004, nor will it represent a time-span extending from 2004 into 2005.</li>
+<li>If necessary for a particular application, the standard supports the addition of a <a href="/wiki/Decimal_fractions" title="Decimal fractions" class="mw-redirect">decimal fraction</a> to the smallest time value in the representation.</li>
+</ul>
+<h2><span class="mw-headline" id="Dates">Dates</span></h2>
+<table align="right" class="toccolours" style="margin-left: 1em; text-align:center; clear:right">
+<tr style="background:lightblue;">
+<td colspan="8"><b>March 2015</b></td>
+</tr>
+<tr>
+<td width="10%"><a href="/wiki/ISO_week_date" title="ISO week date">Wk</a></td>
+<td width="10%">Mo</td>
+<td width="10%">Tu</td>
+<td width="10%">We</td>
+<td width="10%">Th</td>
+<td width="10%">Fr</td>
+<td width="10%">Sa</td>
+<td width="10%">Su</td>
+</tr>
+<tr>
+<td>(9)</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>1</td>
+</tr>
+<tr>
+<td>(10)</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>(11)</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+</tr>
+<tr>
+<td>(12)</td>
+<td>16</td>
+<td>17</td>
+<td style="background-color: gold">18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+</tr>
+<tr>
+<td>(13)</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+</tr>
+<tr>
+<td>(14)</td>
+<td>30</td>
+<td>31</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+</table>
+<p>The standard uses the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>, which serves as an international standard for civil use.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>ISO 8601 fixes a reference calendar date to the Gregorian calendar of 20 May 1875 as the date the <i>Convention du Mètre</i> (<a href="/wiki/Metre_Convention" title="Metre Convention">Metre Convention</a>) was signed in <a href="/wiki/Paris" title="Paris">Paris</a>. However, ISO calendar dates before the Convention are still compatible with the Gregorian calendar all the way back to the official introduction of the Gregorian calendar on <span class="nowrap">1582-10-15</span>. Earlier dates, in the <a href="/wiki/Proleptic_Gregorian_calendar" title="Proleptic Gregorian calendar">proleptic Gregorian calendar</a>, may be used by mutual agreement of the partners exchanging information. The standard states that every date must be consecutive, so usage of the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a> would be contrary to the standard (because at the switchover date, the dates would not be consecutive).</p>
+<h3><span class="mw-headline" id="Years">Years</span></h3>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>YYYY</td>
+</tr>
+<tr>
+<td>±<u>Y</u>YYYY</td>
+</tr>
+</table>
+<p>ISO 8601 prescribes, as a minimum, a four-digit year [YYYY] to avoid the <a href="/wiki/Year_2000_problem" title="Year 2000 problem">year 2000 problem</a>. It therefore represents years from 0000 to 9999, year 0000 being equal to 1 BC and all others AD. However, years prior to 1583 are not automatically allowed by the standard. Instead "values in the range [0000] through [1582] shall only be used by mutual agreement of the partners in information interchange."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>To represent years before <a href="/wiki/Year_zero" title="Year zero" class="mw-redirect">0000</a> or after <a href="/wiki/Year_10,000_problem" title="Year 10,000 problem">9999</a>, the standard also permits the expansion of the year representation but only by prior agreement between the sender and the receiver.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> An expanded year representation [±<u>Y</u>YYYY] must have an agreed-upon number of extra year digits beyond the four-digit minimum, and it must be prefixed with a + or − sign<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> instead of the more common <a href="/wiki/Anno_Domini" title="Anno Domini">AD</a> or <a href="/wiki/Before_Christ" title="Before Christ" class="mw-redirect">BC</a> (or the less widely used <a href="/wiki/Common_Era" title="Common Era">BCE/CE</a>) notation; by convention 1 BC is labelled <a href="/wiki/Year_zero" title="Year zero" class="mw-redirect">+0000</a>, 2 BC is labeled -0001, and so on.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Calendar_dates">Calendar dates</span></h3>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>YYYY-MM-DD</td>
+<td><i>or</i></td>
+<td>YYYYMMDD</td>
+</tr>
+<tr>
+<td>YYYY-MM</td>
+<td colspan="2">(<i>but not</i> YYYYMM)</td>
+</tr>
+</table>
+<p>Calendar date representations are in the form shown in the box to the right. [YYYY] indicates a four-digit year, 0000 through 9999. [MM] indicates a two-digit month of the year, 01 through 12. [DD] indicates a two-digit day of that month, 01 through 31. For example, "5 April 1981" may be represented as either <span class="nowrap">"1981-04-05"</span><sup id="cite_ref-isofaqtnd_5-1" class="reference"><a href="#cite_note-isofaqtnd-5"><span>[</span>5<span>]</span></a></sup> in the <i>extended format</i> or "19810405" in the <i>basic format</i>.</p>
+<p>The standard also allows for calendar dates to be written with reduced precision. For example, one may write <span class="nowrap">"1981-04"</span> to mean "1981 April", and one may simply write "1981" to refer to that year or "19" to refer to the <a href="/wiki/Century" title="Century">century</a> from 1900 to 1999 inclusive. Although the standard allows both the YYYY-MM-DD and YYYYMMDD formats for complete calendar date representations, if the day [DD] is omitted then only the <span class="nowrap">YYYY-MM</span> format is allowed. By disallowing dates of the form YYYYMM, the standard avoids confusion with the <a href="#Truncated_representations">truncated representation</a> YYMMDD (still often used).</p>
+<h3><span class="mw-headline" id="Week_dates">Week dates</span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/ISO_week_date" title="ISO week date">ISO week date</a></div>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>YYYY-Www</td>
+<td><i>or</i></td>
+<td>YYYYWww</td>
+</tr>
+<tr>
+<td>YYYY-Www-D</td>
+<td><i>or</i></td>
+<td>YYYYWwwD</td>
+</tr>
+</table>
+<p>Week date representations are in the format as shown in the box to the right. [YYYY] indicates the <i>ISO week-numbering year</i> which is slightly different from the traditional <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> year (see below). [Www] is the <i>week number</i> prefixed by the letter <i>W</i>, from W01 through W53. [D] is the <i>weekday number</i>, from 1 through 7, beginning with Monday and ending with Sunday. This form is popular in the manufacturing industries.</p>
+<p>There are mutually equivalent descriptions of week 01:</p>
+<ul>
+<li>the week with the year's first Thursday in it (the formal ISO definition),</li>
+<li>the week with 4 January in it,</li>
+<li>the first week with the majority (four or more) of its days in the starting year, and</li>
+<li>the week starting with the Monday in the period 29 December – 4 January.</li>
+</ul>
+<p>If 1 January is on a Monday, Tuesday, Wednesday or Thursday, it is in week 01. If 1 January is on a Friday, Saturday or Sunday, it is in week 52 or 53 of the previous year (there is no week 00). 28 December is always in the last week of its year.</p>
+<p>The week number can be described by counting the Thursdays: week 12 contains the 12th Thursday of the year.</p>
+<p>The <i>ISO week-numbering year</i> starts at the first day (Monday) of week 01 and ends at the Sunday before the new ISO year (hence without overlap or gap). It consists of 52 or 53 full weeks. The ISO week-numbering year number deviates from the number of the traditional Gregorian calendar year on a Friday, Saturday, and Sunday, or a Saturday and Sunday, or just a Sunday, at the start of the traditional Gregorian calendar year (which are at the end of the previous ISO week-numbering year) and a Monday, Tuesday and Wednesday, or a Monday and Tuesday, or just a Monday, at the end of the traditional Gregorian calendar year (which are in week 01 of the next ISO week-numbering year). For Thursdays, the ISO week-numbering year number is always equal to the traditional Gregorian calendar year number.</p>
+<p>Examples:</p>
+<ul>
+<li>Monday 29 December 2008 is written "2009-W01-1"</li>
+<li>Sunday 3 January 2010 is written "2009-W53-7"</li>
+</ul>
+<p>For an overview of week numbering systems see <a href="/wiki/Week_number" title="Week number" class="mw-redirect">week number</a>. The US system has weeks from Sunday through Saturday, and partial weeks at the beginning and the end of the year. An advantage is that no separate year numbering like the ISO week-numbering year is needed, while correspondence of lexicographical order and chronological order is preserved.</p>
+<h3><span class="mw-headline" id="Ordinal_dates">Ordinal dates</span></h3>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>YYYY-DDD</td>
+<td><i>or</i></td>
+<td>YYYYDDD</td>
+</tr>
+</table>
+<p>An <a href="/wiki/Ordinal_date" title="Ordinal date">ordinal date</a> is a simple form for occasions when the arbitrary nature of week and month definitions are more of an impediment than an aid, for instance, when comparing dates from different calendars. As represented above, [YYYY] indicates a year. [DDD] is the day of that year, from 001 through 365 (366 in <a href="/wiki/Leap_year" title="Leap year">leap years</a>). For example, <span class="nowrap">"1981-04-05"</span> is also <span class="nowrap">"1981-095"</span>.</p>
+<p>This format is used with simple hardware systems that have a need for a date system, but where including full calendar calculation software may be a significant nuisance. This system is sometimes incorrectly referred to as "Julian Date", whereas the astronomical <a href="/wiki/Julian_day" title="Julian day">Julian Date</a> is a sequential count of the number of days since day 0 beginning <span class="nowrap">1 January 4713 BC</span> Greenwich noon, Julian proleptic calendar (or noon on ISO date <span class="nowrap">-4713-11-24</span> which uses the Gregorian proleptic calendar with a year [0000]).</p>
+<h2><span class="mw-headline" id="Times">Times</span></h2>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>hh:mm:ss</td>
+<td><i>or</i></td>
+<td>hhmmss</td>
+</tr>
+<tr>
+<td>hh:mm</td>
+<td><i>or</i></td>
+<td>hhmm</td>
+</tr>
+<tr>
+<td></td>
+<td>hh</td>
+<td></td>
+</tr>
+</table>
+<p>ISO 8601 uses the <a href="/wiki/24-hour_clock" title="24-hour clock">24-hour clock</a> system. The <i>basic format</i> is [hh][mm][ss] and the <i>extended format</i> is [hh]:[mm]:[ss].</p>
+<ul>
+<li>[hh] refers to a zero-padded <a href="/wiki/Hour" title="Hour">hour</a> between 00 and 24 (where 24 is only used to denote midnight at the end of a calendar day).</li>
+<li>[mm] refers to a zero-padded <a href="/wiki/Minute" title="Minute">minute</a> between 00 and 59.</li>
+<li>[ss] refers to a zero-padded <a href="/wiki/Second" title="Second">second</a> between 00 and 60 (where 60 is only used to denote an added <a href="/wiki/Leap_second" title="Leap second">leap second</a>).</li>
+</ul>
+<p>So a time might appear as either "134730" in the <i>basic format</i> or "13:47:30" in the <i>extended format</i>.</p>
+<p>It is also acceptable to omit lower order time elements for reduced precision:<sup id="cite_ref-AccuracyVsPrecision_7-1" class="reference"><a href="#cite_note-AccuracyVsPrecision-7"><span>[</span>7<span>]</span></a></sup> [hh]:[mm], [hh][mm] and [hh] are all used. (The use of [hh] alone is considered basic format.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup>)</p>
+<p><i><a href="/wiki/Midnight" title="Midnight">Midnight</a></i> is a special case and may be referred to as either "00:00" or "24:00". The notation "00:00" is used at the beginning of a calendar day and is the more frequently used. At the end of a day use "24:00". "2007-04-05T24:00" is the same instant as "2007-04-06T00:00" (see <i><a href="#Combined_date_and_time_representations">Combined date and time representations</a></i> below).</p>
+<p>Decimal fractions may be added to any of the three time elements. However, a fraction may only be added to the lowest order time element in the representation. A <a href="/wiki/Decimal_mark" title="Decimal mark">decimal mark</a>, either a <a href="/wiki/Comma_(punctuation)" title="Comma (punctuation)" class="mw-redirect">comma</a> or a <a href="/wiki/Full_stop" title="Full stop">dot</a> (without any preference as stated in resolution 10 of the 22nd General Conference CGPM in 2003,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> but with a preference for a <a href="/wiki/Comma_(punctuation)" title="Comma (punctuation)" class="mw-redirect">comma</a> according to ISO 8601:2004)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> is used as a separator between the time element and its fraction. To denote "14 hours, 30 and one half minutes", do not include a seconds figure. Represent it as "14:30,5", "1430,5", "14:30.5", or "1430.5". There is no limit on the number of decimal places for the decimal fraction. However, the number of decimal places needs to be agreed to by the communicating parties.</p>
+<h3><span class="mw-headline" id="Time_zone_designators">Time zone designators</span></h3>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>&lt;time&gt;Z</td>
+</tr>
+<tr>
+<td>&lt;time&gt;±hh:mm</td>
+</tr>
+<tr>
+<td>&lt;time&gt;±hhmm</td>
+</tr>
+<tr>
+<td>&lt;time&gt;±hh</td>
+</tr>
+</table>
+<p><a href="/wiki/Time_zone" title="Time zone">Time zones</a> in ISO 8601 are represented as local time (with the location unspecified), as <a href="/wiki/UTC" title="UTC" class="mw-redirect">UTC</a>, or as an offset from UTC.</p>
+<p>If no UTC relation information is given with a time representation, the time is assumed to be in local time. While it may be safe to assume local time when communicating in the same time zone, it is ambiguous when used in communicating across different time zones. It is usually preferable to indicate a time zone (zone designator) using the standard's notation.</p>
+<h4><span class="mw-headline" id="UTC">UTC</span></h4>
+<p>If the time is in <a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>, add a <i>Z</i> directly after the time without a space. <i>Z</i> is the zone designator for the zero UTC offset. "09:30 UTC" is therefore represented as "09:30Z" or "0930Z". "14:45:15 UTC" would be "14:45:15Z" or "144515Z".</p>
+<p>UTC time is also known as 'Zulu' time, since 'Zulu' is the <a href="/wiki/ICAO_spelling_alphabet" title="ICAO spelling alphabet" class="mw-redirect">NATO phonetic alphabet</a> word for 'Z'.</p>
+<h4><span class="mw-headline" id="Time_offsets_from_UTC">Time offsets from UTC</span></h4>
+<table class="metadata plainlinks ambox ambox-style ambox-confusing" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be <a href="/wiki/Wikipedia:Vagueness" title="Wikipedia:Vagueness">confusing or unclear</a> to readers</b>. <span class="hide-when-compact">Please help us <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">clarify the article</a>; suggestions may be found on the <a href="/wiki/Talk:ISO_8601" title="Talk:ISO 8601">talk page</a>.</span> <small><i>(October 2013)</i></small></span></td>
+</tr>
+</table>
+<p>The <a href="/wiki/UTC_offset" title="UTC offset">offset from UTC</a> is given in the format ±[hh]:[mm], ±[hh][mm], or ±[hh]. So if the time being described is one hour ahead of UTC (such as the time in <a href="/wiki/Berlin" title="Berlin">Berlin</a> during the winter), the zone designator would be "+01:00", "+0100", or simply "+01". This is appended to the time in the same way that 'Z' was above. The offset from UTC changes with <a href="/wiki/Daylight_saving_time" title="Daylight saving time">daylight saving time</a>, e.g. a time offset in <a href="/wiki/Chicago" title="Chicago">Chicago</a>, would be "−06:00" for the winter (<a href="/wiki/Central_Standard_Time_Zone" title="Central Standard Time Zone" class="mw-redirect">Central Standard Time</a>) and "−05:00" for the summer (<a href="/wiki/Central_Daylight_Time_Zone" title="Central Daylight Time Zone" class="mw-redirect">Central Daylight Time</a>).</p>
+<p>The following times all refer to the same moment: "18:30Z", "22:30+04", "1130−0700", and "15:00−03:30". <a href="/wiki/Nautical_time" title="Nautical time">Nautical time</a> zone letters are not used with the exception of Z. To calculate UTC time one has to subtract the offset from the local time, e.g. for "15:00−03:30" do 15:00 − (−03:30) to get 18:30 UTC.</p>
+<p>An offset of zero, in addition to having the special representation "Z", can also be stated numerically as "+00:00", "+0000", or "+00". However, it is not permitted to state it numerically with a negative sign, as "−00:00", "−0000", or "−00". The section dictating sign usage (section 3.4.2 in the 2004 edition of the standard) states that a plus sign must be used for a positive or zero value, and a minus sign for a negative value. Contrary to this rule, <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a>, which is otherwise a profile of ISO 8601, permits the use of "−00", with the same denotation as "+00" but a differing connotation.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Combined_date_and_time_representations">Combined date and time representations</span></h2>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>&lt;date&gt;T&lt;time&gt;</td>
+</tr>
+</table>
+<p>A single point in time can be represented by concatenating a complete date expression, the letter <i>T</i> as a delimiter, and a valid time expression. For example <span class="nowrap">"2007-04-05T14:30"</span>.</p>
+<p>If a time zone designator is required, it follows the combined date and time. For example "2007-04-05T14:30Z" or "2007-04-05T12:30-02:00".</p>
+<p>Either basic or extended formats may be used, but both date and time must use the same format. The date expression may be calendar, week, or ordinal, and must use a complete representation. The time expression may use reduced accuracy. It is permitted to omit the 'T' character by mutual agreement.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Durations">Durations</span></h2>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>PnYnMnDTnHnMnS</td>
+</tr>
+<tr>
+<td>PnW</td>
+</tr>
+<tr>
+<td>P&lt;date&gt;T&lt;time&gt;</td>
+</tr>
+</table>
+<p>Durations are a component of time intervals and define the amount of intervening time in a time interval. They should only be used as part of a time interval as prescribed by the standard. Time intervals are discussed in the next section.</p>
+<p>Durations are represented by the format P[n]Y[n]M[n]DT[n]H[n]M[n]S or P[n]W as shown to the right. In these representations, the [n] is replaced by the value for each of the date and time elements that follow the [n]. Leading zeros are not required, but the maximum number of digits for each element should be agreed to by the communicating parties. The capital letters <i>P</i>, <i>Y</i>, <i>M</i>, <i>W</i>, <i>D</i>, <i>T</i>, <i>H</i>, <i>M</i>, and <i>S</i> are designators for each of the date and time elements and are not replaced.</p>
+<ul>
+<li><i>P</i> is the duration designator (historically called "period") placed at the start of the duration representation.</li>
+<li><i>Y</i> is the year designator that follows the value for the number of years.</li>
+<li><i>M</i> is the month designator that follows the value for the number of months.</li>
+<li><i>W</i> is the week designator that follows the value for the number of weeks.</li>
+<li><i>D</i> is the day designator that follows the value for the number of days.</li>
+<li><i>T</i> is the time designator that precedes the time components of the representation.</li>
+<li><i>H</i> is the hour designator that follows the value for the number of hours.</li>
+<li><i>M</i> is the minute designator that follows the value for the number of minutes.</li>
+<li><i>S</i> is the second designator that follows the value for the number of seconds.</li>
+</ul>
+<p>For example, "P3Y6M4DT12H30M5S" represents a duration of "three years, six months, four days, twelve hours, thirty minutes, and five seconds".</p>
+<p>Date and time elements including their designator may be omitted if their value is zero, and lower order elements may also be omitted for reduced precision. For example, "P23DT23H" and "P4Y" are both acceptable duration representations.</p>
+<p>To resolve ambiguity, "P1M" is a one-month duration and "PT1M" is a one-minute duration (note the time designator, T, that precedes the time value). The smallest value used may also have a decimal fraction, as in "P0.5Y" to indicate half a year. This decimal fraction may be specified with either a <a href="/wiki/Comma" title="Comma">comma</a> or a <a href="/wiki/Full_stop" title="Full stop">full stop</a>, as in "P0,5Y" or "P0.5Y". The standard does not prohibit date and time values in a duration representation from exceeding their "carry over points" except as noted below. Thus, "PT36H" could be used as well as "P1DT12H" for representing the same duration.</p>
+<p>Alternatively, a format for duration based on combined date and time representations may be used by agreement between the communicating parties either in the basic format PYYYYMMDDThhmmss or in the extended format <span class="nowrap">P[YYYY]-[MM]-[DD]T[hh]:[mm]:[ss]</span>. For example, the first duration shown above would be <span class="nowrap">"P0003-06-04T12:30:05"</span>. However, individual date and time values cannot exceed their <a href="/wiki/Modular_arithmetic" title="Modular arithmetic">moduli</a> (e.g. a value of 13 for the month or 25 for the hour would not be permissible).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Time_intervals">Time intervals</span></h2>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>&lt;start&gt;/&lt;end&gt;</td>
+</tr>
+<tr>
+<td>&lt;start&gt;/&lt;duration&gt;</td>
+</tr>
+<tr>
+<td>&lt;duration&gt;/&lt;end&gt;</td>
+</tr>
+<tr>
+<td>&lt;duration&gt;</td>
+</tr>
+</table>
+<p>A time interval is the intervening time between two time points. The amount of intervening time is expressed by a duration (as described in the previous section). The two time points (start and end) are expressed by either a combined date and time representation or just a date representation.</p>
+<p>There are four ways to express a time interval:</p>
+<ol>
+<li>Start and end, such as "2007-03-01T13:00:00Z/2008-05-11T15:30:00Z"</li>
+<li>Start and duration, such as "2007-03-01T13:00:00Z/P1Y2M10DT2H30M"</li>
+<li>Duration and end, such as "P1Y2M10DT2H30M/2008-05-11T15:30:00Z"</li>
+<li>Duration only, such as "P1Y2M10DT2H30M", with additional context information</li>
+</ol>
+<p>Of these, the first three require two values separated by an <i>interval designator</i> which is usually a solidus or <a href="/wiki/Slash_(punctuation)" title="Slash (punctuation)">forward slash</a> "/". Section 4.4.2 of the standard notes that: "In certain application areas a double hyphen is used as a separator instead of a solidus." The standard does not define the term "double hyphen", but previous versions used notations like "2000--2002".<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> Use of a double hyphen instead of a solidus allows inclusion in computer <a href="/wiki/Filename" title="Filename">filenames</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> A solidus is a <a href="/wiki/Filename#Reserved_characters_and_words" title="Filename">reserved character</a> and not allowed in a filename in common operating systems.</p>
+<p>For &lt;start&gt;/&lt;end&gt; expressions, if any elements are missing from the end value, they are assumed to be the same as for the start value including the time zone. This feature of the standard allows for concise representations of time intervals. For example, the date of a two-hour meeting including the start and finish times could be simply shown as "2007-12-14T13:30/15:30", where "/15:30" implies "/2007-12-14T15:30" (the same date as the start), or the beginning and end dates of a monthly billing period as "2008-02-15/03-14", where "/03-14" implies "/2008-03-14" (the same year as the start).</p>
+<p>If greater precision is desirable to represent the time interval, then more time elements can be added to the representation. An interval denoted <span class="nowrap">"2007-11-13/15"</span> can start at any time on <span class="nowrap">2007-11-13</span> and end at any time on <span class="nowrap">2007-11-15</span>, whereas <span class="nowrap">"2007-11-13T09:00/15T17:00"</span> includes the start and end times. To explicitly include all of the start and end dates, the interval would be represented as <span class="nowrap">"2007-11-13T00:00/15T24:00"</span>.</p>
+<h3><span class="mw-headline" id="Repeating_intervals">Repeating intervals</span></h3>
+<table class="infobox" style="text-align:center; width:23em">
+<tr>
+<td>Rnn/&lt;interval&gt;</td>
+</tr>
+<tr>
+<td>R/&lt;interval&gt;</td>
+</tr>
+</table>
+<p>Repeating intervals are specified in clause "4.5 Recurring time interval". They are formed by adding "R[n]/" to the beginning of an interval expression, where <i>R</i> is used as the letter itself and [n] is replaced by the number of repetitions. Leaving out the value for [n] means an unbounded number of repetitions. If the interval specifies the start (forms 1 and 2 above), then this is the start of the repeating interval. If the interval specifies the end but not the start (form 3 above), then this is the end of the repeating interval. For example, to repeat the interval of "P1Y2M10DT2H30M" five times starting at <span class="nowrap">"2008-03-01T13:00:00Z"</span>, use <span class="nowrap">"R5/2008-03-01T13:00:00Z/P1Y2M10DT2H30M"</span>.</p>
+<h2><span class="mw-headline" id="Truncated_representations">Truncated representations</span></h2>
+<p>ISO 8601:2000 allowed truncation (by agreement), where leading components of a date or time are omitted. Notably, this allowed two-digit years to be used and the ambiguous formats YY-MM-DD and YYMMDD. This provision was removed in ISO 8601:2004.</p>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<p>On the <a href="/wiki/Internet" title="Internet">Internet</a>, the <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a> (W3C) uses ISO 8601 in defining a profile of the standard that restricts the supported date and time formats to reduce the chance of error and the complexity of software.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<p><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a> defines a profile of ISO 8601 for use in <a href="/wiki/Internet_protocol_suite" title="Internet protocol suite">Internet protocols</a> and <a href="/wiki/Internet_standard" title="Internet standard" class="mw-redirect">standards</a>. It explicitly excludes durations and dates before the <a href="/wiki/Common_era" title="Common era" class="mw-redirect">common era</a>. The more complex formats such as week numbers and ordinal days are not permitted.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<p><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a> deviates from ISO 8601 in allowing a zero timezone offset to be specified as "-00:00", which ISO 8601 forbids. <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a> intends "-00:00" to carry the connotation that it is not stating a preferred timezone, whereas the conforming "+00:00" or any non-zero offset connotes that the offset being used is preferred. This convention regarding "-00:00" is derived from earlier RFCs, such as <a href="/wiki/RFC_2822" title="RFC 2822" class="mw-redirect">RFC 2822</a> which uses it for timestamps in <a href="/wiki/Email" title="Email">email</a> headers. <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc2822">RFC 2822</a> made no claim that any part of its timestamp format conforms to ISO 8601, and so was free to use this convention without conflict. <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a> errs in adopting this convention while also claiming conformance to ISO 8601.</p>
+<p>ISO 8601 is referenced by several specifications, but the full range of options of ISO 8601 is not always used. For example, the various <a href="/wiki/Electronic_program_guide" title="Electronic program guide">electronic program guide</a> standards for TV, digital radio, etc. use several forms to describe points in time and durations. The <a href="/wiki/ID3" title="ID3">ID3</a> audio meta-data specification also makes use of a subset of ISO 8601.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> The <a href="/wiki/GeneralizedTime" title="GeneralizedTime">GeneralizedTime</a> makes use of another subset of ISO 8601.</p>
+<p>The <a href="/wiki/ISO_8601_week_date" title="ISO 8601 week date" class="mw-redirect">ISO 8601 week date</a>, as of 2006, appeared in its basic form on major brand commercial packaging in the United States. Its appearance depended on the particular packaging, canning, or bottling plant more than any particular brand. The format is particularly useful for quality assurance, so that production errors can be readily traced to work weeks, and products can be correctly targeted for recall.</p>
+<h2><span class="mw-headline" id="Related_standards">Related standards</span></h2>
+<table>
+<tr>
+<td>Australia</td>
+<td>AS ISO 8601-2007</td>
+</tr>
+<tr>
+<td>Austria</td>
+<td>OENORM EN 28601</td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td>NBN EN 28601</td>
+</tr>
+<tr>
+<td>Brazil</td>
+<td>NBR 5892:1989</td>
+</tr>
+<tr>
+<td>Canada</td>
+<td>CSA Z234.5:1989</td>
+</tr>
+<tr>
+<td>China</td>
+<td>GB/T 7408-2005</td>
+</tr>
+<tr>
+<td>Czech Republic</td>
+<td>ČSN ISO 8601</td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td>DS/ISO 8601:2005</td>
+</tr>
+<tr>
+<td>European Norm</td>
+<td>EN 28601:1992</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td>SFS-EN 28601</td>
+</tr>
+<tr>
+<td>France</td>
+<td>NF Z69-200; NF EN 28601:1993-06-01</td>
+</tr>
+<tr>
+<td>Germany</td>
+<td>DIN ISO 8601:2006-09 (replaced DIN EN 28601:1993-02); related: DIN 5008:2011-04</td>
+</tr>
+<tr>
+<td>Greece</td>
+<td>ELOT EN 28601</td>
+</tr>
+<tr>
+<td>Hungary</td>
+<td>MSZ ISO 8601:2003</td>
+</tr>
+<tr>
+<td>Iceland</td>
+<td>IST EN 28601:1992</td>
+</tr>
+<tr>
+<td>India</td>
+<td>IS 7900:2001</td>
+</tr>
+<tr>
+<td>Ireland</td>
+<td>IS/EN 28601:1993</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>UNI EN 28601</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>JIS X 0301-2002</td>
+</tr>
+<tr>
+<td>Lithuania</td>
+<td>LST ISO 8601:1997</td>
+</tr>
+<tr>
+<td>Luxembourg</td>
+<td>ITM-EN 28601</td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td>NEN ISO 8601 &amp; NEN EN 28601 &amp; NEN 2772</td>
+</tr>
+<tr>
+<td>Norway</td>
+<td>NS-ISO 8601</td>
+</tr>
+<tr>
+<td>Poland</td>
+<td>PN-90/N-01204</td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td>NP EN 28601</td>
+</tr>
+<tr>
+<td>Russia</td>
+<td>ГОСТ ИСО 8601-2001 (current), ГОСТ 7.64-90 (obsolete)</td>
+</tr>
+<tr>
+<td>South Africa</td>
+<td>ARP 010:1989</td>
+</tr>
+<tr>
+<td>Spain</td>
+<td>UNE EN 28601</td>
+</tr>
+<tr>
+<td>Sweden</td>
+<td>SS-ISO 8601</td>
+</tr>
+<tr>
+<td>Switzerland</td>
+<td>SN ISO 8601:2005-08</td>
+</tr>
+<tr>
+<td>Taiwan</td>
+<td>CNS 7648</td>
+</tr>
+<tr>
+<td>Thailand</td>
+<td>TIS 1111:2535 in 1992</td>
+</tr>
+<tr>
+<td>Turkey</td>
+<td>TS ISO 8601</td>
+</tr>
+<tr>
+<td>UK</td>
+<td>BS ISO 8601:2004, BS EN 28601 (1989-06-30)</td>
+</tr>
+<tr>
+<td>Ukraine</td>
+<td>ДСТУ ISO 8601:2010</td>
+</tr>
+<tr>
+<td>US</td>
+<td>ANSI INCITS 30-1997 (R2008) and NIST FIPS PUB 4-2</td>
+</tr>
+<tr>
+<td>Vietnam</td>
+<td>TCVN 6398-1:1998</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> Media related to <a href="//commons.wikimedia.org/wiki/Category:ISO_8601" class="extiw" title="commons:Category:ISO 8601">ISO 8601</a> at Wikimedia Commons</p>
+<ul>
+<li><a href="/wiki/Astronomical_year_numbering" title="Astronomical year numbering">Astronomical year numbering</a></li>
+<li><a href="/wiki/Date_and_time_representation_by_country" title="Date and time representation by country">Date and time representation by country</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-scope-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-scope_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-scope_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">ISO 8601:2004[E] section 1 Scope</span></li>
+<li id="cite_note-doc2004-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-doc2004_2-0">^</a></b></span> <span class="reference-text"><span id="CITEREF2004" class="citation"><i>ISO 8601:2004(E)</i>, <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>, 2004-12-01, <q>Annex A ... From that concept representations of all other date and time values were logically derived; thus, ISO 2014, ISO 3307 and ISO 4031 have been superseded.... Identification of a particular date by means of ordinal dates (ISO 2711) and by means of the week numbering system (ISO 2015) were alternative methods that the basic concept of this International Standard could also encompass; thus, ISO 2015 and ISO 2711 have now been superseded.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=ISO+8601%3A2004%28E%29&amp;rft.date=2004-12-01&amp;rft.genre=book&amp;rft.pub=ISO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book"><i>ISO 8601:2004(E)</i>. <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>. 2004-12-01. p. iv Foreword.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=ISO+8601%3A2004%28E%29&amp;rft.date=2004-12-01&amp;rft.genre=book&amp;rft.pages=p.+iv+Foreword&amp;rft.pub=ISO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_tc_browse.htm?commid=53186&amp;published=on">TC 154 Processes, data elements and documents in commerce, industry and administration</a>, Technical committees&#160;– ISO</span></li>
+<li id="cite_note-isofaqtnd-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-isofaqtnd_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-isofaqtnd_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">ISO, FAQ: <i><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso8601">Numeric representation of Dates and Time</a></i></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">ISO 8601:2004 section 2.3.3 basic format</span></li>
+<li id="cite_note-AccuracyVsPrecision-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-AccuracyVsPrecision_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AccuracyVsPrecision_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">ISO 8601 uses the word <i>accuracy</i>, not <i>precision</i>, in the relevant section, e.g: 2.3.7 representation with reduced accuracy.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation book">Doggett, L. E. (1992). "Calendars". In P. K. Seidelmann. <a rel="nofollow" class="external text" href="http://astro.nmsu.edu/~lhuber/leaphist.html"><i>Explanatory Supplement to the Astronomical Almanac</i></a>. Sausalito, California: University Science Books. p.&#160;580. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-935702-68-7" title="Special:BookSources/0-935702-68-7">0-935702-68-7</a>. <q>The Gregorian calendar today serves as an international standard for civil use.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.atitle=Calendars&amp;rft.au=Doggett%2C+L.+E.&amp;rft.aufirst=L.+E.&amp;rft.aulast=Doggett&amp;rft.btitle=Explanatory+Supplement+to+the+Astronomical+Almanac&amp;rft.date=1992&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fastro.nmsu.edu%2F~lhuber%2Fleaphist.html&amp;rft.isbn=0-935702-68-7&amp;rft.pages=580&amp;rft.place=Sausalito%2C+California&amp;rft.pub=University+Science+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation book"><i>ISO 8601:2004(E)</i>. <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>. 2004-12-01. section 4.1.2.1 General.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=ISO+8601%3A2004%28E%29&amp;rft.date=2004-12-01&amp;rft.genre=book&amp;rft.pages=section+4.1.2.1+General&amp;rft.pub=ISO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation book"><i>ISO 8601:2004(E)</i>. <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>. 2004-12-01. <q>3.5 Expansion ... By mutual agreement of the partners in information interchange, it is permitted to expand the component identifying the calendar year, which is otherwise limited to four digits. This enables reference to dates and times in calendar years outside the range supported by complete representations, i.e. before the start of the year [0000] or after the end of the year [9999].</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=ISO+8601%3A2004%28E%29&amp;rft.date=2004-12-01&amp;rft.genre=book&amp;rft.pub=ISO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">ISO 8601:2004 sections 3.4.2, 4.1.2.4</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">For example, see Annex B.1.1 of the standard.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">ISO 8601:2004 section 4.2.2.3 Representations with reduced accuracy</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nist.gov/public_affairs/techbeat/tb2006_1122.htm#decimal">"NIST TechBeat 2006-11-22"</a>. <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">NIST</a>. 2006-11-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-06</span></span>. <q>Decimals Score a Point on International Standards ... It soon may be possible to write international standards documents with decimal points in them.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=NIST+TechBeat+2006-11-22&amp;rft.date=2006-11-22&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nist.gov%2Fpublic_affairs%2Ftechbeat%2Ftb2006_1122.htm%23decimal&amp;rft.pub=NIST&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span id="CITEREF2004" class="citation"><i>ISO 8601:2004(E)</i>, <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>, 2004-12-01, <q>4.2.2.4 ... the decimal fraction shall be divided from the integer part by the decimal sign specified in ISO 31-0, i.e. the comma [,] or full stop [.]. Of these, the comma is the preferred sign.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=ISO+8601%3A2004%28E%29&amp;rft.date=2004-12-01&amp;rft.genre=book&amp;rft.pub=ISO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a>&#160;– Unknown local offset convention</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web">"ISO 8601:2004(E)". <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>. 2004-12-01. <q>4.3.2 NOTE: By mutual agreement of the partners in information interchange, the character [T] may be omitted in applications where there is no risk of confusing a date and time of day representation with others defined in this International Standard.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=ISO+8601%3A2004%28E%29&amp;rft.date=2004-12-01&amp;rft.genre=book&amp;rft.pub=ISO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">ISO 8601:2004 section 4.4.3.3 Alternative format</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.tut.fi/~jkorpela/iso8601.html">"Info on ISO 8601, the date and time representation standard"</a>. Cs.tut.fi<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-29</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=Info+on+ISO+8601%2C+the+date+and+time+representation+standard&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cs.tut.fi%2F~jkorpela%2Fiso8601.html&amp;rft.pub=Cs.tut.fi&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.hydrogold.com.au/news_2012.html#iso8601">"ISO 8601 - Getting with the Times (and Dates)"</a>. Hydrogold. 2012-01-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-13</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.btitle=ISO+8601+-+Getting+with+the+Times+%28and+Dates%29&amp;rft.date=2012-01-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hydrogold.com.au%2Fnews_2012.html%23iso8601&amp;rft.pub=Hydrogold&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.w3.org/TR/NOTE-datetime">Note about Date and Time Formats to W3C from Reuters</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a>, section 5.6</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web">Nilsson, M. (2000-11-01). <a rel="nofollow" class="external text" href="http://www.id3.org/id3v2.4.0-structure">"ID3 tag version 2.4.0 - Main Structure"</a>. id3.org. pp.&#160;§4<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-27</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AISO+8601&amp;rft.aufirst=M.&amp;rft.aulast=Nilsson&amp;rft.au=Nilsson%2C+M.&amp;rft.btitle=ID3+tag+version+2.4.0+-+Main+Structure&amp;rft.date=2000-11-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.id3.org%2Fid3v2.4.0-structure&amp;rft.pages=%C2%A74&amp;rft.pub=id3.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.iso.org/iso/catalogue_detail?csnumber=40874">ISO's catalog entry for ISO 8601:2004</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/QA/Tips/iso-date">Use international date format (ISO) – Quality Web Tips</a> <a href="/wiki/W3C" title="W3C" class="mw-redirect">The World Wide Web Consortium (W3C)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.dmoz.org/Science/Reference/Standards/Individual_Standards/ISO_8601">ISO 8601</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~mgk25/iso-time.html">ISO 8601 summary by Markus Kuhn</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110614235056/http://www.iso.org/iso/support/faqs/faqs_widely_used_standards/widely_used_standards_other/date_and_time_format.htm">Summary of 8601 by ISO</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived 14 June 2011)</li>
+<li><a rel="nofollow" class="external text" href="http://www.staff.science.uu.nl/~gent0113/calendar/isocalendar.htm">The Mathematics of the ISO 8601 Calendar</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/TR/NOTE-datetime">W3C Specification about UTC Date and Time</a> and <a href="/wiki/IETF" title="IETF" class="mw-redirect">IETF</a> <a href="/wiki/Internet_standard" title="Internet standard" class="mw-redirect">Internet standard</a> <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3339">RFC 3339</a>, based on ISO 8601</li>
+</ul>
+<p>Implementation overview</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.qsl.net/g1smd/isoimp.htm">ISO 8601 Implementation Around The World</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Time_measurement_and_standards" title="Template:Time measurement and standards"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Time_measurement_and_standards" title="Template talk:Time measurement and standards"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Time_measurement_and_standards&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Time measurement and <a href="/wiki/Time_standard" title="Time standard">standards</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Major subjects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Time" title="Time">Time</a></b></li>
+<li><a href="/wiki/Chronometry" title="Chronometry">Chronometry</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(time)" title="Orders of magnitude (time)">Orders of magnitude</a></li>
+<li><a href="/wiki/Metrology" title="Metrology">Metrology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">International standards</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a></b></li>
+<li><a href="/wiki/UTC_offset" title="UTC offset">UTC offset</a></li>
+<li><a href="/wiki/Universal_Time" title="Universal Time">UT</a></li>
+<li><a href="/wiki/%CE%94T" title="ΔT">ΔT</a></li>
+<li><a href="/wiki/DUT1" title="DUT1">DUT1</a></li>
+<li><a href="/wiki/International_Earth_Rotation_and_Reference_Systems_Service" title="International Earth Rotation and Reference Systems Service">IERS</a></li>
+<li><a href="/wiki/ISO_31-1" title="ISO 31-1">ISO 31-1</a></li>
+<li><strong class="selflink">ISO 8601</strong></li>
+<li><a href="/wiki/International_Atomic_Time" title="International Atomic Time">TAI</a></li>
+<li><a href="/wiki/12-hour_clock" title="12-hour clock">12-hour clock</a></li>
+<li><a href="/wiki/24-hour_clock" title="24-hour clock">24-hour clock</a></li>
+<li><a href="/wiki/Barycentric_Coordinate_Time" title="Barycentric Coordinate Time">Barycentric Coordinate Time</a></li>
+<li><a href="/wiki/Civil_time" title="Civil time">Civil time</a></li>
+<li><a href="/wiki/Daylight_saving_time" title="Daylight saving time">Daylight saving time</a></li>
+<li><a href="/wiki/Geocentric_Coordinate_Time" title="Geocentric Coordinate Time">Geocentric Coordinate Time</a></li>
+<li><a href="/wiki/International_Date_Line" title="International Date Line">International Date Line</a></li>
+<li><a href="/wiki/Leap_second" title="Leap second">Leap second</a></li>
+<li><a href="/wiki/Solar_time" title="Solar time">Solar time</a></li>
+<li><a href="/wiki/Terrestrial_Time" title="Terrestrial Time">Terrestrial Time</a></li>
+<li><a href="/wiki/Time_zone" title="Time zone">Time zone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Obsolete standards</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barycentric_Dynamical_Time" title="Barycentric Dynamical Time">Barycentric Dynamical Time</a></li>
+<li><a href="/wiki/Ephemeris_time" title="Ephemeris time">Ephemeris time</a></li>
+<li><a href="/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">Greenwich Mean Time</a></li>
+<li><a href="/wiki/Prime_meridian" title="Prime meridian">Prime meridian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Time_in_physics" title="Time in physics">Time in physics</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Absolute_time_and_space" title="Absolute time and space">Absolute time and space</a></li>
+<li><a href="/wiki/Spacetime" title="Spacetime">Spacetime</a></li>
+<li><a href="/wiki/Chronon" title="Chronon">Chronon</a></li>
+<li><a href="/wiki/Continuous_signal" title="Continuous signal">Continuous time</a></li>
+<li><a href="/wiki/Coordinate_time" title="Coordinate time">Coordinate time</a></li>
+<li><a href="/wiki/Cosmological_decade" title="Cosmological decade">Cosmological decade</a></li>
+<li><a href="/wiki/Discrete_time" title="Discrete time" class="mw-redirect">Discrete time</a></li>
+<li><a href="/wiki/Planck_epoch" title="Planck epoch">Planck epoch</a></li>
+<li><a href="/wiki/Planck_time" title="Planck time">Planck time</a></li>
+<li><a href="/wiki/Proper_time" title="Proper time">Proper time</a></li>
+<li><a href="/wiki/Theory_of_relativity" title="Theory of relativity">Theory of relativity</a></li>
+<li><a href="/wiki/Time_dilation" title="Time dilation">Time dilation</a></li>
+<li><a href="/wiki/Gravitational_time_dilation" title="Gravitational time dilation">Gravitational time dilation</a></li>
+<li><a href="/wiki/Time_domain" title="Time domain">Time domain</a></li>
+<li><a href="/wiki/T-symmetry" title="T-symmetry">T-symmetry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Horology" title="Horology">Horology</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Clock" title="Clock">Clock</a></b></li>
+<li><a href="/wiki/Astrarium" title="Astrarium">Astrarium</a></li>
+<li><a href="/wiki/Atomic_clock" title="Atomic clock">Atomic clock</a></li>
+<li><a href="/wiki/Complication_(horology)" title="Complication (horology)">Complication</a></li>
+<li><a href="/wiki/Equation_of_time" title="Equation of time">Equation of time</a></li>
+<li><a href="/wiki/History_of_timekeeping_devices" title="History of timekeeping devices">History of timekeeping devices</a></li>
+<li><a href="/wiki/Hourglass" title="Hourglass">Hourglass</a></li>
+<li><a href="/wiki/Marine_chronometer" title="Marine chronometer">Marine chronometer</a></li>
+<li><a href="/wiki/Marine_sandglass" title="Marine sandglass">Marine sandglass</a></li>
+<li><a href="/wiki/Radio_clock" title="Radio clock">Radio clock</a></li>
+<li><a href="/wiki/Sundial" title="Sundial">Sundial</a></li>
+<li><a href="/wiki/Watch" title="Watch">Watch</a></li>
+<li><a href="/wiki/Water_clock" title="Water clock">Water clock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Calendar" title="Calendar">Calendar</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astronomical_year_numbering" title="Astronomical year numbering">Astronomical</a></li>
+<li><a href="/wiki/Dominical_letter" title="Dominical letter">Dominical letter</a></li>
+<li><a href="/wiki/Epact" title="Epact">Epact</a></li>
+<li><a href="/wiki/Equinox" title="Equinox">Equinox</a></li>
+<li><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a></li>
+<li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew</a></li>
+<li><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu</a></li>
+<li><a href="/wiki/Intercalation_(timekeeping)" title="Intercalation (timekeeping)">Intercalation</a></li>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic</a></li>
+<li><a href="/wiki/Julian_calendar" title="Julian calendar">Julian</a></li>
+<li><a href="/wiki/Leap_year" title="Leap year">Leap year</a></li>
+<li><a href="/wiki/Lunar_calendar" title="Lunar calendar">Lunar</a></li>
+<li><a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">Lunisolar</a></li>
+<li><a href="/wiki/Seven-day_week" title="Seven-day week">Seven-day week</a></li>
+<li><a href="/wiki/Solar_calendar" title="Solar calendar">Solar</a></li>
+<li><a href="/wiki/Solstice" title="Solstice">Solstice</a></li>
+<li><a href="/wiki/Tropical_year" title="Tropical year">Tropical year</a></li>
+<li><a href="/wiki/Weekday_determination" title="Weekday determination" class="mw-redirect">Weekday determination</a></li>
+<li><a href="/wiki/Weekday_names" title="Weekday names" class="mw-redirect">Weekday names</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Archaeology and geology</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dating_methodologies_in_archaeology" title="Dating methodologies in archaeology">Dating methodologies</a></li>
+<li><a href="/wiki/Geologic_time_scale" title="Geologic time scale">Geologic time scale</a></li>
+<li><a href="/wiki/International_Commission_on_Stratigraphy" title="International Commission on Stratigraphy">International Commission on Stratigraphy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Astronomical_chronology" title="Astronomical chronology">Astronomical chronology</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Galactic_year" title="Galactic year">Galactic year</a></li>
+<li><a href="/wiki/Nuclear_time_scale" title="Nuclear time scale" class="mw-redirect">Nuclear time scale</a></li>
+<li><a href="/wiki/Precession_(astronomy)" title="Precession (astronomy)" class="mw-redirect">Precession</a></li>
+<li><a href="/wiki/Sidereal_time" title="Sidereal time">Sidereal time</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Unit_of_time" title="Unit of time">Units of time</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Century" title="Century">Century</a></li>
+<li><a href="/wiki/Day" title="Day">Day</a></li>
+<li><a href="/wiki/Decade" title="Decade">Decade</a></li>
+<li><a href="/wiki/Fortnight" title="Fortnight">Fortnight</a></li>
+<li><a href="/wiki/Hour" title="Hour">Hour</a></li>
+<li><a href="/wiki/Jiffy_(time)" title="Jiffy (time)">Jiffy</a></li>
+<li><a href="/wiki/Lustrum" title="Lustrum">Lustrum</a></li>
+<li><a href="/wiki/Millennium" title="Millennium">Millennium</a></li>
+<li><a href="/wiki/Minute" title="Minute">Minute</a></li>
+<li><a href="/wiki/Moment_(time)" title="Moment (time)">Moment</a></li>
+<li><a href="/wiki/Month" title="Month">Month</a></li>
+<li><a href="/wiki/Paksha" title="Paksha">Paksha</a></li>
+<li><a href="/wiki/Saeculum" title="Saeculum">Saeculum</a></li>
+<li><a href="/wiki/Second" title="Second">Second</a></li>
+<li><a href="/wiki/Shake_(unit)" title="Shake (unit)">Shake</a></li>
+<li><a href="/wiki/Tide_(time)" title="Tide (time)">Tide</a></li>
+<li><a href="/wiki/Week" title="Week">Week</a></li>
+<li><a href="/wiki/Year" title="Year">Year</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronology" title="Chronology">Chronology</a></li>
+<li><a href="/wiki/Duration_(philosophy)" title="Duration (philosophy)">Duration</a></li>
+<li><a href="/wiki/Mental_chronometry" title="Mental chronometry">Mental chronometry</a></li>
+<li><a href="/wiki/Metric_time" title="Metric time">Metric time</a></li>
+<li><a href="/wiki/System_time" title="System time">System time</a></li>
+<li><a href="/wiki/Time_value_of_money" title="Time value of money">Time value of money</a></li>
+<li><a href="/wiki/Timekeeper" title="Timekeeper">Timekeeper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ISO_standards" title="Template:ISO standards"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ISO_standards" title="Template talk:ISO standards"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ISO_standards&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> standards <span style="font-weight:normal;"><span style="font-size:90%;">by standard number</span></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>List of <a href="/wiki/List_of_International_Organization_for_Standardization_standards" title="List of International Organization for Standardization standards">ISO standards</a>&#160;/ <a href="/wiki/List_of_ISO_romanizations" title="List of ISO romanizations">ISO romanizations</a>&#160;/ <a href="/wiki/List_of_IEC_standards" title="List of IEC standards">IEC standards</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1–9999</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO_1" title="ISO 1">1</a></li>
+<li><a href="/wiki/ISO_2" title="ISO 2">2</a></li>
+<li><a href="/wiki/ISO_3" title="ISO 3" class="mw-redirect">3</a></li>
+<li><a href="/wiki/ISO_4" title="ISO 4">4</a></li>
+<li><a href="/wiki/ISO_5" title="ISO 5">5</a></li>
+<li><a href="/wiki/ISO_6" title="ISO 6" class="mw-redirect">6</a></li>
+<li><a href="/wiki/ISO_7" title="ISO 7" class="mw-redirect">7</a></li>
+<li><a href="/wiki/ISO_9" title="ISO 9">9</a></li>
+<li><a href="/wiki/A440_(pitch_standard)" title="A440 (pitch standard)">16</a></li>
+<li><a href="/wiki/ISO_31" title="ISO 31">31</a>
+<ul>
+<li><a href="/wiki/ISO_31-0" title="ISO 31-0">-0</a></li>
+<li><a href="/wiki/ISO_31-1" title="ISO 31-1">-1</a></li>
+<li><a href="/wiki/ISO_31-2" title="ISO 31-2">-2</a></li>
+<li><a href="/wiki/ISO_31-3" title="ISO 31-3">-3</a></li>
+<li><a href="/wiki/ISO_31-4" title="ISO 31-4">-4</a></li>
+<li><a href="/wiki/ISO_31-5" title="ISO 31-5">-5</a></li>
+<li><a href="/wiki/ISO_31-6" title="ISO 31-6">-6</a></li>
+<li><a href="/wiki/ISO_31-7" title="ISO 31-7">-7</a></li>
+<li><a href="/wiki/ISO_31-8" title="ISO 31-8">-8</a></li>
+<li><a href="/wiki/ISO_31-9" title="ISO 31-9">-9</a></li>
+<li><a href="/wiki/ISO_31-10" title="ISO 31-10">-10</a></li>
+<li><a href="/wiki/ISO_31-11" title="ISO 31-11">-11</a></li>
+<li><a href="/wiki/ISO_31-12" title="ISO 31-12">-12</a></li>
+<li><a href="/wiki/ISO_31-13" title="ISO 31-13">-13</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_128" title="ISO 128">128</a></li>
+<li><a href="/wiki/ISO_216" title="ISO 216">216</a></li>
+<li><a href="/wiki/ISO_217" title="ISO 217">217</a></li>
+<li><a href="/wiki/ISO_226" title="ISO 226" class="mw-redirect">226</a></li>
+<li><a href="/wiki/British_standard_pipe_thread" title="British standard pipe thread" class="mw-redirect">228</a></li>
+<li><a href="/wiki/ISO_233" title="ISO 233">233</a></li>
+<li><a href="/wiki/ISO_259" title="ISO 259">259</a></li>
+<li><a href="/wiki/Envelope" title="Envelope">269</a></li>
+<li><a href="/wiki/Kappa_number" title="Kappa number">302</a></li>
+<li><a href="/wiki/Vicat_softening_point" title="Vicat softening point">306</a></li>
+<li><a href="/wiki/ISO_428" title="ISO 428">428</a></li>
+<li><a href="/wiki/ISO_518" title="ISO 518" class="mw-redirect">518</a></li>
+<li><a href="/wiki/ISO_519" title="ISO 519" class="mw-redirect">519</a></li>
+<li><a href="/wiki/ISO_639" title="ISO 639">639</a>
+<ul>
+<li><a href="/wiki/ISO_639-1" title="ISO 639-1">-1</a></li>
+<li><a href="/wiki/ISO_639-2" title="ISO 639-2">-2</a></li>
+<li><a href="/wiki/ISO_639-3" title="ISO 639-3">-3</a></li>
+<li><a href="/wiki/ISO_639-5" title="ISO 639-5">-5</a></li>
+<li><a href="/wiki/ISO_639-6" title="ISO 639-6">-6</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO/IEC_646" title="ISO/IEC 646">646</a></li>
+<li><a href="/wiki/ISO_690" title="ISO 690">690</a></li>
+<li><a href="/wiki/ISO_732" title="ISO 732">732</a></li>
+<li><a href="/wiki/Antimagnetic_watch" title="Antimagnetic watch">764</a></li>
+<li><a href="/wiki/ISO_843" title="ISO 843">843</a></li>
+<li><a href="/wiki/ISO_898" title="ISO 898">898</a></li>
+<li><a href="/wiki/ISO_965" title="ISO 965">965</a></li>
+<li><a href="/wiki/ISO_1000" title="ISO 1000">1000</a></li>
+<li><a href="/wiki/Magnetic_ink_character_recognition" title="Magnetic ink character recognition">1004</a></li>
+<li><a href="/wiki/135_film" title="135 film">1007</a></li>
+<li><a href="/wiki/OCR-A_font" title="OCR-A font">1073-1</a></li>
+<li><a href="/wiki/ISO_1413" title="ISO 1413" class="mw-redirect">1413</a></li>
+<li><a href="/wiki/ALGOL_60" title="ALGOL 60">1538</a></li>
+<li><a href="/wiki/ISO_1745" title="ISO 1745">1745</a></li>
+<li><a href="/wiki/ISO_1989" title="ISO 1989" class="mw-redirect">1989</a></li>
+<li><a href="/wiki/ISO_2014" title="ISO 2014">2014</a></li>
+<li><a href="/wiki/ISO_2015" title="ISO 2015">2015</a></li>
+<li><a href="/wiki/ISO/IEC_2022" title="ISO/IEC 2022">2022</a></li>
+<li><a href="/wiki/ISO_2047" title="ISO 2047">2047</a></li>
+<li><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">2108</a></li>
+<li><a href="/wiki/ISO_2145" title="ISO 2145">2145</a></li>
+<li><a href="/wiki/ISO_2146" title="ISO 2146">2146</a></li>
+<li><a href="/wiki/ISO_2240" title="ISO 2240" class="mw-redirect">2240</a></li>
+<li><a href="/wiki/Water_Resistant_mark" title="Water Resistant mark">2281</a></li>
+<li><a href="/wiki/ISO_2709" title="ISO 2709">2709</a></li>
+<li><a href="/wiki/ISO_2711" title="ISO 2711">2711</a></li>
+<li><a href="/wiki/ISO_2788" title="ISO 2788">2788</a></li>
+<li><a href="/wiki/ISO_2852" title="ISO 2852">2852</a></li>
+<li><a href="/wiki/126_film" title="126 film">3029</a></li>
+<li><a href="/wiki/ISO_3103" title="ISO 3103">3103</a></li>
+<li><a href="/wiki/ISO_3166" title="ISO 3166">3166</a>
+<ul>
+<li><a href="/wiki/ISO_3166-1" title="ISO 3166-1">-1</a></li>
+<li><a href="/wiki/ISO_3166-2" title="ISO 3166-2">-2</a></li>
+<li><a href="/wiki/ISO_3166-3" title="ISO 3166-3">-3</a></li>
+</ul>
+</li>
+<li><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">3297</a></li>
+<li><a href="/wiki/ISO_3307" title="ISO 3307">3307</a></li>
+<li><a href="/wiki/Kunrei-shiki_romanization" title="Kunrei-shiki romanization">3602</a></li>
+<li><a href="/wiki/ISO_3864" title="ISO 3864">3864</a></li>
+<li><a href="/wiki/International_Standard_Recording_Code" title="International Standard Recording Code">3901</a></li>
+<li><a href="/wiki/ISO_3977" title="ISO 3977">3977</a></li>
+<li><a href="/wiki/ISO_4031" title="ISO 4031">4031</a></li>
+<li><a href="/wiki/ISO_4157" title="ISO 4157">4157</a></li>
+<li><a href="/wiki/ISO_4217" title="ISO 4217">4217</a></li>
+<li><a href="/wiki/ISO/IEC_4909" title="ISO/IEC 4909">4909</a></li>
+<li><a href="/wiki/ISO/IEC_5218" title="ISO/IEC 5218">5218</a></li>
+<li><a href="/wiki/ISO_5428" title="ISO 5428">5428</a></li>
+<li><a href="/wiki/ISO_5775" title="ISO 5775">5775</a></li>
+<li><a href="/wiki/ISO_5776" title="ISO 5776">5776</a></li>
+<li><a href="/wiki/ISO_5800" title="ISO 5800" class="mw-redirect">5800</a></li>
+<li><a href="/wiki/ISO_5964" title="ISO 5964">5964</a></li>
+<li><a href="/wiki/ISO_6166" title="ISO 6166">6166</a></li>
+<li><a href="/wiki/ISO_6344" title="ISO 6344">6344</a></li>
+<li><a href="/wiki/ISO_6346" title="ISO 6346">6346</a></li>
+<li><a href="/wiki/ISO_6385" title="ISO 6385">6385</a></li>
+<li><a href="/wiki/Water_Resistant_mark" title="Water Resistant mark">6425</a></li>
+<li><a href="/wiki/ANSI_escape_code" title="ANSI escape code">6429</a></li>
+<li><a href="/wiki/ISO_6438" title="ISO 6438">6438</a></li>
+<li><a href="/wiki/ISO_6523" title="ISO 6523" class="mw-redirect">6523</a></li>
+<li><a href="/wiki/ISO_6709" title="ISO 6709">6709</a></li>
+<li><a href="/wiki/ISO_7001" title="ISO 7001">7001</a></li>
+<li><a href="/wiki/ISO_7002" title="ISO 7002">7002</a></li>
+<li><a href="/wiki/Pinyin" title="Pinyin">7098</a></li>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">7185</a></li>
+<li><a href="/wiki/ISO_7200" title="ISO 7200">7200</a></li>
+<li><a href="/wiki/OSI_model" title="OSI model">7498</a></li>
+<li><a href="/wiki/ISO_7736" title="ISO 7736">7736</a></li>
+<li><a href="/wiki/ISO/IEC_7810" title="ISO/IEC 7810">7810</a></li>
+<li><a href="/wiki/ISO/IEC_7811" title="ISO/IEC 7811">7811</a></li>
+<li><a href="/wiki/ISO/IEC_7812" title="ISO/IEC 7812">7812</a></li>
+<li><a href="/wiki/ISO/IEC_7813" title="ISO/IEC 7813">7813</a></li>
+<li><a href="/wiki/ISO/IEC_7816" title="ISO/IEC 7816">7816</a></li>
+<li><a href="/wiki/ISO_8000" title="ISO 8000">8000</a></li>
+<li><a href="/wiki/ISO_8178" title="ISO 8178">8178</a></li>
+<li><a href="/wiki/Fuel_oil" title="Fuel oil">8217</a></li>
+<li><a href="/wiki/FTAM" title="FTAM">8571</a></li>
+<li><a href="/wiki/ISO_8583" title="ISO 8583">8583</a></li>
+<li><strong class="selflink">8601</strong></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">8632</a></li>
+<li><a href="/wiki/ISO/IEC_8652" title="ISO/IEC 8652">8652</a></li>
+<li><a href="/wiki/ISO_8691" title="ISO 8691">8691</a></li>
+<li><a href="/wiki/Language_Of_Temporal_Ordering_Specification" title="Language Of Temporal Ordering Specification">8807</a></li>
+<li><a href="/wiki/ISO/IEC_8820-5" title="ISO/IEC 8820-5">8820-5</a></li>
+<li><a href="/wiki/ISO/IEC_8859" title="ISO/IEC 8859">8859</a>
+<ul>
+<li><a href="/wiki/ISO/IEC_8859-1" title="ISO/IEC 8859-1">-1</a></li>
+<li><a href="/wiki/ISO/IEC_8859-2" title="ISO/IEC 8859-2">-2</a></li>
+<li><a href="/wiki/ISO/IEC_8859-3" title="ISO/IEC 8859-3">-3</a></li>
+<li><a href="/wiki/ISO/IEC_8859-4" title="ISO/IEC 8859-4">-4</a></li>
+<li><a href="/wiki/ISO/IEC_8859-5" title="ISO/IEC 8859-5">-5</a></li>
+<li><a href="/wiki/ISO/IEC_8859-6" title="ISO/IEC 8859-6">-6</a></li>
+<li><a href="/wiki/ISO/IEC_8859-7" title="ISO/IEC 8859-7">-7</a></li>
+<li><a href="/wiki/ISO/IEC_8859-8" title="ISO/IEC 8859-8">-8</a></li>
+<li><a href="/wiki/ISO-8859-8-I" title="ISO-8859-8-I">-8-I</a></li>
+<li><a href="/wiki/ISO/IEC_8859-9" title="ISO/IEC 8859-9">-9</a></li>
+<li><a href="/wiki/ISO/IEC_8859-10" title="ISO/IEC 8859-10">-10</a></li>
+<li><a href="/wiki/ISO/IEC_8859-11" title="ISO/IEC 8859-11">-11</a></li>
+<li><a href="/wiki/ISO/IEC_8859-12" title="ISO/IEC 8859-12">-12</a></li>
+<li><a href="/wiki/ISO/IEC_8859-13" title="ISO/IEC 8859-13">-13</a></li>
+<li><a href="/wiki/ISO/IEC_8859-14" title="ISO/IEC 8859-14">-14</a></li>
+<li><a href="/wiki/ISO/IEC_8859-15" title="ISO/IEC 8859-15">-15</a></li>
+<li><a href="/wiki/ISO/IEC_8859-16" title="ISO/IEC 8859-16">-16</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Standard_Generalized_Markup_Language" title="Standard Generalized Markup Language">8879</a></li>
+<li><a href="/wiki/ISO_9000" title="ISO 9000">9000/9001</a></li>
+<li><a href="/wiki/SQL" title="SQL">9075</a></li>
+<li><a href="/wiki/ISO/IEC_9126" title="ISO/IEC 9126">9126</a></li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">9293</a></li>
+<li><a href="/wiki/ISO_9241" title="ISO 9241">9241</a></li>
+<li><a href="/wiki/ISO_9362" title="ISO 9362">9362</a></li>
+<li><a href="/wiki/Shoe_size" title="Shoe size">9407</a></li>
+<li><a href="/wiki/Manufacturing_Message_Specification" title="Manufacturing Message Specification">9506</a></li>
+<li><a href="/wiki/ISO_9529" title="ISO 9529">9529</a></li>
+<li><a href="/wiki/ISO_9564" title="ISO 9564">9564</a></li>
+<li><a href="/wiki/X.500" title="X.500">9594</a></li>
+<li><a href="/wiki/ISO_9660" title="ISO 9660">9660</a></li>
+<li><a href="/wiki/ISO_9897" title="ISO 9897">9897</a></li>
+<li><a href="/wiki/POSIX" title="POSIX">9945</a></li>
+<li><a href="/wiki/ISO_9984" title="ISO 9984" class="mw-redirect">9984</a></li>
+<li><a href="/wiki/ISO_9985" title="ISO 9985" class="mw-redirect">9985</a></li>
+<li><a href="/wiki/ISO/IEC_9995" title="ISO/IEC 9995">9995</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">10000–19999</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO_10006" title="ISO 10006">10006</a></li>
+<li><a href="/wiki/ISO/IEC_10116" title="ISO/IEC 10116">10116</a></li>
+<li><a href="/wiki/Whirlpool_(cryptography)" title="Whirlpool (cryptography)">10118-3</a></li>
+<li><a href="/wiki/ISO_10160" title="ISO 10160">10160</a></li>
+<li><a href="/wiki/ISO_10161" title="ISO 10161">10161</a></li>
+<li><a href="/wiki/Guidelines_for_the_Definition_of_Managed_Objects" title="Guidelines for the Definition of Managed Objects">10165</a></li>
+<li><a href="/wiki/Document_Style_Semantics_and_Specification_Language" title="Document Style Semantics and Specification Language">10179</a></li>
+<li><a href="/wiki/ISO_10206" title="ISO 10206" class="mw-redirect">10206</a></li>
+<li><a href="/wiki/ISO_10218" title="ISO 10218">10218</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">10303</a>
+<ul>
+<li><a href="/wiki/EXPRESS_(data_modeling_language)" title="EXPRESS (data modeling language)">-11</a></li>
+<li><a href="/wiki/ISO_10303-21" title="ISO 10303-21">-21</a></li>
+<li><a href="/wiki/ISO_10303-22" title="ISO 10303-22">-22</a></li>
+<li><a href="/wiki/ISO_10303-28" title="ISO 10303-28">-28</a></li>
+<li><a href="/wiki/STEP-NC" title="STEP-NC">-238</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_10383" title="ISO 10383">10383</a></li>
+<li><a href="/wiki/ISO_10487" title="ISO 10487" class="mw-redirect">10487</a></li>
+<li><a href="/wiki/ArmSCII" title="ArmSCII">10585</a></li>
+<li><a href="/wiki/IS-IS" title="IS-IS">10589</a></li>
+<li><a href="/wiki/Universal_Character_Set" title="Universal Character Set">10646</a></li>
+<li><a href="/wiki/Torx" title="Torx">10664</a></li>
+<li><a href="/wiki/RM-ODP" title="RM-ODP">10746</a></li>
+<li><a href="/wiki/Multibus" title="Multibus">10861</a></li>
+<li><a href="/wiki/International_Standard_Music_Number" title="International Standard Music Number">10957</a></li>
+<li><a href="/wiki/ISO_10962" title="ISO 10962">10962</a></li>
+<li><a href="/wiki/ISO/IEC_10967" title="ISO/IEC 10967">10967</a></li>
+<li><a href="/wiki/ISO/IEEE_11073" title="ISO/IEEE 11073">11073</a></li>
+<li><a href="/wiki/ISO_11170" title="ISO 11170">11170</a></li>
+<li><a href="/wiki/ISO/IEC_11179" title="ISO/IEC 11179">11179</a></li>
+<li><a href="/wiki/ISO/IEC_11404" title="ISO/IEC 11404">11404</a></li>
+<li><a href="/wiki/JBIG" title="JBIG">11544</a></li>
+<li><a href="/wiki/ISO_11783" title="ISO 11783">11783</a></li>
+<li><a href="/wiki/ISO_11784_%26_11785" title="ISO 11784 &amp; 11785">11784</a></li>
+<li><a href="/wiki/ISO_11784_%26_11785" title="ISO 11784 &amp; 11785">11785</a></li>
+<li><a href="/wiki/ISO/IEC_11801" title="ISO/IEC 11801">11801</a></li>
+<li><a href="/wiki/ISO_11898" title="ISO 11898">11898</a></li>
+<li><a href="/wiki/ISO_11940" title="ISO 11940">11940</a> (<a href="/wiki/ISO_11940-2" title="ISO 11940-2">-2</a>)</li>
+<li><a href="/wiki/ISO/TR_11941" title="ISO/TR 11941">11941</a></li>
+<li><a href="/wiki/ISO/TR_11941" title="ISO/TR 11941">11941 (TR)</a></li>
+<li><a href="/wiki/ISO_11992" title="ISO 11992">11992</a></li>
+<li><a href="/wiki/ISO_12006" title="ISO 12006">12006</a></li>
+<li><a href="/wiki/ISO/IEC_TR_12182" title="ISO/IEC TR 12182">12182</a></li>
+<li><a href="/wiki/ISO/IEC_12207" title="ISO/IEC 12207">12207</a></li>
+<li><a href="/wiki/Tag_Image_File_Format_/_Electronic_Photography" title="Tag Image File Format / Electronic Photography" class="mw-redirect">12234-2</a></li>
+<li><a href="/wiki/Prolog" title="Prolog">13211</a>
+<ul>
+<li><a href="/wiki/Prolog" title="Prolog">-1</a></li>
+<li><a href="/wiki/Prolog" title="Prolog">-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Isofix" title="Isofix">13216</a></li>
+<li><a href="/wiki/Topic_Maps" title="Topic Maps">13250</a></li>
+<li><a href="/wiki/ISO_13399" title="ISO 13399">13399</a></li>
+<li><a href="/wiki/ISO_13406-2" title="ISO 13406-2">13406-2</a></li>
+<li><a href="/wiki/ISO_13407" title="ISO 13407" class="mw-redirect">13407</a></li>
+<li><a href="/wiki/110_film" title="110 film">13450</a></li>
+<li><a href="/wiki/ISO_13485" title="ISO 13485">13485</a></li>
+<li><a href="/wiki/ISO_13490" title="ISO 13490">13490</a></li>
+<li><a href="/wiki/ISO_13567" title="ISO 13567">13567</a></li>
+<li><a href="/wiki/Z_notation" title="Z notation">13568</a></li>
+<li><a href="/wiki/ISO_13584" title="ISO 13584">13584</a></li>
+<li><a href="/wiki/International_Bank_Account_Number" title="International Bank Account Number">13616</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">14000</a></li>
+<li><a href="/wiki/ISO_14031" title="ISO 14031">14031</a></li>
+<li><a href="/wiki/ISO_14224" title="ISO 14224">14224</a></li>
+<li><a href="/wiki/PDF/UA" title="PDF/UA">14289</a></li>
+<li><a href="/wiki/Horsepower" title="Horsepower">14396</a></li>
+<li><a href="/wiki/ISO/IEC_14443" title="ISO/IEC 14443">14443</a></li>
+<li><a href="/wiki/MPEG-4" title="MPEG-4">14496</a>
+<ul>
+<li><a href="/wiki/MPEG-4_Part_2" title="MPEG-4 Part 2">-2</a></li>
+<li><a href="/wiki/MPEG-4_Part_3" title="MPEG-4 Part 3">-3</a></li>
+<li><a href="/wiki/Delivery_Multimedia_Integration_Framework" title="Delivery Multimedia Integration Framework">-6</a></li>
+<li><a href="/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">-10</a></li>
+<li><a href="/wiki/MPEG-4_Part_11" title="MPEG-4 Part 11">-11</a></li>
+<li><a href="/wiki/MPEG-4_Part_12" title="MPEG-4 Part 12" class="mw-redirect">-12</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-14</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-17</a></li>
+<li><a href="/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">-20</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_14644" title="ISO 14644">14644</a>
+<ul>
+<li><a href="/wiki/ISO_14644-1" title="ISO 14644-1">-1</a></li>
+<li><a href="/wiki/ISO_14644-2" title="ISO 14644-2">-2</a></li>
+<li><a href="/wiki/ISO_14644-3" title="ISO 14644-3">-3</a></li>
+<li><a href="/wiki/ISO_14644-4" title="ISO 14644-4">-4</a></li>
+<li><a href="/wiki/ISO_14644-5" title="ISO 14644-5">-5</a></li>
+<li><a href="/wiki/ISO_14644-6" title="ISO 14644-6">-6</a></li>
+<li><a href="/wiki/ISO_14644-7" title="ISO 14644-7">-7</a></li>
+<li><a href="/wiki/ISO_14644-8" title="ISO 14644-8">-8</a></li>
+<li><a href="/wiki/ISO_14644-9" title="ISO 14644-9">-9</a></li>
+</ul>
+</li>
+<li><a href="/wiki/STEP-NC" title="STEP-NC">14649</a></li>
+<li><a href="/wiki/ISO_14651" title="ISO 14651">14651</a></li>
+<li><a href="/wiki/ISO_14698" title="ISO 14698">14698</a>
+<ul>
+<li><a href="/wiki/ISO_14698-2" title="ISO 14698-2">-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISO_14750" title="ISO 14750">14750</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">14764</a></li>
+<li><a href="/wiki/C%2B%2B" title="C++">14882</a></li>
+<li><a href="/wiki/ISO_14971" title="ISO 14971">14971</a></li>
+<li><a href="/wiki/ISO_15022" title="ISO 15022">15022</a></li>
+<li><a href="/wiki/ISO_15189" title="ISO 15189">15189</a></li>
+<li><a href="/wiki/ISO/IEC_15288" title="ISO/IEC 15288">15288</a></li>
+<li><a href="/wiki/Ada_Semantic_Interface_Specification" title="Ada Semantic Interface Specification">15291</a></li>
+<li><a href="/wiki/ISO_15292" title="ISO 15292">15292</a></li>
+<li><a href="/wiki/ISO_15398" title="ISO 15398">15398</a></li>
+<li><a href="/wiki/Common_Criteria" title="Common Criteria">15408</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">15444</a>
+<ul>
+<li><a href="/wiki/Motion_JPEG_2000" title="Motion JPEG 2000">-3</a></li>
+</ul>
+</li>
+<li><a href="/wiki/HTML" title="HTML">15445</a></li>
+<li><a href="/wiki/PDF417" title="PDF417">15438</a></li>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">15504</a></li>
+<li><a href="/wiki/International_Standard_Identifier_for_Libraries_and_Related_Organizations" title="International Standard Identifier for Libraries and Related Organizations">15511</a></li>
+<li><a href="/wiki/ISO_15686" title="ISO 15686">15686</a></li>
+<li><a href="/wiki/ISO/IEC_15693" title="ISO/IEC 15693">15693</a></li>
+<li><a href="/wiki/International_Standard_Audiovisual_Number" title="International Standard Audiovisual Number">15706</a>
+<ul>
+<li><a href="/wiki/ISO_15706-2" title="ISO 15706-2">-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/International_Standard_Musical_Work_Code" title="International Standard Musical Work Code">15707</a></li>
+<li><a href="/wiki/ISO_15897" title="ISO 15897">15897</a></li>
+<li><a href="/wiki/ISO_15919" title="ISO 15919">15919</a></li>
+<li><a href="/wiki/ISO_15924" title="ISO 15924">15924</a></li>
+<li><a href="/wiki/ISO_15926" title="ISO 15926">15926</a></li>
+<li><a href="/wiki/ISO_15926_WIP" title="ISO 15926 WIP">15926 WIP</a></li>
+<li><a href="/wiki/PDF/X" title="PDF/X">15930</a></li>
+<li><a href="/wiki/MaxiCode" title="MaxiCode">16023</a></li>
+<li><a href="/wiki/ECMAScript" title="ECMAScript">16262</a></li>
+<li><a href="/wiki/PDF/VT" title="PDF/VT">16612-2</a></li>
+<li><a href="/wiki/ISO_16750" title="ISO 16750">16750</a></li>
+<li><a href="/wiki/ISO/TS_16949" title="ISO/TS 16949">16949 (TS)</a></li>
+<li><a href="/wiki/ISO/IEC_17024" title="ISO/IEC 17024">17024</a></li>
+<li><a href="/wiki/ISO/IEC_17025" title="ISO/IEC 17025">17025</a></li>
+<li><a href="/wiki/Open_Virtualization_Format" title="Open Virtualization Format">17203</a></li>
+<li><a href="/wiki/SDMX" title="SDMX">17369</a></li>
+<li><a href="/wiki/ISO/IEC_27002" title="ISO/IEC 27002">17799</a></li>
+<li><a href="/wiki/ISO/IEC_18000" title="ISO/IEC 18000">18000</a></li>
+<li><a href="/wiki/ISO/IEC_18004" title="ISO/IEC 18004" class="mw-redirect">18004</a></li>
+<li><a href="/wiki/ISO/IEC_18014" title="ISO/IEC 18014">18014</a></li>
+<li><a href="/wiki/ISO_18245" title="ISO 18245">18245</a></li>
+<li><a href="/wiki/Process_Specification_Language" title="Process Specification Language">18629</a></li>
+<li><a href="/wiki/Photographic_Activity_Test" title="Photographic Activity Test">18916</a></li>
+<li><a href="/wiki/PDF/A" title="PDF/A">19005</a></li>
+<li><a href="/wiki/ISO_19011" title="ISO 19011">19011</a></li>
+<li><a href="/wiki/ISO_19092-1" title="ISO 19092-1">19092 (-1</a></li>
+<li><a href="/wiki/ISO_19092-2" title="ISO 19092-2">-2)</a></li>
+<li><a href="/wiki/ISO_19114" title="ISO 19114">19114</a></li>
+<li><a href="/wiki/ISO_19115" title="ISO 19115" class="mw-redirect">19115</a></li>
+<li><a href="/wiki/Simple_feature_access" title="Simple feature access" class="mw-redirect">19125</a></li>
+<li><a href="/wiki/ISO_19136" title="ISO 19136" class="mw-redirect">19136</a></li>
+<li><a href="/wiki/ISO_19439" title="ISO 19439">19439</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">19501:2005</a></li>
+<li><a href="/wiki/ISO/IEC_19752" title="ISO/IEC 19752">19752</a></li>
+<li><a href="/wiki/RELAX_NG" title="RELAX NG">19757</a></li>
+<li><a href="/wiki/ISO/IEC_19770" title="ISO/IEC 19770">19770</a></li>
+<li><a href="/wiki/X3D" title="X3D">19775-1</a></li>
+<li><a href="/wiki/ISO/IEC_19794-5" title="ISO/IEC 19794-5">19794-5</a></li>
+<li><a href="/wiki/Cloud_Infrastructure_Management_Interface" title="Cloud Infrastructure Management Interface">19831</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">20000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_20000" title="ISO/IEC 20000">20000</a></li>
+<li><a href="/wiki/ISO_20022" title="ISO 20022">20022</a></li>
+<li><a href="/wiki/ISO_20121" title="ISO 20121">20121</a></li>
+<li><a href="/wiki/MPEG-21" title="MPEG-21">21000</a></li>
+<li><a href="/wiki/International_Standard_Text_Code" title="International Standard Text Code">21047</a></li>
+<li><a href="/wiki/ISO_21500" title="ISO 21500">21500</a></li>
+<li><a href="/wiki/ISO/IEC_21827" title="ISO/IEC 21827">21827:2002</a></li>
+<li><a href="/wiki/ISO_22000" title="ISO 22000">22000</a></li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">23270</a></li>
+<li><a href="/wiki/Common_Language_Infrastructure" title="Common Language Infrastructure">23271</a></li>
+<li><a href="/wiki/Linux_Standard_Base" title="Linux Standard Base">23360</a></li>
+<li><a href="/wiki/PDF/E" title="PDF/E">24517</a></li>
+<li><a href="/wiki/Lexical_Markup_Framework" title="Lexical Markup Framework">24613</a></li>
+<li><a href="/wiki/ISO-TimeML" title="ISO-TimeML">24617</a></li>
+<li><a href="/wiki/Common_logic" title="Common logic">24707</a></li>
+<li><a href="/wiki/ISO_25178" title="ISO 25178">25178</a></li>
+<li><a href="/wiki/ISO_25964" title="ISO 25964">25964</a></li>
+<li><a href="/wiki/ISO_26000" title="ISO 26000">26000</a></li>
+<li><a href="/wiki/OpenDocument" title="OpenDocument">26300</a></li>
+<li><a href="/wiki/Digital_object_identifier" title="Digital object identifier">26324</a></li>
+<li><a href="/wiki/ISO/IEC_27000-series" title="ISO/IEC 27000-series">27000 series</a></li>
+<li><a href="/wiki/ISO/IEC_27000" title="ISO/IEC 27000">27000</a></li>
+<li><a href="/wiki/ISO/IEC_27001:2005" title="ISO/IEC 27001:2005">27001:2005</a></li>
+<li><a href="/wiki/ISO/IEC_27001:2013" title="ISO/IEC 27001:2013">27001:2013</a></li>
+<li><a href="/wiki/ISO/IEC_27002" title="ISO/IEC 27002">27002</a></li>
+<li><a href="/wiki/ISO/IEC_27003" title="ISO/IEC 27003" class="mw-redirect">27003</a></li>
+<li><a href="/wiki/ISO/IEC_27004" title="ISO/IEC 27004" class="mw-redirect">27004</a></li>
+<li><a href="/wiki/ISO/IEC_27005" title="ISO/IEC 27005" class="mw-redirect">27005</a></li>
+<li><a href="/wiki/ISO/IEC_27006" title="ISO/IEC 27006">27006</a></li>
+<li><a href="/wiki/ISO/IEC_27007" title="ISO/IEC 27007" class="mw-redirect">27007</a></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">27729</a></li>
+<li><a href="/wiki/ISO_27799" title="ISO 27799" class="mw-redirect">27799</a></li>
+<li><a href="/wiki/ISO/PAS_28000" title="ISO/PAS 28000">28000</a></li>
+<li><a href="/wiki/ISO_29110" title="ISO 29110">29110</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">29148</a></li>
+<li><a href="/wiki/JPEG_XR" title="JPEG XR">29199-2</a></li>
+<li><a href="/wiki/Office_Open_XML" title="Office Open XML">29500</a></li>
+<li><a href="/wiki/ISO_31000" title="ISO 31000">31000</a></li>
+<li><a href="/wiki/Portable_Document_Format" title="Portable Document Format">32000</a></li>
+<li><a href="/wiki/ISO/IEC_38500" title="ISO/IEC 38500">38500</a></li>
+<li><a href="/wiki/ISO/IEC_42010" title="ISO/IEC 42010">42010</a></li>
+<li><a href="/wiki/ISO/IEC_80000" title="ISO/IEC 80000">80000</a>
+<ul>
+<li><a href="/wiki/ISO_80000-1" title="ISO 80000-1">-1</a></li>
+<li><a href="/wiki/ISO_80000-2" title="ISO 80000-2">-2</a></li>
+<li><a href="/wiki/ISO_80000-3" title="ISO 80000-3">-3</a></li>
+<li><a href="/wiki/ISO_80000-4" title="ISO 80000-4">-4</a></li>
+<li><a href="/wiki/ISO_80000-5" title="ISO 80000-5">-5</a></li>
+<li><a href="/wiki/ISO_80000-6" title="ISO 80000-6" class="mw-redirect">-6</a></li>
+<li><a href="/wiki/ISO_80000-7" title="ISO 80000-7">-7</a></li>
+<li><a href="/wiki/ISO_80000-8" title="ISO 80000-8">-8</a></li>
+<li><a href="/w/index.php?title=ISO_80000-9&amp;action=edit&amp;redlink=1" class="new" title="ISO 80000-9 (page does not exist)">-9</a></li>
+<li><a href="/w/index.php?title=ISO_80000-10&amp;action=edit&amp;redlink=1" class="new" title="ISO 80000-10 (page does not exist)">-10</a></li>
+<li><a href="/w/index.php?title=ISO_80000-11&amp;action=edit&amp;redlink=1" class="new" title="ISO 80000-11 (page does not exist)">-11</a></li>
+<li><a href="/w/index.php?title=ISO_80000-12&amp;action=edit&amp;redlink=1" class="new" title="ISO 80000-12 (page does not exist)">-12</a></li>
+<li><a href="/wiki/ISO_80000-13" title="ISO 80000-13" class="mw-redirect">-13</a></li>
+<li><a href="/w/index.php?title=ISO_80000-14&amp;action=edit&amp;redlink=1" class="new" title="ISO 80000-14 (page does not exist)">-14</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> Categories</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:ISO_standards" title="Category:ISO standards">ISO standards</a>
+<ul>
+<li><a href="/wiki/Category:ISO_639" title="Category:ISO 639">ISO 639</a></li>
+<li><a href="/wiki/Category:ISO_3166" title="Category:ISO 3166">ISO 3166</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category:ISO/IEC_standards" title="Category:ISO/IEC standards">ISO&#160;/ IEC standards</a></li>
+<li><a href="/wiki/Category:OSI_protocols" title="Category:OSI protocols">OSI protocols</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:PrefixIndex&amp;prefix=ISO&amp;namespace=0">All articles with prefix "ISO"</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1079
+CPU time usage: 0.538 seconds
+Real time usage: 0.624 seconds
+Preprocessor visited node count: 3106/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 81293/2097152 bytes
+Template argument size: 2099/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.104/10.000 seconds
+Lua memory usage: 3.05 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  345.319      1 - -total
+ 34.07%  117.660      1 - Template:Reflist
+ 13.51%   46.646      2 - Template:Navbox
+ 12.70%   43.850      1 - Template:ISOCALENDAR
+ 12.38%   42.753      1 - Template:Confusing
+ 11.50%   39.729      1 - Template:ISOCALENDAR/month
+ 10.55%   36.420      1 - Template:Ambox
+ 10.23%   35.340      6 - Template:ISOCALENDAR/week
+  9.95%   34.373      2 - Template:Citation
+  9.46%   32.651      1 - Template:ISO_standards
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=ISO_8601&amp;oldid=637492775">http://en.wikipedia.org/w/index.php?title=ISO_8601&amp;oldid=637492775</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Specific_calendars" title="Category:Specific calendars">Specific calendars</a></li><li><a href="/wiki/Category:ISO_standards" title="Category:ISO standards">ISO standards</a></li><li><a href="/wiki/Category:Date_and_time_representation" title="Category:Date and time representation">Date and time representation</a></li><li><a href="/wiki/Category:Time_measurement_systems" title="Category:Time measurement systems">Time measurement systems</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2013" title="Category:Wikipedia articles needing clarification from October 2013">Wikipedia articles needing clarification from October 2013</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_clarification" title="Category:All Wikipedia articles needing clarification">All Wikipedia articles needing clarification</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ISO+8601&amp;returntoquery=diff%3D637492775%26oldid%3D637135245&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ISO+8601&amp;returntoquery=diff%3D637492775%26oldid%3D637135245" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/ISO_8601"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:ISO_8601"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/ISO_8601" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=ISO_8601&amp;action=edit&amp;oldid=637492775"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=ISO_8601&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/ISO_8601" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/ISO_8601" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=ISO_8601&amp;oldid=637492775" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=ISO_8601&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q50101" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ISO_8601&amp;id=637492775" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=ISO+8601">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=ISO+8601&amp;oldid=637135245&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=ISO_8601&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Afrikaans" lang="af" hreflang="af">Afrikaans</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Breton" lang="br" hreflang="br">Brezhoneg</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B2%D9%88_%DB%B8%DB%B6%DB%B0%DB%B1" title="ایزو ۸۶۰۱ – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+													<li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Icelandic" lang="is" hreflang="is">Íslenska</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Latin" lang="la" hreflang="la">Latina</a></li>
+													<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Latvian" lang="lv" hreflang="lv">Latviešu</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%90.%E0%B4%8E%E0%B4%B8%E0%B5%8D.%E0%B4%92._8601" title="ഐ.എസ്.ഒ. 8601 – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li>
+													<li class="interlanguage-link interwiki-xmf"><a href="//xmf.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Mingrelian" lang="xmf" hreflang="xmf">მარგალური</a></li>
+													<li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sq"><a href="//sq.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Albanian" lang="sq" hreflang="sq">Shqip</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Thai" lang="th" hreflang="th">ไทย</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-yo"><a href="//yo.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Yoruba" lang="yo" hreflang="yo">Yorùbá</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/ISO_8601" title="ISO 8601 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q50101#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=ISO_8601&amp;diff=637492775&amp;oldid=637135245&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":843,"wgHostname":"mw1079"});
+}</script>
+	</body>
+</html>

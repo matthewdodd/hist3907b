@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Modélisation de processus : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Mod%C3%A9lisation_de_processus" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=107559845&amp;oldid=106042775&amp;rcid=126077788" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Modélisation_de_processus","wgTitle":"Modélisation de processus","wgCurRevisionId":112713210,"wgRevisionId":107559845,"wgArticleId":618445,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipédia:ébauche économie","Page utilisant Lien pour un article existant","Article au ton publicitaire","Portail:Management/Articles liés","Portail:Économie/Articles liés","Workflow","Management du système d'information","Méthode d'organisation"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Modélisation_de_processus","wgRelevantArticleId":618445,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4374012"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Modélisation_de_processus skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Modélisation de processus : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;oldid=106042775" title="Modélisation de processus">Version du 6 août 2014 à 15:30</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=edit&amp;oldid=106042775" title="Modélisation de processus">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/62.100.138.210" title="Spécial:Contributions/62.100.138.210" class="mw-userlink mw-anonuserlink">62.100.138.210</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:62.100.138.210" title="Discussion utilisateur:62.100.138.210">discuter</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#Principaux_Outils_de_Mod.C3.A9lisation">→</a>‎<span dir="auto"><span class="autocomment">Principaux Outils de Modélisation</span></span>)</span></div><div id="mw-diff-otitle5"><span class="mw-tag-markers">(<a href="/wiki/Sp%C3%A9cial:Balises" title="Spécial:Balises">Balise</a>&#160;: <span class="mw-tag-marker mw-tag-marker-visualeditor"><a href="/wiki/Wikip%C3%A9dia:%C3%89diteurVisuel" title="Wikipédia:ÉditeurVisuel">ÉditeurVisuel</a></span>)</span></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;diff=prev&amp;oldid=106042775" title="Modélisation de processus" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;oldid=107559845" title="Modélisation de processus">Version du 18 septembre 2014 à 19:30</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=edit&amp;oldid=107559845" title="Modélisation de processus">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=edit&amp;undoafter=106042775&amp;undo=107559845" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/198.103.152.52" title="Spécial:Contributions/198.103.152.52" class="mw-userlink mw-anonuserlink">198.103.152.52</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:198.103.152.52" title="Discussion utilisateur:198.103.152.52">discuter</a>)</span> </div><div id="mw-diff-ntitle3"></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;diff=next&amp;oldid=107559845" title="Modélisation de processus" id="differences-nextlink">Modification suivante →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 41 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 41 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* [http://www.blueway.fr/modelisation-de-processus/ Blueway Process Studio]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* [http://www.blueway.fr/modelisation-de-processus/ Blueway Process Studio]</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* BPM BiZZdesigner</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* BPM BiZZdesigner</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>* DEP (Donzat Enterprise Platform™)</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>* DEP (Donzat Enterprise Platform™)<ins class="diffchange diffchange-inline">`</ins></div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>* iGrafx</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Mega Process (éd. [[MEGA International]])</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Mega Process (éd. [[MEGA International]])</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* ProcessMaker</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* ProcessMaker</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version du 18 septembre 2014 à 19:30</h2>
+<div class="plainlinks bandeau-niveau-ebauche bandeau js-no-interprojets">
+<table style="background-color:transparent">
+<tr>
+<td class="bandeau-icone">
+<div style="text-align:center;white-space:nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/35px-Emblem-money.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/53px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/70px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td>
+<div class="bandeau-titre"><strong>Cet article est une <a href="/wiki/Aide:%C3%89bauche" title="Aide:Ébauche">ébauche</a> concernant l’<a href="/wiki/Portail:%C3%89conomie" title="Portail:Économie">économie</a>.</strong></div>
+<div class="bandeau-texte">Vous pouvez partager vos connaissances en l’améliorant (<b><a href="/wiki/Aide:Comment_modifier_une_page" title="Aide:Comment modifier une page">comment ?</a></b>) selon les recommandations des <a href="/wiki/Projet:Accueil" title="Projet:Accueil">projets correspondants</a>.</div>
+</td>
+</tr>
+</table>
+</div>
+<p>La <b>modélisation de <a href="/wiki/Processus" title="Processus" class="mw-disambig">processus</a></b> consiste à structurer et à représenter visuellement les activités de l'entreprise. Les modèles ainsi créés conduisent généralement à la création de logigrammes. Cette discipline utilise parfois l'acronyme BPM en référence au «&#160;Modélisation de procédure d'entreprise&#160;», mais cet usage tend à disparaître, car il peut être confondu avec le «&#160;<a href="/wiki/Business_Process_Management" title="Business Process Management">Business Process Management</a><span class="ExistingLink" style="display:none">Business Process Management</span>&#160;», dont la modélisation est une des activités.</p>
+<p>La distinction fondamentale entre ces deux notions de <i>BPM</i> réside dans le fait que pour la seconde, on s'intéresse à donner à l'entreprise les moyens de piloter et de maîtriser ses processus-métiers, tandis que la première ne consiste qu'à les modéliser (toujours avec un objectif venant de l'extérieur&#160;: optimisation de chaîne de production, expression de besoins fonctionnels pour un développement <a href="/wiki/Logiciel" title="Logiciel">logiciel</a>, ré-organisation suite à un rapprochement entre deux filiales d'une entreprise, par exemple).</p>
+<p>La modélisation des processus est un moyen d'adresser les problématiques suivantes&#160;:</p>
+<ul>
+<li>analyse et de pilotage des activités de l'entreprise,</li>
+<li><a href="/wiki/Urbanisation_(informatique)" title="Urbanisation (informatique)">urbanisation du système d'information</a>,</li>
+<li>gestion des risques,</li>
+<li>documentation des activités de l'entreprise,</li>
+<li>exécution des processus ("gestion de <a href="/wiki/Workflow" title="Workflow">workflows</a>").</li>
+</ul>
+<p>La notation <a href="/wiki/BPMN" title="BPMN" class="mw-redirect">BPMN</a>, pour «&#160;Business Process Modeling Notation&#160;» est très largement utilisée pour les projets d'exécution de processus, mais se révèle encore insuffisante pour des problématiques de documentation des processus ou d'urbanisation du SI.</p>
+<p><br /></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Sommaire</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Exemples_de_notations_utilis.C3.A9es_pour_la_mod.C3.A9lisation_de_processus"><span class="tocnumber">1</span> <span class="toctext">Exemples de notations utilisées pour la modélisation de processus</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Exemples_de_d.C3.A9marches_utilis.C3.A9es_pour_la_mod.C3.A9lisation_de_processus"><span class="tocnumber">2</span> <span class="toctext">Exemples de démarches utilisées pour la modélisation de processus</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Exemples_de_framework_utilis.C3.A9s_pour_la_mod.C3.A9lisation_de_processus"><span class="tocnumber">3</span> <span class="toctext">Exemples de framework utilisés pour la modélisation de processus</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Normes_relatives"><span class="tocnumber">4</span> <span class="toctext">Normes relatives</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Principaux_Outils_de_Mod.C3.A9lisation"><span class="tocnumber">5</span> <span class="toctext">Principaux Outils de Modélisation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">6</span> <span class="toctext">Notes et références</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Exemples_de_notations_utilis.C3.A9es_pour_la_mod.C3.A9lisation_de_processus">Exemples de notations utilisées pour la modélisation de processus</span></h2>
+<ul>
+<li><a href="/wiki/BPMN" title="BPMN" class="mw-redirect">BPMN</a> (défini par la <a href="/wiki/BPMI" title="BPMI" class="mw-redirect">BPMI</a>),</li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language" class="mw-redirect">UML</a>,</li>
+<li><a href="/wiki/EPC" title="EPC" class="mw-disambig">EPC</a> (CPE pour Chaîne de Processus Evenementielle).</li>
+</ul>
+<h2><span class="mw-headline" id="Exemples_de_d.C3.A9marches_utilis.C3.A9es_pour_la_mod.C3.A9lisation_de_processus">Exemples de démarches utilisées pour la modélisation de processus</span></h2>
+<ul>
+<li><a href="/wiki/OSSAD" title="OSSAD" class="mw-redirect">OSSAD</a> méthode du domaine public dédiée à l'organisation pour analyser et modéliser des processus et procédures d'entreprise</li>
+<li><a href="/wiki/Praxeme" title="Praxeme">Praxeme</a>,</li>
+</ul>
+<h2><span class="mw-headline" id="Exemples_de_framework_utilis.C3.A9s_pour_la_mod.C3.A9lisation_de_processus">Exemples de framework utilisés pour la modélisation de processus</span></h2>
+<ul>
+<li><a href="/w/index.php?title=APQC&amp;action=edit&amp;redlink=1" class="new" title="APQC (page inexistante)">APQC</a></li>
+<li><a href="/wiki/IFW" title="IFW">IFW</a> (IBM Information FrameWork)</li>
+<li><a href="/wiki/DEP" title="DEP" class="mw-disambig">DEP</a> (Donzat Enterprise Platform™)</li>
+</ul>
+<h2><span class="mw-headline" id="Normes_relatives">Normes relatives</span></h2>
+<ul>
+<li>FDX50-176 Management par les processus</li>
+<li><a href="/wiki/ISO_9001" title="ISO 9001">ISO 9001</a>:2008</li>
+</ul>
+<h2><span class="mw-headline" id="Principaux_Outils_de_Mod.C3.A9lisation">Principaux Outils de Modélisation</span></h2>
+<div class="plainlinks bandeau-niveau-modere bandeau js-no-interprojets">
+<table style="background-color:transparent">
+<tr>
+<td class="bandeau-icone">
+<div style="width:45px; text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tangopub.svg/35px-Tangopub.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tangopub.svg/53px-Tangopub.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tangopub.svg/70px-Tangopub.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td>
+<div class="bandeau-titre"><strong>Le ton de cet article ou de cette section est trop promotionnel ou publicitaire.</strong></div>
+<div class="bandeau-texte">Modifiez l'article pour adopter un <b><a href="/wiki/Wikip%C3%A9dia:Neutralit%C3%A9_de_point_de_vue" title="Wikipédia:Neutralité de point de vue">ton neutre</a></b> (<a href="/wiki/Aide:Style_encyclop%C3%A9dique" title="Aide:Style encyclopédique">aide quant au style</a>) ou <a href="/wiki/Discussion:Mod%C3%A9lisation_de_processus" title="Discussion:Modélisation de processus">discutez-en</a>.</div>
+</td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Enterprise_Architect" title="Enterprise Architect">Enterprise Architect (Sparx System)</a></li>
+<li>C-Log - Outil gratuit Workey Designer</li>
+<li><a href="/wiki/Architecture_of_Integrated_Information_Systems" title="Architecture of Integrated Information Systems">Aris Business Designer</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bizagi.com/en/products/bizagi-process-modeler">Bizagi Process Modeler</a></li>
+<li>Bonitasoft</li>
+<li><a rel="nofollow" class="external text" href="http://www.blueway.fr/modelisation-de-processus/">Blueway Process Studio</a></li>
+<li>BPM BiZZdesigner</li>
+<li>DEP (Donzat Enterprise Platform™)`</li>
+<li>iGrafx</li>
+<li>Mega Process (éd. <a href="/wiki/MEGA_International" title="MEGA International">MEGA International</a>)</li>
+<li>ProcessMaker</li>
+<li><a rel="nofollow" class="external text" href="http://www.casewise.fr/">Casewise corporate modeler</a></li>
+<li>WINDESIGN<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup> (Ed. CECIMA)</li>
+<li>ROK Solution</li>
+<li>Activiti [Alfresco]</li>
+<li>M@gic BPM</li>
+<li>Workey designer - gratuit</li>
+<li>W4 BPMN+</li>
+</ul>
+<h2><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span></h2>
+<div class="references-small decimal" style="column-count: 1; -moz-column-count: 1; -webkit-column-count: 1">
+<div style="font-size: 85%">
+<ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.win-design.com/fr/index.htm">http://www.win-design.com/fr/index.htm</a></span></li>
+</ol>
+</div>
+</div>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Management" title="Portail du management"><img alt="Portail du management" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sierpinski_arrowhead_3d_stage_5.png/24px-Sierpinski_arrowhead_3d_stage_5.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sierpinski_arrowhead_3d_stage_5.png/35px-Sierpinski_arrowhead_3d_stage_5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sierpinski_arrowhead_3d_stage_5.png/47px-Sierpinski_arrowhead_3d_stage_5.png 2x" data-file-width="364" data-file-height="371" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Management" title="Portail:Management">Portail du management</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1102
+CPU time usage: 0.112 seconds
+Real time usage: 0.147 seconds
+Preprocessor visited node count: 566/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7829/2097152 bytes
+Template argument size: 1740/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 493 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   96.061      1 - -total
+ 60.57%   58.184      1 - Modèle:Portail
+ 44.55%   42.797      1 - Modèle:Catégorisation_badges
+ 21.41%   20.565      1 - Modèle:Ébauche
+ 11.25%   10.804      2 - Modèle:Méta_bandeau_d'avertissement
+ 10.11%    9.710      1 - Modèle:Portail_management
+  7.67%    7.365      1 - Modèle:Méta_lien_vers_portail
+  5.61%    5.387      1 - Modèle:Pub
+  5.24%    5.038      7 - Modèle:Ébauche/paramètres_économie
+  5.04%    4.843      1 - Modèle:Lien
+-->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Modélisation_de_processus&amp;oldid=107559845">http://fr.wikipedia.org/w/index.php?title=Modélisation_de_processus&amp;oldid=107559845</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Workflow" title="Catégorie:Workflow">Workflow</a></li><li><a href="/wiki/Cat%C3%A9gorie:Management_du_syst%C3%A8me_d%27information" title="Catégorie:Management du système d'information">Management du système d'information</a></li><li><a href="/wiki/Cat%C3%A9gorie:M%C3%A9thode_d%27organisation" title="Catégorie:Méthode d'organisation">Méthode d'organisation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:%C3%A9bauche_%C3%A9conomie" title="Catégorie:Wikipédia:ébauche économie">Wikipédia:ébauche économie</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_Lien_pour_un_article_existant" title="Catégorie:Page utilisant Lien pour un article existant">Page utilisant Lien pour un article existant</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_au_ton_publicitaire" title="Catégorie:Article au ton publicitaire">Article au ton publicitaire</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Management/Articles_li%C3%A9s" title="Catégorie:Portail:Management/Articles liés">Portail:Management/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:%C3%89conomie/Articles_li%C3%A9s" title="Catégorie:Portail:Économie/Articles liés">Portail:Économie/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Mod%C3%A9lisation+de+processus&amp;returntoquery=diff%3D107559845%26oldid%3D106042775%26rcid%3D126077788&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Mod%C3%A9lisation+de+processus&amp;returntoquery=diff%3D107559845%26oldid%3D106042775%26rcid%3D126077788" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Mod%C3%A9lisation_de_processus"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Mod%C3%A9lisation_de_processus"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Mod%C3%A9lisation_de_processus" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;oldid=107559845&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=edit&amp;oldid=107559845"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Mod%C3%A9lisation+de+processus">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Mod%C3%A9lisation+de+processus&amp;oldid=106042775&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Mod%C3%A9lisation_de_processus" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Mod%C3%A9lisation_de_processus" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;oldid=107559845" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4374012" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Mod%C3%A9lisation_de_processus&amp;id=107559845" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Besigheidsprosesontwerp" title="Besigheidsprosesontwerp — afrikaans" lang="af" hreflang="af">Afrikaans</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Business_Process_Modeling" title="Business Process Modeling — allemand" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CF%87%CE%B5%CE%B9%CF%81%CE%B7%CF%83%CE%B9%CE%B1%CE%BA%CE%AE_%CE%9C%CE%BF%CE%BD%CF%84%CE%B5%CE%BB%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7" title="Επιχειρησιακή Μοντελοποίηση — grec" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Process_modeling" title="Process modeling — anglais" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Business_Process_Modeling" title="Business Process Modeling — italien" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB" title="プロセスモデル — japonais" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Business_Process_Modeling" title="Business Process Modeling — néerlandais" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Modelowanie_proces%C3%B3w_biznesowych" title="Modelowanie procesów biznesowych — polonais" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Business_Process_Modeling" title="Business Process Modeling — portugais" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Бизнес-моделирование — russe" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%96%D0%B2" title="Моделювання бізнес-процесів — ukrainien" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q4374012#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">Vous êtes sur une ancienne version de l’article. <br />Il a depuis été corrigé pour cause d’informations erronées, de vandalisme ou de contenu incompatible avec la <a href="/wiki/Wikip%C3%A9dia:Licence_Creative_Commons_Paternit%C3%A9-Partage_des_Conditions_Initiales_%C3%A0_l%27Identique_3.0_Unported" title="Wikipédia:Licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique 3.0 Unported">licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique</a>, ou simplement amélioré.<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Mod%C3%A9lisation_de_processus&amp;diff=107559845&amp;oldid=106042775&amp;rcid=126077788&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":308,"wgHostname":"mw1102"});
+}</script>
+	</body>
+</html>

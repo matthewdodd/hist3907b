@@ -1,0 +1,1785 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Autoregressive conditional heteroskedasticity: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Autoregressive_conditional_heteroskedasticity" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=628121658&amp;oldid=625825395" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Autoregressive_conditional_heteroskedasticity","wgTitle":"Autoregressive conditional heteroskedasticity","wgCurRevisionId":647982533,"wgRevisionId":628121658,"wgArticleId":610752,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from August 2014","Wikipedia articles needing style editing from May 2009","All articles needing style editing","Wikipedia articles needing clarification from November 2009","Time series analysis","Nonlinear time series analysis","Econometrics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Autoregressive_conditional_heteroskedasticity","wgRelevantArticleId":610752,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q180752"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Autoregressive_conditional_heteroskedasticity skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Autoregressive conditional heteroskedasticity: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;oldid=625825395" title="Autoregressive conditional heteroskedasticity">Revision as of 15:32, 16 September 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=edit&amp;oldid=625825395" title="Autoregressive conditional heteroskedasticity">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Special:Contributions/65.119.189.243" title="Special:Contributions/65.119.189.243" class="mw-userlink mw-anonuserlink">65.119.189.243</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=User_talk:65.119.189.243&amp;action=edit&amp;redlink=1" class="new" title="User talk:65.119.189.243 (page does not exist)">talk</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#iGARCH">→</a>‎<span dir="auto"><span class="autocomment">iGARCH: </span> remove Apple references</span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;diff=prev&amp;oldid=625825395" title="Autoregressive conditional heteroskedasticity" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;oldid=628121658" title="Autoregressive conditional heteroskedasticity">Revision as of 19:35, 3 October 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=edit&amp;oldid=628121658" title="Autoregressive conditional heteroskedasticity">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=edit&amp;undoafter=625825395&amp;undo=628121658" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/142.206.2.12" title="Special:Contributions/142.206.2.12" class="mw-userlink mw-anonuserlink">142.206.2.12</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:142.206.2.12" title="User talk:142.206.2.12">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#ARCH.28q.29_model_Specification">→</a>‎<span dir="auto"><span class="autocomment">ARCH(q) model Specification: </span> caps not necessary</span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;diff=next&amp;oldid=628121658" title="Autoregressive conditional heteroskedasticity" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 13:</td>
+  <td colspan="2" class="diff-lineno">Line 13:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>:&lt;math&gt; ~\epsilon_t=\sigma_t z_t ~&lt;/math&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>:&lt;math&gt; ~\epsilon_t=\sigma_t z_t ~&lt;/math&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>The random variable &lt;math&gt;z_t&lt;/math&gt; is a strong [[<del class="diffchange diffchange-inline">White</del> noise]] process. The series &lt;math&gt; \sigma_t^2 &lt;/math&gt; is modelled by</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>The random variable &lt;math&gt;z_t&lt;/math&gt; is a strong [[<ins class="diffchange diffchange-inline">white</ins> noise]] process. The series &lt;math&gt; \sigma_t^2 &lt;/math&gt; is modelled by</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>:&lt;math&gt; \sigma_t^2=\alpha_0+\alpha_1 \epsilon_{t-1}^2+\cdots+\alpha_q \epsilon_{t-q}^2 = \alpha_0 + \sum_{i=1}^q \alpha_{i} \epsilon_{t-i}^2 &lt;/math&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>:&lt;math&gt; \sigma_t^2=\alpha_0+\alpha_1 \epsilon_{t-1}^2+\cdots+\alpha_q \epsilon_{t-q}^2 = \alpha_0 + \sum_{i=1}^q \alpha_{i} \epsilon_{t-i}^2 &lt;/math&gt;</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 19:35, 3 October 2014</h2>
+<div class="hatnote">"ARCH" redirects here. For other uses, see <a href="/wiki/Arch_(disambiguation)" title="Arch (disambiguation)" class="mw-disambig">Arch (disambiguation)</a>.</div>
+<table class="metadata plainlinks ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>reads like a <a href="/wiki/Wikipedia:NOT#SOAPBOX" title="Wikipedia:NOT" class="mw-redirect">review</a> rather than an encyclopedic description of the subject</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=edit">improve this article</a> to make it <a href="/wiki/Wikipedia:NPOV" title="Wikipedia:NPOV" class="mw-redirect">neutral</a> in tone and meet Wikipedia's <a href="/wiki/Wikipedia:STYLE" title="Wikipedia:STYLE" class="mw-redirect">quality standards</a>.</span> <small><i>(May 2009)</i></small></span></td>
+</tr>
+</table>
+<p>In <a href="/wiki/Econometrics" title="Econometrics">econometrics</a>, <b>autoregressive conditional heteroskedasticity</b> (ARCH) models are used to characterize and model observed <a href="/wiki/Time_series" title="Time series">time series</a>. They are used whenever there is reason to believe that, at any point in a series, the error terms will have a characteristic size, or <a href="/wiki/Variance" title="Variance">variance</a>. In particular ARCH models assume the variance of the current <a href="/wiki/Errors_and_residuals_in_statistics" title="Errors and residuals in statistics">error term</a> or <a href="/wiki/Innovation_(signal_processing)" title="Innovation (signal processing)">innovation</a> to be a function of the actual sizes of the previous time periods' error terms: often the variance is related to the squares of the previous <a href="/wiki/Innovation_(signal_processing)" title="Innovation (signal processing)">innovations</a>.</p>
+<p>Such models are often called <b>ARCH</b> models (<a href="/wiki/Robert_Engle" title="Robert Engle" class="mw-redirect">Engle</a>, 1982),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> although a variety of other acronyms are applied to particular structures of model which have a similar basis. ARCH models are employed commonly in modeling <a href="/wiki/Mathematical_finance" title="Mathematical finance">financial</a> <a href="/wiki/Time_series" title="Time series">time series</a> that exhibit time-varying <a href="/wiki/Volatility_(finance)" title="Volatility (finance)">volatility</a> clustering, i.e. periods of swings followed by periods of relative calm. ARCH-type models are sometimes considered to be part of the family of <a href="/wiki/Stochastic_volatility" title="Stochastic volatility">stochastic volatility</a> models but strictly this is incorrect since at time <i>t</i> the volatility is completely pre-determined (deterministic) given previous values.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#ARCH.28q.29_model_Specification"><span class="tocnumber">1</span> <span class="toctext">ARCH(q) model Specification</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#GARCH"><span class="tocnumber">2</span> <span class="toctext">GARCH</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#GARCH.28p.2C_q.29_model_specification"><span class="tocnumber">2.1</span> <span class="toctext">GARCH(p, q) model specification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#NGARCH"><span class="tocnumber">3</span> <span class="toctext">NGARCH</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#iGARCH"><span class="tocnumber">4</span> <span class="toctext">iGARCH</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#EGARCH"><span class="tocnumber">5</span> <span class="toctext">EGARCH</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#GARCH-M"><span class="tocnumber">6</span> <span class="toctext">GARCH-M</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#QGARCH"><span class="tocnumber">7</span> <span class="toctext">QGARCH</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#GJR-GARCH"><span class="tocnumber">8</span> <span class="toctext">GJR-GARCH</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#TGARCH_model"><span class="tocnumber">9</span> <span class="toctext">TGARCH model</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#fGARCH"><span class="tocnumber">10</span> <span class="toctext">fGARCH</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">12</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="ARCH.28q.29_model_Specification">ARCH(q) model Specification</span></h2>
+<p>Suppose one wishes to model a time series using an ARCH process. Let <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_t~ " src="//upload.wikimedia.org/math/2/8/1/2810b4784e4029ae3321f10e648f7e53.png" /> denote the error terms (return residuals, with respect to a mean process) i.e. the series terms. These <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_t~ " src="//upload.wikimedia.org/math/2/8/1/2810b4784e4029ae3321f10e648f7e53.png" /> are split into a stochastic piece <img class="mwe-math-fallback-image-inline tex" alt="z_t" src="//upload.wikimedia.org/math/b/b/a/bba28db82c681e0ef69a54bfbdfe5a0d.png" /> and a time-dependent standard deviation <img class="mwe-math-fallback-image-inline tex" alt="\sigma_t" src="//upload.wikimedia.org/math/d/6/9/d69eb79622451042e791713fd7083e5f.png" /> characterizing the typical size of the terms so that</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_t=\sigma_t z_t ~" src="//upload.wikimedia.org/math/a/c/9/ac991d749503bbadcdc47578e5b2a19d.png" /></dd>
+</dl>
+<p>The random variable <img class="mwe-math-fallback-image-inline tex" alt="z_t" src="//upload.wikimedia.org/math/b/b/a/bba28db82c681e0ef69a54bfbdfe5a0d.png" /> is a strong <a href="/wiki/White_noise" title="White noise">white noise</a> process. The series <img class="mwe-math-fallback-image-inline tex" alt=" \sigma_t^2 " src="//upload.wikimedia.org/math/9/c/1/9c1dc1e416f57663387e062b27f900b6.png" /> is modelled by</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \sigma_t^2=\alpha_0+\alpha_1 \epsilon_{t-1}^2+\cdots+\alpha_q \epsilon_{t-q}^2 = \alpha_0 + \sum_{i=1}^q \alpha_{i} \epsilon_{t-i}^2 " src="//upload.wikimedia.org/math/2/b/b/2bbe4ea5552a8230c2ace584eadb26fb.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt=" ~\alpha_0&gt;0~ " src="//upload.wikimedia.org/math/5/9/d/59d818c206f43e1dad639e56d2ac0aad.png" /> and <img class="mwe-math-fallback-image-inline tex" alt=" \alpha_i\ge 0,~i&gt;0" src="//upload.wikimedia.org/math/e/5/c/e5c27202be8728527a6d436bc21132c8.png" />.</p>
+<p>An ARCH(q) model can be estimated using <a href="/wiki/Least_squares" title="Least squares">ordinary least squares</a>. A methodology to test for the lag length of ARCH errors using the <a href="/wiki/Lagrange_multiplier_test" title="Lagrange multiplier test" class="mw-redirect">Lagrange multiplier test</a> was proposed by <a href="/wiki/Robert_F._Engle" title="Robert F. Engle">Engle</a> (1982). This procedure is as follows:</p>
+<ol>
+<li>Estimate the best fitting <a href="/wiki/Autoregressive_model" title="Autoregressive model">autoregressive model</a> AR(q) <img class="mwe-math-fallback-image-inline tex" alt=" y_t = a_0 + a_1 y_{t-1} + \cdots + a_q y_{t-q} + \epsilon_t = a_0 + \sum_{i=1}^q a_i y_{t-i} + \epsilon_t " src="//upload.wikimedia.org/math/d/6/b/d6b080d6891a302e1fb33f64ddff697c.png" />.</li>
+<li>Obtain the squares of the error <img class="mwe-math-fallback-image-inline tex" alt=" \hat \epsilon^2 " src="//upload.wikimedia.org/math/4/2/1/42193d63207d01674eeff9f7058ae83f.png" /> and regress them on a constant and <i>q</i> lagged values:
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \hat \epsilon_t^2 = \hat \alpha_0 + \sum_{i=1}^{q} \hat \alpha_i \hat \epsilon_{t-i}^2" src="//upload.wikimedia.org/math/b/1/9/b19adb905aa3013fdadea28a9ca3cd1f.png" /></dd>
+<dd>where <i>q</i> is the length of ARCH lags.</dd>
+</dl>
+</li>
+<li>The <a href="/wiki/Null_hypothesis" title="Null hypothesis">null hypothesis</a> is that, in the absence of ARCH components, we have <img class="mwe-math-fallback-image-inline tex" alt=" \alpha_i = 0 " src="//upload.wikimedia.org/math/4/e/5/4e51a67c0fc2fb2caf3f2ce7f6892a99.png" /> for all <img class="mwe-math-fallback-image-inline tex" alt=" i = 1, \cdots, q " src="//upload.wikimedia.org/math/a/4/c/a4cd65af6cee1df79972506bb14fe0a7.png" />. The alternative hypothesis is that, in the presence of ARCH components, at least one of the estimated <img class="mwe-math-fallback-image-inline tex" alt=" \alpha_i " src="//upload.wikimedia.org/math/9/0/d/90db017b80d63780533fbc74fb227dba.png" /> coefficients must be significant. In a sample of T residuals under the null hypothesis of no ARCH errors, the test statistic <i>TR²</i> follows <img class="mwe-math-fallback-image-inline tex" alt=" \chi^2 " src="//upload.wikimedia.org/math/3/f/1/3f1654642bee437631079661bd54ddc4.png" /> distribution with <i>q</i> degrees of freedom. If <i>TR²</i> is greater than the Chi-square table value, we <i>reject</i> the null hypothesis and conclude there is an ARCH effect in the <a href="/wiki/Autoregressive_moving_average_model" title="Autoregressive moving average model" class="mw-redirect">ARMA model</a>. If <i>TR²</i> is smaller than the Chi-square table value, we <i>do not reject</i> the null hypothesis.</li>
+</ol>
+<h2><span class="mw-headline" id="GARCH">GARCH</span></h2>
+<p>If an <a href="/wiki/Autoregressive_moving_average_model" title="Autoregressive moving average model" class="mw-redirect">autoregressive moving average model</a> (ARMA model) is assumed for the error variance, the model is a <b>generalized autoregressive conditional heteroskedasticity</b> (<b>GARCH</b>, Bollerslev (1986)) model.</p>
+<p>In that case, the GARCH (p, q) model (where p is the order of the GARCH terms <img class="mwe-math-fallback-image-inline tex" alt=" ~\sigma^2 " src="//upload.wikimedia.org/math/4/e/5/4e5eb1872cdc3b2d042f7e2c92910d9b.png" /> and q is the order of the ARCH terms <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon^2 " src="//upload.wikimedia.org/math/e/9/a/e9a04c8d127d74d501cd23ffa58dab17.png" /> ) is given by</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt=" \sigma_t^2=\alpha_0 + \alpha_1 \epsilon_{t-1}^2 + \cdots + \alpha_q \epsilon_{t-q}^2 + \beta_1 \sigma_{t-1}^2 + \cdots + \beta_p\sigma_{t-p}^2 = \alpha_0 + \sum_{i=1}^q \alpha_i \epsilon_{t-i}^2 + \sum_{i=1}^p \beta_i \sigma_{t-i}^2 " src="//upload.wikimedia.org/math/5/c/4/5c44959374df9cf88228d53542c9a0e3.png" /></p>
+<p>Generally, when testing for <a href="/wiki/Heteroskedasticity" title="Heteroskedasticity" class="mw-redirect">heteroskedasticity</a> in econometric models, the best test is the <a href="/wiki/White_test" title="White test">White test</a>. However, when dealing with <a href="/wiki/Time_series" title="Time series">time series</a> data, this means to test for ARCH errors (as described above) and GARCH errors (below).</p>
+<p>EWMA is an alternative model in a separate class of exponential smoothing models. It can be an alternative to GARCH modelling as it has some attractive properties such as a greater weight upon more recent observations but also some drawbacks such as an arbitrary decay factor that introduce subjectivity into the estimation.</p>
+<h3><span class="mw-headline" id="GARCH.28p.2C_q.29_model_specification">GARCH(p, q) model specification</span></h3>
+<p>The lag length <i>p</i> of a GARCH(p, q) process is established in three steps:</p>
+<ol>
+<li>Estimate the best fitting AR(q) model
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" y_t = a_0 + a_1 y_{t-1} + \cdots + a_q y_{t-q} + \epsilon_t = a_0 + \sum_{i=1}^q a_i y_{t-i} + \epsilon_t " src="//upload.wikimedia.org/math/d/6/b/d6b080d6891a302e1fb33f64ddff697c.png" />.</dd>
+</dl>
+</li>
+<li>Compute and plot the autocorrelations of <img class="mwe-math-fallback-image-inline tex" alt=" \epsilon^2 " src="//upload.wikimedia.org/math/3/1/4/314dfbd12ed8089050eecdca76736a2f.png" /> by
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \rho = {{\sum^T_{t=i+1} (\hat \epsilon^2_t - \hat \sigma^2_t) (\hat \epsilon^2_{t-1} - \hat \sigma^2_{t-1})} \over {\sum^T_{t=1} (\hat \epsilon^2_t - \hat \sigma^2_t)^2}} " src="//upload.wikimedia.org/math/8/7/6/876cba0088c0f48b4fcfc2ef6c3c7b69.png" /></dd>
+</dl>
+</li>
+<li>The asymptotic, that is for large samples, standard deviation of <img class="mwe-math-fallback-image-inline tex" alt=" \rho (i) " src="//upload.wikimedia.org/math/3/4/0/340e196cfd2cfb79d186da3aabf830e1.png" /> is <img class="mwe-math-fallback-image-inline tex" alt=" 1/\sqrt{T} " src="//upload.wikimedia.org/math/8/d/7/8d7913fccad8227cf666f917109d8bc1.png" />. Individual values that are larger than this indicate GARCH errors. To estimate the total number of lags, use the <a href="/wiki/Ljung-Box_test" title="Ljung-Box test" class="mw-redirect">Ljung-Box test</a> until the value of these are less than, say, 10% significant. The Ljung-Box <a href="/wiki/Q-statistic" title="Q-statistic">Q-statistic</a> follows <img class="mwe-math-fallback-image-inline tex" alt=" \chi^2 " src="//upload.wikimedia.org/math/3/f/1/3f1654642bee437631079661bd54ddc4.png" /> distribution with <i>n</i> degrees of freedom if the squared residuals <img class="mwe-math-fallback-image-inline tex" alt=" \epsilon^2_t " src="//upload.wikimedia.org/math/c/f/6/cf6208e720160b493f6a7f8f6ea2114e.png" /> are uncorrelated. It is recommended to consider up to T/4 values of <i>n</i>. The null hypothesis states that there are no ARCH or GARCH errors. Rejecting the null thus means that such errors exist in the <a href="/wiki/Conditional_variance" title="Conditional variance">conditional variance</a>.</li>
+</ol>
+<h2><span class="mw-headline" id="NGARCH">NGARCH</span></h2>
+<p>Nonlinear GARCH (NGARCH) also known as Nonlinear Asymmetric GARCH(1,1) (NAGARCH) was introduced by Engle and Ng in 1993.<br />
+<img class="mwe-math-fallback-image-inline tex" alt=" ~\sigma_{t}^2= ~\omega + ~\alpha  (~\epsilon_{t-1} - ~\theta ~\sigma_{t-1})^2 + ~\beta  ~\sigma_{t-1}^2" src="//upload.wikimedia.org/math/7/0/6/706375092857188a031e8290f2f9d646.png" /></p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="~\alpha , ~\beta \geq 0 ; ~\omega &gt; 0" src="//upload.wikimedia.org/math/9/5/3/953011e0a27cdbe06d6da70e8c788b55.png" />.<br />
+For stock returns, parameter <img class="mwe-math-fallback-image-inline tex" alt="~ \theta" src="//upload.wikimedia.org/math/3/6/f/36fb4532b16b92aa8cb64aab77c5f6f5.png" /> is usually estimated to be positive; in this case, it reflects the leverage effect, signifying that negative returns increase future volatility by a larger amount than positive returns of the same magnitude.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>This model shouldn't be confused with the NARCH model, together with the NGARCH extension, introduced by Higgins and Bera in 1992.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (November 2009)">clarification needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="iGARCH">iGARCH</span></h2>
+<p>Integrated Generalized Autoregressive Conditional Heteroskedasticity IGARCH is a restricted version of the GARCH model, where the persistent parameters sum up to one, and therefore there is a <a href="/wiki/Unit_root" title="Unit root">unit root</a> in the GARCH process. The condition for this is</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="
+\sum^p_{i=1} ~\beta_{i} +\sum_{i=1}^q~\alpha_{i} = 1
+" src="//upload.wikimedia.org/math/9/d/3/9d35b272895a4c716addf494500c1210.png" />.</p>
+<h2><span class="mw-headline" id="EGARCH">EGARCH</span></h2>
+<p>The <b>exponential general autoregressive conditional heteroskedastic</b> (EGARCH) model by Nelson (1991) is another form of the GARCH model. Formally, an EGARCH(p,q):</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="\log\sigma_{t}^2=\omega+\sum_{k=1}^{q}\beta_{k}g(Z_{t-k})+\sum_{k=1}^{p}\alpha_{k}\log\sigma_{t-k}^{2}" src="//upload.wikimedia.org/math/0/c/a/0ca47a2be88cfb61a8280b9897191b97.png" /></p>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="g(Z_{t})=\theta Z_{t}+\lambda(|Z_{t}|-E(|Z_{t}|))" src="//upload.wikimedia.org/math/7/7/8/7785a2ce8b963b03d62406a0bbd5f60b.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\sigma_{t}^{2}" src="//upload.wikimedia.org/math/f/7/8/f78644b3efcb4c252ed9bd1803fef90e.png" /> is the <a href="/wiki/Conditional_variance" title="Conditional variance">conditional variance</a>, <img class="mwe-math-fallback-image-inline tex" alt="\omega" src="//upload.wikimedia.org/math/4/d/1/4d1b7b74aba3cfabd624e898d86b4602.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\beta" src="//upload.wikimedia.org/math/0/7/1/071997f13634882f823041b057f90923.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\alpha" src="//upload.wikimedia.org/math/b/c/c/bccfc7022dfb945174d9bcebad2297bb.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\theta" src="//upload.wikimedia.org/math/5/0/d/50d91f80cbb8feda1d10e167107ad1ff.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\lambda" src="//upload.wikimedia.org/math/e/0/5/e05a30d96800384dd38b22851322a6b5.png" /> are coefficients, and <img class="mwe-math-fallback-image-inline tex" alt="Z_{t}" src="//upload.wikimedia.org/math/2/1/2/212fc96ced4ef00d0b74a8e47100cb20.png" /> may be a <a href="/wiki/Standard_normal_variable" title="Standard normal variable" class="mw-redirect">standard normal variable</a> or come from a <a href="/wiki/Generalized_error_distribution" title="Generalized error distribution" class="mw-redirect">generalized error distribution</a>. The formulation for <img class="mwe-math-fallback-image-inline tex" alt="g(Z_{t})" src="//upload.wikimedia.org/math/5/e/3/5e3c5b990b7d2b29507d3faae37a756e.png" /> allows the sign and the magnitude of <img class="mwe-math-fallback-image-inline tex" alt="Z_{t}" src="//upload.wikimedia.org/math/2/1/2/212fc96ced4ef00d0b74a8e47100cb20.png" /> to have separate effects on the volatility. This is particularly useful in an asset pricing context.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Since <img class="mwe-math-fallback-image-inline tex" alt="\log\sigma_{t}^{2}" src="//upload.wikimedia.org/math/9/e/c/9ec290c0cd4a939d1798bb1dc558762a.png" /> may be negative there are no (fewer) restrictions on the parameters.</p>
+<h2><span class="mw-headline" id="GARCH-M">GARCH-M</span></h2>
+<p>The GARCH-in-mean (GARCH-M) model adds a heteroskedasticity term into the mean equation. It has the specification:</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="
+y_t = ~\beta x_t + ~\lambda ~\sigma_t + ~\epsilon_t
+" src="//upload.wikimedia.org/math/b/8/3/b83bf4b1d3e0e06d78107284563833cc.png" /></p>
+<p>The residual <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_t " src="//upload.wikimedia.org/math/4/8/c/48cb6f8871f8e357cb0e00ed1c82ac3a.png" /> is defined as</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="
+~\epsilon_t = ~\sigma_t ~\times z_t
+" src="//upload.wikimedia.org/math/c/6/d/c6d9899782ecb27d8f6b20c44cf1f022.png" /></p>
+<h2><span class="mw-headline" id="QGARCH">QGARCH</span></h2>
+<p>The Quadratic GARCH (QGARCH) model by Sentana (1995) is used to model asymmetric effects of positive and negative shocks.</p>
+<p>In the example of a GARCH(1,1) model, the residual process <img class="mwe-math-fallback-image-inline tex" alt=" ~\sigma_t " src="//upload.wikimedia.org/math/b/8/4/b84bc96897e8552a6b3aa46f0f496664.png" /> is</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="
+~\epsilon_t = ~\sigma_t z_t
+" src="//upload.wikimedia.org/math/b/0/e/b0e06ed5322772b09ebbe53cb342e42e.png" /></p>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt=" z_t " src="//upload.wikimedia.org/math/b/b/a/bba28db82c681e0ef69a54bfbdfe5a0d.png" /> is i.i.d. and</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="
+~\sigma_t^2 = K + ~\alpha ~\epsilon_{t-1}^2 + ~\beta ~\sigma_{t-1}^2 + ~\phi ~\epsilon_{t-1}
+" src="//upload.wikimedia.org/math/f/9/9/f99ecc9e3ed079802bf170bd96f296b5.png" /></p>
+<h2><span class="mw-headline" id="GJR-GARCH">GJR-GARCH</span></h2>
+<p>Similar to QGARCH, The Glosten-Jagannathan-Runkle GARCH (GJR-GARCH) model by Glosten, Jagannathan and Runkle (1993) also models asymmetry in the ARCH process. The suggestion is to model <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_t = ~\sigma_t z_t " src="//upload.wikimedia.org/math/b/0/e/b0e06ed5322772b09ebbe53cb342e42e.png" /> where <img class="mwe-math-fallback-image-inline tex" alt=" z_t " src="//upload.wikimedia.org/math/b/b/a/bba28db82c681e0ef69a54bfbdfe5a0d.png" /> is i.i.d., and</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="
+~\sigma_t^2 = K + ~\delta ~\sigma_{t-1}^2 + ~\alpha ~\epsilon_{t-1}^2 + ~\phi ~\epsilon_{t-1}^2 I_{t-1}
+" src="//upload.wikimedia.org/math/f/8/2/f82b65f2d9b24d90655d318029a2e79a.png" /></p>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt=" I_{t-1} = 0 " src="//upload.wikimedia.org/math/1/a/8/1a88ea71af9e21b880ab3dba5f31d983.png" /> if <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1} \ge 0 " src="//upload.wikimedia.org/math/2/d/6/2d69bf12c38e6148f0fe9235716c4a58.png" />, and <img class="mwe-math-fallback-image-inline tex" alt=" I_{t-1} = 1 " src="//upload.wikimedia.org/math/c/2/c/c2c288ca4befefbe58194fc4647bd3aa.png" /> if <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1} &lt; 0 " src="//upload.wikimedia.org/math/2/f/7/2f7e6d0549b90bda7d3217a744e53d6f.png" />.</p>
+<h2><span class="mw-headline" id="TGARCH_model">TGARCH model</span></h2>
+<p>The Threshold GARCH (TGARCH) model by Zakoian (1994) is similar to GJR GARCH, and the specification is one on conditional standard deviation instead of <a href="/wiki/Conditional_variance" title="Conditional variance">conditional variance</a>:</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="
+~\sigma_t = K + ~\delta ~\sigma_{t-1} + ~\alpha_1^{+} ~\epsilon_{t-1}^{+} + ~\alpha_1^{-} ~\epsilon_{t-1}^{-}
+" src="//upload.wikimedia.org/math/2/1/c/21c8f24dbe18a55d156efe78ef56fcbc.png" /></p>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1}^{+} = ~\epsilon_{t-1} " src="//upload.wikimedia.org/math/0/6/f/06f9d84578fabcf420f85955e5402fa0.png" /> if <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1} &gt; 0 " src="//upload.wikimedia.org/math/b/9/6/b9676b0a1f092afc9739cd55dfd137d8.png" />, and <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1}^{+} = 0 " src="//upload.wikimedia.org/math/8/3/6/8362cd548fa0781baa804b5a07b6eee0.png" /> if <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1} \le 0 " src="//upload.wikimedia.org/math/c/6/1/c61bebd59ef51a9980ebb359294f1c35.png" />. Likewise, <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1}^{-} = ~\epsilon_{t-1} " src="//upload.wikimedia.org/math/8/0/8/808e2de173167e93bc264185101cfc3d.png" /> if <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1} \le 0 " src="//upload.wikimedia.org/math/c/6/1/c61bebd59ef51a9980ebb359294f1c35.png" />, and <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1}^{-} = 0 " src="//upload.wikimedia.org/math/0/1/1/0112969e1b43dd918fc1d0e40e089f83.png" /> if <img class="mwe-math-fallback-image-inline tex" alt=" ~\epsilon_{t-1} &gt; 0 " src="//upload.wikimedia.org/math/b/9/6/b9676b0a1f092afc9739cd55dfd137d8.png" />.</p>
+<h2><span class="mw-headline" id="fGARCH">fGARCH</span></h2>
+<p>Hentschel's <b>fGARCH</b> model,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> also known as <b>Family GARCH</b>, is an omnibus model that nests a variety of other popular symmetric and asymmetric GARCH models including APARCH, GJR, AVGARCH, NGARCH, etc.</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal">Engle, Robert F. (1982). "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation". <i><a href="/wiki/Econometrica" title="Econometrica">Econometrica</a></i> <b>50</b> (4): 987–1007. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1912773">1912773</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Autoregressive+Conditional+Heteroscedasticity+with+Estimates+of+the+Variance+of+United+Kingdom+Inflation&amp;rft.au=Engle%2C+Robert+F.&amp;rft.aufirst=Robert+F.&amp;rft.aulast=Engle&amp;rft.date=1982&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jstor=1912773&amp;rft.jtitle=Econometrica&amp;rft.pages=987-1007&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Chris_Brooks_(academic)" title="Chris Brooks (academic)">Brooks, Chris</a> (2014). <i>Introductory Econometrics for Finance</i> (3rd ed.). Cambridge: Cambridge University Press. p.&#160;461. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781107661455" title="Special:BookSources/9781107661455">9781107661455</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.au=Brooks%2C+Chris&amp;rft.aufirst=Chris&amp;rft.aulast=Brooks&amp;rft.btitle=Introductory+Econometrics+for+Finance&amp;rft.date=2014&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=9781107661455&amp;rft.pages=461&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Engle, R.F.; Ng, V.K. (1991). <a rel="nofollow" class="external text" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=262096">"Measuring and testing the impact of news on volatility"</a>. <i>Journal of Finance</i> <b>48</b> (5): 1749–1778. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1540-6261.1993.tb05127.x">10.1111/j.1540-6261.1993.tb05127.x</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Measuring+and+testing+the+impact+of+news+on+volatility&amp;rft.au=Engle%2C+R.F.&amp;rft.aufirst=R.F.&amp;rft.aulast=Engle&amp;rft.au=Ng%2C+V.K.&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D262096&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1540-6261.1993.tb05127.x&amp;rft.issue=5&amp;rft.jtitle=Journal+of+Finance&amp;rft.pages=1749-1778&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=48" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Posedel, Petra (2006). <a rel="nofollow" class="external text" href="http://www.ijf.hr/eng/FTP/2006/4/posedel.pdf">"Analysis Of The Exchange Rate And Pricing Foreign Currency Options On The Croatian Market: The Ngarch Model As An Alternative To The Black Scholes Model"</a>. <i>Financial Theory and Practice</i> <b>30</b> (4): 347–368.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Analysis+Of+The+Exchange+Rate+And+Pricing+Foreign+Currency+Options+On+The+Croatian+Market%3A+The+Ngarch+Model+As+An+Alternative+To+The+Black+Scholes+Model&amp;rft.aufirst=Petra&amp;rft.aulast=Posedel&amp;rft.au=Posedel%2C+Petra&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ijf.hr%2Feng%2FFTP%2F2006%2F4%2Fposedel.pdf&amp;rft.issue=4&amp;rft.jtitle=Financial+Theory+and+Practice&amp;rft.pages=347-368&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation journal">St. Pierre, Eilleen F. (1998). "Estimating EGARCH-M Models: Science or Art". <i>The Quarterly Review of Economics and Finance</i> <b>38</b> (2): 167–180. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS1062-9769%2899%2980110-0">10.1016/S1062-9769(99)80110-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Estimating+EGARCH-M+Models%3A+Science+or+Art&amp;rft.aufirst=Eilleen+F.&amp;rft.aulast=St.+Pierre&amp;rft.au=St.+Pierre%2C+Eilleen+F.&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS1062-9769%2899%2980110-0&amp;rft.issue=2&amp;rft.jtitle=The+Quarterly+Review+of+Economics+and+Finance&amp;rft.pages=167-180&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation journal">Hentschel, Ludger (1995). "All in the family Nesting symmetric and asymmetric GARCH models". <i>Journal of Financial Economics</i> <b>39</b> (1): 71–104. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0304-405X%2894%2900821-H">10.1016/0304-405X(94)00821-H</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=All+in+the+family+Nesting+symmetric+and+asymmetric+GARCH+models&amp;rft.aufirst=Ludger&amp;rft.au=Hentschel%2C+Ludger&amp;rft.aulast=Hentschel&amp;rft.date=1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0304-405X%2894%2900821-H&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Financial+Economics&amp;rft.pages=71-104&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=39" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><span class="citation journal"><a href="/wiki/Tim_Bollerslev" title="Tim Bollerslev">Bollerslev, Tim</a> (1986). "Generalized Autoregressive Conditional Heteroskedasticity". <i><a href="/wiki/Journal_of_Econometrics" title="Journal of Econometrics">Journal of Econometrics</a></i> <b>31</b> (3): 307–327. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0304-4076%2886%2990063-1">10.1016/0304-4076(86)90063-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Generalized+Autoregressive+Conditional+Heteroskedasticity&amp;rft.au=Bollerslev%2C+Tim&amp;rft.aufirst=Tim&amp;rft.aulast=Bollerslev&amp;rft.date=1986&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0304-4076%2886%2990063-1&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Econometrics&amp;rft.pages=307-327&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Bollerslev, Tim (2008). <a rel="nofollow" class="external text" href="ftp://ftp.econ.au.dk/creates/rp/08/rp08_49.pdf">"Glossary to ARCH (GARCH)"</a>. <i>working paper</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Glossary+to+ARCH+%28GARCH%29&amp;rft.au=Bollerslev%2C+Tim&amp;rft.aufirst=Tim&amp;rft.aulast=Bollerslev&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=ftp%3A%2F%2Fftp.econ.au.dk%2Fcreates%2Frp%2F08%2Frp08_49.pdf&amp;rft.jtitle=working+paper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Enders, W. (2004). "Modelling Volatility". <i>Applied Econometrics Time Series</i> (Second ed.). John-Wiley &amp; Sons. pp.&#160;108–155. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-45173-8" title="Special:BookSources/0-471-45173-8">0-471-45173-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Modelling+Volatility&amp;rft.au=Enders%2C+W.&amp;rft.aufirst=W.&amp;rft.aulast=Enders&amp;rft.btitle=Applied+Econometrics+Time+Series&amp;rft.date=2004&amp;rft.edition=Second&amp;rft.genre=bookitem&amp;rft.isbn=0-471-45173-8&amp;rft.pages=108-155&amp;rft.pub=John-Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal"><a href="/wiki/Robert_F._Engle" title="Robert F. Engle">Engle, Robert F.</a> (1982). "Autoregressive Conditional Heteroscedasticity with Estimates of Variance of United Kingdom Inflation". <i><a href="/wiki/Econometrica" title="Econometrica">Econometrica</a></i> <b>50</b> (4): 987–1008. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1912773">1912773</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Autoregressive+Conditional+Heteroscedasticity+with+Estimates+of+Variance+of+United+Kingdom+Inflation&amp;rft.au=Engle%2C+Robert+F.&amp;rft.aufirst=Robert+F.&amp;rft.aulast=Engle&amp;rft.date=1982&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jstor=1912773&amp;rft.jtitle=Econometrica&amp;rft.pages=987-1008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span> <i>(the paper which sparked the general interest in ARCH models)</i></li>
+<li><span class="citation book">Engle, Robert F. (1995). <i>ARCH: selected readings</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-877432-X" title="Special:BookSources/0-19-877432-X">0-19-877432-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.au=Engle%2C+Robert+F.&amp;rft.aufirst=Robert+F.&amp;rft.aulast=Engle&amp;rft.btitle=ARCH%3A+selected+readings&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=0-19-877432-X&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Engle, Robert F. (2001). "GARCH 101: The Use of ARCH/GARCH Models in Applied Econometrics". <i><a href="/wiki/Journal_of_Economic_Perspectives" title="Journal of Economic Perspectives">Journal of Economic Perspectives</a></i> <b>15</b> (4): 157–168. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1257%2Fjep.15.4.157">10.1257/jep.15.4.157</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2696523">2696523</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=GARCH+101%3A+The+Use+of+ARCH%2FGARCH+Models+in+Applied+Econometrics&amp;rft.au=Engle%2C+Robert+F.&amp;rft.aufirst=Robert+F.&amp;rft.aulast=Engle&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1257%2Fjep.15.4.157&amp;rft.issue=4&amp;rft.jstor=2696523&amp;rft.jtitle=Journal+of+Economic+Perspectives&amp;rft.pages=157-168&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span> <i>(a short, readable introduction)</i></li>
+<li><span class="citation book">Gujarati, D. N. (2003). <i>Basic Econometrics</i>. pp.&#160;856–862.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.aufirst=D.+N.&amp;rft.au=Gujarati%2C+D.+N.&amp;rft.aulast=Gujarati&amp;rft.btitle=Basic+Econometrics&amp;rft.date=2003&amp;rft.genre=book&amp;rft.pages=856-862&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Hacker, R. S.; Hatemi-J, A. (2005). "A Test for Multivariate ARCH Effects". <i>Applied Economics Letters</i> <b>12</b> (7): 411–417. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F13504850500092129">10.1080/13504850500092129</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=A+Test+for+Multivariate+ARCH+Effects&amp;rft.aufirst=R.+S.&amp;rft.au=Hacker%2C+R.+S.&amp;rft.au=Hatemi-J%2C+A.&amp;rft.aulast=Hacker&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F13504850500092129&amp;rft.issue=7&amp;rft.jtitle=Applied+Economics+Letters&amp;rft.pages=411-417&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Nelson, D. B. (1991). "Conditional Heteroskedasticity in Asset Returns: A New Approach". <i><a href="/wiki/Econometrica" title="Econometrica">Econometrica</a></i> <b>59</b> (2): 347–370. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2938260">2938260</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregressive+conditional+heteroskedasticity&amp;rft.atitle=Conditional+Heteroskedasticity+in+Asset+Returns%3A+A+New+Approach&amp;rft.aufirst=D.+B.&amp;rft.aulast=Nelson&amp;rft.au=Nelson%2C+D.+B.&amp;rft.date=1991&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jstor=2938260&amp;rft.jtitle=Econometrica&amp;rft.pages=347-370&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=59" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Volatility" title="Template:Volatility"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Volatility" title="Template talk:Volatility"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Volatility&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Volatility_(finance)" title="Volatility (finance)">Volatility</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Modelling volatility</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Implied_volatility" title="Implied volatility">Implied volatility</a></li>
+<li><a href="/wiki/Volatility_smile" title="Volatility smile">Volatility smile</a></li>
+<li><a href="/wiki/Volatility_clustering" title="Volatility clustering">Volatility clustering</a></li>
+<li><a href="/wiki/Local_volatility" title="Local volatility">Local volatility</a></li>
+<li><a href="/wiki/Stochastic_volatility" title="Stochastic volatility">Stochastic volatility</a></li>
+<li><a href="/wiki/Jump-diffusion_models" title="Jump-diffusion models" class="mw-redirect">Jump-diffusion models</a></li>
+<li><strong class="selflink">ARCH and GARCH</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Trading volatility</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Volatility_arbitrage" title="Volatility arbitrage">Volatility arbitrage</a></li>
+<li><a href="/wiki/Straddle" title="Straddle">Straddle</a></li>
+<li><a href="/wiki/Volatility_swap" title="Volatility swap">Volatility swap</a></li>
+<li><a href="/wiki/IVX" title="IVX">IVX</a></li>
+<li><a href="/wiki/VIX" title="VIX">VIX</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Stochastic_processes" title="Template:Stochastic processes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Stochastic_processes" title="Template talk:Stochastic processes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Stochastic_processes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Stochastic_process" title="Stochastic process">Stochastic processes</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Discrete-time_stochastic_process" title="Discrete-time stochastic process">Discrete time</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bernoulli_process" title="Bernoulli process">Bernoulli process</a></li>
+<li><a href="/wiki/Branching_process" title="Branching process">Branching process</a></li>
+<li><a href="/wiki/Chinese_restaurant_process" title="Chinese restaurant process">Chinese restaurant process</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Independent_and_identically_distributed_random_variables" title="Independent and identically distributed random variables">Independent and identically distributed random variables</a></li>
+<li><a href="/wiki/Markov_chain" title="Markov chain">Markov chain</a></li>
+<li><a href="/wiki/Moran_process" title="Moran process">Moran process</a></li>
+<li><a href="/wiki/Random_walk" title="Random walk">Random walk</a>
+<ul>
+<li><a href="/wiki/Loop-erased_random_walk" title="Loop-erased random walk">Loop-erased</a></li>
+<li><a href="/wiki/Self-avoiding_walk" title="Self-avoiding walk">Self-avoiding</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Continuous-time_stochastic_process" title="Continuous-time stochastic process">Continuous time</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bessel_process" title="Bessel process">Bessel process</a></li>
+<li><a href="/wiki/Birth%E2%80%93death_process" title="Birth–death process">Birth–death process</a></li>
+<li><a href="/wiki/Wiener_process" title="Wiener process">Brownian motion</a>
+<ul>
+<li><a href="/wiki/Brownian_bridge" title="Brownian bridge">Bridge</a></li>
+<li><a href="/wiki/Brownian_excursion" title="Brownian excursion">Excursion</a></li>
+<li><a href="/wiki/Fractional_Brownian_motion" title="Fractional Brownian motion">Fractional</a></li>
+<li><a href="/wiki/Geometric_Brownian_motion" title="Geometric Brownian motion">Geometric</a></li>
+<li><a href="/wiki/Brownian_meander" title="Brownian meander">Meander</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cauchy_process" title="Cauchy process">Cauchy process</a></li>
+<li><a href="/wiki/Contact_process_(mathematics)" title="Contact process (mathematics)">Contact process</a></li>
+<li><a href="/wiki/Continuous-time_random_walk" title="Continuous-time random walk">Continuous-time random walk</a></li>
+<li><a href="/wiki/Cox_process" title="Cox process">Cox process</a></li>
+<li><a href="/wiki/Diffusion_process" title="Diffusion process">Diffusion process</a></li>
+<li><a href="/wiki/Empirical_process" title="Empirical process">Empirical process</a></li>
+<li><a href="/wiki/Feller_process" title="Feller process">Feller process</a></li>
+<li><a href="/wiki/Fleming%E2%80%93Viot_process" title="Fleming–Viot process">Fleming–Viot process</a></li>
+<li><a href="/wiki/Gamma_process" title="Gamma process">Gamma process</a></li>
+<li><a href="/wiki/Hunt_process" title="Hunt process">Hunt process</a></li>
+<li><a href="/wiki/Interacting_particle_system" title="Interacting particle system">Interacting particle systems</a></li>
+<li><a href="/wiki/It%C5%8D_diffusion" title="Itō diffusion">Itō diffusion</a></li>
+<li><a href="/wiki/It%C5%8D_process" title="Itō process" class="mw-redirect">Itō process</a></li>
+<li><a href="/wiki/Jump_diffusion" title="Jump diffusion">Jump diffusion</a></li>
+<li><a href="/wiki/Jump_process" title="Jump process">Jump process</a></li>
+<li><a href="/wiki/L%C3%A9vy_process" title="Lévy process">Lévy process</a></li>
+<li><a href="/wiki/Local_time_(mathematics)" title="Local time (mathematics)">Local time</a></li>
+<li><a href="/wiki/Markov_additive_process" title="Markov additive process">Markov additive process</a></li>
+<li><a href="/wiki/McKean%E2%80%93Vlasov_process" title="McKean–Vlasov process">McKean–Vlasov process</a></li>
+<li><a href="/wiki/Ornstein%E2%80%93Uhlenbeck_process" title="Ornstein–Uhlenbeck process">Ornstein–Uhlenbeck process</a></li>
+<li><a href="/wiki/Poisson_process" title="Poisson process">Poisson process</a>
+<ul>
+<li><a href="/wiki/Compound_Poisson_process" title="Compound Poisson process">Compound</a></li>
+<li><a href="/wiki/Non-homogeneous_Poisson_process" title="Non-homogeneous Poisson process" class="mw-redirect">Non-homogeneous</a></li>
+<li><a href="/wiki/Poisson_point_process" title="Poisson point process">Point process</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Schramm%E2%80%93Loewner_evolution" title="Schramm–Loewner evolution">Schramm–Loewner evolution</a></li>
+<li><a href="/wiki/Semimartingale" title="Semimartingale">Semimartingale</a></li>
+<li><a href="/wiki/Sigma-martingale" title="Sigma-martingale">Sigma-martingale</a></li>
+<li><a href="/wiki/Stable_process" title="Stable process">Stable process</a></li>
+<li><a href="/wiki/Superprocess" title="Superprocess">Superprocess</a></li>
+<li><a href="/wiki/Telegraph_process" title="Telegraph process">Telegraph process</a></li>
+<li><a href="/wiki/Variance_gamma_process" title="Variance gamma process">Variance gamma process</a></li>
+<li><a href="/wiki/Wiener_process" title="Wiener process">Wiener process</a></li>
+<li><a href="/wiki/Wiener_sausage" title="Wiener sausage">Wiener sausage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Both</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Branching_process" title="Branching process">Branching process</a></li>
+<li><a href="/wiki/Gaussian_process" title="Gaussian process">Gaussian process</a></li>
+<li><a href="/wiki/Hidden_Markov_model" title="Hidden Markov model">Hidden Markov model (HMM)</a></li>
+<li><a href="/wiki/Markov_process" title="Markov process">Markov process</a></li>
+<li><a href="/wiki/Martingale_(probability_theory)" title="Martingale (probability theory)">Martingale</a>
+<ul>
+<li><a href="/wiki/Martingale_difference_sequence" title="Martingale difference sequence">Differences</a></li>
+<li><a href="/wiki/Local_martingale" title="Local martingale">Local</a></li>
+<li><a href="/wiki/Submartingale" title="Submartingale" class="mw-redirect">Sub-</a></li>
+<li><a href="/wiki/Supermartingale" title="Supermartingale" class="mw-redirect">Super-</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Random_dynamical_system" title="Random dynamical system">Random dynamical system</a></li>
+<li><a href="/wiki/Regenerative_process" title="Regenerative process">Regenerative process</a></li>
+<li><a href="/wiki/Renewal_process" title="Renewal process" class="mw-redirect">Renewal process</a></li>
+<li><a href="/wiki/White_noise" title="White noise">White noise</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields and other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dirichlet_process" title="Dirichlet process">Dirichlet process</a></li>
+<li><a href="/wiki/Gaussian_random_field" title="Gaussian random field">Gaussian random field</a></li>
+<li><a href="/wiki/Gibbs_measure" title="Gibbs measure">Gibbs measure</a></li>
+<li><a href="/wiki/Hopfield_model" title="Hopfield model" class="mw-redirect">Hopfield model</a></li>
+<li><a href="/wiki/Ising_model" title="Ising model">Ising model</a>
+<ul>
+<li><a href="/wiki/Potts_model" title="Potts model">Potts model</a></li>
+<li><a href="/wiki/Boolean_network" title="Boolean network">Boolean network</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Markov_random_field" title="Markov random field">Markov random field</a></li>
+<li><a href="/wiki/Percolation_theory" title="Percolation theory">Percolation</a></li>
+<li><a href="/wiki/Pitman%E2%80%93Yor_process" title="Pitman–Yor process">Pitman–Yor process</a></li>
+<li><a href="/wiki/Point_process" title="Point process">Point process</a>
+<ul>
+<li><a href="/wiki/Point_process#Cox_point_process" title="Point process">Cox</a></li>
+<li><a href="/wiki/Poisson_point_process" title="Poisson point process">Poisson</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Random_field" title="Random field">Random field</a></li>
+<li><a href="/wiki/Random_graph" title="Random graph">Random graph</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Time_series" title="Time series">Time series models</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Autoregressive conditional heteroskedasticity (ARCH) model</strong></li>
+<li><a href="/wiki/Autoregressive_integrated_moving_average" title="Autoregressive integrated moving average">Autoregressive integrated moving average (ARIMA) model</a></li>
+<li><a href="/wiki/Autoregressive_model" title="Autoregressive model">Autoregressive (AR) model</a></li>
+<li><a href="/wiki/Autoregressive%E2%80%93moving-average_model" title="Autoregressive–moving-average model">Autoregressive–moving-average (ARMA) model</a></li>
+<li><a href="/wiki/GARCH" title="GARCH" class="mw-redirect">Generalized autoregressive conditional heteroskedasticity (GARCH) model</a></li>
+<li><a href="/wiki/Moving-average_model" title="Moving-average model">Moving-average (MA) model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Financial models</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black%E2%80%93Derman%E2%80%93Toy_model" title="Black–Derman–Toy model">Black–Derman–Toy</a></li>
+<li><a href="/wiki/Black%E2%80%93Karasinski_model" title="Black–Karasinski model">Black–Karasinski</a></li>
+<li><a href="/wiki/Black%E2%80%93Scholes_model" title="Black–Scholes model">Black–Scholes</a></li>
+<li><a href="/wiki/Chen_model" title="Chen model">Chen</a></li>
+<li><a href="/wiki/Constant_elasticity_of_variance_model" title="Constant elasticity of variance model">Constant elasticity of variance (CEV)</a></li>
+<li><a href="/wiki/Cox%E2%80%93Ingersoll%E2%80%93Ross_model" title="Cox–Ingersoll–Ross model">Cox–Ingersoll–Ross (CIR)</a></li>
+<li><a href="/wiki/Garman%E2%80%93Kohlhagen_model" title="Garman–Kohlhagen model" class="mw-redirect">Garman–Kohlhagen</a></li>
+<li><a href="/wiki/Heath%E2%80%93Jarrow%E2%80%93Morton_framework" title="Heath–Jarrow–Morton framework">Heath–Jarrow–Morton (HJM)</a></li>
+<li><a href="/wiki/Heston_model" title="Heston model">Heston</a></li>
+<li><a href="/wiki/Ho%E2%80%93Lee_model" title="Ho–Lee model">Ho–Lee</a></li>
+<li><a href="/wiki/Hull%E2%80%93White_model" title="Hull–White model">Hull–White</a></li>
+<li><a href="/wiki/LIBOR_market_model" title="LIBOR market model">LIBOR market</a></li>
+<li><a href="/wiki/SABR_volatility_model" title="SABR volatility model">SABR volatility</a></li>
+<li><a href="/wiki/Vasicek_model" title="Vasicek model">Vašíček</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Actuarial_mathematics" title="Actuarial mathematics" class="mw-redirect">Actuarial models</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/B%C3%BChlmann_model" title="Bühlmann model">Bühlmann</a></li>
+<li><a href="/wiki/Cram%C3%A9r%E2%80%93Lundberg_model" title="Cramér–Lundberg model" class="mw-redirect">Cramér–Lundberg</a></li>
+<li><a href="/wiki/Risk_process" title="Risk process" class="mw-redirect">Risk process</a></li>
+<li><a href="/wiki/Sparre%E2%80%93Anderson_model" title="Sparre–Anderson model" class="mw-redirect">Sparre–Anderson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Queueing_model" title="Queueing model" class="mw-redirect">Queueing models</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bulk_queue" title="Bulk queue">Bulk</a></li>
+<li><a href="/wiki/Fluid_queue" title="Fluid queue">Fluid</a></li>
+<li><a href="/wiki/G-network" title="G-network">Generalized queueing network</a></li>
+<li><a href="/wiki/M/G/1_queue" title="M/G/1 queue">M/G/1</a></li>
+<li><a href="/wiki/M/M/1_queue" title="M/M/1 queue">M/M/1</a></li>
+<li><a href="/wiki/M/M/c_queue" title="M/M/c queue">M/M/c</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Properties</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/C%C3%A0dl%C3%A0g" title="Càdlàg">Càdlàg paths</a></li>
+<li><a href="/wiki/Continuous_stochastic_process" title="Continuous stochastic process">Continuous</a></li>
+<li><a href="/wiki/Sample-continuous_process" title="Sample-continuous process">Continuous paths</a></li>
+<li><a href="/wiki/Ergodicity" title="Ergodicity">Ergodic</a></li>
+<li><a href="/wiki/Exchangeable_random_variables" title="Exchangeable random variables">Exchangeable</a></li>
+<li><a href="/wiki/Feller-continuous_process" title="Feller-continuous process">Feller-continuous</a></li>
+<li><a href="/wiki/Gauss%E2%80%93Markov_process" title="Gauss–Markov process">Gauss–Markov</a></li>
+<li><a href="/wiki/Markov_property" title="Markov property">Markov</a></li>
+<li><a href="/wiki/Mixing_(mathematics)" title="Mixing (mathematics)">Mixing</a></li>
+<li><a href="/wiki/Piecewise_deterministic_Markov_process" title="Piecewise deterministic Markov process" class="mw-redirect">Piecewise deterministic</a></li>
+<li><a href="/wiki/Predictable_process" title="Predictable process">Predictable</a></li>
+<li><a href="/wiki/Progressively_measurable_process" title="Progressively measurable process">Progressively measurable</a></li>
+<li><a href="/wiki/Self-similar_process" title="Self-similar process">Self-similar</a></li>
+<li><a href="/wiki/Stationary_process" title="Stationary process">Stationary</a></li>
+<li><a href="/wiki/Time_reversibility" title="Time reversibility">Time-reversible</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Limit theorems</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Central_limit_theorem" title="Central limit theorem">Central limit theorem</a></li>
+<li><a href="/wiki/Donsker%27s_theorem" title="Donsker's theorem">Donsker's theorem</a></li>
+<li><a href="/wiki/Doob%27s_martingale_convergence_theorems" title="Doob's martingale convergence theorems">Doob's martingale convergence theorems</a></li>
+<li><a href="/wiki/Ergodic_theorem" title="Ergodic theorem" class="mw-redirect">Ergodic theorem</a></li>
+<li><a href="/wiki/Fisher%E2%80%93Tippett%E2%80%93Gnedenko_theorem" title="Fisher–Tippett–Gnedenko theorem">Fisher–Tippett–Gnedenko theorem</a></li>
+<li><a href="/wiki/Large_deviation_principle" title="Large deviation principle" class="mw-redirect">Large deviation principle</a></li>
+<li><a href="/wiki/Law_of_large_numbers" title="Law of large numbers">Law of large numbers (weak/strong)</a></li>
+<li><a href="/wiki/Law_of_the_iterated_logarithm" title="Law of the iterated logarithm">Law of the iterated logarithm</a></li>
+<li><a href="/wiki/Maximal_ergodic_theorem" title="Maximal ergodic theorem">Maximal ergodic theorem</a></li>
+<li><a href="/wiki/Sanov%27s_theorem" title="Sanov's theorem">Sanov's theorem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_inequalities#Probability_theory_and_statistics" title="List of inequalities">Inequalities</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burkholder%E2%80%93Davis%E2%80%93Gundy_inequalities" title="Burkholder–Davis–Gundy inequalities" class="mw-redirect">Burkholder–Davis–Gundy</a></li>
+<li><a href="/wiki/Doob%27s_martingale_inequality" title="Doob's martingale inequality">Doob's martingale</a></li>
+<li><a href="/wiki/Kunita%E2%80%93Watanabe_inequality" title="Kunita–Watanabe inequality" class="mw-redirect">Kunita–Watanabe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Tools</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cameron%E2%80%93Martin_formula" title="Cameron–Martin formula" class="mw-redirect">Cameron–Martin formula</a></li>
+<li><a href="/wiki/Convergence_of_random_variables" title="Convergence of random variables">Convergence of random variables</a></li>
+<li><a href="/wiki/Dol%C3%A9ans-Dade_exponential" title="Doléans-Dade exponential">Doléans-Dade exponential</a></li>
+<li><a href="/wiki/Doob_decomposition_theorem" title="Doob decomposition theorem">Doob decomposition theorem</a></li>
+<li><a href="/wiki/Doob%E2%80%93Meyer_decomposition_theorem" title="Doob–Meyer decomposition theorem">Doob–Meyer decomposition theorem</a></li>
+<li><a href="/wiki/Doob%27s_optional_stopping_theorem" title="Doob's optional stopping theorem" class="mw-redirect">Doob's optional stopping theorem</a></li>
+<li><a href="/wiki/Dynkin%27s_formula" title="Dynkin's formula">Dynkin's formula</a></li>
+<li><a href="/wiki/Feynman%E2%80%93Kac_formula" title="Feynman–Kac formula">Feynman–Kac formula</a></li>
+<li><a href="/wiki/Filtration_(mathematics)#Measure_theory" title="Filtration (mathematics)">Filtration</a></li>
+<li><a href="/wiki/Girsanov_theorem" title="Girsanov theorem">Girsanov theorem</a></li>
+<li><a href="/wiki/Infinitesimal_generator_(stochastic_processes)" title="Infinitesimal generator (stochastic processes)">Infinitesimal generator</a></li>
+<li><a href="/wiki/It%C5%8D_integral" title="Itō integral" class="mw-redirect">Itō integral</a></li>
+<li><a href="/wiki/It%C5%8D%27s_lemma" title="Itō's lemma">Itō's lemma</a></li>
+<li><a href="/wiki/Kolmogorov_continuity_theorem" title="Kolmogorov continuity theorem">Kolmogorov continuity theorem</a></li>
+<li><a href="/wiki/Kolmogorov_extension_theorem" title="Kolmogorov extension theorem">Kolmogorov extension theorem</a></li>
+<li><a href="/wiki/L%C3%A9vy%E2%80%93Prokhorov_metric" title="Lévy–Prokhorov metric">Lévy–Prokhorov metric</a></li>
+<li><a href="/wiki/Malliavin_calculus" title="Malliavin calculus">Malliavin calculus</a></li>
+<li><a href="/wiki/Martingale_representation_theorem" title="Martingale representation theorem">Martingale representation theorem</a></li>
+<li><a href="/wiki/Optional_stopping_theorem" title="Optional stopping theorem">Optional stopping theorem</a></li>
+<li><a href="/wiki/Prohorov_theorem" title="Prohorov theorem" class="mw-redirect">Prohorov theorem</a></li>
+<li><a href="/wiki/Quadratic_variation" title="Quadratic variation">Quadratic variation</a></li>
+<li><a href="/wiki/Reflection_principle_(Wiener_process)" title="Reflection principle (Wiener process)">Reflection principle</a></li>
+<li><a href="/wiki/Skorokhod_integral" title="Skorokhod integral">Skorokhod integral</a></li>
+<li><a href="/wiki/Skorokhod%27s_representation_theorem" title="Skorokhod's representation theorem">Skorokhod's representation theorem</a></li>
+<li><a href="/wiki/Skorokhod_space" title="Skorokhod space" class="mw-redirect">Skorokhod space</a></li>
+<li><a href="/wiki/Snell_envelope" title="Snell envelope">Snell envelope</a></li>
+<li><a href="/wiki/Stochastic_differential_equation" title="Stochastic differential equation">Stochastic differential equation</a>
+<ul>
+<li><a href="/wiki/Tanaka_equation" title="Tanaka equation">Tanaka</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stopping_time" title="Stopping time">Stopping time</a></li>
+<li><a href="/wiki/Stratonovich_integral" title="Stratonovich integral">Stratonovich integral</a></li>
+<li><a href="/wiki/Uniform_integrability" title="Uniform integrability">Uniform integrability</a></li>
+<li><a href="/wiki/Usual_hypotheses" title="Usual hypotheses">Usual hypotheses</a></li>
+<li><a href="/wiki/Wiener_space" title="Wiener space" class="mw-redirect">Wiener space</a>
+<ul>
+<li><a href="/wiki/Classical_Wiener_space" title="Classical Wiener space">Classical</a></li>
+<li><a href="/wiki/Abstract_Wiener_space" title="Abstract Wiener space">Abstract</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disciplines</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actuarial_mathematics" title="Actuarial mathematics" class="mw-redirect">Actuarial mathematics</a></li>
+<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li>
+<li><a href="/wiki/Ergodic_theory" title="Ergodic theory">Ergodic theory</a></li>
+<li><a href="/wiki/Extreme_value_theory" title="Extreme value theory">Extreme value theory (EVT)</a></li>
+<li><a href="/wiki/Large_deviations_theory" title="Large deviations theory">Large deviations theory</a></li>
+<li><a href="/wiki/Mathematical_finance" title="Mathematical finance">Mathematical finance</a></li>
+<li><a href="/wiki/Mathematical_statistics" title="Mathematical statistics">Mathematical statistics</a></li>
+<li><a href="/wiki/Probability_theory" title="Probability theory">Probability theory</a></li>
+<li><a href="/wiki/Queueing_theory" title="Queueing theory">Queueing theory</a></li>
+<li><a href="/wiki/Renewal_theory" title="Renewal theory">Renewal theory</a></li>
+<li><a href="/wiki/Ruin_theory" title="Ruin theory">Ruin theory</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Stochastic_analysis" title="Stochastic analysis" class="mw-redirect">Stochastic analysis</a></li>
+<li><a href="/wiki/Time_series_analysis" title="Time series analysis" class="mw-redirect">Time series analysis</a></li>
+<li><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_stochastic_processes_topics" title="List of stochastic processes topics">List of topics</a></li>
+<li><a href="/wiki/Category:Stochastic_processes" title="Category:Stochastic processes">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Statistics" title="Template:Statistics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Statistics" title="Template talk:Statistics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Statistics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Statistics" title="Statistics">Statistics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_statistics" title="Outline of statistics">Outline</a></li>
+<li><a href="/wiki/List_of_statistics_articles" title="List of statistics articles">Index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Descriptive_statistics" title="Descriptive statistics">Descriptive statistics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Continuous_probability_distribution" title="Continuous probability distribution" class="mw-redirect">Continuous data</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Location_parameter" title="Location parameter">Location</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mean" title="Mean">Mean</a>
+<ul>
+<li><a href="/wiki/Arithmetic_mean" title="Arithmetic mean">arithmetic</a></li>
+<li><a href="/wiki/Geometric_mean" title="Geometric mean">geometric</a></li>
+<li><a href="/wiki/Harmonic_mean" title="Harmonic mean">harmonic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Median" title="Median">Median</a></li>
+<li><a href="/wiki/Mode_(statistics)" title="Mode (statistics)">Mode</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Statistical_dispersion" title="Statistical dispersion">Dispersion</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Range_(statistics)" title="Range (statistics)">Range</a></li>
+<li><a href="/wiki/Standard_deviation" title="Standard deviation">Standard deviation</a></li>
+<li><a href="/wiki/Coefficient_of_variation" title="Coefficient of variation">Coefficient of variation</a></li>
+<li><a href="/wiki/Percentile" title="Percentile">Percentile</a></li>
+<li><a href="/wiki/Interquartile_range" title="Interquartile range">Interquartile range</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Shape_of_the_distribution" title="Shape of the distribution">Shape</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Variance" title="Variance">Variance</a></li>
+<li><a href="/wiki/Skewness" title="Skewness">Skewness</a></li>
+<li><a href="/wiki/Kurtosis" title="Kurtosis">Kurtosis</a></li>
+<li><a href="/wiki/Moment_(mathematics)" title="Moment (mathematics)">Moments</a></li>
+<li><a href="/wiki/L-moment" title="L-moment">L-moments</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Count_data" title="Count data">Count data</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Index_of_dispersion" title="Index of dispersion">Index of dispersion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Summary tables</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grouped_data" title="Grouped data">Grouped data</a></li>
+<li><a href="/wiki/Frequency_distribution" title="Frequency distribution">Frequency distribution</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Dependence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pearson_product-moment_correlation_coefficient" title="Pearson product-moment correlation coefficient">Pearson product-moment correlation</a></li>
+<li><a href="/wiki/Rank_correlation" title="Rank correlation">Rank correlation</a>
+<ul>
+<li><a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman's rank correlation coefficient">Spearman's rho</a></li>
+<li><a href="/wiki/Kendall_tau_rank_correlation_coefficient" title="Kendall tau rank correlation coefficient">Kendall's tau</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_graphics" title="Statistical graphics">Statistical graphics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bar_chart" title="Bar chart">Bar chart</a></li>
+<li><a href="/wiki/Biplot" title="Biplot">Biplot</a></li>
+<li><a href="/wiki/Box_plot" title="Box plot">Box plot</a></li>
+<li><a href="/wiki/Control_chart" title="Control chart">Control chart</a></li>
+<li><a href="/wiki/Correlogram" title="Correlogram">Correlogram</a></li>
+<li><a href="/wiki/Fan_chart_(statistics)" title="Fan chart (statistics)">Fan chart</a></li>
+<li><a href="/wiki/Forest_plot" title="Forest plot">Forest plot</a></li>
+<li><a href="/wiki/Histogram" title="Histogram">Histogram</a></li>
+<li><a href="/wiki/Pie_chart" title="Pie chart">Pie chart</a></li>
+<li><a href="/wiki/Q%E2%80%93Q_plot" title="Q–Q plot">Q–Q plot</a></li>
+<li><a href="/wiki/Run_chart" title="Run chart">Run chart</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li>
+<li><a href="/wiki/Stem-and-leaf_display" title="Stem-and-leaf display">Stem-and-leaf display</a></li>
+<li><a href="/wiki/Radar_chart" title="Radar chart">Radar chart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Data_collection" title="Data collection">Data collection</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Study design</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Effect_size" title="Effect size">Effect size</a></li>
+<li><a href="/wiki/Standard_error" title="Standard error">Standard error</a></li>
+<li><a href="/wiki/Statistical_power" title="Statistical power">Statistical power</a></li>
+<li><a href="/wiki/Sample_size_determination" title="Sample size determination">Sample size determination</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survey_methodology" title="Survey methodology">Survey methodology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sampling_(statistics)" title="Sampling (statistics)">Sampling</a>
+<ul>
+<li><a href="/wiki/Stratified_sampling" title="Stratified sampling">stratified</a></li>
+<li><a href="/wiki/Cluster_sampling" title="Cluster sampling">cluster</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Opinion_poll" title="Opinion poll">Opinion poll</a></li>
+<li><a href="/wiki/Questionnaire" title="Questionnaire">Questionnaire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Experiment#Controlled_experiments" title="Experiment">Controlled experiments</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Design</a>
+<ul>
+<li><a href="/wiki/Optimal_design" title="Optimal design">optimal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Randomized_experiment" title="Randomized experiment">Randomized</a></li>
+<li><a href="/wiki/Random_assignment" title="Random assignment">Random assignment</a></li>
+<li><a href="/wiki/Replication_(statistics)" title="Replication (statistics)">Replication</a></li>
+<li><a href="/wiki/Blocking_(statistics)" title="Blocking (statistics)">Blocking</a></li>
+<li><a href="/wiki/Factorial_experiment" title="Factorial experiment">Factorial experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Uncontrolled studies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_experiment" title="Natural experiment">Natural experiment</a></li>
+<li><a href="/wiki/Quasi-experiment" title="Quasi-experiment">Quasi-experiment</a></li>
+<li><a href="/wiki/Observational_study" title="Observational study">Observational study</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Statistical_inference" title="Statistical inference">Statistical inference</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_theory" title="Statistical theory">Statistical theory</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sampling_distribution" title="Sampling distribution">Sampling distribution</a></li>
+<li><a href="/wiki/Order_statistic" title="Order statistic">Order statistic</a></li>
+<li><a href="/wiki/Scan_statistic" title="Scan statistic">Scan statistic</a></li>
+<li><a href="/wiki/Record_value" title="Record value">Record value</a></li>
+<li><a href="/wiki/Sufficient_statistic" title="Sufficient statistic">Sufficiency</a></li>
+<li><a href="/wiki/Completeness_(statistics)" title="Completeness (statistics)">Completeness</a></li>
+<li><a href="/wiki/Exponential_family" title="Exponential family">Exponential family</a></li>
+<li><a href="/wiki/Permutation_test" title="Permutation test" class="mw-redirect">Permutation test</a>&#160;(<a href="/wiki/Randomization_test" title="Randomization test" class="mw-redirect">Randomization test</a>)</li>
+<li><a href="/wiki/Empirical_distribution_function" title="Empirical distribution function">Empirical distribution</a></li>
+<li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrap</a></li>
+<li><a href="/wiki/U-statistic" title="U-statistic">U statistic</a></li>
+<li><a href="/wiki/Efficiency_(statistics)" title="Efficiency (statistics)">Efficiency</a></li>
+<li><a href="/wiki/Asymptotic_theory_(statistics)" title="Asymptotic theory (statistics)">Asymptotics</a></li>
+<li><a href="/wiki/Robust_statistics" title="Robust statistics">Robustness</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Frequentist_inference" title="Frequentist inference">Frequentist inference</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Confidence_interval" title="Confidence interval">Confidence interval</a></li>
+<li><a href="/wiki/Statistical_hypothesis_testing" title="Statistical hypothesis testing">Testing hypotheses</a></li>
+<li><a href="/wiki/Power_(statistics)" title="Power (statistics)" class="mw-redirect">Power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">Unbiased</a> <a href="/wiki/Estimator" title="Estimator">estimators</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Minimum-variance_unbiased_estimator" title="Minimum-variance unbiased estimator">Mean unbiased minimum-variance</a></li>
+<li><a href="/wiki/Median-unbiased_estimator" title="Median-unbiased estimator" class="mw-redirect">Median unbiased</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">Biased</a> <a href="/wiki/Estimator" title="Estimator">estimators</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Maximum_likelihood" title="Maximum likelihood">Maximum likelihood</a></li>
+<li><a href="/wiki/Method_of_moments_(statistics)" title="Method of moments (statistics)">Method of moments</a></li>
+<li><a href="/wiki/Minimum_distance_estimation" title="Minimum distance estimation">Minimum distance</a></li>
+<li><a href="/wiki/Density_estimation" title="Density estimation">Density estimation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric tests</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Likelihood-ratio</a></li>
+<li><a href="/wiki/Wald_test" title="Wald test">Wald</a></li>
+<li><a href="/wiki/Score_test" title="Score test">Score</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Specific tests</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Z-test" title="Z-test"><i>Z</i> <span style="font-size:90%;">(normal)</span></a></li>
+<li><a href="/wiki/Student%27s_t-test" title="Student's t-test">Student's <i>t</i>-test</a></li>
+<li><i><a href="/wiki/F-test" title="F-test">F</a></i></li>
+<li><a href="/wiki/Shapiro%E2%80%93Wilk_test" title="Shapiro–Wilk test">Shapiro–Wilk</a></li>
+<li><a href="/wiki/Kolmogorov%E2%80%93Smirnov_test" title="Kolmogorov–Smirnov test">Kolmogorov–Smirnov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Goodness_of_fit" title="Goodness of fit">Goodness of fit</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chi-square_test" title="Chi-square test">Chi-squared</a></li>
+<li><a href="/wiki/G-test" title="G-test"><i>G</i></a></li>
+<li><a href="/wiki/Anderson%E2%80%93Darling_test" title="Anderson–Darling test">Sample source <span style="font-size:90%;">(Anderson–Darling)</span></a></li>
+<li><a href="/wiki/Shapiro%E2%80%93Wilk_test" title="Shapiro–Wilk test">Sample normality <span style="font-size:90%;">(Shapiro–Wilk)</span></a></li>
+<li><a href="/wiki/Jarque%E2%80%93Bera_test" title="Jarque–Bera test">Skewness&#160;/ kurtosis normality <span style="font-size:90%;">(Jarque-Bera)</span></a></li>
+<li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Model comparison <span style="font-size:90%;">(Likelihood-ratio)</span></a></li>
+<li><a href="/wiki/Akaike_information_criterion" title="Akaike information criterion">Model quality <span style="font-size:90%;">(Akaike criterion)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Rank_statistics" title="Rank statistics" class="mw-redirect">Signed-rank</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wilcoxon_signed-rank_test" title="Wilcoxon signed-rank test">1-sample <span style="font-size:90%;">(Wilcoxon)</span></a></li>
+<li><a href="/wiki/Mann%E2%80%93Whitney_U_test" title="Mann–Whitney U test">2-sample <span style="font-size:90%;">(Mann–Whitney <i>U</i>)</span></a></li>
+<li><a href="/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance" title="Kruskal–Wallis one-way analysis of variance">1-way anova <span style="font-size:90%;">(Kruskal–Wallis)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Bayesian_inference" title="Bayesian inference">Bayesian inference</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bayesian_probability" title="Bayesian probability">Bayesian probability</a>
+<ul>
+<li><a href="/wiki/Prior_probability" title="Prior probability">prior</a></li>
+<li><a href="/wiki/Posterior_probability" title="Posterior probability">posterior</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Credible_interval" title="Credible interval">Credible interval</a></li>
+<li><a href="/wiki/Bayes_factor" title="Bayes factor">Bayes factor</a></li>
+<li><a href="/wiki/Bayes_estimator" title="Bayes estimator">Bayesian estimator</a></li>
+<li><a href="/wiki/Maximum_a_posteriori_estimation" title="Maximum a posteriori estimation">Maximum posterior estimator</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></li>
+<li><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pearson_product-moment_correlation_coefficient" title="Pearson product-moment correlation coefficient">Pearson product–moment</a></li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Confounding" title="Confounding">Confounding variable</a></li>
+<li><a href="/wiki/Coefficient_of_determination" title="Coefficient of determination">Coefficient of determination</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Errors_and_residuals_in_statistics" title="Errors and residuals in statistics">Errors and residuals</a></li>
+<li><a href="/wiki/Regression_model_validation" title="Regression model validation">Regression model validation</a></li>
+<li><a href="/wiki/Mixed_model" title="Mixed model">Mixed effects models</a></li>
+<li><a href="/wiki/Simultaneous_equations_model" title="Simultaneous equations model">Simultaneous equations models</a></li>
+<li><a href="/wiki/Multivariate_adaptive_regression_splines" title="Multivariate adaptive regression splines">Multivariate adaptive regression splines (MARS)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Linear_regression" title="Linear regression">Linear regression</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Simple_linear_regression" title="Simple linear regression">Simple linear regression</a></li>
+<li><a href="/wiki/Ordinary_least_squares" title="Ordinary least squares">Ordinary least squares</a></li>
+<li><a href="/wiki/General_linear_model" title="General linear model">General linear model</a></li>
+<li><a href="/wiki/Bayesian_linear_regression" title="Bayesian linear regression">Bayesian regression</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em">Non-standard predictors</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nonlinear_regression" title="Nonlinear regression">Nonlinear regression</a></li>
+<li><a href="/wiki/Nonparametric_regression" title="Nonparametric regression">Nonparametric</a></li>
+<li><a href="/wiki/Semiparametric_regression" title="Semiparametric regression">Semiparametric</a></li>
+<li><a href="/wiki/Isotonic_regression" title="Isotonic regression">Isotonic</a></li>
+<li><a href="/wiki/Robust_regression" title="Robust regression">Robust</a></li>
+<li><a href="/wiki/Heteroscedasticity" title="Heteroscedasticity">Heteroscedasticity</a></li>
+<li><a href="/wiki/Homoscedasticity" title="Homoscedasticity">Homoscedasticity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Generalized_linear_model" title="Generalized linear model">Generalized linear model</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Exponential_family" title="Exponential family">Exponential families</a></li>
+<li><a href="/wiki/Logistic_regression" title="Logistic regression">Logistic <span style="font-size:90%;">(Bernoulli)</span></a>&#160;/ <a href="/wiki/Binomial_regression" title="Binomial regression">Binomial</a>&#160;/ <a href="/wiki/Poisson_regression" title="Poisson regression">Poisson regressions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Partition_of_sums_of_squares" title="Partition of sums of squares">Partition of variance</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Analysis_of_variance" title="Analysis of variance">Analysis of variance (ANOVA, anova)</a></li>
+<li><a href="/wiki/Analysis_of_covariance" title="Analysis of covariance">Analysis of covariance</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance">Multivariate ANOVA</a></li>
+<li><a href="/wiki/Degrees_of_freedom_(statistics)" title="Degrees of freedom (statistics)">Degrees of freedom</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a>&#160;/ <a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a>&#160;/ <a href="/wiki/Time_series" title="Time series">Time-series</a>&#160;/ <a href="/wiki/Survival_analysis" title="Survival analysis">Survival analysis</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cohen%27s_kappa" title="Cohen's kappa">Cohen's kappa</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li>
+<li><a href="/wiki/Graphical_model" title="Graphical model">Graphical model</a></li>
+<li><a href="/wiki/Poisson_regression" title="Poisson regression">Log-linear model</a></li>
+<li><a href="/wiki/McNemar%27s_test" title="McNemar's test">McNemar's test</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_linear_model" title="General linear model">Multivariate regression</a></li>
+<li><a href="/wiki/Principal_component_analysis" title="Principal component analysis">Principal components</a></li>
+<li><a href="/wiki/Factor_analysis" title="Factor analysis">Factor analysis</a></li>
+<li><a href="/wiki/Cluster_analysis" title="Cluster analysis">Cluster analysis</a></li>
+<li><a href="/wiki/Statistical_classification" title="Statistical classification">Classification</a></li>
+<li><a href="/wiki/Copula_(probability_theory)" title="Copula (probability theory)">Copulas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Time_series" title="Time series">Time-series</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Decomposition_of_time_series" title="Decomposition of time series">Decomposition</a></li>
+<li><a href="/wiki/Trend_estimation" title="Trend estimation">Trend</a></li>
+<li><a href="/wiki/Stationary_process" title="Stationary process">Stationarity</a></li>
+<li><a href="/wiki/Seasonal_adjustment" title="Seasonal adjustment">Seasonal adjustment</a></li>
+<li><a href="/wiki/Exponential_smoothing" title="Exponential smoothing">Exponential smoothing</a></li>
+<li><a href="/wiki/Cointegration" title="Cointegration">Cointegration</a></li>
+<li><a href="/wiki/Structural_break" title="Structural break">Structural break</a></li>
+<li><a href="/wiki/Granger_causality" title="Granger causality">Granger causality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Specific tests</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dickey%E2%80%93Fuller_test" title="Dickey–Fuller test">Dickey–Fuller</a></li>
+<li><a href="/wiki/Johansen_test" title="Johansen test">Johansen</a></li>
+<li><a href="/wiki/Ljung%E2%80%93Box_test" title="Ljung–Box test">Q-statistic <span style="font-size:90%;">(Ljung–Box)</span></a></li>
+<li><a href="/wiki/Durbin%E2%80%93Watson_statistic" title="Durbin–Watson statistic">Durbin–Watson</a></li>
+<li><a href="/wiki/Breusch%E2%80%93Godfrey_test" title="Breusch–Godfrey test">Breusch–Godfrey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Time_domain" title="Time domain">Time domain</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autocorrelation" title="Autocorrelation">Autocorrelation (ACF)</a>
+<ul>
+<li><a href="/wiki/Partial_autocorrelation_function" title="Partial autocorrelation function">partial (PACF)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cross-correlation" title="Cross-correlation">Cross-correlation (XCF)</a></li>
+<li><a href="/wiki/Autoregressive%E2%80%93moving-average_model" title="Autoregressive–moving-average model">ARMA model</a></li>
+<li><a href="/wiki/Box%E2%80%93Jenkins" title="Box–Jenkins">ARIMA model <span style="font-size:90%;">(Box–Jenkins)</span></a></li>
+<li><strong class="selflink">Autoregressive conditional heteroskedasticity (ARCH)</strong></li>
+<li><a href="/wiki/Vector_autoregression" title="Vector autoregression">Vector autoregression (VAR)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Frequency_domain" title="Frequency domain">Frequency domain</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spectral_density_estimation" title="Spectral density estimation">Spectral density estimation</a></li>
+<li><a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a></li>
+<li><a href="/wiki/Wavelet" title="Wavelet">Wavelet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survival_analysis" title="Survival analysis">Survival</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Survival_function" title="Survival function">Survival function</a></li>
+<li><a href="/wiki/Kaplan%E2%80%93Meier_estimator" title="Kaplan–Meier estimator">Kaplan–Meier estimator (product limit)</a></li>
+<li><a href="/wiki/Log-rank_test" title="Log-rank test">Log-rank test</a></li>
+<li><a href="/wiki/Failure_rate" title="Failure rate">Failure rate</a></li>
+<li><a href="/wiki/Proportional_hazards_model" title="Proportional hazards model">Proportional hazards models</a></li>
+<li><a href="/wiki/Accelerated_failure_time_model" title="Accelerated failure time model">Accelerated failure time (AFT) model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/List_of_fields_of_application_of_statistics" title="List of fields of application of statistics">Applications</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Biostatistics" title="Biostatistics">Biostatistics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a></li>
+<li><a href="/wiki/Clinical_trial" title="Clinical trial">Clinical trials</a>&#160;/ <a href="/wiki/Clinical_study_design" title="Clinical study design">studies</a></li>
+<li><a href="/wiki/Epidemiology" title="Epidemiology">Epidemiology</a></li>
+<li><a href="/wiki/Medical_statistics" title="Medical statistics">Medical statistics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Engineering_statistics" title="Engineering statistics">Engineering statistics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemometrics" title="Chemometrics">Chemometrics</a></li>
+<li><a href="/wiki/Methods_engineering" title="Methods engineering">Methods engineering</a></li>
+<li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li>
+<li><a href="/wiki/Statistical_process_control" title="Statistical process control">Process</a>&#160;/ <a href="/wiki/Quality_control" title="Quality control">quality control</a></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability</a></li>
+<li><a href="/wiki/System_identification" title="System identification">System identification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Social_statistics" title="Social statistics">Social statistics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actuarial_science" title="Actuarial science">Actuarial science</a></li>
+<li><a href="/wiki/Census" title="Census">Census</a></li>
+<li><a href="/wiki/Crime_statistics" title="Crime statistics">Crime statistics</a></li>
+<li><a href="/wiki/Demographic_statistics" title="Demographic statistics">Demography</a></li>
+<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li>
+<li><a href="/wiki/National_accounts" title="National accounts">National accounts</a></li>
+<li><a href="/wiki/Official_statistics" title="Official statistics">Official statistics</a></li>
+<li><a href="/wiki/Statistical_population" title="Statistical population">Population</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Spatial_analysis" title="Spatial analysis">Spatial statistics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Environmental_statistics" title="Environmental statistics">Environmental statistics</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Geostatistics" title="Geostatistics">Geostatistics</a></li>
+<li><a href="/wiki/Kriging" title="Kriging">Kriging</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Statistics" title="Category:Statistics">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Statistics" title="Portal:Statistics">Portal</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /><b><a href="//commons.wikimedia.org/wiki/Category:Statistics" class="extiw" title="commons:Category:Statistics">Commons</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:WikiProject_Statistics" title="Wikipedia:WikiProject Statistics">WikiProject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1244
+CPU time usage: 0.464 seconds
+Real time usage: 0.600 seconds
+Preprocessor visited node count: 2863/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 255448/2097152 bytes
+Template argument size: 23432/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 4.07 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  405.822      1 - -total
+ 28.30%  114.866      1 - Template:Statistics
+ 27.06%  109.817      1 - Template:Navbox_with_collapsible_groups
+ 21.07%   85.512     12 - Template:Navbox
+ 12.27%   49.796      1 - Template:Reflist
+ 11.39%   46.207     10 - Template:Cite_journal
+  8.25%   33.494      1 - Template:Review
+  7.03%   28.520      1 - Template:Use_dmy_dates
+  6.83%   27.733      1 - Template:Ambox
+  5.05%   20.493      1 - Template:Clarify
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;oldid=628121658">http://en.wikipedia.org/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;oldid=628121658</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Time_series_analysis" title="Category:Time series analysis">Time series analysis</a></li><li><a href="/wiki/Category:Nonlinear_time_series_analysis" title="Category:Nonlinear time series analysis">Nonlinear time series analysis</a></li><li><a href="/wiki/Category:Econometrics" title="Category:Econometrics">Econometrics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_August_2014" title="Category:Use dmy dates from August 2014">Use dmy dates from August 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_May_2009" title="Category:Wikipedia articles needing style editing from May 2009">Wikipedia articles needing style editing from May 2009</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_November_2009" title="Category:Wikipedia articles needing clarification from November 2009">Wikipedia articles needing clarification from November 2009</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Autoregressive+conditional+heteroskedasticity&amp;returntoquery=diff%3D628121658%26oldid%3D625825395&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Autoregressive+conditional+heteroskedasticity&amp;returntoquery=diff%3D628121658%26oldid%3D625825395" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Autoregressive_conditional_heteroskedasticity"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Autoregressive_conditional_heteroskedasticity"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Autoregressive_conditional_heteroskedasticity" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=edit&amp;oldid=628121658"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Autoregressive_conditional_heteroskedasticity" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Autoregressive_conditional_heteroskedasticity" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;oldid=628121658" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q180752" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Autoregressive_conditional_heteroskedasticity&amp;id=628121658" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Autoregressive+conditional+heteroskedasticity">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Autoregressive+conditional+heteroskedasticity&amp;oldid=625825395&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/ARCH-Modell" title="ARCH-Modell – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/ARCH" title="ARCH – Greek" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%88%D8%A7%D8%B1%DB%8C%D8%A7%D9%86%D8%B3_%D9%86%D8%A7%D9%87%D9%85%D8%B3%D8%A7%D9%86%DB%8C_%D8%B4%D8%B1%D8%B7%DB%8C_%D8%A7%D8%AA%D9%88%D8%B1%DA%AF%D8%B1%D8%B3%DB%8C%D9%88" title="واریانس ناهمسانی شرطی اتورگرسیو – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Mod%C3%A8les_ARCH" title="Modèles ARCH – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Modello_autoregressivo_a_eteroschedasticit%C3%A0_condizionata" title="Modello autoregressivo a eteroschedasticità condizionata – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/ARCH%E3%83%A2%E3%83%87%E3%83%AB" title="ARCHモデル – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Model_ARCH" title="Model ARCH – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D1%81%D0%BA%D0%B5%D0%B4%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Авторегрессионная условная гетероскедастичность – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-su"><a href="//su.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity" title="Autoregressive conditional heteroskedasticity – Sundanese" lang="su" hreflang="su">Basa Sunda</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/ARCH" title="ARCH – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Otoregresif_ko%C5%9Fullu_de%C4%9Fi%C5%9Fen_varyans" title="Otoregresif koşullu değişen varyans – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D0%B8%D0%B2%D0%BD%D0%B0_%D1%83%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B3%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D1%81%D0%BA%D0%B5%D0%B4%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Авторегресивна умовна гетероскедастичність – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/ARCH" title="ARCH – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/ARCH%E6%A8%A1%E5%9E%8B" title="ARCH模型 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q180752#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Autoregressive_conditional_heteroskedasticity&amp;diff=628121658&amp;oldid=625825395&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":761,"wgHostname":"mw1244"});
+}</script>
+	</body>
+</html>

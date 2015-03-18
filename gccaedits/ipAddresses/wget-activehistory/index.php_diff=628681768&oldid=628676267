@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Star Citizen: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Star_Citizen&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Star_Citizen&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Star_Citizen" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=628681768&amp;oldid=628676267" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Star_Citizen","wgTitle":"Star Citizen","wgCurRevisionId":651890104,"wgRevisionId":628681768,"wgArticleId":37290212,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking reliable references from July 2014","All articles lacking reliable references","Cooperative video games","CryEngine games","Kickstarter projects","Linux games","Science fiction video games","Space combat simulators","Space trading and combat simulators","Upcoming video games scheduled for 2015","Video games developed in Canada","Video games developed in the United States","Video games that support Mantle","Windows games","Multiplayer and single-player video games","Oculus Rift games"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Star_Citizen","wgRelevantArticleId":37290212,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q581039"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Star_Citizen skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Star Citizen: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Star_Citizen&amp;oldid=628676267" title="Star Citizen">Revision as of 17:17, 7 October 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Star_Citizen&amp;action=edit&amp;oldid=628676267" title="Star Citizen">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Special:Contributions/198.103.167.20" title="Special:Contributions/198.103.167.20" class="mw-userlink mw-anonuserlink">198.103.167.20</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:198.103.167.20" title="User talk:198.103.167.20">talk</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(moved alien languages to development, created Arena Commander section with first pass content, updated funding)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Star_Citizen&amp;diff=prev&amp;oldid=628676267" title="Star Citizen" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Star_Citizen&amp;oldid=628681768" title="Star Citizen">Revision as of 18:01, 7 October 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Star_Citizen&amp;action=edit&amp;oldid=628681768" title="Star Citizen">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Star_Citizen&amp;action=edit&amp;undoafter=628676267&amp;undo=628681768" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/198.103.167.20" title="Special:Contributions/198.103.167.20" class="mw-userlink mw-anonuserlink">198.103.167.20</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:198.103.167.20" title="User talk:198.103.167.20">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(added 2 external references)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Star_Citizen&amp;diff=next&amp;oldid=628681768" title="Star Citizen" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 74:</td>
+  <td colspan="2" class="diff-lineno">Line 74:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The development of the game started in 2011 on a modified version of the [[CryEngine 3]] game engine.&lt;ref name="Auto6N-5"&gt;{{cite web | url=http://www.pcgamer.com/previews/star-citizen-preview-the-open-world-space-sim-of-our-dreams/ | title=Star Citizen preview: the open-world space sim from the creator of Wing Commander | last=Wilde | first=Tyler | date=October 10, 2012 | work= | publisher=[[PC Gamer]] | accessdate=October 11, 2012}}&lt;/ref&gt; ''Star Citizen'' will support AMD's [[Mantle (API)|Mantle]] graphics API.&lt;ref&gt;{{cite web |url=https://robertsspaceindustries.com/comm-link/transmission/13362-Star-Citizen-To-Include-Mantle-Support |title=Star Citizen to Include Mantle Support}}&lt;/ref&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The development of the game started in 2011 on a modified version of the [[CryEngine 3]] game engine.&lt;ref name="Auto6N-5"&gt;{{cite web | url=http://www.pcgamer.com/previews/star-citizen-preview-the-open-world-space-sim-of-our-dreams/ | title=Star Citizen preview: the open-world space sim from the creator of Wing Commander | last=Wilde | first=Tyler | date=October 10, 2012 | work= | publisher=[[PC Gamer]] | accessdate=October 11, 2012}}&lt;/ref&gt; ''Star Citizen'' will support AMD's [[Mantle (API)|Mantle]] graphics API.&lt;ref&gt;{{cite web |url=https://robertsspaceindustries.com/comm-link/transmission/13362-Star-Citizen-To-Include-Mantle-Support |title=Star Citizen to Include Mantle Support}}&lt;/ref&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>''Star Citizen'' is being developed using a modular approach, with the first module (dubbed the "Hangar Module") released August 29, 2013 in order to coincide with the game's appearance at the 2013 [[Gamescom]] trade fair.&lt;ref&gt;{{cite web|url=https://robertsspaceindustries.com/comm-link/transmission/13233-Hangar-Module-Released|title=Hangar Module Released – Roberts Space Industries}}&lt;/ref&gt;</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>''Star Citizen'' is being developed using a modular approach, with the first module (dubbed the "Hangar Module") released August 29, 2013 in order to coincide with the game's appearance at the 2013 [[Gamescom]] trade fair.&lt;ref&gt;{{cite web|url=https://robertsspaceindustries.com/comm-link/transmission/13233-Hangar-Module-Released|title=Hangar Module Released – Roberts Space Industries<ins class="diffchange diffchange-inline">}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.tomshardware.com/news/star-citizen-hangar-module,24065.html | title=Chris Roberts' Star Citizen Hangar Module Goes Live | publisher=Tom's Hardware | date=August 29, 2013 | accessdate=October 7, 2014 | last=Davies| first=Kevin</ins>}}&lt;/ref&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The initial [[Software release life cycle#Alpha|alpha]] release of the Hangar Module allows backers of the project to explore their virtual ships from a 1st person perspective within CryEngine 3, later updated with the 4th generation CryEngine. Subsequent updates to the Hangar Module will include the ability to add upgrades and modifications to players' ships and allow players to invite friends to their hangar. The module system is intended to be iterative in nature, with updated version of modules being released as and when additional functionality and content are finalized.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The initial [[Software release life cycle#Alpha|alpha]] release of the Hangar Module allows backers of the project to explore their virtual ships from a 1st person perspective within CryEngine 3, later updated with the 4th generation CryEngine. Subsequent updates to the Hangar Module will include the ability to add upgrades and modifications to players' ships and allow players to invite friends to their hangar. The module system is intended to be iterative in nature, with updated version of modules being released as and when additional functionality and content are finalized.</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Line 80:</td>
+  <td colspan="2" class="diff-lineno">Line 80:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The second module was released on June 4, 2014. It was officially named [[Arena Commander]] and allows backers to playtest the ship combat portion of the game against other players or AI opponents.&lt;ref&gt;{{cite web|title=Arena Commander Release |url=https://robertsspaceindustries.com/comm-link/transmission/13909-Arena-Commander-Launched|publisher=[[Cloud Imperium Games Corporation]]|accessdate=June 4, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Star Citizen and the triumphant, record-smashing return of Chris Roberts |url=http://arstechnica.com/gaming/2014/08/star-citizen-and-the-triumphant-record-smashing-return-of-chris-roberts/2/|publisher=[[Ars Technica]]|accessdate=August 8, 2014}}&lt;/ref&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The second module was released on June 4, 2014. It was officially named [[Arena Commander]] and allows backers to playtest the ship combat portion of the game against other players or AI opponents.&lt;ref&gt;{{cite web|title=Arena Commander Release |url=https://robertsspaceindustries.com/comm-link/transmission/13909-Arena-Commander-Launched|publisher=[[Cloud Imperium Games Corporation]]|accessdate=June 4, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Star Citizen and the triumphant, record-smashing return of Chris Roberts |url=http://arstechnica.com/gaming/2014/08/star-citizen-and-the-triumphant-record-smashing-return-of-chris-roberts/2/|publisher=[[Ars Technica]]|accessdate=August 8, 2014}}&lt;/ref&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>Other confirmed modules include a [[first-person shooter]] module (expected to be revealed at PAX Australia 2014),&lt;ref name="project status"&gt;{{cite web|title=Project Status |url=https://robertsspaceindustries.com/project-status|publisher=[[Cloud Imperium Games Corporation]]|accessdate=June 4, 2014}}&lt;/ref&gt; a "Planetside" module&lt;ref name="project status"/&gt; and a singleplayer/co-op campaign dubbed "Squadron 42".&lt;ref name="project status"/&gt;</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>Other confirmed modules include a [[first-person shooter]] module (expected to be revealed at PAX Australia 2014),&lt;ref name="project status"&gt;{{cite web|title=Project Status |url=https://robertsspaceindustries.com/project-status|publisher=[[Cloud Imperium Games Corporation]]|accessdate=June 4, 2014}}&lt;/ref&gt; a "Planetside" module&lt;ref name="project status"/&gt; and a singleplayer/co-op campaign dubbed "Squadron 42".&lt;ref name="project status"/<ins class="diffchange diffchange-inline">&gt;&lt;ref&gt;{{cite web | url=http://www.rockpapershotgun.com/2013/11/08/chris-roberts-details-squadron-42-takes-on-doubters/ | title=Chris Roberts Details Squadron 42, Takes On Doubters | publisher=Rock, Paper, Shotgun | date=November 8, 2013 | accessdate=October 7, 2014 }}&lt;/ref</ins>&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>''Star Citizen'' will use a range of distinctive and realistic alien languages in general gameplay, constructed by professional linguists, in accordance with the game's crowdfunding reaching the 50 million dollar goal.&lt;ref name="letter14015"&gt;{{cite web |last=Roberts|first=Chris|url=https://robertsspaceindustries.com/comm-link/transmission/14015-Letter-From-The-Chairman-48-Million |title=Letter from the Chairman: $48 Million |date=July 15, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://ign.com/articles/2014/08/18/star-citizen-funding-shoots-past-the-50-million-mark |title=Star Citizen Funding Shoots Past the $50 Million Mark |publisher=IGN |date=August 28, 2014}}&lt;/ref&gt; ''Star Citizen''{{'}}s three biggest alien races, the "Vanduul", the "Xi'An" and the "Banu" will use their own individually created, detailed languages.&lt;ref name="letter14015"/&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>''Star Citizen'' will use a range of distinctive and realistic alien languages in general gameplay, constructed by professional linguists, in accordance with the game's crowdfunding reaching the 50 million dollar goal.&lt;ref name="letter14015"&gt;{{cite web |last=Roberts|first=Chris|url=https://robertsspaceindustries.com/comm-link/transmission/14015-Letter-From-The-Chairman-48-Million |title=Letter from the Chairman: $48 Million |date=July 15, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://ign.com/articles/2014/08/18/star-citizen-funding-shoots-past-the-50-million-mark |title=Star Citizen Funding Shoots Past the $50 Million Mark |publisher=IGN |date=August 28, 2014}}&lt;/ref&gt; ''Star Citizen''{{'}}s three biggest alien races, the "Vanduul", the "Xi'An" and the "Banu" will use their own individually created, detailed languages.&lt;ref name="letter14015"/&gt;</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 18:01, 7 October 2014</h2>
+<table class="metadata plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may rely excessively on sources too closely associated with the subject</b>, potentially preventing the article from being <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifiable</a> and <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral</a>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Star_Citizen&amp;action=edit">improve it</a> by replacing them with more appropriate <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to <a href="/wiki/Wikipedia:Independent_sources" title="Wikipedia:Independent sources">reliable, independent, third-party sources</a>.</span> <small><i>(July 2014)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox hproduct" style="float: right; width: 264px; font-size: 90%; text-align: left; border-spacing: 3px;">
+<tr>
+<th colspan="2" style="text-align: center;"><span style="font-size: 111%;"><i><span class="fn">Star Citizen</span></i></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/File:Star_Citizen_logo.png" class="image"><img alt="Star Citizen logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/9/91/Star_Citizen_logo.png/240px-Star_Citizen_logo.png" width="240" height="292" srcset="//upload.wikimedia.org/wikipedia/en/9/91/Star_Citizen_logo.png 1.5x, //upload.wikimedia.org/wikipedia/en/9/91/Star_Citizen_logo.png 2x" data-file-width="358" data-file-height="435" /></a><br />
+<span style="font-size: 95%;"><i>Star Citizen</i> logo</span></td>
+</tr>
+<tr style="">
+<td><b><a href="/wiki/Video_game_developer" title="Video game developer">Developer(s)</a></b></td>
+<td><a href="/wiki/Cloud_Imperium_Games_Corporation" title="Cloud Imperium Games Corporation" class="mw-redirect">Cloud Imperium Games</a>, <a href="/wiki/Behaviour_Interactive" title="Behaviour Interactive">Behaviour Interactive</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> CGBot,<sup id="cite_ref-On_Dogfighting_3-0" class="reference"><a href="#cite_note-On_Dogfighting-3"><span>[</span>3<span>]</span></a></sup> voidALPHA<sup id="cite_ref-On_Dogfighting_3-1" class="reference"><a href="#cite_note-On_Dogfighting-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr style="background: #F0F0F0;">
+<td><b><a href="/wiki/Video_game_publisher" title="Video game publisher">Publisher(s)</a></b></td>
+<td><span class="brand">Cloud Imperium Games</span></td>
+</tr>
+<tr style="">
+<td><b>Director(s)</b></td>
+<td><a href="/wiki/Chris_Roberts_(game_developer)" title="Chris Roberts (game developer)">Chris Roberts</a></td>
+</tr>
+<tr style="background: #F0F0F0;">
+<td><b><a href="/wiki/Video_game_producer" title="Video game producer">Producer(s)</a></b></td>
+<td>Eric Peterson<br />
+Erin Roberts</td>
+</tr>
+<tr style="">
+<td><b><a href="/wiki/Video_game_designer" title="Video game designer" class="mw-redirect">Designer(s)</a></b></td>
+<td>Chris Roberts<br />
+Eric Peterson<br />
+Rob Irving<br />
+Nathan Blaisdell<br />
+Pete Mackay</td>
+</tr>
+<tr style="background: #F0F0F0;">
+<td><b><a href="/wiki/Game_programmer" title="Game programmer">Programmer(s)</a></b></td>
+<td>Chris Roberts<br />
+Jason Spangler<br />
+Tom Sawyer</td>
+</tr>
+<tr style="">
+<td><b><a href="/wiki/Game_artist" title="Game artist">Artist(s)</a></b></td>
+<td>Chris Olivia<br />
+Jim Martin<br />
+Mark Skelton<br />
+Bryan Brewer<br />
+Chris Smith<br />
+<a href="/wiki/Ryan_Church_(concept_artist)" title="Ryan Church (concept artist)">Ryan Church</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr style="background: #F0F0F0;">
+<td><b>Writer(s)</b></td>
+<td>Dave Haddock</td>
+</tr>
+<tr style="">
+<td><b><a href="/wiki/Video_game_music" title="Video game music">Composer(s)</a></b></td>
+<td><a href="/wiki/Pedro_Macedo_Camacho" title="Pedro Macedo Camacho">Pedro Macedo Camacho</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr style="background: #F0F0F0;">
+<td><b><a href="/wiki/Game_engine" title="Game engine">Engine</a></b></td>
+<td><a href="/wiki/CryEngine#CryEngine_.284th_generation.29" title="CryEngine">CryEngine (4th generation)</a></td>
+</tr>
+<tr style="">
+<td><b><a href="/wiki/Computing_platform" title="Computing platform">Platform(s)</a></b></td>
+<td><span class="nowraplinks"><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, <a href="/wiki/Linux" title="Linux">Linux</a><sup id="cite_ref-PAXLinuxQuote_6-0" class="reference"><a href="#cite_note-PAXLinuxQuote-6"><span>[</span>6<span>]</span></a></sup></span></td>
+</tr>
+<tr style="background: #F0F0F0;">
+<td><b>Release&#160;date(s)</b></td>
+<td>
+<ul style="list-style: none none; line-height: inherit; margin: 0px;">
+<li>2015 (Est)</li>
+</ul>
+</td>
+</tr>
+<tr style="">
+<td><b><a href="/wiki/Video_game_genre" title="Video game genre">Genre(s)</a></b></td>
+<td><a href="/wiki/Space_trading_and_combat_simulator" title="Space trading and combat simulator" class="mw-redirect">Space trading and combat simulator</a>, <a href="/wiki/First-person_shooter" title="First-person shooter">first-person shooter</a></td>
+</tr>
+<tr style="background: #F0F0F0;">
+<td><b>Mode(s)</b></td>
+<td><a href="/wiki/Single-player_video_game" title="Single-player video game">Single-player</a>, <a href="/wiki/Multiplayer_video_game" title="Multiplayer video game">multiplayer</a></td>
+</tr>
+<tr style="">
+<td><b>Distribution</b></td>
+<td><a href="/wiki/Digital_distribution" title="Digital distribution">Digital distribution</a></td>
+</tr>
+</table>
+<p><i><b>Star Citizen</b></i> is an upcoming <a href="/wiki/Space_trading_and_combat_simulator" title="Space trading and combat simulator" class="mw-redirect">space trading and combat simulator</a> video game for <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> and <a href="/wiki/Linux" title="Linux">Linux</a>.<sup id="cite_ref-PAXLinuxQuote_6-1" class="reference"><a href="#cite_note-PAXLinuxQuote-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> <i>Star Citizen</i> will consist of two main components: first-person space combat, <a href="/wiki/First-person_shooter" title="First-person shooter">first-person shooter</a> elements and trading in a <a href="/wiki/Massively_multiplayer_online_game" title="Massively multiplayer online game">massively multiplayer</a> <a href="/wiki/Persistent_world" title="Persistent world">persistent universe</a> and <a href="/wiki/Mod_(video_gaming)" title="Mod (video gaming)">customizable</a> private servers, and a branching <a href="/wiki/Single-player_video_game" title="Single-player video game">single-player</a> and drop-in <a href="/wiki/Cooperative_gameplay" title="Cooperative gameplay">co-operative multiplayer</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> campaign (titled <i>Squadron 42</i>). The game is built on a modified <a href="/wiki/CryEngine#CryEngine_.284th_generation.29" title="CryEngine">CryEngine</a> and will feature <a href="/wiki/Oculus_Rift" title="Oculus Rift">Oculus Rift</a> support.</p>
+<p>Both <i>Star Citizen</i> and <i>Squadron 42</i> are set in a 30th-century <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a> centered on the fictional UEE (United Empire of Earth), an <a href="/wiki/Analogue_(literature)" title="Analogue (literature)" class="mw-redirect">analogue</a> of the late <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>. A central theme of the game is <a href="/wiki/Citizenship" title="Citizenship">citizenship</a> (or lack thereof) in the UEE, which must be earned through player actions (such as completing a period of military service). It is anticipated that citizens will enjoy certain in-game benefits, for example paying a reduced tax rate or having easier access to interspecies trade,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> but the exact details are yet to be determined.</p>
+<p>A strong focus will be placed on player interaction, with player behavior influencing and being influenced by a dynamic economy system.<sup id="cite_ref-IGN_2012.2F10_10-0" class="reference"><a href="#cite_note-IGN_2012.2F10-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p><i>Star Citizen</i> is currently being developed by <a href="/wiki/Chris_Roberts_(game_developer)" title="Chris Roberts (game developer)">Chris Roberts</a>' studio <a href="/wiki/Cloud_Imperium_Games_Corporation" title="Cloud Imperium Games Corporation" class="mw-redirect">Cloud Imperium Games</a>.<sup id="cite_ref-joystiq_2012.2F10_12-0" class="reference"><a href="#cite_note-joystiq_2012.2F10-12"><span>[</span>12<span>]</span></a></sup> Roberts' previous works include games such as <i><a href="/wiki/Wing_Commander_(video_game)" title="Wing Commander (video game)">Wing Commander</a></i>,<sup id="cite_ref-Auto6N-3_13-0" class="reference"><a href="#cite_note-Auto6N-3-13"><span>[</span>13<span>]</span></a></sup> <i><a href="/wiki/Wing_Commander:_Privateer" title="Wing Commander: Privateer">Wing Commander: Privateer</a></i>,<sup id="cite_ref-Auto6N-4_14-0" class="reference"><a href="#cite_note-Auto6N-4-14"><span>[</span>14<span>]</span></a></sup> <i><a href="/wiki/Starlancer" title="Starlancer">Starlancer</a></i> and <i><a href="/wiki/Freelancer_(video_game)" title="Freelancer (video game)">Freelancer</a></i>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Funding"><span class="tocnumber">1</span> <span class="toctext">Funding</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Development"><span class="tocnumber">2</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Persistent_universe"><span class="tocnumber">3</span> <span class="toctext">Persistent universe</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Arena_Commander"><span class="tocnumber">4</span> <span class="toctext">Arena Commander</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Funding">Funding</span></h2>
+<p>In October 2012, the developers of the game started a <a href="/wiki/Crowdfunding" title="Crowdfunding">crowdfunding</a> campaign on their own website using <a href="/w/index.php?title=IgnitionDeck&amp;action=edit&amp;redlink=1" class="new" title="IgnitionDeck (page does not exist)">IgnitionDeck</a>, a crowdfunding plugin for <a href="/wiki/WordPress" title="WordPress">WordPress</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Just over a week into the campaign, they also started raising funds via a supplemental <a href="/wiki/Kickstarter" title="Kickstarter">Kickstarter</a> campaign.<sup id="cite_ref-Auto6N-7_16-0" class="reference"><a href="#cite_note-Auto6N-7-16"><span>[</span>16<span>]</span></a></sup> Funding quickly surpassed initial target goals<sup id="cite_ref-stretchgoals_17-0" class="reference"><a href="#cite_note-stretchgoals-17"><span>[</span>17<span>]</span></a></sup> and subsequently additional stretch goals have been added to the funding campaign, most promising more or expanded content at release.<sup id="cite_ref-Auto6N-8_18-0" class="reference"><a href="#cite_note-Auto6N-8-18"><span>[</span>18<span>]</span></a></sup> The initial end date of the funding campaign on the RSI website was later extended by 10 days to match the Kickstarter end date, both to enable additional funding as well as a joint special event for the end of the crowdfunding campaigns.<sup id="cite_ref-stretchgoals_17-1" class="reference"><a href="#cite_note-stretchgoals-17"><span>[</span>17<span>]</span></a></sup> On November 17, 2012, two days before campaign closure, the game achieved the record for highest crowd-funded game project with over $4.2 million.<sup id="cite_ref-Auto6N-9_19-0" class="reference"><a href="#cite_note-Auto6N-9-19"><span>[</span>19<span>]</span></a></sup> At initial pledge campaign end, the total pledge amount was above all goals initially set by Cloud Imperium Games and reached $6,238,563.<sup id="cite_ref-Auto6N-9_19-1" class="reference"><a href="#cite_note-Auto6N-9-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>After the initial campaign, funding has continued through the game's website. When it passed $10 million in June 2013, <i>Star Citizen</i> became the highest raising crowd-funded project ever.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> Roberts reported funding having surpassed $55 million in September 2014.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> The game will continue to collect crowd-funded donations until its release.</p>
+<p>During the 2014 <a href="/wiki/Gamescom" title="Gamescom">Gamescom</a> event on August 15, Chris Roberts announced the crowdfunding campaign had surpassed $50 million.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Development">Development</span></h2>
+<p>The development of the game started in 2011 on a modified version of the <a href="/wiki/CryEngine_3" title="CryEngine 3" class="mw-redirect">CryEngine 3</a> game engine.<sup id="cite_ref-Auto6N-5_23-0" class="reference"><a href="#cite_note-Auto6N-5-23"><span>[</span>23<span>]</span></a></sup> <i>Star Citizen</i> will support AMD's <a href="/wiki/Mantle_(API)" title="Mantle (API)">Mantle</a> graphics API.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<p><i>Star Citizen</i> is being developed using a modular approach, with the first module (dubbed the "Hangar Module") released August 29, 2013 in order to coincide with the game's appearance at the 2013 <a href="/wiki/Gamescom" title="Gamescom">Gamescom</a> trade fair.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>The initial <a href="/wiki/Software_release_life_cycle#Alpha" title="Software release life cycle">alpha</a> release of the Hangar Module allows backers of the project to explore their virtual ships from a 1st person perspective within CryEngine 3, later updated with the 4th generation CryEngine. Subsequent updates to the Hangar Module will include the ability to add upgrades and modifications to players' ships and allow players to invite friends to their hangar. The module system is intended to be iterative in nature, with updated version of modules being released as and when additional functionality and content are finalized.</p>
+<p>The second module was released on June 4, 2014. It was officially named <a href="/wiki/Arena_Commander" title="Arena Commander" class="mw-redirect">Arena Commander</a> and allows backers to playtest the ship combat portion of the game against other players or AI opponents.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>Other confirmed modules include a <a href="/wiki/First-person_shooter" title="First-person shooter">first-person shooter</a> module (expected to be revealed at PAX Australia 2014),<sup id="cite_ref-project_status_29-0" class="reference"><a href="#cite_note-project_status-29"><span>[</span>29<span>]</span></a></sup> a "Planetside" module<sup id="cite_ref-project_status_29-1" class="reference"><a href="#cite_note-project_status-29"><span>[</span>29<span>]</span></a></sup> and a singleplayer/co-op campaign dubbed "Squadron 42".<sup id="cite_ref-project_status_29-2" class="reference"><a href="#cite_note-project_status-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p>
+<p><i>Star Citizen</i> will use a range of distinctive and realistic alien languages in general gameplay, constructed by professional linguists, in accordance with the game's crowdfunding reaching the 50 million dollar goal.<sup id="cite_ref-letter14015_31-0" class="reference"><a href="#cite_note-letter14015-31"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> <i>Star Citizen</i> '​s three biggest alien races, the "Vanduul", the "Xi'An" and the "Banu" will use their own individually created, detailed languages.<sup id="cite_ref-letter14015_31-1" class="reference"><a href="#cite_note-letter14015-31"><span>[</span>31<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Persistent_universe">Persistent universe</span></h2>
+<p><i>Star Citizen</i> will continue to develop after commercial release via a combination of emergent gameplay generated by players and new content which will be developed by Cloud Imperium Games on an ongoing basis. Players will also have the ability to command "persistent" ships and stations that will remain in the game even if they log out. Select "lawless planets" will feature ground based combat using infantry style weapons. Personal armaments can also be used to board disabled ships and stations.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></p>
+<p>Players will not be separated by different game servers. A matchmaking and instancing mechanic will handle how players connect to each other.</p>
+<h2><span class="mw-headline" id="Arena_Commander">Arena Commander</span></h2>
+<p>Arena Commander is the second playable alpha component of Star Citizen. It is an <a href="/wiki/Story_within_a_story#Video_game_within_a_video_game" title="Story within a story">in-fiction space combat simulator</a> allowing players to playtest ship combat against other players or AI opponents.<sup id="cite_ref-polygon_ac_34-0" class="reference"><a href="#cite_note-polygon_ac-34"><span>[</span>34<span>]</span></a></sup> It features a highly accurate ship <a href="/wiki/Game_physics" title="Game physics">flight model</a>, simulating space flight using the mass of the ship and location and force of the thrusters.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> Other features include realistic application of <a href="/wiki/G-force#Human_tolerance_of_g-force" title="G-force">g-force</a> on the pilot and a high level of visual fidelity.<sup id="cite_ref-polygon_ac_34-1" class="reference"><a href="#cite_note-polygon_ac-34"><span>[</span>34<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><i><a href="/wiki/Elite:_Dangerous" title="Elite: Dangerous">Elite: Dangerous</a></i> – a contemporary, crowdsourced space trading and combat game by <a href="/wiki/David_Braben" title="David Braben">David Braben</a></li>
+<li><a href="/wiki/List_of_space_flight_simulator_games" title="List of space flight simulator games">List of space flight simulator games</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://green.tmcnet.com/news/2012/12/11/6786795.htm">"Media Advisory: Come Meet Chris Roberts at Behaviour and Learn More About the New Star Citizen Game"</a>. <i>Green Technology News</i>. GreenTechnologyWorld.com<span class="reference-accessdate">. Retrieved <span class="nowrap">December 12,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.atitle=Media+Advisory%3A+Come+Meet+Chris+Roberts+at+Behaviour+and+Learn+More+About+the+New+Star+Citizen+Game&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fgreen.tmcnet.com%2Fnews%2F2012%2F12%2F11%2F6786795.htm&amp;rft.jtitle=Green+Technology+News&amp;rft.pub=GreenTechnologyWorld.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bhvr.com/en/news/2012/12/12/">"new space sim game with legendary designer Chris Roberts"</a>. <i>News</i>. <a href="/wiki/Behaviour_Interactive" title="Behaviour Interactive">Behaviour Interactive</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 12,</span> 2012</span>. <q>A team will be set up in Montreal to start working on the project in early 2013</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.atitle=new+space+sim+game+with+legendary+designer+Chris+Roberts&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bhvr.com%2Fen%2Fnews%2F2012%2F12%2F12%2F&amp;rft.jtitle=News&amp;rft.pub=Behaviour+Interactive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-On_Dogfighting-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-On_Dogfighting_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-On_Dogfighting_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/13432-Letter-From-The-Chairman-On-Dogfighting">"Letter from the Chairman: On Dogfighting – Roberts Space Industries"</a>. <a href="/wiki/Cloud_Imperium_Games_Corporation" title="Cloud Imperium Games Corporation" class="mw-redirect">Cloud Imperium Games</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 16,</span> 2013</span>. <q>We have smaller groups of people supporting these efforts from CGBot in Austin &amp; Monterrey, Mexico and Void Alpha in San Francisco.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Letter+from+the+Chairman%3A+On+Dogfighting+%E2%80%93+Roberts+Space+Industries&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F13432-Letter-From-The-Chairman-On-Dogfighting&amp;rft.pub=Cloud+Imperium+Games&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://robertsspaceindustries.com/wingmans-hangar-episode-5/">"Wingman's Hanger Episode 5 Q&amp;A"</a>. <a href="/wiki/Cloud_Imperium_Games_Corporation" title="Cloud Imperium Games Corporation" class="mw-redirect">Cloud Imperium Games Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Wingman%27s+Hanger+Episode+5+Q%26A&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frobertsspaceindustries.com%2Fwingmans-hangar-episode-5%2F&amp;rft.pub=Cloud+Imperium+Games+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://forums.robertsspaceindustries.com/discussion/comment/686769/#Comment_686769">"Star Citizen Music"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Star+Citizen+Music&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fforums.robertsspaceindustries.com%2Fdiscussion%2Fcomment%2F686769%2F%23Comment_686769&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PAXLinuxQuote-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-PAXLinuxQuote_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PAXLinuxQuote_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation interview"><a href="/wiki/Chris_Roberts_(game_developer)" title="Chris Roberts (game developer)">Roberts, Chris</a>; <a href="/wiki/Oculus_Rift" title="Oculus Rift">Luckey, Palmer</a>; <a href="/wiki/PlanetSide_2" title="PlanetSide 2">Higby, Matt</a>; <a href="/wiki/Nvidia" title="Nvidia">Petersen, Tom</a> (April 11, 2014). <a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=FYp38vTFpW8#t=1310"><i>The (Incredible) Future of PC Gaming</i></a> (Event occurs at 21:50.). Panel with <a href="/wiki/PC_Gamer" title="PC Gamer">Evan Lahti</a>. <a href="/wiki/Penny_Arcade_Expo" title="Penny Arcade Expo">Penny Arcade Expo</a> East 2014. Boston<span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2014</span>. <q>We're going to be supporting Linux for Star Citizen.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Chris&amp;rft.au=Higby%2C+Matt&amp;rft.aulast=Roberts&amp;rft.au=Luckey%2C+Palmer&amp;rft.au=Petersen%2C+Tom&amp;rft.au=Roberts%2C+Chris&amp;rft.btitle=The+%28Incredible%29+Future+of+PC+Gaming&amp;rft.date=April+11%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFYp38vTFpW8%23t%3D1310&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://forums.robertsspaceindustries.com/discussion/comment/2780231/#Comment_2780231">"Star Citizen E3 2014 Stream Details"</a>. RSI Community Forums. p.&#160;2<span class="reference-accessdate">. Retrieved <span class="nowrap">June 19,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Star+Citizen+E3+2014+Stream+Details&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fforums.robertsspaceindustries.com%2Fdiscussion%2Fcomment%2F2780231%2F%23Comment_2780231&amp;rft.pages=2&amp;rft.pub=RSI+Community+Forums&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/about-the-game">"About the game – Star Citizen"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=About+the+game+%E2%80%93+Star+Citizen&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fabout-the-game&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/12956-t">"Writer's Guide: Part Two"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Writer%27s+Guide%3A+Part+Two&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F12956-t&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IGN_2012.2F10-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-IGN_2012.2F10_10-0">^</a></b></span> <span class="reference-text"><span class="citation web">Gallegos, Anthony (October 10, 2012). <a rel="nofollow" class="external text" href="http://www.ign.com/articles/2012/10/10/star-citizen-chris-roberts-next-frontier">"Star Citizen: Chris Roberts' Next Frontier"</a>. IGN<span class="reference-accessdate">. Retrieved <span class="nowrap">October 11,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Anthony&amp;rft.au=Gallegos%2C+Anthony&amp;rft.aulast=Gallegos&amp;rft.btitle=Star+Citizen%3A+Chris+Roberts%27+Next+Frontier&amp;rft.date=October+10%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ign.com%2Farticles%2F2012%2F10%2F10%2Fstar-citizen-chris-roberts-next-frontier&amp;rft.pub=IGN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.robertsspaceindustries.com/updated-faq/">"Updated FAQ"</a>. Cloud Imperium Games Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">January 20,</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Updated+FAQ&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.robertsspaceindustries.com%2Fupdated-faq%2F&amp;rft.pub=Cloud+Imperium+Games+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-joystiq_2012.2F10-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-joystiq_2012.2F10_12-0">^</a></b></span> <span class="reference-text"><span class="citation web">Mitchell, Richard (October 10, 2012). <a rel="nofollow" class="external text" href="http://www.joystiq.com/2012/10/10/chris-roberts-new-game-is-star-citizen/">"Chris Roberts' new game is Star Citizen"</a>. Joystiq<span class="reference-accessdate">. Retrieved <span class="nowrap">October 11,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Richard&amp;rft.aulast=Mitchell&amp;rft.au=Mitchell%2C+Richard&amp;rft.btitle=Chris+Roberts%27+new+game+is+Star+Citizen&amp;rft.date=October+10%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.joystiq.com%2F2012%2F10%2F10%2Fchris-roberts-new-game-is-star-citizen%2F&amp;rft.pub=Joystiq&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Auto6N-3-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Auto6N-3_13-0">^</a></b></span> <span class="reference-text"><span class="citation web">Agnello, Anthony John (October 10, 2012). <a rel="nofollow" class="external text" href="http://www.digitaltrends.com/gaming/wing-commander-creator-reveals-star-citizen-his-first-game-in-a-decade/">"Wing Commander creator reveals Star Citizen, his first game in a decade"</a>. <a href="/wiki/Digital_Trends" title="Digital Trends">Digital Trends</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 11,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.au=Agnello%2C+Anthony+John&amp;rft.aufirst=Anthony+John&amp;rft.aulast=Agnello&amp;rft.btitle=Wing+Commander+creator+reveals+Star+Citizen%2C+his+first+game+in+a+decade&amp;rft.date=October+10%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.digitaltrends.com%2Fgaming%2Fwing-commander-creator-reveals-star-citizen-his-first-game-in-a-decade%2F&amp;rft.pub=Digital+Trends&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Auto6N-4-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Auto6N-4_14-0">^</a></b></span> <span class="reference-text"><span class="citation web">Rainier (October 10, 2012). <a rel="nofollow" class="external text" href="http://worthplaying.com/article/2012/10/10/news/87203/">"<span style="padding-left:0.2em;">'</span>Star Citizen' Announced&#160;– Screens &amp; Trailer"</a>. <a href="/w/index.php?title=Worthplaying&amp;action=edit&amp;redlink=1" class="new" title="Worthplaying (page does not exist)">Worthplaying</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 11,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aulast=Rainier&amp;rft.au=Rainier&amp;rft.btitle=%27Star+Citizen%27+Announced%26nbsp%3B%E2%80%93+Screens+%26+Trailer&amp;rft.date=October+10%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fworthplaying.com%2Farticle%2F2012%2F10%2F10%2Fnews%2F87203%2F&amp;rft.pub=Worthplaying&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">Christenson, Shawn. <a rel="nofollow" class="external text" href="http://ignitiondeck.com/id/crowdfunding-a-video-game/">"Crowdfunding a Video Game"</a>. IgnitionDeck<span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.au=Christenson%2C+Shawn&amp;rft.aufirst=Shawn&amp;rft.aulast=Christenson&amp;rft.btitle=Crowdfunding+a+Video+Game&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fignitiondeck.com%2Fid%2Fcrowdfunding-a-video-game%2F&amp;rft.pub=IgnitionDeck&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Auto6N-7-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Auto6N-7_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.kickstarter.com/projects/cig/star-citizen">Star Citizen</a> at <a href="/wiki/Kickstarter" title="Kickstarter">Kickstarter</a></span></li>
+<li id="cite_note-stretchgoals-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-stretchgoals_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stretchgoals_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Roberts, Chris (October 26, 2012). <a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/12751-Stretch-Goals-Revealed">"Stretch Goals Revealed!"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Chris&amp;rft.aulast=Roberts&amp;rft.au=Roberts%2C+Chris&amp;rft.btitle=Stretch+Goals+Revealed%21&amp;rft.date=October+26%2C+2012&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F12751-Stretch-Goals-Revealed&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Auto6N-8-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Auto6N-8_18-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/funding-goals">"Stretch Goals"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 6,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Stretch+Goals&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Ffunding-goals&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Auto6N-9-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Auto6N-9_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Auto6N-9_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/12792-Unlock-Hades-System">"Stretch goals update"</a>. November 17, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Stretch+goals+update&amp;rft.date=November+17%2C+2012&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F12792-Unlock-Hades-System&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web">Matulef, Jeffrey (August 2, 2013). <a rel="nofollow" class="external text" href="http://www.eurogamer.net/articles/2013-08-02-star-citizen-raises-an-astronomical-USD15-million">"Star Citizen raises an astronomical $15 million"</a>. <i><a href="/wiki/Eurogamer" title="Eurogamer">Eurogamer</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 6,</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.atitle=Star+Citizen+raises+an+astronomical+%2415+million&amp;rft.aufirst=Jeffrey&amp;rft.aulast=Matulef&amp;rft.au=Matulef%2C+Jeffrey&amp;rft.date=August+2%2C+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.eurogamer.net%2Farticles%2F2013-08-02-star-citizen-raises-an-astronomical-USD15-million&amp;rft.jtitle=Eurogamer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web">Roberts, Chris (September 30, 2014). <a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/14184-Letter-From-The-Chairman">"Letter from the Chairman"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Chris&amp;rft.aulast=Roberts&amp;rft.au=Roberts%2C+Chris&amp;rft.btitle=Letter+from+the+Chairman&amp;rft.date=September+30%2C+2014&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F14184-Letter-From-The-Chairman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.pcgamer.com/2014/08/18/star-citizens-crowdfunding-total-shoots-past-50-million/">"Star Citizen's crowdfunding total shoots past $50 million"</a>. <a href="/wiki/PC_Gamer" title="PC Gamer">PC Gamer</a>. August 18, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Star+Citizen%27s+crowdfunding+total+shoots+past+%2450+million&amp;rft.date=August+18%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pcgamer.com%2F2014%2F08%2F18%2Fstar-citizens-crowdfunding-total-shoots-past-50-million%2F&amp;rft.pub=PC+Gamer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Auto6N-5-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Auto6N-5_23-0">^</a></b></span> <span class="reference-text"><span class="citation web">Wilde, Tyler (October 10, 2012). <a rel="nofollow" class="external text" href="http://www.pcgamer.com/previews/star-citizen-preview-the-open-world-space-sim-of-our-dreams/">"Star Citizen preview: the open-world space sim from the creator of Wing Commander"</a>. <a href="/wiki/PC_Gamer" title="PC Gamer">PC Gamer</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 11,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Tyler&amp;rft.aulast=Wilde&amp;rft.au=Wilde%2C+Tyler&amp;rft.btitle=Star+Citizen+preview%3A+the+open-world+space+sim+from+the+creator+of+Wing+Commander&amp;rft.date=October+10%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pcgamer.com%2Fpreviews%2Fstar-citizen-preview-the-open-world-space-sim-of-our-dreams%2F&amp;rft.pub=PC+Gamer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/13362-Star-Citizen-To-Include-Mantle-Support">"Star Citizen to Include Mantle Support"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Star+Citizen+to+Include+Mantle+Support&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F13362-Star-Citizen-To-Include-Mantle-Support&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/13233-Hangar-Module-Released">"Hangar Module Released – Roberts Space Industries"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Hangar+Module+Released+%E2%80%93+Roberts+Space+Industries&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F13233-Hangar-Module-Released&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web">Davies, Kevin (August 29, 2013). <a rel="nofollow" class="external text" href="http://www.tomshardware.com/news/star-citizen-hangar-module,24065.html">"Chris Roberts' Star Citizen Hangar Module Goes Live"</a>. Tom's Hardware<span class="reference-accessdate">. Retrieved <span class="nowrap">October 7,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.au=Davies%2C+Kevin&amp;rft.aufirst=Kevin&amp;rft.aulast=Davies&amp;rft.btitle=Chris+Roberts%27+Star+Citizen+Hangar+Module+Goes+Live&amp;rft.date=August+29%2C+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.tomshardware.com%2Fnews%2Fstar-citizen-hangar-module%2C24065.html&amp;rft.pub=Tom%27s+Hardware&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/13909-Arena-Commander-Launched">"Arena Commander Release"</a>. <a href="/wiki/Cloud_Imperium_Games_Corporation" title="Cloud Imperium Games Corporation" class="mw-redirect">Cloud Imperium Games Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Arena+Commander+Release&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F13909-Arena-Commander-Launched&amp;rft.pub=Cloud+Imperium+Games+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://arstechnica.com/gaming/2014/08/star-citizen-and-the-triumphant-record-smashing-return-of-chris-roberts/2/">"Star Citizen and the triumphant, record-smashing return of Chris Roberts"</a>. <a href="/wiki/Ars_Technica" title="Ars Technica">Ars Technica</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 8,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Star+Citizen+and+the+triumphant%2C+record-smashing+return+of+Chris+Roberts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Farstechnica.com%2Fgaming%2F2014%2F08%2Fstar-citizen-and-the-triumphant-record-smashing-return-of-chris-roberts%2F2%2F&amp;rft.pub=Ars+Technica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-project_status-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-project_status_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-project_status_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-project_status_29-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/project-status">"Project Status"</a>. <a href="/wiki/Cloud_Imperium_Games_Corporation" title="Cloud Imperium Games Corporation" class="mw-redirect">Cloud Imperium Games Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Project+Status&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fproject-status&amp;rft.pub=Cloud+Imperium+Games+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rockpapershotgun.com/2013/11/08/chris-roberts-details-squadron-42-takes-on-doubters/">"Chris Roberts Details Squadron 42, Takes On Doubters"</a>. Rock, Paper, Shotgun. November 8, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">October 7,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Chris+Roberts+Details+Squadron+42%2C+Takes+On+Doubters&amp;rft.date=November+8%2C+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rockpapershotgun.com%2F2013%2F11%2F08%2Fchris-roberts-details-squadron-42-takes-on-doubters%2F&amp;rft.pub=Rock%2C+Paper%2C+Shotgun&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-letter14015-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-letter14015_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-letter14015_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Roberts, Chris (July 15, 2014). <a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/14015-Letter-From-The-Chairman-48-Million">"Letter from the Chairman: $48 Million"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Chris&amp;rft.aulast=Roberts&amp;rft.au=Roberts%2C+Chris&amp;rft.btitle=Letter+from+the+Chairman%3A+%2448+Million&amp;rft.date=July+15%2C+2014&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F14015-Letter-From-The-Chairman-48-Million&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://ign.com/articles/2014/08/18/star-citizen-funding-shoots-past-the-50-million-mark">"Star Citizen Funding Shoots Past the $50 Million Mark"</a>. IGN. August 28, 2014.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Star+Citizen+Funding+Shoots+Past+the+%2450+Million+Mark&amp;rft.date=August+28%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fign.com%2Farticles%2F2014%2F08%2F18%2Fstar-citizen-funding-shoots-past-the-50-million-mark&amp;rft.pub=IGN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation web">Grayson, Nathan (February 25, 2014). <a rel="nofollow" class="external text" href="http://www.rockpapershotgun.com/2014/02/25/star-citizens-biggest-goal-yet-a-procedural-gen-team/">"Star Citizen’s Biggest Goal Yet: A Procedural Gen Team"</a>. Rock, Paper, Shotgun<span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.aufirst=Nathan&amp;rft.au=Grayson%2C+Nathan&amp;rft.aulast=Grayson&amp;rft.btitle=Star+Citizen%E2%80%99s+Biggest+Goal+Yet%3A+A+Procedural+Gen+Team&amp;rft.date=February+25%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rockpapershotgun.com%2F2014%2F02%2F25%2Fstar-citizens-biggest-goal-yet-a-procedural-gen-team%2F&amp;rft.pub=Rock%2C+Paper%2C+Shotgun&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-polygon_ac-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-polygon_ac_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-polygon_ac_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Crecente, Brian (April 13, 2014). <a rel="nofollow" class="external text" href="http://www.polygon.com/2014/4/13/5609590/star-citizens-arena-commander">"Star Citizen's Arena Commander is the first tantalizing taste of a great space sim"</a>. Polygon<span class="reference-accessdate">. Retrieved <span class="nowrap">October 7,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.au=Crecente%2C+Brian&amp;rft.aufirst=Brian&amp;rft.aulast=Crecente&amp;rft.btitle=Star+Citizen%27s+Arena+Commander+is+the+first+tantalizing+taste+of+a+great+space+sim&amp;rft.date=April+13%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.polygon.com%2F2014%2F4%2F13%2F5609590%2Fstar-citizens-arena-commander&amp;rft.pub=Polygon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/comm-link/transmission/13951-Flight-Model-And-Input-Controls">"Flight Model and Input Controls"</a>. <a href="/wiki/Cloud_Imperium_Games_Corporation" title="Cloud Imperium Games Corporation" class="mw-redirect">Cloud Imperium Games Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStar+Citizen&amp;rft.btitle=Flight+Model+and+Input+Controls&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Frobertsspaceindustries.com%2Fcomm-link%2Ftransmission%2F13951-Flight-Model-And-Input-Controls&amp;rft.pub=Cloud+Imperium+Games+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="https://robertsspaceindustries.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.kickstarter.com/projects/cig/star-citizen">Star Citizen</a> at <a href="/wiki/Kickstarter" title="Kickstarter">Kickstarter</a></li>
+<li><a rel="nofollow" class="external text" href="http://vimeo.com/51135962">Squadron 42 – Star Citizen Announcement Trailer</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1048
+CPU time usage: 0.599 seconds
+Real time usage: 0.659 seconds
+Preprocessor visited node count: 2853/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 64571/2097152 bytes
+Template argument size: 22376/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 3.61 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  528.747      1 - -total
+ 49.22%  260.259      1 - Template:Reflist
+ 30.65%  162.068     33 - Template:Cite_web
+ 18.95%  100.199      1 - Template:Infobox_video_game
+ 14.90%   78.800      1 - Template:Third-party
+ 14.60%   77.181      1 - Template:Alternating_rows_table_section
+  6.91%   36.511      1 - Template:Ambox
+  6.14%   32.483      1 - Template:Official_website
+  2.98%   15.774      1 - Template:DMCA
+  2.53%   13.376      1 - Template:Dated_maintenance_category
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Star_Citizen&amp;oldid=628681768">http://en.wikipedia.org/w/index.php?title=Star_Citizen&amp;oldid=628681768</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cooperative_video_games" title="Category:Cooperative video games">Cooperative video games</a></li><li><a href="/wiki/Category:CryEngine_games" title="Category:CryEngine games">CryEngine games</a></li><li><a href="/wiki/Category:Kickstarter_projects" title="Category:Kickstarter projects">Kickstarter projects</a></li><li><a href="/wiki/Category:Linux_games" title="Category:Linux games">Linux games</a></li><li><a href="/wiki/Category:Science_fiction_video_games" title="Category:Science fiction video games">Science fiction video games</a></li><li><a href="/wiki/Category:Space_combat_simulators" title="Category:Space combat simulators">Space combat simulators</a></li><li><a href="/wiki/Category:Space_trading_and_combat_simulators" title="Category:Space trading and combat simulators">Space trading and combat simulators</a></li><li><a href="/wiki/Category:Upcoming_video_games_scheduled_for_2015" title="Category:Upcoming video games scheduled for 2015">Upcoming video games scheduled for 2015</a></li><li><a href="/wiki/Category:Video_games_developed_in_Canada" title="Category:Video games developed in Canada">Video games developed in Canada</a></li><li><a href="/wiki/Category:Video_games_developed_in_the_United_States" title="Category:Video games developed in the United States">Video games developed in the United States</a></li><li><a href="/wiki/Category:Video_games_that_support_Mantle" title="Category:Video games that support Mantle">Video games that support Mantle</a></li><li><a href="/wiki/Category:Windows_games" title="Category:Windows games">Windows games</a></li><li><a href="/wiki/Category:Multiplayer_and_single-player_video_games" title="Category:Multiplayer and single-player video games">Multiplayer and single-player video games</a></li><li><a href="/wiki/Category:Oculus_Rift_games" title="Category:Oculus Rift games">Oculus Rift games</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2014" title="Category:Articles lacking reliable references from July 2014">Articles lacking reliable references from July 2014</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Star+Citizen&amp;returntoquery=diff%3D628681768%26oldid%3D628676267&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Star+Citizen&amp;returntoquery=diff%3D628681768%26oldid%3D628676267" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Star_Citizen"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Star_Citizen"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Star_Citizen" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Star_Citizen&amp;action=edit&amp;oldid=628681768"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Star_Citizen&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Star_Citizen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Star_Citizen" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Star_Citizen&amp;oldid=628681768" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Star_Citizen&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q581039" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Star_Citizen&amp;id=628681768" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Star+Citizen">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Star+Citizen&amp;oldid=628676267&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Star_Citizen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Star_Citizen" title="Star Citizen – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q581039#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Star_Citizen&amp;diff=628681768&amp;oldid=628676267&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":839,"wgHostname":"mw1048"});
+}</script>
+	</body>
+</html>

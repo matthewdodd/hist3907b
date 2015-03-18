@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Pression de vapeur saturante de l'eau : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Pression_de_vapeur_saturante_de_l%27eau" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=112470717&amp;oldid=112465058&amp;rcid=136876637" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pression_de_vapeur_saturante_de_l'eau","wgTitle":"Pression de vapeur saturante de l'eau","wgCurRevisionId":112718671,"wgRevisionId":112470717,"wgArticleId":8825135,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Données et variables météorologiques","Thermodynamique atmosphérique","Grandeur thermodynamique","Propriété chimique","Gaz","Portail:Météorologie/Articles liés","Portail:Physique/Articles liés","Portail:Sciences/Articles liés"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Pression_de_vapeur_saturante_de_l'eau","wgRelevantArticleId":8825135,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2037287"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pression_de_vapeur_saturante_de_l_eau skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Pression de vapeur saturante de l'eau : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;oldid=112465058" title="Pression de vapeur saturante de l'eau">Version du 5 mars 2015 à 23:00</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit&amp;oldid=112465058" title="Pression de vapeur saturante de l'eau">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Utilisateur:Malosse" title="Utilisateur:Malosse" class="mw-userlink">Malosse</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Malosse" title="Discussion utilisateur:Malosse">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Malosse" title="Spécial:Contributions/Malosse">contributions</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='Cette modification est mineure.'>m</abbr> <span class="comment">(Malosse a déplacé la page <a href="/w/index.php?title=Utilisateur:Malosse/Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit&amp;redlink=1" class="new" title="Utilisateur:Malosse/Pression de vapeur saturante de l'eau (page inexistante)">Utilisateur:Malosse/Pression de vapeur saturante de l&#039;eau</a> vers <a href="/wiki/Pression_de_vapeur_saturante_de_l%27eau" title="Pression de vapeur saturante de l'eau">Pression de vapeur saturante de l&#039;eau</a> : Article prêt)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;diff=prev&amp;oldid=112465058" title="Pression de vapeur saturante de l'eau" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;oldid=112470717" title="Pression de vapeur saturante de l'eau">Version du 6 mars 2015 à 05:55</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit&amp;oldid=112470717" title="Pression de vapeur saturante de l'eau">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit&amp;undoafter=112465058&amp;undo=112470717" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/205.211.133.128" title="Spécial:Contributions/205.211.133.128" class="mw-userlink mw-anonuserlink">205.211.133.128</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:205.211.133.128" title="Discussion utilisateur:205.211.133.128">discuter</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#Table_des_pressions_de_vapeur_saturantes_de_l.27eau">→</a>‎<span dir="auto"><span class="autocomment">Table des pressions de vapeur saturantes de l&#039;eau : </span> Reformatage pour meilleure lisibilité et moins de longueur</span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;diff=next&amp;oldid=112470717" title="Pression de vapeur saturante de l'eau" id="differences-nextlink">Modification suivante →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 35 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 35 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>La table ci-dessus liste les pressions de vapeur saturante en kPa et Torr en fonction de la température exprimée en degrés Celsius&lt;ref&gt;http://www.fordhamprep.org/gcurran/sho/sho/reference/table74a.htm Pressions de vapeur saturante de l'eau&lt;/ref&gt;.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>La table ci-dessus liste les pressions de vapeur saturante en kPa et Torr en fonction de la température exprimée en degrés Celsius&lt;ref&gt;http://www.fordhamprep.org/gcurran/sho/sho/reference/table74a.htm Pressions de vapeur saturante de l'eau&lt;/ref&gt;.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>{| class="wikitable"</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{| class="wikitable<ins class="diffchange diffchange-inline"> gauche</ins>"</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>! Température&lt;br&gt;(°C) !! <del class="diffchange diffchange-inline">&lt;</del>pression de&lt;br&gt;vapeur&lt;br&gt;(kPa) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(mmHg)</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>! Température&lt;br&gt;(°C) !! pression de&lt;br&gt;vapeur&lt;br&gt;(kPa) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(mmHg)</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 0 || 0.6 || 4.5</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 0 || 0.6 || 4.5</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Ligne 58 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 58 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 19 || 2.2 || 16.5</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 19 || 2.2 || 16.5</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|}</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{| class="wikitable gauche"</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>! Température&lt;br&gt;(°C) !! pression de&lt;br&gt;vapeur&lt;br&gt;(kPa) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(mmHg)</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 20 || 2.3 || 17.3</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 20 || 2.3 || 17.3</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Ligne 78 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 83 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 29 || 4.0 || 30.0</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 29 || 4.0 || 30.0</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|}</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{| class="wikitable gauche"</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>! Température&lt;br&gt;(°C) !! pression de&lt;br&gt;vapeur&lt;br&gt;(kPa) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(mmHg)</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 30 || 4.2 || 31.5</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 30 || 4.2 || 31.5</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Ligne 99 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 109 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 100 || 101.3 || 760.0</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 100 || 101.3 || 760.0</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div><ins class="diffchange diffchange-inline">{{clr}}</ins></div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>=== Table ITS-90  ===</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>=== Table ITS-90  ===</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>La table suivante donne les formules de pression de vapeur saturante de l'[[ITS-90]].&lt;ref&gt;Hardy, R. 1998,  ITS-90 formulations for vapor pressure, frostpoint temperature, dewpoint temperature and enhancement factors in the range -100 to +100C.&lt;/ref&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>La table suivante donne les formules de pression de vapeur saturante de l'[[ITS-90]].&lt;ref&gt;Hardy, R. 1998,  ITS-90 formulations for vapor pressure, frostpoint temperature, dewpoint temperature and enhancement factors in the range -100 to +100C.&lt;/ref&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>{| class="wikitable"</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{| class="wikitable<ins class="diffchange diffchange-inline"> gauche</ins>"</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>! ITS-90 Température&lt;br&gt;(°C) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(Pa) </div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>! ITS-90 Température&lt;br&gt;(°C) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(Pa) </div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Ligne 141 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 151 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 30 ||   4247.046</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 30 ||   4247.046</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|}</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{| class="wikitable gauche"</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>! ITS-90 Température&lt;br&gt;(°C) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(Pa) </div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 32 ||   4759.694</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 32 ||   4759.694</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Ligne 177 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 192 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 66 ||  26184.180</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 66 ||  26184.180</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|}</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{| class="wikitable gauche"</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>|-</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>! ITS-90 Température&lt;br&gt;(°C) !! Pression de&lt;br&gt;vapeur&lt;br&gt;(Pa) </div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 68 ||  28599.985</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 68 ||  28599.985</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Ligne 214 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 234 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 100 || 101417.770</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 100 || 101417.770</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|}</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{{clr}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==Graphes donnant la dépendance de la pression de vapeur en fonction de la température==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==Graphes donnant la dépendance de la pression de vapeur en fonction de la température==</div></td>
+</tr>
+
+<!-- diff cache key frwiki:diff:version:1.11a:oldid:112465058:newid:112470717 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version du 6 mars 2015 à 05:55</h2>
+<p>La <b>pression de vapeur saturante de l'eau</b> est la pression à laquelle la vapeur d'eau est en équilibre thermodynamique avec son état condensé. Lorque la pression partielle de la vapeur d'eau devient plus grande, celle-ci est supposée se condenser. La pression partielle est déterminée par la <a href="/wiki/Formule_de_Clapeyron" title="Formule de Clapeyron">formule de Clapeyron</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Sommaire</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Formules_approximatives"><span class="tocnumber">1</span> <span class="toctext">Formules approximatives</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Table_des_pressions_de_vapeur_saturantes_de_l.27eau"><span class="tocnumber">2</span> <span class="toctext">Table des pressions de vapeur saturantes de l'eau</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Table_ITS-90"><span class="tocnumber">2.1</span> <span class="toctext">Table ITS-90</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Graphes_donnant_la_d.C3.A9pendance_de_la_pression_de_vapeur_en_fonction_de_la_temp.C3.A9rature"><span class="tocnumber">3</span> <span class="toctext">Graphes donnant la dépendance de la pression de vapeur en fonction de la température</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Voir_aussi"><span class="tocnumber">4</span> <span class="toctext">Voir aussi</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#R.C3.A9f.C3.A9rences"><span class="tocnumber">5</span> <span class="toctext">Références</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Bibliographie"><span class="tocnumber">6</span> <span class="toctext">Bibliographie</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Liens_externes"><span class="tocnumber">7</span> <span class="toctext">Liens externes</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Formules_approximatives">Formules approximatives</span></h2>
+<p>On peut utiliser les formules suivantes par ordre de précisions croissantes&#160;:</p>
+<ul>
+<li>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="P = \exp\left(13.7-\frac{5120}{T}\right)\,\mathrm{mmHg}" src="//upload.wikimedia.org/math/3/a/9/3a994c9e8b1ae9e452c7140b4df0a87c.png" /> (Formule de Rankine)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>
+<dl>
+<dd>où <span class="texhtml mvar" style="font-style:italic;">P</span> est la pression de vapeur saturante (<a href="/wiki/Pascal" title="Pascal" class="mw-disambig">Pascals</a>) et <span class="texhtml mvar" style="font-style:italic;">T</span> est la température en <a href="/wiki/Kelvin" title="Kelvin">Kelvin</a>.</dd>
+</dl>
+</dd>
+</dl>
+</li>
+<li>Utilisation de l'<a href="/wiki/%C3%89quation_d%27Antoine" title="Équation d'Antoine">équation d'Antoine</a>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\log_{10}P = A - \frac{B}{C + T}" src="//upload.wikimedia.org/math/a/0/1/a01c6e480b57f5b883fa085a54130f29.png" />
+<dl>
+<dd>où la température&#160;<span class="texhtml mvar" style="font-style:italic;">T</span> est en degrés <a href="/wiki/Celsius" title="Celsius" class="mw-disambig">Celsius</a> et la pression de vapeur saturante &#160;<span class="texhtml mvar" style="font-style:italic;">P</span> est en mmHg. Les constantes sont les suivantes&#160;:</dd>
+</dl>
+</dd>
+</dl>
+</li>
+</ul>
+<table cellpadding="4" rules="all" style="margin: 1em 0em; background: #ffffff; border: 2px solid #aaa;">
+<tr align="center" bgcolor="#F0F0F0">
+<th></th>
+<th><span class="texhtml mvar" style="font-style:italic;">A</span></th>
+<th><span class="texhtml mvar" style="font-style:italic;">B</span></th>
+<th><span class="texhtml mvar" style="font-style:italic;">C</span></th>
+<th><span class="texhtml nowrap"><i>T</i><sub>min</sub></span>, °C</th>
+<th><span class="texhtml nowrap"><i>T</i><sub>max</sub></span>, °C</th>
+</tr>
+<tr align="center">
+<td bgcolor="#F0F0F0">Eau</td>
+<td>8.07131</td>
+<td>1730.63</td>
+<td>233.426</td>
+<td>1</td>
+<td>99</td>
+</tr>
+<tr align="center">
+<td bgcolor="#F0F0F0">Eau</td>
+<td>8.14019</td>
+<td>1810.94</td>
+<td>244.485</td>
+<td>100</td>
+<td>374</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Table_des_pressions_de_vapeur_saturantes_de_l.27eau">Table des pressions de vapeur saturantes de l'eau</span></h2>
+<p>La table ci-dessus liste les pressions de vapeur saturante en kPa et Torr en fonction de la température exprimée en degrés Celsius<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>.</p>
+<table class="wikitable gauche">
+<tr>
+<th>Température<br />
+(°C)</th>
+<th>pression de<br />
+vapeur<br />
+(kPa)</th>
+<th>Pression de<br />
+vapeur<br />
+(mmHg)</th>
+</tr>
+<tr>
+<td>0</td>
+<td>0.6</td>
+<td>4.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>0.8</td>
+<td>6.0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>0.9</td>
+<td>6.8</td>
+</tr>
+<tr>
+<td>8</td>
+<td>1.1</td>
+<td>8.3</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1.2</td>
+<td>9.0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1.4</td>
+<td>10.5</td>
+</tr>
+<tr>
+<td>14</td>
+<td>1.6</td>
+<td>12.0</td>
+</tr>
+<tr>
+<td>16</td>
+<td>1.8</td>
+<td>13.5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>2.1</td>
+<td>15.8</td>
+</tr>
+<tr>
+<td>19</td>
+<td>2.2</td>
+<td>16.5</td>
+</tr>
+</table>
+<table class="wikitable gauche">
+<tr>
+<th>Température<br />
+(°C)</th>
+<th>pression de<br />
+vapeur<br />
+(kPa)</th>
+<th>Pression de<br />
+vapeur<br />
+(mmHg)</th>
+</tr>
+<tr>
+<td>20</td>
+<td>2.3</td>
+<td>17.3</td>
+</tr>
+<tr>
+<td>21</td>
+<td>2.5</td>
+<td>18.8</td>
+</tr>
+<tr>
+<td>22</td>
+<td>2.6</td>
+<td>19.5</td>
+</tr>
+<tr>
+<td>23</td>
+<td>2.8</td>
+<td>21.0</td>
+</tr>
+<tr>
+<td>24</td>
+<td>3.0</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td>25</td>
+<td>3.2</td>
+<td>24.0</td>
+</tr>
+<tr>
+<td>26</td>
+<td>3.4</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td>27</td>
+<td>3.6</td>
+<td>27.0</td>
+</tr>
+<tr>
+<td>28</td>
+<td>3.8</td>
+<td>28.5</td>
+</tr>
+<tr>
+<td>29</td>
+<td>4.0</td>
+<td>30.0</td>
+</tr>
+</table>
+<table class="wikitable gauche">
+<tr>
+<th>Température<br />
+(°C)</th>
+<th>pression de<br />
+vapeur<br />
+(kPa)</th>
+<th>Pression de<br />
+vapeur<br />
+(mmHg)</th>
+</tr>
+<tr>
+<td>30</td>
+<td>4.2</td>
+<td>31.5</td>
+</tr>
+<tr>
+<td>32</td>
+<td>4.8</td>
+<td>36.0</td>
+</tr>
+<tr>
+<td>35</td>
+<td>5.6</td>
+<td>42.0</td>
+</tr>
+<tr>
+<td>40</td>
+<td>7.4</td>
+<td>55.5</td>
+</tr>
+<tr>
+<td>50</td>
+<td>12.3</td>
+<td>92.3</td>
+</tr>
+<tr>
+<td>60</td>
+<td>19.9</td>
+<td>149.3</td>
+</tr>
+<tr>
+<td>70</td>
+<td>31.2</td>
+<td>234.1</td>
+</tr>
+<tr>
+<td>80</td>
+<td>47.3</td>
+<td>354.9</td>
+</tr>
+<tr>
+<td>90</td>
+<td>70.1</td>
+<td>525.9</td>
+</tr>
+<tr>
+<td>100</td>
+<td>101.3</td>
+<td>760.0</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Table_ITS-90">Table ITS-90</span></h3>
+<p>La table suivante donne les formules de pression de vapeur saturante de l'<a href="/wiki/ITS-90" title="ITS-90" class="mw-redirect">ITS-90</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup></p>
+<table class="wikitable gauche">
+<tr>
+<th>ITS-90 Température<br />
+(°C)</th>
+<th>Pression de<br />
+vapeur<br />
+(Pa)</th>
+</tr>
+<tr>
+<td>0</td>
+<td>611.213</td>
+</tr>
+<tr>
+<td>0.01</td>
+<td>611.657</td>
+</tr>
+<tr>
+<td>2</td>
+<td>705.973</td>
+</tr>
+<tr>
+<td>4</td>
+<td>813.522</td>
+</tr>
+<tr>
+<td>6</td>
+<td>935.316</td>
+</tr>
+<tr>
+<td>8</td>
+<td>1072.944</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1228.139</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1402.782</td>
+</tr>
+<tr>
+<td>14</td>
+<td>1598.914</td>
+</tr>
+<tr>
+<td>16</td>
+<td>1818.747</td>
+</tr>
+<tr>
+<td>18</td>
+<td>2064.670</td>
+</tr>
+<tr>
+<td>20</td>
+<td>2339.262</td>
+</tr>
+<tr>
+<td>22</td>
+<td>2645.302</td>
+</tr>
+<tr>
+<td>24</td>
+<td>2985.777</td>
+</tr>
+<tr>
+<td>26</td>
+<td>3363.893</td>
+</tr>
+<tr>
+<td>28</td>
+<td>3783.090</td>
+</tr>
+<tr>
+<td>30</td>
+<td>4247.046</td>
+</tr>
+</table>
+<table class="wikitable gauche">
+<tr>
+<th>ITS-90 Température<br />
+(°C)</th>
+<th>Pression de<br />
+vapeur<br />
+(Pa)</th>
+</tr>
+<tr>
+<td>32</td>
+<td>4759.694</td>
+</tr>
+<tr>
+<td>34</td>
+<td>5325.230</td>
+</tr>
+<tr>
+<td>36</td>
+<td>5948.122</td>
+</tr>
+<tr>
+<td>38</td>
+<td>6633.128</td>
+</tr>
+<tr>
+<td>40</td>
+<td>7385.299</td>
+</tr>
+<tr>
+<td>42</td>
+<td>8209.997</td>
+</tr>
+<tr>
+<td>44</td>
+<td>9112.902</td>
+</tr>
+<tr>
+<td>46</td>
+<td>10100.025</td>
+</tr>
+<tr>
+<td>48</td>
+<td>11177.719</td>
+</tr>
+<tr>
+<td>50</td>
+<td>12352.690</td>
+</tr>
+<tr>
+<td>52</td>
+<td>13632.007</td>
+</tr>
+<tr>
+<td>54</td>
+<td>15023.115</td>
+</tr>
+<tr>
+<td>56</td>
+<td>16533.844</td>
+</tr>
+<tr>
+<td>58</td>
+<td>18172.420</td>
+</tr>
+<tr>
+<td>60</td>
+<td>19947.476</td>
+</tr>
+<tr>
+<td>62</td>
+<td>21868.064</td>
+</tr>
+<tr>
+<td>64</td>
+<td>23943.660</td>
+</tr>
+<tr>
+<td>66</td>
+<td>26184.180</td>
+</tr>
+</table>
+<table class="wikitable gauche">
+<tr>
+<th>ITS-90 Température<br />
+(°C)</th>
+<th>Pression de<br />
+vapeur<br />
+(Pa)</th>
+</tr>
+<tr>
+<td>68</td>
+<td>28599.985</td>
+</tr>
+<tr>
+<td>70</td>
+<td>31201.894</td>
+</tr>
+<tr>
+<td>72</td>
+<td>34001.191</td>
+</tr>
+<tr>
+<td>74</td>
+<td>37009.635</td>
+</tr>
+<tr>
+<td>76</td>
+<td>40239.470</td>
+</tr>
+<tr>
+<td>78</td>
+<td>43703.430</td>
+</tr>
+<tr>
+<td>80</td>
+<td>47414.751</td>
+</tr>
+<tr>
+<td>82</td>
+<td>51387.177</td>
+</tr>
+<tr>
+<td>84</td>
+<td>55634.969</td>
+</tr>
+<tr>
+<td>86</td>
+<td>60172.910</td>
+</tr>
+<tr>
+<td>88</td>
+<td>65016.317</td>
+</tr>
+<tr>
+<td>90</td>
+<td>70181.042</td>
+</tr>
+<tr>
+<td>92</td>
+<td>75683.482</td>
+</tr>
+<tr>
+<td>94</td>
+<td>81540.588</td>
+</tr>
+<tr>
+<td>96</td>
+<td>87769.863</td>
+</tr>
+<tr>
+<td>98</td>
+<td>94389.378</td>
+</tr>
+<tr>
+<td>99.97436</td>
+<td>101325.000</td>
+</tr>
+<tr>
+<td>100</td>
+<td>101417.770</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Graphes_donnant_la_d.C3.A9pendance_de_la_pression_de_vapeur_en_fonction_de_la_temp.C3.A9rature">Graphes donnant la dépendance de la pression de vapeur en fonction de la température</span></h2>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:802px;"><a href="/wiki/Fichier:Vapor_Pressure_of_Water.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vapor_Pressure_of_Water.png/800px-Vapor_Pressure_of_Water.png" width="800" height="400" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/e1/Vapor_Pressure_of_Water.png 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e1/Vapor_Pressure_of_Water.png 2x" data-file-width="1000" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Vapor_Pressure_of_Water.png" class="internal" title="Agrandir"></a></div>
+Diagrammes de pression de vapeur saturante&#160;; données extraites de la <a href="//de.wikipedia.org/wiki/Dortmunden_Datenbank" class="extiw" title="de:Dortmunden Datenbank">de:Dortmunden Datenbank</a>. Les graphes montrent le <a href="/wiki/Point_triple" title="Point triple">point triple</a>, le <a href="/wiki/Point_critique_(thermodynamique)" title="Point critique (thermodynamique)">point critique</a> et la température d'ébullition de l'eau.</div>
+</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span></h2>
+<ul>
+<li><a href="/wiki/Lois_des_gaz" title="Lois des gaz">Lois des gaz</a></li>
+<li><a href="/wiki/Masse_molaire" title="Masse molaire">Masse molaire</a></li>
+<li><a href="//en.wikipedia.org/wiki/Goff-Gratch_equation" class="extiw" title="en:Goff-Gratch equation">Équation de Goff-Gratch</a> (en)</li>
+</ul>
+<h2><span class="mw-headline" id="R.C3.A9f.C3.A9rences">Références</span></h2>
+<div class="references-small decimal" style="column-count: 1; -moz-column-count: 1; -webkit-column-count: 1">
+<div style="font-size: 85%">
+<ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Vandewalle"><span class="ouvrage" id="Nicolas_Vandewalle">Nicolas Vandewalle, <a rel="nofollow" class="external text" href="http://www.grasp.ulg.ac.be/nvdw/NVdw/Documents_files/thermo7.pdf">«&#160;<cite style="font-style: normal">Chapitre 7: Changement d'état</cite>&#160;»</a>, <a href="/wiki/Universit%C3%A9_de_Li%C3%A8ge" title="Université de Liège">Université de Liège</a> <small style="line-height:1em;">(consulté en <span class="nowrap">2015.03.05</span>)</small></span></span></span></li>
+<li id="cite_note-2"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fordhamprep.org/gcurran/sho/sho/reference/table74a.htm">http://www.fordhamprep.org/gcurran/sho/sho/reference/table74a.htm</a> Pressions de vapeur saturante de l'eau</span></li>
+<li id="cite_note-3"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Hardy, R. 1998, ITS-90 formulations for vapor pressure, frostpoint temperature, dewpoint temperature and enhancement factors in the range -100 to +100C.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Bibliographie">Bibliographie</span></h2>
+<ul>
+<li><span class="ouvrage" id="Pat.3B_Anderton.2C_John_D.3B_Garnett.2C_Pamela_J1997"><span class="ouvrage" id="Garnett.2C_Pat.3B_Anderton.2C_John_D.3B_Garnett.2C_Pamela_J1997"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> Garnett, Pat; Anderton, John D; Garnett, Pamela J, <cite class="italique" lang="en" xml:lang="en">Chemistry Laboratory Manual For Senior Secondary School</cite>, Longman,‎ 1997 <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0-582-86764-9" title="Spécial:Ouvrages de référence/0-582-86764-9"><span class="nowrap">0-582-86764-9</span></a>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemistry+Laboratory+Manual+For+Senior+Secondary+School&amp;rft.pub=Longman&amp;rft.au=Garnett%2C+Pat%3B+Anderton%2C+John+D%3B+Garnett%2C+Pamela+J&amp;rft.date=1997&amp;rft.isbn=0-582-86764-9&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3APression+de+vapeur+saturante+de+l%27eau" id="COinS_30401"></span></span></span></li>
+<li><span class="ouvrage" id="2005"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Review of the vapour pressures of ice and supercooled water for atmospheric applications</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en">Quarterly Journal of the Royal Meteorological Society</span></i>, <abbr class="abbr" title="volume">vol.</abbr>&#160;131, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;608,‎ 2005, <abbr class="abbr" title="page(s)">p.</abbr>&#160;1539–1565. <small style="line-height:1em;">(<a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="http://dx.doi.org/10.1256/qj.04.94">10.1256/qj.04.94</a></span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Review+of+the+vapour+pressures+of+ice+and+supercooled+water+for+atmospheric+applications&amp;rft.jtitle=Quarterly+Journal+of+the+Royal+Meteorological+Society&amp;rft.issue=608&amp;rft.date=2005&amp;rft.volume=131&amp;rft.pages=1539%E2%80%931565.&amp;rft_id=info%3Adoi%2F10.1256%2Fqj.04.94&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3APression+de+vapeur+saturante+de+l%27eau" id="COinS_39374"></span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Liens_externes">Liens externes</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://cires.colorado.edu/~voemel/vp.html">Site web donnant différentes équations pour la pression de vapeur saturante</a></li>
+</ul>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:M%C3%A9t%C3%A9orologie" title="Portail de la météorologie"><img alt="Portail de la météorologie" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/24px-Weather-more-clouds.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/36px-Weather-more-clouds.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/48px-Weather-more-clouds.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:M%C3%A9t%C3%A9orologie" title="Portail:Météorologie">Portail de la météorologie</a></span></span></li>
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Physique" title="Portail de la physique"><img alt="Portail de la physique" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/24px-Logo_physics.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/36px-Logo_physics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/48px-Logo_physics.svg.png 2x" data-file-width="438" data-file-height="438" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Physique" title="Portail:Physique">Portail de la physique</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1033
+CPU time usage: 0.181 seconds
+Real time usage: 0.228 seconds
+Preprocessor visited node count: 577/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10479/2097152 bytes
+Template argument size: 457/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 1.37 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  152.601      1 - -total
+ 34.20%   52.186      1 - Modèle:Portail
+ 33.80%   51.577      1 - Modèle:Reflist
+ 27.97%   42.682      1 - Modèle:Lien_web
+ 20.39%   31.111      1 - Modèle:Catégorisation_badges
+ 16.15%   24.644      1 - Modèle:Ouvrage
+  7.17%   10.947      1 - Modèle:Portail_météorologie
+  6.79%   10.365      2 - Modèle:Méta_lien_vers_portail
+  6.41%    9.789      1 - Modèle:Article
+  3.68%    5.609      2 - Modèle:Méta_lien_vers_portail/Catégorisation
+-->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;oldid=112470717">http://fr.wikipedia.org/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;oldid=112470717</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Donn%C3%A9es_et_variables_m%C3%A9t%C3%A9orologiques" title="Catégorie:Données et variables météorologiques">Données et variables météorologiques</a></li><li><a href="/wiki/Cat%C3%A9gorie:Thermodynamique_atmosph%C3%A9rique" title="Catégorie:Thermodynamique atmosphérique">Thermodynamique atmosphérique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Grandeur_thermodynamique" title="Catégorie:Grandeur thermodynamique">Grandeur thermodynamique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Propri%C3%A9t%C3%A9_chimique" title="Catégorie:Propriété chimique">Propriété chimique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Gaz" title="Catégorie:Gaz">Gaz</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Portail:M%C3%A9t%C3%A9orologie/Articles_li%C3%A9s" title="Catégorie:Portail:Météorologie/Articles liés">Portail:Météorologie/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Physique/Articles_li%C3%A9s" title="Catégorie:Portail:Physique/Articles liés">Portail:Physique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Pression+de+vapeur+saturante+de+l%27eau&amp;returntoquery=diff%3D112470717%26oldid%3D112465058%26rcid%3D136876637&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Pression+de+vapeur+saturante+de+l%27eau&amp;returntoquery=diff%3D112470717%26oldid%3D112465058%26rcid%3D136876637" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pression_de_vapeur_saturante_de_l%27eau"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discussion:Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit&amp;redlink=1"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pression_de_vapeur_saturante_de_l%27eau" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;oldid=112470717&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=edit&amp;oldid=112470717"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Pression+de+vapeur+saturante+de+l%27eau">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Pression+de+vapeur+saturante+de+l%27eau&amp;oldid=112465058&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Pression_de_vapeur_saturante_de_l%27eau" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Pression_de_vapeur_saturante_de_l%27eau" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;oldid=112470717" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2037287" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Pression_de_vapeur_saturante_de_l%27eau&amp;id=112470717" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Water_dampdruk" title="Water dampdruk — afrikaans" lang="af" hreflang="af">Afrikaans</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Pressi%C3%B3_de_vapor_de_l%27aigua" title="Pressió de vapor de l'aigua — catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Vapour_pressure_of_water" title="Vapour pressure of water — anglais" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%81%D8%B4%D8%A7%D8%B1_%D8%A8%D8%AE%D8%A7%D8%B1_%D8%A7%D8%B4%D8%A8%D8%A7%D8%B9" title="فشار بخار اشباع — persan" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%BD%D1%96%D1%81%D1%82%D1%8C_%D0%BD%D0%B0%D1%81%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Пружність насичення — ukrainien" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B0%B4%E8%92%B8%E6%B0%94%E5%8E%8B" title="水蒸气压 — chinois" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q2037287#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">Vous êtes sur une ancienne version de l’article. <br />Il a depuis été corrigé pour cause d’informations erronées, de vandalisme ou de contenu incompatible avec la <a href="/wiki/Wikip%C3%A9dia:Licence_Creative_Commons_Paternit%C3%A9-Partage_des_Conditions_Initiales_%C3%A0_l%27Identique_3.0_Unported" title="Wikipédia:Licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique 3.0 Unported">licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique</a>, ou simplement amélioré.<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Pression_de_vapeur_saturante_de_l%27eau&amp;diff=112470717&amp;oldid=112465058&amp;rcid=136876637&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":358,"wgHostname":"mw1033"});
+}</script>
+	</body>
+</html>

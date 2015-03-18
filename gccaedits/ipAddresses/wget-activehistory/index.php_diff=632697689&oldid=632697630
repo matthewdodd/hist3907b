@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>SNC-Lavalin: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=SNC-Lavalin&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=SNC-Lavalin&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/SNC-Lavalin" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=632697689&amp;oldid=632697630" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"SNC-Lavalin","wgTitle":"SNC-Lavalin","wgCurRevisionId":648008035,"wgRevisionId":632697689,"wgArticleId":45222905,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2013","Articles with dead external links from July 2013","Wikipedia articles with possible conflicts of interest from August 2014","Articles with a promotional tone from June 2014","All articles with a promotional tone","Articles needing additional references from June 2014","All articles needing additional references","Articles needing additional references from August 2014","Wikipedia articles in need of updating from August 2014","All Wikipedia articles in need of updating","Articles with a promotional tone from August 2014","S\u0026P/TSX 60 Index","S\u0026P/TSX Composite Index","Companies listed on the Toronto Stock Exchange","Companies based in Montreal","Companies established in 1911","Construction and civil engineering companies of Canada","Engineering companies","SNC-Lavalin","Political scandals in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"SNC-Lavalin","wgRelevantArticleId":45222905,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q944608"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-SNC-Lavalin skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">SNC-Lavalin: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=SNC-Lavalin&amp;oldid=632697630" title="SNC-Lavalin">Revision as of 14:57, 6 November 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=SNC-Lavalin&amp;action=edit&amp;oldid=632697630" title="SNC-Lavalin">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Special:Contributions/159.33.10.155" title="Special:Contributions/159.33.10.155" class="mw-userlink mw-anonuserlink">159.33.10.155</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:159.33.10.155" title="User talk:159.33.10.155">talk</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#SNC">→</a>‎<span dir="auto"><span class="autocomment">SNC: </span> Manic 5 - Daniel-Johnson_Dam</span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=SNC-Lavalin&amp;diff=prev&amp;oldid=632697630" title="SNC-Lavalin" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=SNC-Lavalin&amp;oldid=632697689" title="SNC-Lavalin">Revision as of 14:57, 6 November 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=SNC-Lavalin&amp;action=edit&amp;oldid=632697689" title="SNC-Lavalin">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=SNC-Lavalin&amp;action=edit&amp;undoafter=632697630&amp;undo=632697689" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/159.33.10.155" title="Special:Contributions/159.33.10.155" class="mw-userlink mw-anonuserlink">159.33.10.155</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:159.33.10.155" title="User talk:159.33.10.155">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#SNC">→</a>‎<span dir="auto"><span class="autocomment">SNC: </span> Manic 5 - Daniel-Johnson_Dam</span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=SNC-Lavalin&amp;diff=next&amp;oldid=632697689" title="SNC-Lavalin" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 47:</td>
+  <td colspan="2" class="diff-lineno">Line 47:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>A second partnership agreement was signed in 1946, and the firm's name was changed to {{sic|hide=y|Survey|er}}, Nenniger and Chênevert. The name would eventually be abbreviated to SNC.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>A second partnership agreement was signed in 1946, and the firm's name was changed to {{sic|hide=y|Survey|er}}, Nenniger and Chênevert. The name would eventually be abbreviated to SNC.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>Meanwhile, the firm was starting work on [Manic-5|Daniel-Johnson Dam] in northern Quebec, the largest multiple-arch dam in the world at the time. For Manic-5, SNC made use of a revolutionary new technology to accelerate its calculations: an IBM 1620 computer.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>Meanwhile, the firm was starting work on <ins class="diffchange diffchange-inline">[</ins>[Manic-5|Daniel-Johnson Dam<ins class="diffchange diffchange-inline">]</ins>] in northern Quebec, the largest multiple-arch dam in the world at the time. For Manic-5, SNC made use of a revolutionary new technology to accelerate its calculations: an IBM 1620 computer.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>'''1960s and 1970s'''</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>'''1960s and 1970s'''</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 14:57, 6 November 2014</h2>
+<table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<table class="collapsible" style="width:95%; background:transparent;">
+<tr>
+<th style="text-align:left; padding:0.2em 2px 0.2em 0;">This article has multiple issues. <span style="font-weight: normal;">Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:SNC-Lavalin" title="Talk:SNC-Lavalin">talk page</a></b>.</span></th>
+</tr>
+<tr>
+<td>
+<table class="metadata plainlinks ambox ambox-content ambox-COI" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span"><b>A major contributor to this article appears to have a <a href="/wiki/Wikipedia:Conflict_of_interest" title="Wikipedia:Conflict of interest">close connection</a> with its subject.</b> <span class="hide-when-compact">It may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to comply with Wikipedia's content policies, particularly <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>. Please discuss further on the <a href="/wiki/Talk:SNC-Lavalin" title="Talk:SNC-Lavalin">talk page</a>.</span> <small><i>(August 2014)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Advert" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span> <small><i>(June 2014)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2014)</i></small></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">SNC-Lavalin Group Inc.</caption>
+<tr>
+<td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:SNC-Lavalin_logo.svg" class="image"><img alt="SNC-Lavalin logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/5/50/SNC-Lavalin_logo.svg/200px-SNC-Lavalin_logo.svg.png" width="200" height="105" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/50/SNC-Lavalin_logo.svg/300px-SNC-Lavalin_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/50/SNC-Lavalin_logo.svg/400px-SNC-Lavalin_logo.svg.png 2x" data-file-width="496" data-file-height="260" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Types_of_business_entity" title="Types of business entity">Type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a> (<a href="/wiki/Toronto_Stock_Exchange" title="Toronto Stock Exchange">TSX</a>:&#160;<a rel="nofollow" class="external text" href="http://web.tmxmoney.com/quote.php?qm_symbol=SNC:TSX">SNC</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Engineering" title="Engineering">Engineering</a> and <a href="/wiki/Construction" title="Construction">Construction</a> Services</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">1911</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">Headquarters</th>
+<td class="label" style="line-height:1.35em;"><a href="/wiki/Montreal" title="Montreal">Montreal</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, <a href="/wiki/Canada" title="Canada">Canada</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td class="agent" style="line-height:1.35em;"><a href="/w/index.php?title=Ian_A._Bourne&amp;action=edit&amp;redlink=1" class="new" title="Ian A. Bourne (page does not exist)">Ian A. Bourne</a> (<a href="/wiki/Chairman" title="Chairman">Chairman</a>)<br />
+<a href="/w/index.php?title=Robert_G._Card&amp;action=edit&amp;redlink=1" class="new" title="Robert G. Card (page does not exist)">Robert G. Card</a> (<a href="/wiki/Chief_Executive_Officer" title="Chief Executive Officer" class="mw-redirect">CEO</a>)<sup id="cite_ref-Biography_of_the_President_and_Chief_Executive_Officer_1-0" class="reference"><a href="#cite_note-Biography_of_the_President_and_Chief_Executive_Officer-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">Products</th>
+<td style="line-height:1.35em;"><a href="/wiki/Engineering" title="Engineering">Engineering</a> Services, <a href="/wiki/Project_Management" title="Project Management" class="mw-redirect">Project Management</a>, <a href="/wiki/Construction" title="Construction">Construction</a>, <a href="/wiki/Construction_Management" title="Construction Management" class="mw-redirect">Construction Management</a>, <a href="/wiki/Procurement" title="Procurement">Procurement</a> and <a href="/wiki/Operations_and_Maintenance" title="Operations and Maintenance" class="mw-redirect">Operations and Maintenance</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">Revenue</th>
+<td style="line-height:1.35em;"><span title="Decrease"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span> <a href="/wiki/Canadian_dollar" title="Canadian dollar">C$</a>7.209 billion (2011)<sup id="cite_ref-annualreport_2-0" class="reference"><a href="#cite_note-annualreport-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div>
+</th>
+<td style="line-height:1.35em;"><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span> <a href="/wiki/Canadian_dollar" title="Canadian dollar">C$</a>387.3 million (2011)<sup id="cite_ref-annualreport_2-1" class="reference"><a href="#cite_note-annualreport-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div>
+</th>
+<td style="line-height:1.35em;">45,000<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><a rel="nofollow" class="external text" href="http://www.snclavalin.com/">www.snclavalin.com</a></td>
+</tr>
+</table>
+<p>Founded in 1911, <b>SNC-Lavalin Group Inc.</b>, a <a href="/wiki/Montreal" title="Montreal">Montreal</a>-based company, provides <a href="/wiki/Engineering,_procurement_and_construction" title="Engineering, procurement and construction">EPC</a> and <a href="/wiki/Engineering,_procurement,_and_construction_management" title="Engineering, procurement, and construction management">EPCM</a> services in a variety of industry sectors, including mining and metallurgy, oil and gas, environment and water, infrastructure and clean power. In many cases, SNC-Lavalin combines these services with financing and operations and maintenance.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#SNC"><span class="tocnumber">1.1</span> <span class="toctext">SNC</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Lavalin"><span class="tocnumber">1.2</span> <span class="toctext">Lavalin</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#SNC-Lavalin_.281991-2000.29"><span class="tocnumber">1.3</span> <span class="toctext">SNC-Lavalin (1991-2000)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#SNC-Lavalin_.282000-present.29"><span class="tocnumber">1.4</span> <span class="toctext">SNC-Lavalin (2000-present)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Acquisition_of_Kentz_.282014.29"><span class="tocnumber">1.5</span> <span class="toctext">Acquisition of Kentz (2014)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Operations"><span class="tocnumber">2</span> <span class="toctext">Operations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Major_projects"><span class="tocnumber">3</span> <span class="toctext">Major projects</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Controversies"><span class="tocnumber">4</span> <span class="toctext">Controversies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#SNC-Lavalin_Kerala_hydroelectric_dam_scandal"><span class="tocnumber">4.1</span> <span class="toctext">SNC-Lavalin Kerala hydroelectric dam scandal</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Gaddafi_scandal"><span class="tocnumber">4.2</span> <span class="toctext">Gaddafi scandal</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Arthur_Porter_McGill_University_Health_Centre_Controversy"><span class="tocnumber">4.3</span> <span class="toctext">Arthur Porter McGill University Health Centre Controversy</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#SNC_Board_.2435_million_review"><span class="tocnumber">4.4</span> <span class="toctext">SNC Board $35 million review</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Top_executive_resignations"><span class="tocnumber">4.5</span> <span class="toctext">Top executive resignations</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#SNC-Lavalin_met_with_scorn_from_consultants_over_compulsory_ethics_exam"><span class="tocnumber">4.6</span> <span class="toctext">SNC-Lavalin met with scorn from consultants over compulsory ethics exam</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#SNC-Lavalin_blacklisted_from_bidding_on_World_Bank_Global_Projects"><span class="tocnumber">4.7</span> <span class="toctext">SNC-Lavalin blacklisted from bidding on World Bank Global Projects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Response_to_Ethics_Issues"><span class="tocnumber">5</span> <span class="toctext">Response to Ethics Issues</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Renewed_management"><span class="tocnumber">5.1</span> <span class="toctext">Renewed management</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Anti-Corruption_Manual_for_SNC-Lavalin.E2.80.99s_Employees"><span class="tocnumber">5.2</span> <span class="toctext">Anti-Corruption Manual for SNC-Lavalin’s Employees</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#New_Policy_Governing_Engagements_with_Business_Partners"><span class="tocnumber">5.3</span> <span class="toctext">New Policy Governing Engagements with Business Partners</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Appointment_of_Compliance_Officers"><span class="tocnumber">5.4</span> <span class="toctext">Appointment of Compliance Officers</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Personal_Compliance_Training_for_Employees"><span class="tocnumber">5.5</span> <span class="toctext">Personal Compliance Training for Employees</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Third-Party_Validation"><span class="tocnumber">5.6</span> <span class="toctext">Third-Party Validation</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Amnesty_Program"><span class="tocnumber">5.7</span> <span class="toctext">Amnesty Program</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Board_Renewal"><span class="tocnumber">5.8</span> <span class="toctext">Board Renewal</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#New_Business_Strategy"><span class="tocnumber">6</span> <span class="toctext">New Business Strategy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Growth_Platforms"><span class="tocnumber">6.1</span> <span class="toctext">Growth Platforms</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Enhanced_ICI_Management_Approach"><span class="tocnumber">6.2</span> <span class="toctext">Enhanced ICI Management Approach</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Growth_Enablers"><span class="tocnumber">6.3</span> <span class="toctext">Growth Enablers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Board_of_directors"><span class="tocnumber">7</span> <span class="toctext">Board of directors</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(August 2014)</i></small></span></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="SNC">SNC</span></h3>
+<p><b>Early Years</b></p>
+<p>In the spring of 1911, 32-year-old French Canadian hydraulics engineer Arthur Surveyor left the Canadian Department of Public Works and opened his own consulting firm in Montreal, Canada. He quickly earned a reputation for preparing quality engineering reports and his firm won contracts with Montreal Hydro-Electric, the Shipping Federation of Canada and several municipalities in Quebec and Ontario.</p>
+<p>By 1918, Surveyor had become a spokesman for the Canadian engineering profession. He sat on the boards of the École Polytechnique de Montréal, the Canadian Society of Civil Engineers, and the National Research Council of Canada. He was also writing articles for the Revue Trimestrielle Canadienne, Quebec’s first true engineering journal.</p>
+<p><b>1920s and 1930s</b></p>
+<p>In 1922, Surveyor was awarded his first international contract—a profitability study for a proposed pulp mill in Aberdeen, Washington.</p>
+<p>Also in the early 1920s, Surveyor had relocated to the Drummond Building on Sainte-Catherine Street, where he began working with architect Henri Labelle on building projects. With more work than he could handle alone, Surveyor hired Georges Chênevert and Emil Nenniger, both of whom quickly proved to be top talents. In recognition of their contributions, Surveyor made them partners in the firm in 1927.</p>
+<p><b>1940s and 1950s</b></p>
+<p>A second partnership agreement was signed in 1946, and the firm's name was changed to Surveyer, Nenniger and Chênevert. The name would eventually be abbreviated to SNC.</p>
+<p>Meanwhile, the firm was starting work on <a href="/wiki/Manic-5" title="Manic-5" class="mw-redirect">Daniel-Johnson Dam</a> in northern Quebec, the largest multiple-arch dam in the world at the time. For Manic-5, SNC made use of a revolutionary new technology to accelerate its calculations: an IBM 1620 computer.</p>
+<p><b>1960s and 1970s</b></p>
+<p>In the early 1960s, SNC took its success on Manic-5 all the way to India for the Idukki arch dam. The project was the firm’s first contract outside North America and a major profile raiser. A double curvature, parabolic concrete arch rising 170 metres above lowest bedrock level, <a href="/wiki/Idukki_Dam" title="Idukki Dam">Idukki power station</a> was at the time the highest of its type in mainland Asia.</p>
+<p>As the 1960s drew to a close, Camille Dagenais was named President and CEO of SNC Enterprises, an incorporated company with employees as its shareholders. In 1974, Jean-Paul Gourdeau was named President, with Dagenais retaining the CEO role.</p>
+<p>By the late 1970s, Dagenais felt the time had come to invite outsiders from the larger business community onto SNC’s board to improve risk management and transparency. At the Shareholders’ Meeting in 1977, four new members were named to the firm’s board. They were Guy Godbout, the President and CEO of Valcartier Industries, a munitions manufacturer; Frederick Jones, a financial consultant; Frederick Peacock, President of Peacock Holding Company, a Calgary real estate firm; and Stephen Jarislowsky, President of the investment firm Jarislowsky, Fraser &amp; Company.</p>
+<p><b>1980s</b></p>
+<p>During the mid-1980s, in an attempt to protect the company from the swings inherent in the engineering sector, SNC began acquiring manufacturing companies. Valcartier Industries and Canadian Arsenals, two Canadian munitions manufacturers, were purchased. To secure the capital for the latter, SNC went public in 1986. A total of 4,100,000 Class A shares were issued with an initial value of $30 million. By June 10, SNC had raised $53.3 million from its IPO.</p>
+<p>In the spring of 1989, Guy Saint-Pierre officially replaced Gourdeau as CEO of SNC. Saint-Pierre, who was a member of SNC’s board, had been a Provincial Liberal Minister of Industry and Commerce and had recently been the Senior Vice-President of John Labatt.</p>
+<p>In 1990, SNC won a breakthrough contract for the Hibernia platform on the Grand Banks of Newfoundland and Labrador. The shallow-water platform included a concrete gravity base structure with a crude oil loading system, subsea installations, and topsides for the drilling, production, processing, and shipment of 110,000 barrels a day of crude.</p>
+<h3><span class="mw-headline" id="Lavalin">Lavalin</span></h3>
+<p><b>1930s and 1940s</b></p>
+<p>In 1936, two young engineers, Jean-Paul Lalonde and Roméo Valois, opened an engineering consulting office in Montreal. Lalonde &amp; Valois, as the firm was known, immediately won a series of design and construction engineering mandates for Route 11 north of Montreal. Other contracts followed in these early years, including a number of assignments for overpasses and bridges.</p>
+<p>In December 1943, Canadian National Railway Head Engineer, H. A. Dixon, asked Lalonde &amp; Valois to design all 15 overpasses for a new rail line it wanted to run through Montreal between its Eastern Junction and the start of the Bout-de-l’Île line, a distance of 24 kilometres.</p>
+<p><b>1950s and 1960s</b></p>
+<p>Lalonde &amp; Valois had more work than it could handle by the early 1950s. The Baby Boom brought with it many new contracts for schools and hospitals. New recruits arrived, including <a href="/wiki/Bernard_Lamarre" title="Bernard Lamarre">Bernard Lamarre</a>, Marcel Dufour, Jean-Paul Dionne and André Denis. They joined the firm just in time to help it carry out a contract to raise the Honoré-Mercier Bridge, and then another to twin the structure. These jobs established Lalonde &amp; Valois as a leading bridge design firm in the province, and lay the groundwork for the large infrastructure jobs it would go on to win in the 1960s.</p>
+<p>Bernard Lamarre was named President and CEO in 1962, and led the company for the next 29 years.</p>
+<p>Among the most high-profile contracts won during these years are the Louis-Hippolyte-La Fontaine Bridge-Tunnel project in Montreal. In 1962, Lalonde &amp; Valois and the Montreal engineering firm Brett &amp; Ouelette were retained to design and supervise construction of the project, which included a 457-metre bridge and a 1,368-metre segmented tunnel under the Saint-Lawrence River.</p>
+<p>In 1963, the consulting engineering company Lalonde, Valois, Lamarre, Valois and Associates (LVLVA) was created, along with Lamarre, Valois International Ltd.</p>
+<p>That same year, as the city of Montreal was gearing up to host Expo 67, LVLVA, was awarded a contract to design Place Bonaventure, an 23,105-square metre exhibition hall in the heart of the downtown core. At the time of its completion in 1967, it was officially the largest concrete building in the world.</p>
+<p><b>1970s and 1980s</b></p>
+<p>At the start of the 1970s, the Quebec engineering world was abuzz with talk of a gigantic hydropower development around James Bay. On September 22, 1972, Lavalin signed a contract with Hydro-Québec to supply 70 percent of the personnel for Phase I of the James Bay Hydroelectric Development project, with Bechtel Quebec and the utility itself furnishing the remainder. Known as the Project of the Century, Phase I would add 5,000 MW to Quebec’s energy grid and include 5,000 kilometres of transmission lines.</p>
+<p>In 1976, Lavalin acquired Fenco, the industrial engineering arm of Janin Construction. The new expertise brought the company several offices throughout Canada with strong industrial capabilities. The expertise acquired with Fenco led to an engineering, procurement and construction management contract for the first phase Alcan’s Grande Baie aluminum smelter in Quebec in 1977. Two years later, Fenco’s industrial know-how would help Lavalin win an important project to enlarge Noranda’s CEZinc smelter at Valleyfield.</p>
+<p>The 1980s saw Lavalin continue with acquisitions. Several new companies were purchased, including Shawinigan, an engineering firm in the power sector. Specializing in hydropower and resource management, Shawinigan had six main operating units across Canada staffed by over 1,000 employees. Shawinigan instantly made Lavalin one of Canada’s leading hydropower engineering firms. During that time Lavalin grew to become SNC's main rival in Canada.</p>
+<p>In 1988, Lavalin launched <a href="/wiki/The_Weather_Network" title="The Weather Network">The Weather Network</a> and <a href="/wiki/M%C3%A9t%C3%A9oM%C3%A9dia" title="MétéoMédia">MétéoMédia</a>, Canada’s first all-weather cable television channel. The idea originated from the meteorological team at one of its divisions in Halifax, Nova Scotia, which provided the station with data. From its first day on the air in September, the network was reaching 5 million households across Canada.</p>
+<p>Like its rival SNC, Lavalin also moved into the manufacturing sector in the 1980s. It acquired Kemtec, a refinery in the east end of Montreal, followed by the Urban Transport Development Corporation (UTDC), a maker of heavy vehicles and trains in Ontario. UTDC failed to meet expectations, and Kemtec began to drain profits when the price of its main feedstock rose above the cost of its principal product. By the end of the decade, Lavalin found itself struggling.</p>
+<h3><span class="mw-headline" id="SNC-Lavalin_.281991-2000.29">SNC-Lavalin (1991-2000)</span></h3>
+<p>Lavalin’s debts brought it face-to-face with SNC to negotiate a merger of the two companies in 1991. The merger created the largest Canadian engineering company, and one of the top firms in the world. The following year, three major contracts were signed: the Ankara mass transit system in Turkey, the Richards Bay aluminum smelter project in South Africa and the Maritime Coastal Defence Vessel project in Canada.</p>
+<p>Guy Saint-Pierre decided to retire in late 1995 and recommended that Jacques Lamarre replace him as CEO. Lamarre became President and CEO of SNC-Lavalin in 1996.</p>
+<p>There were several acquisitions during this time. In January 1996, SNC-Lavalin acquired a top Canadian mining firm called Kilborn. The acquisition had grown out of a feasibility study for Inco’s massive Goro Nickel project in New Caledonia, on which the two companies were collaborating. SNC-Lavalin also saw potential synergies between Kilborn and ByR, its new operating unit in Santiago, Chile. Kilborn had a small office in Chile, and close ties to many of the big names in the business who were now launching projects there. In March, SNC‑Lavalin acquired the remaining 50 percent of ByR, merged it with Kilborn’s Chilean operations, and enfolded both into its existing marketing office in the country.</p>
+<p>In early 1998, the government of Ontario announced that it was putting <a href="/wiki/Ontario_Highway_407" title="Ontario Highway 407">Ontario's Highway 407</a> in Toronto up for sale. The private sector was invited to bid on what was going to be one of the largest privatizations in Canadian history. The winner would expand the highway in both directions and operate it as a toll road for 99 years. SNC-Lavalin formed a consortium with Cintra of Spain and bid for the project. The consortium's winning bid came in at $3.107 billion, SNC-Lavalin's share of whicch was almost equivalent to the entire value of its shareholders’ equity.</p>
+<p>During the 1990s, SNC-Lavalin's growth strategy involved building on its expertise in its core sectors (agrifood, aluminum, biopharmaceuticals, chemicals and petroleum, the environment, facilities and operations management, infrastructure, mass transit, mining and metallurgy and power), developing its international network, and increasing its project financing capabilities to enhance competitiveness when bidding for major projects and infrastructure concessions.</p>
+<h3><span class="mw-headline" id="SNC-Lavalin_.282000-present.29">SNC-Lavalin (2000-present)</span></h3>
+<p>In early 2004, SNC-Lavalin formed a joint venture with Tabreed in Abu Dhabi, called SNC-Lavalin Gulf Contractors, to carry out district cooling projects in the emirate. The joint venture completed more than 15 fixed-price contracts in the sector over the next three years.</p>
+<p>In August 2005, SNC-Lavalin consortium signed a 35-year concession agreement with Richmond-Airport-Vancouver Project Management Ltd. (RAVCO) and the Greater Vancouver Transportation Authority (GVTA) to design, build, partially finance, operate and maintain the Canada Line. SNC-Lavalin provided engineering, procurement, and construction for the line, which links Waterfront Station in downtown Vancouver to the airport and Richmond city centre. The project was delivered early and on-budget in 2009.</p>
+<p>In August 2007, SNC-Lavalin gathered its Quebec-based expertise in materials engineering and geotechnical studies under one roof. The newly created Qualitas Division—a merger of Group Qualitas, Terratech, and three recent acquisitions, Laboratoire Sol et Béton, Techmat, and Quéformat—created a division with nearly 800 employees at more than 20 offices and testing laboratories throughout the province.</p>
+<p>In May 2009, SNC-Lavalin and its partners were awarded a PPP project to design, build, operate, and maintain the new concert hall for the Montreal Symphony Orchestra, a mere stone’s throw from SNC-Lavalin’s headquarters. The concert hall was designed to be almost completely independent from the surrounding building to eliminate sound transmission from outside. The only points of contact are 300 precisely engineered rubber isolators that prevent the transmission of vibrations from all of the surrounding urban activity. This “box-within-a-box” design helped earn the Maison symphonique a noise rating of N1, which means background noise is inaudible to the human ear. A special design also had to be developed to make the ventilation as quiet as possible. SNC-Lavalin and the project’s acoustic experts devised a “digestive tract” ventilation corridor that conducts air noiselessly down the side of the hall and up through small openings located beneath each of the 2,100 seats. Thanks to innovations like these, patrons can enjoy music the way the composer intended it to be heard.</p>
+<p>By the second quarter of 2010, the company had won an iron ore processing facility in Brazil and a contract to design and build the Waneta Expansion, a 335-megawatt hydroelectric power facility in British Columbia, Canada.</p>
+<p>In May 2011, SNC-Lavalin was one of five international firms selected by oil and gas giant Saudi Aramco for its General Engineering Services Plus (GES+) program. The goal of GES+ is to pair local engineering consultants with the systems, procedures and worldwide best practices of international companies to foster local capabilities. The majority of the engineering services must be performed in Saudi Arabia and in a way that will enhance the development of training and domestic employment opportunities.</p>
+<p>In June 2011, SNC-Lavalin agreed to purchase the commercial reactor division of <a href="/wiki/Atomic_Energy_of_Canada_Limited" title="Atomic Energy of Canada Limited">Atomic Energy of Canada Limited</a> (AECL) from the <a href="/wiki/Government_of_Canada" title="Government of Canada">Government of Canada</a> for C$15 million. SNC-Lavalin established a subsidiary company named <a href="/wiki/Candu_Energy_Inc." title="Candu Energy Inc.">Candu Energy Inc.</a> to market the design and supply of <a href="/wiki/CANDU_reactor" title="CANDU reactor">CANDU reactors</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Not long afterwards, SNC-Lavalin was awarded Embalse Life Extension Project in Argentina. The project is expected to allow the plant to produce a reliable supply of power for up to another 30 years. SNC-Lavalin’s wholly owned subsidiary, Candu Energy, is delivering tools, equipment, and engineering packages. Candu is also working with Nucleoeléctrica Argentina SA staff at their mock-up facility to test tooling systems and pre-train workers to maximize safety and efficiency on the project. The company also won work at the Cernavodă nuclear station in Romania, another CANDU plant. SNC-Lavalin is installing reactor containment filtered venting systems. The project is part of an industry-wide strategy to upgrade nuclear plant safety following events at Fukushima in Japan.</p>
+<p>On October 1, 2012, following the departure of former President and CEO Pierre Duhaime, Robert G. Card became SNC-Lavalin's new President and CEO, and a member of the company’s Board of Directors. Card has almost 40 years of experience in the operations and management of infrastructure and energy projects in the industry, including the CH2M Hill Companies Ltd. group. At CH2M Hill, he held a variety of positions, including President and Group Chief Executive of the International division; President of the Government, Environment &amp; Nuclear division; President of the Facilities &amp; Infrastructure division; and President of the Energy, Water &amp; Facilities division, as well as having been on the Board of Directors. Between 2001 and 2004, he acted as Under Secretary to the U.S. Department of Energy, a Senate-approved presidential appointment in which he oversaw 65,000 federal and contract employees, and a budget in excess of $14 billion.</p>
+<p>In January 2013, SNC-Lavalin's consortium, EGRT Construction, signed a design, build and finance agreement with the Province of British Columbia for the Evergreen Line rapid transit project in Metro Vancouver. The Evergreen Line will link the Tri-Cities area to the existing Millennium Line for the first time through rapid transit. The largest transit project currently underway in the Metro Vancouver, Evergreen includes elevated and at-grade guideways, a two-kilometre bored tunnel, seven stations, power substations, train operating systems, parking facilities and a vehicle storage and light maintenance facility. Evergreen Line will also be automated and driverless, and run primarily along an elevated guideway, thus avoiding any potential for conflict with vehicular traffic.</p>
+<p>One month later SNC-Lavalin announced that its consortium had finalized an agreement with the City of Ottawa to design, build, finance and maintain the Confederation Line, the city’s first-ever light rail transit system. In the initial phase of the project, the Rideau Transit Group Partnership will be responsible for the construction of 12.5&#160;km of guideway, 10 above-ground stations, three underground stations and a 2.5&#160;km tunnel beneath the downtown core. The consortium will also widen Highway 417 between Nicholas Street to the Highway 174 split, supply the light rail transit vehicles, build a maintenance and storage facility, and provide ongoing maintenance of the system for a 30-year period.</p>
+<p>In September 2013, SNC-Lavalin announced that Phase II of the Emirates Aluminium Smelter Complex (EMAL II) project in Abu Dhabi, for which it provided complete EPCM services, had achieved first hot metal nearly three months ahead of schedule. The Emirates Aluminum Smelter Complex is one of the largest single-site aluminium smelters in the world with an annual production of 1.35 million tonnes per year. The facility has the longest potline and largest gas treatment centre in the aluminum sector, a 2,000-volt rectifier/transformer and the biggest captive gas-fired power plant in the world.</p>
+<p>In early 2014, SNC-Lavalin won the John Hart Generating Station Replacement Project in British Columbia. Built in 1947 on the Campbell River, the current facility represents approximately 17 percent of the total generating capacity on Vancouver Island. SNC-Lavalain will design, build, finance and maintain a new power station that will provide more generation capacity for the island’s inhabitants.</p>
+<p>Also in early 2014, SNC-Lavalin signed a contract with Ma’aden in Saudi Arabia to provide engineering, procurement, construction, commissioning and start-up services for a three-line 15,150-metric-tonne-per-day sulphuric acid plant. Also included in the agreement are two 75-MW power plants that will recover heat generated by the acid plant operations.</p>
+<h3><span class="mw-headline" id="Acquisition_of_Kentz_.282014.29">Acquisition of Kentz (2014)</span></h3>
+<p>On 23 June 2014, SNC-Lavalin agreed to acquire <a href="/wiki/Kentz" title="Kentz">Kentz</a> for about C$2.1 billion ($1.95 billion). Kentz is an Irish engineering and construction business serving clients primarily in the oil and gas, petrochemical and mining and metals sectors. It is a constituent of the <a href="/wiki/FTSE_250_Index" title="FTSE 250 Index">FTSE 250 Index</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Operations">Operations</span></h2>
+<p>SNC-Lavalin operates in <a href="/wiki/Oil_and_Gas" title="Oil and Gas" class="mw-redirect">Oil and Gas</a>, <a href="/w/index.php?title=Mining_and_Metallurgy&amp;action=edit&amp;redlink=1" class="new" title="Mining and Metallurgy (page does not exist)">Mining and Metallurgy</a>, Environment and Water, <a href="/wiki/Nuclear_Power" title="Nuclear Power" class="mw-redirect">Nuclear Power</a>, <a href="/w/index.php?title=Hydro_Power&amp;action=edit&amp;redlink=1" class="new" title="Hydro Power (page does not exist)">Hydro Power</a>, the <a href="/w/index.php?title=Transmission_and_Distribution&amp;action=edit&amp;redlink=1" class="new" title="Transmission and Distribution (page does not exist)">Transmission and Distribution</a> of energy, <a href="/w/index.php?title=Thermal_Power&amp;action=edit&amp;redlink=1" class="new" title="Thermal Power (page does not exist)">Thermal Power</a>, and a variety of <a href="/wiki/Infrastructures" title="Infrastructures" class="mw-redirect">Infrastructures</a>, including <a href="/wiki/Mass_Transit" title="Mass Transit" class="mw-redirect">Mass Transit</a> and <a href="/w/index.php?title=Heavy_Rail&amp;action=edit&amp;redlink=1" class="new" title="Heavy Rail (page does not exist)">Heavy Rail</a> systems, <a href="/wiki/Highways" title="Highways" class="mw-redirect">Highways</a>, <a href="/wiki/Bridge" title="Bridge">Bridges</a>, <a href="/wiki/Airports" title="Airports" class="mw-redirect">Airports</a> and <a href="/wiki/Sea" title="Sea">Marine</a> facilities, as well as industrial, commercial, cultural and healthcare buildings. The company states that it has the ability to provide services across all of these sectors, including <a href="/wiki/Financing" title="Financing" class="mw-redirect">Financing</a> and <a href="/wiki/Asset_Management" title="Asset Management" class="mw-redirect">Asset Management</a>, <a href="/wiki/Engineering" title="Engineering">Engineering</a>, <a href="/wiki/Construction" title="Construction">Construction</a>, <a href="/wiki/Procurement" title="Procurement">Procurement</a> and <a href="/wiki/Operations_and_Maintenance" title="Operations and Maintenance" class="mw-redirect">Operations and Maintenance</a>, or provide any one of these services individually.</p>
+<h2><span class="mw-headline" id="Major_projects">Major projects</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SNC-Lavalin,_Montreal_2005-09-02.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/SNC-Lavalin%2C_Montreal_2005-09-02.JPG/220px-SNC-Lavalin%2C_Montreal_2005-09-02.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/SNC-Lavalin%2C_Montreal_2005-09-02.JPG/330px-SNC-Lavalin%2C_Montreal_2005-09-02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/SNC-Lavalin%2C_Montreal_2005-09-02.JPG/440px-SNC-Lavalin%2C_Montreal_2005-09-02.JPG 2x" data-file-width="1920" data-file-height="2560" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SNC-Lavalin,_Montreal_2005-09-02.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Corporate_headquarters" title="Corporate headquarters">Corporate headquarters</a> of SNC-Lavalin on René-Lévesque Blvd, in Montreal.</div>
+</div>
+</div>
+<ul>
+<li>The <a href="/wiki/James_Bay_Project" title="James Bay Project">James Bay Project</a> for the <a href="/wiki/James_Bay_Energy_Corporation" title="James Bay Energy Corporation" class="mw-redirect">James Bay Energy Corporation</a> (completed in 1979)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>The Brun-way project to twin <a href="/wiki/Route_2_(New_Brunswick)" title="Route 2 (New Brunswick)" class="mw-redirect">Route 2</a>, the <a href="/wiki/New_Brunswick" title="New Brunswick">New Brunswick</a> portion of the <a href="/wiki/Trans-Canada_Highway" title="Trans-Canada Highway">Trans-Canada Highway</a>. This project saw existing sections of highway twinned as well as extensive new alignments built (completed in 2007)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>The <a href="/wiki/William_R._Bennett_Bridge" title="William R. Bennett Bridge">William R. Bennett Bridge</a> in <a href="/wiki/Kelowna,_British_Columbia" title="Kelowna, British Columbia" class="mw-redirect">Kelowna</a>, <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a> (completed in 2008)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>The <a href="/wiki/Canada_Line" title="Canada Line">Canada Line</a>, an extension of the SkyTrain rapid transit system in Vancouver (completed in 2009)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>The Goreway Station power plant in <a href="/wiki/Ontario" title="Ontario">Ontario</a> (completed in 2009)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> for <a href="/wiki/Toyota_Tsusho" title="Toyota Tsusho">Toyota Tsusho</a> and <a href="/wiki/Chubu_Electric_Power" title="Chubu Electric Power">Chubu Electric Power</a></li>
+</ul>
+<ul>
+<li>The Ambatovy <a href="/wiki/Nickel" title="Nickel">nickel</a> and <a href="/wiki/Cobalt" title="Cobalt">cobalt</a> mining and preparation plant in <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a> (due to be completed in 2010)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li><a href="/wiki/Lac_Dor%C3%A9_Vanadium_Deposit" title="Lac Doré Vanadium Deposit">Lac Doré Vanadium Deposit</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li><a href="/wiki/Ermine_Power_Station" title="Ermine Power Station">Ermine Power Station</a> for <a href="/wiki/SaskPower" title="SaskPower">SaskPower</a> in Saskatchewan (completed in 2009)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li><a href="/wiki/Ontario_Highway_407" title="Ontario Highway 407">Ontario Highway 407</a> this highway was leased to a conglomerate of private companies in 1999 for $3.1 billion, who renamed the route 407 ETR. The company, known as <a href="/w/index.php?title=407_International_Inc&amp;action=edit&amp;redlink=1" class="new" title="407 International Inc (page does not exist)">407 International Inc</a>., is owned by a consortium of <a href="/wiki/Cintra" title="Cintra">Cintra</a> Concesiones de Infraestructuras de Transporte (major shareholder) from <a href="/wiki/Spain" title="Spain">Spain</a>, <a href="/wiki/Macquarie_Infrastructure_Group" title="Macquarie Infrastructure Group" class="mw-redirect">Macquarie Infrastructure Group</a> from <a href="/wiki/Australia" title="Australia">Australia</a>, and <a href="/wiki/Montreal" title="Montreal">Montreal</a>-based engineering firm SNC-Lavalin.</li>
+<li><a href="/wiki/Confederation_Line" title="Confederation Line">Confederation Line</a>, a 12.5 kilometer rapid transit line in <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a> with a 2.5 kilometer downtown subway tunnel as the center piece. SNC-Lavalin is one of three main partners of the Rideau Transit Group, along with <a href="/wiki/Grupo_ACS" title="Grupo ACS">Grupo ACS</a> and <a href="/wiki/EllisDon" title="EllisDon">EllisDon</a>. The project should be completed by 2017.</li>
+</ul>
+<h2><span class="mw-headline" id="Controversies">Controversies</span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Update" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Ambox_current_red.svg" class="image"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section is <b>outdated</b>. <span class="hide-when-compact">Please update this article to reflect recent events or newly available information.</span> <small><i>(August 2014)</i></small></span></td>
+</tr>
+</table>
+<p>In 2010, the first reports of murky affairs, such as those summarized in this brief history of the firm,<sup id="cite_ref-hist_14-0" class="reference"><a href="#cite_note-hist-14"><span>[</span>14<span>]</span></a></sup> surfaced against the company. These reports prompted calls for <a href="/wiki/Canada" title="Canada">Canada</a> to tighten <a href="/wiki/Bribery" title="Bribery">bribery</a> laws<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> and triggered a series of ethics and compliance initiatives within SNC-Lavalin.</p>
+<h3><span class="mw-headline" id="SNC-Lavalin_Kerala_hydroelectric_dam_scandal">SNC-Lavalin Kerala hydroelectric dam scandal</span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/SNC-Lavalin_Kerala_hydroelectric_scandal" title="SNC-Lavalin Kerala hydroelectric scandal">SNC-Lavalin Kerala hydroelectric scandal</a></div>
+<p>In 2008, SNC was accused of bribery and financial fraud related to the contracting of the renovation and modernization works of the hydro electric power stations in <a href="/wiki/India" title="India">India</a>. A government investigation, which resulted in the expulsion of several Indian government officials, alleged a net loss to the exchequer of 3745.0 million.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Gaddafi_scandal">Gaddafi scandal</span></h3>
+<p>Under <a href="/wiki/Moammar_Gaddafi" title="Moammar Gaddafi" class="mw-redirect">Moammar Gaddafi</a>'s controversial government, SNC-Lavalin formed close ties with the former ruler's family and regime.<sup id="cite_ref-globe_17-0" class="reference"><a href="#cite_note-globe-17"><span>[</span>17<span>]</span></a></sup> When SNC-Lavalin pulled out of Libya in 2011, it left behind $22.9 million in Libyan banks.<sup id="cite_ref-globe_17-1" class="reference"><a href="#cite_note-globe-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Arthur_Porter_McGill_University_Health_Centre_Controversy">Arthur Porter McGill University Health Centre Controversy</span></h3>
+<p>The relationship between SNC and <a href="/wiki/Arthur_Porter_(physician)" title="Arthur Porter (physician)">Dr. Arthur Porter</a>, the <a href="/wiki/McGill_University_Health_Centre" title="McGill University Health Centre">McGill University Health Centre</a>'s <a href="/wiki/CEO" title="CEO" class="mw-redirect">CEO</a> between 2004-2011, attracted extensive media scrutiny due to perceived <a href="/wiki/Conflict_of_interest" title="Conflict of interest">conflict of interest</a>. This scrutiny intensified when it was revealed that Porter had received $22.5 million in consulting fees from the firm prior to awarding them a $1.3 billion contract related to the hospital's construction, even though they were outbid by $60 million.<sup id="cite_ref-np22_18-0" class="reference"><a href="#cite_note-np22-18"><span>[</span>18<span>]</span></a></sup> These dealings were found to be in violation of the <a href="/w/index.php?title=Quebec_Health_Act&amp;action=edit&amp;redlink=1" class="new" title="Quebec Health Act (page does not exist)">Quebec Health Act</a>, and further investigation of the case by the <a href="/wiki/Charbonneau_Commission" title="Charbonneau Commission">Charbonneau Commission</a> resulted in allegations of SNC-Lavalin employees' involvement in <a href="/wiki/Fraud" title="Fraud">fraud</a> and <a href="/wiki/Forgery" title="Forgery">forgery</a> relating to the contract. Porter resigned from the post on 5 December 2011 in light of substantial public pressure, and a warrant has since been issued for his arrest.<sup id="cite_ref-porter_19-0" class="reference"><a href="#cite_note-porter-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-np_20-0" class="reference"><a href="#cite_note-np-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="SNC_Board_.2435_million_review">SNC Board $35 million review</span></h3>
+<p>Late in February 2012, SNC investors found out that audited financial statements have been delayed to accommodate an internal review relating to SNC's operations. The internal review will probe $35 million of unexplained payments in <a href="/wiki/Libya" title="Libya">Libya</a>. Prior to the launch of the investigation, there had been months-long media speculation about the company's work in Libya and its ties to the <a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a> family.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<p>In 2012, the <a href="/wiki/Royal_Canadian_Mounted_Police" title="Royal Canadian Mounted Police">Royal Canadian Mounted Police</a> investigated the company on these charges.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Top_executive_resignations">Top executive resignations</span></h3>
+<p>In March 2012, SNC-Lavalin's <a href="/wiki/Chief_executive_officer" title="Chief executive officer">chief executive officer</a> <a href="/w/index.php?title=Pierre_Duhaime&amp;action=edit&amp;redlink=1" class="new" title="Pierre Duhaime (page does not exist)">Pierre Duhaime</a> resigned<sup id="cite_ref-hist_14-1" class="reference"><a href="#cite_note-hist-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-reut_25-0" class="reference"><a href="#cite_note-reut-25"><span>[</span>25<span>]</span></a></sup> and was replaced by company director <a href="/w/index.php?title=Ian_Bourne&amp;action=edit&amp;redlink=1" class="new" title="Ian Bourne (page does not exist)">Ian Bourne</a>, who is also the Chairman of <a href="/wiki/Ballard_Power_Systems" title="Ballard Power Systems">Ballard Power Systems</a> and a member of the <a href="/wiki/CPP_Investment_Board" title="CPP Investment Board">CPP Investment Board</a>.</p>
+<p>On 28 November 2012, Duhaime was arrested by Quebec authorities on fraud charges.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>Two other executives, former vice president <a href="/w/index.php?title=Riadh_Ben_Aissa&amp;action=edit&amp;redlink=1" class="new" title="Riadh Ben Aissa (page does not exist)">Riadh Ben Aissa</a> and vice president and <a href="/wiki/Financial_controller" title="Financial controller" class="mw-redirect">financial controller</a> <a href="/w/index.php?title=Stephane_Roy_(businessperson)&amp;action=edit&amp;redlink=1" class="new" title="Stephane Roy (businessperson) (page does not exist)">Stephane Roy</a> also left.<sup id="cite_ref-reut_25-1" class="reference"><a href="#cite_note-reut-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> As of July 2014, Aissa was jailed in Switzerland for "suspicion of corruption, fraud and money-laundering in North Africa," while Roy was awaiting trial for fraud, bribery, and contravening a <a href="/wiki/United_Nations" title="United Nations">United Nations</a> act. Roy may also face charges in Canada in relation to the McGill University Health Centre. Aissa's predecessor, <a href="/w/index.php?title=Sami_Abdallah_Bebawi&amp;action=edit&amp;redlink=1" class="new" title="Sami Abdallah Bebawi (page does not exist)">Sami Abdallah Bebawi</a>, has a warrant out for his arrest but his whereabouts as of July 2014 were unknown.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="SNC-Lavalin_met_with_scorn_from_consultants_over_compulsory_ethics_exam">SNC-Lavalin met with scorn from consultants over compulsory ethics exam</span></h3>
+<p>In December 2012, the Globe and Mail reported: "A committee of SNC's board that conducted the internal probe concluded the $56-million in suspect payments were related to agents SNC hired to win contracts on two unnamed projects. SNC declined to say where the projects were located but some of the payments are believed to have gone through the Tunisia office."<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="SNC-Lavalin_blacklisted_from_bidding_on_World_Bank_Global_Projects">SNC-Lavalin blacklisted from bidding on World Bank Global Projects</span></h3>
+<p>In September 2013, SNC-Lavalin and its affiliates comprised 115 of the 117 Canadian companies that were part of 250 total companies blacklisted from bidding on the World Bank's global projects. <a href="/w/index.php?title=James_David_Fielder&amp;action=edit&amp;redlink=1" class="new" title="James David Fielder (page does not exist)">James David Fielder</a>, the bank's manager, stated, “As it stands today, the World Bank debarment list includes a high number of Canadian companies, the majority of which are affiliates to SNC-Lavalin Inc.” The companies were debarred due to an investigation relating to the <a href="/wiki/Padma_Bridge" title="Padma Bridge">Padma Bridge</a> project in Bangladesh, where World Bank investigators worked with RCMP officers to make a collective action against corruption.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Response_to_Ethics_Issues">Response to Ethics Issues</span></h2>
+<table class="metadata plainlinks ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Ambox_PR.svg" class="image"><img alt="Megaphone icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ambox_PR.svg/45px-Ambox_PR.svg.png" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ambox_PR.svg/68px-Ambox_PR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ambox_PR.svg/90px-Ambox_PR.svg.png 2x" data-file-width="620" data-file-height="620" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>reads like <a href="/wiki/Wikipedia:NOT#NEWS" title="Wikipedia:NOT" class="mw-redirect">a news release</a></b>, or is otherwise written in an overly promotional tone. <span class="hide-when-compact">Please help by either <a class="external text" href="//en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;action=edit">rewriting this article</a> from a <a href="/wiki/Wikipedia:NPOV" title="Wikipedia:NPOV" class="mw-redirect">neutral point of view</a> or by <a href="//meta.wikimedia.org/wiki/Help:Transwiki" class="extiw" title="m:Help:Transwiki">moving this article</a> to <a href="//en.wikinews.org/wiki/Main_page" class="extiw" title="wikinews:Main page">Wikinews</a>. When appropriate, <a href="/wiki/Wikipedia:Criteria_for_speedy_deletion#G11" title="Wikipedia:Criteria for speedy deletion">blatant advertising</a> may be marked for <a href="/wiki/Wikipedia:Criteria_for_speedy_deletion" title="Wikipedia:Criteria for speedy deletion">speedy deletion</a> with {{<a href="/wiki/Template:Db-spam" title="Template:Db-spam" class="mw-redirect">db-spam</a>}}.</span> <small><i>(August 2014)</i></small></span></td>
+</tr>
+</table>
+<p>In 2013, SNC-Lavalin made progress toward its goal of implementing a company-wide ethics and compliance framework. The framework was fully staffed and operational in early 2014. On February 5, 2014, the Autorité des marchés financiers (AMF) re-authorized SNC-Lavalin to contract with public authorities in the province of Quebec.[30]</p>
+<p>Among the ethics and compliance initiatives launched by SNC-Lavalin are:</p>
+<h3><span class="mw-headline" id="Renewed_management">Renewed management</span></h3>
+<p>In October 2012, Ian Bourne and his new board appointed Robert Card to the position of President and CEO, and Card has since largely renewed the company's management. With a renewed management team and the launch of a global ethics and compliance framework across its operations in early 2014, the company now states that it has "a strong ethics and compliance framework."<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Anti-Corruption_Manual_for_SNC-Lavalin.E2.80.99s_Employees">Anti-Corruption Manual for SNC-Lavalin’s Employees</span></h3>
+<p>A component of SNC-Lavalin’s overall compliance framework, the Manual provides a concise overview of the Company’s approach to addressing and mitigating corruption risk in daily business activities. It outlines acceptable and unacceptable conduct in a user-friendly manner, while reaffirming the importance of compliance with applicable laws and SNC-Lavalin’s recently enhanced Code of Ethics and Business Conduct.</p>
+<h3><span class="mw-headline" id="New_Policy_Governing_Engagements_with_Business_Partners">New Policy Governing Engagements with Business Partners</span></h3>
+<p>The policy sets out principles and due diligence procedures to be observed before entering into an agreement with any and all parties who will act on behalf of SNC-Lavalin. The Policy will help ensure the Company deals solely with people or entities of integrity and in good standing with the business community, and which possess the necessary background, reputation and qualifications for the service(s) provided.</p>
+<h3><span class="mw-headline" id="Appointment_of_Compliance_Officers">Appointment of Compliance Officers</span></h3>
+<p>Part of a comprehensive, risk-based compliance organization, the officers report directly to SNC-Lavalin’s Chief Compliance Officer and work to prevent, detect and respond to compliance issues whenever and wherever they may arise across the Company.</p>
+<h3><span class="mw-headline" id="Personal_Compliance_Training_for_Employees">Personal Compliance Training for Employees</span></h3>
+<p>Provided in person by compliance experts, the training for high-risk functions ensures that SNC-Lavalin employees have the requisite tools to do business according to the utmost ethical standards, no matter what regulatory circumstances they find themselves in, or external parties they are in contact with.</p>
+<h3><span class="mw-headline" id="Third-Party_Validation">Third-Party Validation</span></h3>
+<p>The Company’s engagement of an independent Monitor reporting to the World Bank provides further input to refine and improve its ethics and compliance program going forward.</p>
+<h3><span class="mw-headline" id="Amnesty_Program">Amnesty Program</span></h3>
+<p>Launched between June 3 and August 31, 2013, the Program provided employees with an opportunity to come forward regarding ethical violations so that any remaining issues could be dealt with and rapidly resolved. A total of 32 employees made amnesty requests. While no new information of a material nature was revealed, the information the Company received did confirm its previous assessment of corruption risks</p>
+<h3><span class="mw-headline" id="Board_Renewal">Board Renewal</span></h3>
+<p>While not an ethics initiative, the company has also initiated a board renewal process, which has seen several previous directors retire with new directors taking their place. The main focus of the board renewal process is the ensure the company has the most suitable board for its sector and market context. At the company's AGM in May 2014, Chairman Ian A. Bourne said his goal is to create a board that can provide the best possible insight, oversight and foresight for SNC-Lavalin.</p>
+<h2><span class="mw-headline" id="New_Business_Strategy">New Business Strategy</span></h2>
+<table class="metadata plainlinks ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Ambox_PR.svg" class="image"><img alt="Megaphone icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ambox_PR.svg/45px-Ambox_PR.svg.png" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ambox_PR.svg/68px-Ambox_PR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ambox_PR.svg/90px-Ambox_PR.svg.png 2x" data-file-width="620" data-file-height="620" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>reads like <a href="/wiki/Wikipedia:NOT#NEWS" title="Wikipedia:NOT" class="mw-redirect">a news release</a></b>, or is otherwise written in an overly promotional tone. <span class="hide-when-compact">Please help by either <a class="external text" href="//en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;action=edit">rewriting this article</a> from a <a href="/wiki/Wikipedia:NPOV" title="Wikipedia:NPOV" class="mw-redirect">neutral point of view</a> or by <a href="//meta.wikimedia.org/wiki/Help:Transwiki" class="extiw" title="m:Help:Transwiki">moving this article</a> to <a href="//en.wikinews.org/wiki/Main_page" class="extiw" title="wikinews:Main page">Wikinews</a>. When appropriate, <a href="/wiki/Wikipedia:Criteria_for_speedy_deletion#G11" title="Wikipedia:Criteria for speedy deletion">blatant advertising</a> may be marked for <a href="/wiki/Wikipedia:Criteria_for_speedy_deletion" title="Wikipedia:Criteria for speedy deletion">speedy deletion</a> with {{<a href="/wiki/Template:Db-spam" title="Template:Db-spam" class="mw-redirect">db-spam</a>}}.</span> <small><i>(August 2014)</i></small></span></td>
+</tr>
+</table>
+<p>In May 2013, SNC-Lavalin announced a three-part strategic plan to strengthen the Company’s core operations and increase long-term profitability and stability.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> The three components of this plan are:</p>
+<h3><span class="mw-headline" id="Growth_Platforms">Growth Platforms</span></h3>
+<p>SNC-Lavalin announced its intention to leverage its expertise in resources (oil and gas, mining, environment and water) with a strong secondary focus on infrastructure and power. One year later, the company had moved forward with significant restructuring efforts and appointed new executives to head these groups and execute an accelerated growth strategy in these sectors.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> The new Group presidents are Neil Bruce (Resources, Environment &amp; Water Group), Hisham Mahmoud (Infrastructure Group) and Alexander Taylor (Power Group). SNC-Lavalin expects to make strategic acquisitions in the resources sector to support its growth strategy.</p>
+<h3><span class="mw-headline" id="Enhanced_ICI_Management_Approach">Enhanced ICI Management Approach</span></h3>
+<p>SNC-Lavalin announced that it would proactively manage its portfolio of assets by exiting key investments at maturity, turning over non-core ICI assets and reducing its equity stakes in its principal large investments over the medium term.</p>
+<p>In September 2013, the company sold its majority interest in the Astoria II power plant in New York City.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> In May 2014, it entered into an agreement to sell its equity stake in AltaLink, Alberta’s largest regulated electricity transmission company, to Berkshire Hathaway Energy.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Growth_Enablers">Growth Enablers</span></h3>
+<p>SNC-Lavalin is implementing a Global Operations model to better integrate its business development and project delivery efforts. To support this plan, the company will set up regional hubs for local decision making and increased market responsiveness in North America, Latin America, Europe, the Middle East and Africa, and Asia Pacific.</p>
+<p>This initiative also involves making more efficient company-wide use of systems and processes. By streamlining operations, SNC-Lavalin expects to enhance its performance and improve its profitability.</p>
+<p>In early 2014, the company opened a regional office for the Middle East and Africa in Abu Dhabi.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Board_of_directors">Board of directors</span></h2>
+<ul>
+<li>Ian A. Bourne, <a href="/wiki/Chairman" title="Chairman">Chairman</a> of the Board, <a href="/wiki/Calgary,_Alberta" title="Calgary, Alberta" class="mw-redirect">Calgary, Alberta</a>, Chair of the Governance and Ethics Committee</li>
+<li><a href="/w/index.php?title=Robert_Card&amp;action=edit&amp;redlink=1" class="new" title="Robert Card (page does not exist)">Robert Card</a>, Montreal, Quebec, <a href="/wiki/Chief_Executive_Officer" title="Chief Executive Officer" class="mw-redirect">Chief Executive Officer</a></li>
+<li>Jacques Bougie, Company Director, Montreal, Quebec, Member of the Human Resources Committee, Member of the Project Risk Review Committee</li>
+<li>Patricia A. Hammick, Company Director, <a href="/wiki/Kilmarnock,_Virginia" title="Kilmarnock, Virginia">Kilmarnock, Virginia</a>, U.S.A., Chair of the Audit Committee, Member of the Governance and Ethics Committee, Member of the Human Resources Committee</li>
+<li>Lise Lachapelle, Strategic and Economic Consultant and Company Director, Montreal, Quebec, Canada, Member of the Governance and Ethics Committee, Member of the Health &amp; Safety, Security and Environment Committee</li>
+<li><a href="/wiki/Claude_Mongeau" title="Claude Mongeau">Claude Mongeau</a>, President and Chief Executive Officer at <a href="/wiki/Canadian_National" title="Canadian National" class="mw-redirect">Canadian National</a> Railway Company, Montreal, Quebec, Canada, Member of the Audit Committee, Member of the Human Resources Committee</li>
+<li>Michael D. Parker, Company Director, London, United Kingdom, Chair of the Health &amp; Safety, Security and Environment Committee, Member of the Governance and Ethics Committee, Member of the Project Risk Review Committee</li>
+<li>Alain Rhéaume, Co-founder and Managing Partner of Trio Capital Inc., Lac Delage, Quebec, Canada, Member of the Audit Committee, Member of the Project Risk Review Committee</li>
+<li>Chakib Sbiti, Executive Advisor to the CEO of Schlumberger, Dubai, United Arab Emirates, Member of the Health &amp; Safety, Security and Environment Committee, Member of the Project Risk Review Committee</li>
+<li>Eric Siegel, Company Director, Ottawa, Ontario, Canada, Chair of the Project Risk Review Committee, Member of the Audit Committee, Member of the Governance and Ethics Committee</li>
+<li>Lawrence N. Stevenson, Managing Director at Callisto Capital, Toronto, Ontario, Canada, Chair of the Human Resources Committee, Member of the Governance Committee<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Biography_of_the_President_and_Chief_Executive_Officer-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Biography_of_the_President_and_Chief_Executive_Officer_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.snclavalin.com/about_ceo.php?lang=en">"Biography of the President and Chief Executive Officer"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-01</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.btitle=Biography+of+the+President+and+Chief+Executive+Officer&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.snclavalin.com%2Fabout_ceo.php%3Flang%3Den&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-annualreport-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-annualreport_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-annualreport_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://interactive.indigotools.com/indigoweb/default.aspx?ticker=SNC&amp;type=3&amp;exchange=TSX">"SNC Lavalin Group Inc"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-22</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.btitle=SNC+Lavalin+Group+Inc&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Finteractive.indigotools.com%2Findigoweb%2Fdefault.aspx%3Fticker%3DSNC%26type%3D3%26exchange%3DTSX&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/story/2012/03/26/snc-lavalin-ceo-resigns.html">"SNC-Lavalin to keep police posted on internal inquiry"</a>. <i>CBC News</i>. 2012-03-26.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=SNC-Lavalin+to+keep+police+posted+on+internal+inquiry&amp;rft.date=2012-03-26&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fstory%2F2012%2F03%2F26%2Fsnc-lavalin-ceo-resigns.html&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation news">Colin McClelland; Andrew Mayeda (2011-06-29). <a rel="nofollow" class="external text" href="http://www.bloomberg.com/news/2011-06-29/canada-sells-aecl-s-candu-reactor-division-to-snc-lavalin-1-.html">"Canada Sells AECL’s CANDU Reactor Division to SNC-Lavalin - Bloomberg"</a>. <i>Bloomberg</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-04</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=Canada+Sells+AECL%E2%80%99s+CANDU+Reactor+Division+to+SNC-Lavalin+-+Bloomberg&amp;rft.au=Andrew+Mayeda&amp;rft.au=Colin+McClelland&amp;rft.aulast=Colin+McClelland&amp;rft.date=2011-06-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2011-06-29%2Fcanada-sells-aecl-s-candu-reactor-division-to-snc-lavalin-1-.html&amp;rft.jtitle=Bloomberg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://online.wsj.com/articles/snc-lavalin-to-buy-u-k-s-kentz-corp-for-c-2-1-billion-1403524802">"SNC-Lavalin to Buy U.K.'s Kentz Corp. for $1.95 Billion"</a>. Wall Street Journal. 23 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.btitle=SNC-Lavalin+to+Buy+U.K.%27s+Kentz+Corp.+for+%241.95+Billion&amp;rft.date=23+June+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fonline.wsj.com%2Farticles%2Fsnc-lavalin-to-buy-u-k-s-kentz-corp-for-c-2-1-billion-1403524802&amp;rft.pub=Wall+Street+Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://findarticles.com/p/articles/mi_gx5202/is_/ai_n19123097">International Directory of Company Histories</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since October 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dailycommercialnews.com/article/20050210800">SNC-Lavalin and partner win $543.8M Trans-Canada Highway contract in N.B.</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.th.gov.bc.ca/WilliamRBennettBridge/updates/WRBennett_Bridge_preferred_proponent.pdf">SNC-Lavalin chosen to deliver William R. Bennett Bridge</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.canadaline.ca/files/uploads/docs/doc177.pdf">Best and Final Offer Stage Report &amp; Recommendations</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.canada.com/montrealgazette/news/business/story.html?id=012aac70-2a01-4abb-aeed-5e45fad19ad0">SNC Lavalin powers up strong earnings</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.marketwirecanada.com/mw/rel_ca.jsp?id=763874&amp;k=">Ambatovy sponsors reach agreement</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.proactiveinvestors.co.uk/companies/news/10881/apella-resources-reports-on-exploration-efforts-at-lac-dore-north-vanadium-project-10881.html">"Apella Resources reports on exploration effors at Lac Dore North Vanadium Project"</a>. <a href="/w/index.php?title=Proactive_Investors_UK&amp;action=edit&amp;redlink=1" class="new" title="Proactive Investors UK (page does not exist)">Proactive Investors UK</a>. 2 December 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-01</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.btitle=Apella+Resources+reports+on+exploration+effors+at+Lac+Dore+North+Vanadium+Project&amp;rft.date=2+December+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.proactiveinvestors.co.uk%2Fcompanies%2Fnews%2F10881%2Fapella-resources-reports-on-exploration-efforts-at-lac-dore-north-vanadium-project-10881.html&amp;rft.pub=Proactive+Investors+UK&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.saskpower.com/about_us/generation_transmission_distribution/peaking_stations.shtml">Saskpower Peaking Stations</a></span></li>
+<li id="cite_note-hist-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-hist_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hist_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/business/a-brief-history-of-snc-lavalin-1.1154986">cbc.ca: "A brief history of SNC-Lavalin" 30 Apr 2012</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.theglobeandmail.com/news/politics/snc-lavalins-murky-affair-shows-need-to-tighten-bribery-law/article2385046">"SNC-Lavalin's murky affair shows need to tighten bribery law"</a>. <i>The Globe and Mail</i> (Toronto). 2012-03-29.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=SNC-Lavalin%27s+murky+affair+shows+need+to+tighten+bribery+law&amp;rft.date=2012-03-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theglobeandmail.com%2Fnews%2Fpolitics%2Fsnc-lavalins-murky-affair-shows-need-to-tighten-bribery-law%2Farticle2385046&amp;rft.jtitle=The+Globe+and+Mail&amp;rft.place=Toronto&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://economictimes.indiatimes.com/news/politics-and-nation/cbi-finds-pinarayi-guilty-in-lavalin-scam-moralistic-cpm-yet-to-act/articleshow/4014521.cms">"CBI finds Pinarayi guilty in Lavalin scam, moralistic CPM yet to act"</a>. <i>The Times of India</i>. 22 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=CBI+finds+Pinarayi+guilty+in+Lavalin+scam%2C+moralistic+CPM+yet+to+act&amp;rft.date=22+January+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Feconomictimes.indiatimes.com%2Fnews%2Fpolitics-and-nation%2Fcbi-finds-pinarayi-guilty-in-lavalin-scam-moralistic-cpm-yet-to-act%2Farticleshow%2F4014521.cms&amp;rft.jtitle=The+Times+of+India&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-globe-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-globe_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-globe_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.theglobeandmail.com/report-on-business/snc-anxious-to-do-business-in-libya-once-again/article2383437/">"SNC anxious to do business in Libya once again"</a>. <i>The Globe and Mail</i> (Toronto). 2012-04-02.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=SNC+anxious+to+do+business+in+Libya+once+again&amp;rft.date=2012-04-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theglobeandmail.com%2Freport-on-business%2Fsnc-anxious-to-do-business-in-libya-once-again%2Farticle2383437%2F&amp;rft.jtitle=The+Globe+and+Mail&amp;rft.place=Toronto&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-np22-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-np22_18-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.nationalpost.com/2014/05/21/snc-lavalin-made-threats-against-spanish-bid-rival-quebec-corruption-inquiry/">nationalpost.com: "SNC-Lavalin made threats against Spanish bid rival, Quebec corruption inquiry told" 22 May 2014</a></span></li>
+<li id="cite_note-porter-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-porter_19-0">^</a></b></span> <span class="reference-text"><span class="citation news">Curtis, Christopher. <a rel="nofollow" class="external text" href="http://www.montrealgazette.com/news/muhc/arthur-porter-timeline.html">"Arthur Porter: timeline of a corruption scandal"</a>. <i>The Montreal Gazette</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=Arthur+Porter%3A+timeline+of+a+corruption+scandal&amp;rft.au=Curtis%2C+Christopher&amp;rft.aufirst=Christopher&amp;rft.aulast=Curtis&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.montrealgazette.com%2Fnews%2Fmuhc%2Farthur-porter-timeline.html&amp;rft.jtitle=The+Montreal+Gazette&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-np-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-np_20-0">^</a></b></span> <span class="reference-text"><span class="citation news">Hutchinson, Brian. <a rel="nofollow" class="external text" href="http://news.nationalpost.com/2012/10/05/mcgill-university-health-centre/">"In 2010 $1.3B ‘mega-hospital’ was lauded. Today, the mystery behind it is the subject of police raids"</a>. <i>National Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=In+2010+%241.3B+%E2%80%98mega-hospital%E2%80%99+was+lauded.+Today%2C+the+mystery+behind+it+is+the+subject+of+police+raids&amp;rft.aufirst=Brian&amp;rft.au=Hutchinson%2C+Brian&amp;rft.aulast=Hutchinson&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.nationalpost.com%2F2012%2F10%2F05%2Fmcgill-university-health-centre%2F&amp;rft.jtitle=National+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation news">Paul Waldie (28 Feb 2012). <a rel="nofollow" class="external text" href="http://www.theglobeandmail.com/globe-investor/snc-lavalin-probes-mystery-payments/article533489/">"SNC Lavalin probes mystery payments - The Globe and Mail"</a>. Toronto<span class="reference-accessdate">. Retrieved <span class="nowrap">1 Aug</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.aulast=Paul+Waldie&amp;rft.au=Paul+Waldie&amp;rft.btitle=SNC+Lavalin+probes+mystery+payments+-+The+Globe+and+Mail&amp;rft.date=28+Feb+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theglobeandmail.com%2Fglobe-investor%2Fsnc-lavalin-probes-mystery-payments%2Farticle533489%2F&amp;rft.place=Toronto&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation news">Stewart Bell, Nicolas Van Praet (29 Feb 2012). <a rel="nofollow" class="external text" href="http://news.nationalpost.com/2012/02/29/gary-peters-snc-lavalin">"Security contractor with Gaddafi ties grilled over links to SNC-Lavalin"</a>. National Post<span class="reference-accessdate">. Retrieved <span class="nowrap">1 Aug</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.aulast=Stewart+Bell%2C+Nicolas+Van+Praet&amp;rft.au=Stewart+Bell%2C+Nicolas+Van+Praet&amp;rft.btitle=Security+contractor+with+Gaddafi+ties+grilled+over+links+to+SNC-Lavalin&amp;rft.date=29+Feb+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.nationalpost.com%2F2012%2F02%2F29%2Fgary-peters-snc-lavalin&amp;rft.pub=National+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation news">Tomesco, Frederic (2012-02-28). <a rel="nofollow" class="external text" href="http://www.bloomberg.com/news/2012-02-28/snc-lavalin-plunges-as-payments-probe-under-way-montreal-mover.html">"SNC-Lavalin Tumbles Most in 20 Years Amid Payments Inquiry: Montreal Mover"</a>. <i>Bloomberg</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=SNC-Lavalin+Tumbles+Most+in+20+Years+Amid+Payments+Inquiry%3A+Montreal+Mover&amp;rft.aufirst=Frederic&amp;rft.aulast=Tomesco&amp;rft.au=Tomesco%2C+Frederic&amp;rft.date=2012-02-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2012-02-28%2Fsnc-lavalin-plunges-as-payments-probe-under-way-montreal-mover.html&amp;rft.jtitle=Bloomberg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/2012/03/27/snclavalin-idUSL2E8QR6IY20120327">"Canadian police investigating SNC-Lavalin"</a>. <i>Reuters</i>. 2012-03-27.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=Canadian+police+investigating+SNC-Lavalin&amp;rft.date=2012-03-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2012%2F03%2F27%2Fsnclavalin-idUSL2E8QR6IY20120327&amp;rft.jtitle=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-reut-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-reut_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-reut_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/2012/03/27/us-snclavalin-idUSBRE82P0CB20120327">"SNC-Lavalin says CEO quits; finds accounting issues"</a>. <i>Reuters</i>. 2012-03-27.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=SNC-Lavalin+says+CEO+quits%3B+finds+accounting+issues&amp;rft.date=2012-03-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2012%2F03%2F27%2Fus-snclavalin-idUSBRE82P0CB20120327&amp;rft.jtitle=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/montreal/story/2012/11/28/quebec-snc-lavalin-ceo-arrested-fraud.html">"Former SNC-Lavalin CEO arrested on fraud charges"</a>. <a href="/wiki/CBC_News" title="CBC News">CBC News</a>. 2012-11-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-26</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.btitle=Former+SNC-Lavalin+CEO+arrested+on+fraud+charges&amp;rft.date=2012-11-28&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fmontreal%2Fstory%2F2012%2F11%2F28%2Fquebec-snc-lavalin-ceo-arrested-fraud.html&amp;rft.pub=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.montrealgazette.com/business/Lavalin+able+recoup+million+Libya/6376606/story.html">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since July 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation news">Sidhartha Banerjee (22 July 2014). <a rel="nofollow" class="external text" href="http://www.montrealgazette.com/news/Lavalin+exec+claims+firm+fostered+close+ties+with+Gadhafi+clan/9560797/story.html">"Ex-SNC Lavalin exec claims firm fostered close ties with Gadhafi clan"</a>. Montreal Gazette<span class="reference-accessdate">. Retrieved <span class="nowrap">1 Aug</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.aulast=Sidhartha+Banerjee&amp;rft.au=Sidhartha+Banerjee&amp;rft.btitle=Ex-SNC+Lavalin+exec+claims+firm+fostered+close+ties+with+Gadhafi+clan&amp;rft.date=22+July+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.montrealgazette.com%2Fnews%2FLavalin%2Bexec%2Bclaims%2Bfirm%2Bfostered%2Bclose%2Bties%2Bwith%2BGadhafi%2Bclan%2F9560797%2Fstory.html&amp;rft.pub=Montreal+Gazette&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation news">Nicholas Van Praet (2012-12-21). <a rel="nofollow" class="external text" href="http://business.financialpost.com/2012/12/21/snc-lavalin-met-with-scorn-from-contractors-over-compulsory-ethics-exam/">"SNC-Lavalin ethics exam met with consultant backlash"</a>. Financial Post<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-26</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.aulast=Nicholas+Van+Praet&amp;rft.au=Nicholas+Van+Praet&amp;rft.btitle=SNC-Lavalin+ethics+exam+met+with+consultant+backlash&amp;rft.date=2012-12-21&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbusiness.financialpost.com%2F2012%2F12%2F21%2Fsnc-lavalin-met-with-scorn-from-contractors-over-compulsory-ethics-exam%2F&amp;rft.pub=Financial+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web">Ligaya, Armina. <a rel="nofollow" class="external text" href="http://business.financialpost.com/2013/09/18/canada-now-dominates-world-bank-corruption-list-thanks-to-snc-lavalin/">"Canada now dominates World Bank corruption list, thanks to SNC-Lavalin"</a>. <i>News Paper</i>. Financial Post<span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASNC-Lavalin&amp;rft.atitle=Canada+now+dominates+World+Bank+corruption+list%2C+thanks+to+SNC-Lavalin&amp;rft.aufirst=Armina&amp;rft.aulast=Ligaya&amp;rft.au=Ligaya%2C+Armina&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbusiness.financialpost.com%2F2013%2F09%2F18%2Fcanada-now-dominates-world-bank-corruption-list-thanks-to-snc-lavalin%2F&amp;rft.jtitle=News+Paper&amp;rft.pub=Financial+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.snclavalin.com/news.php?lang=en&amp;id=2361&amp;action=press_release_details&amp;paging=1&amp;start=11">http://www.snclavalin.com/news.php?lang=en&amp;id=2361&amp;action=press_release_details&amp;paging=1&amp;start=11</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.snclavalin.com/news.php?lang=en&amp;id=2085&amp;action=press_release_details&amp;paging=1&amp;current_year=2013&amp;start=31">http://www.snclavalin.com/news.php?lang=en&amp;id=2085&amp;action=press_release_details&amp;paging=1&amp;current_year=2013&amp;start=31</a></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.snclavalin.com/pdf/investors/2013/ra_en.pdf">http://www.snclavalin.com/pdf/investors/2013/ra_en.pdf</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.snclavalin.com/news.php?lang=en&amp;id=2205&amp;action=press_release_details&amp;paging=1&amp;current_year=2013&amp;start=11">http://www.snclavalin.com/news.php?lang=en&amp;id=2205&amp;action=press_release_details&amp;paging=1&amp;current_year=2013&amp;start=11</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.snclavalin.com/news.php?lang=en&amp;id=2410&amp;action=press_release_details&amp;paging=1&amp;start=6">http://www.snclavalin.com/news.php?lang=en&amp;id=2410&amp;action=press_release_details&amp;paging=1&amp;start=6</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.snclavalin.com/news.php?lang=en&amp;id=2334&amp;action=press_release_details&amp;paging=1&amp;current_year=2014&amp;start=16">http://www.snclavalin.com/news.php?lang=en&amp;id=2334&amp;action=press_release_details&amp;paging=1&amp;current_year=2014&amp;start=16</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.snclavalin.com/about_board.php?lang=en">Board of Directors&#160;:: About the engineering firm SNC-Lavalin</a></span></li>
+</ol>
+</div>
+<p><a rel="nofollow" class="external free" href="http://business.financialpost.com/2012/12/21/snc-lavalin-met-with-scorn-from-contractors-over-compulsory-ethics-exam/#comment-763849344">http://business.financialpost.com/2012/12/21/snc-lavalin-met-with-scorn-from-contractors-over-compulsory-ethics-exam/#comment-763849344</a></p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Factory_1b.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/32px-Factory_1b.svg.png" width="32" height="26" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/48px-Factory_1b.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/64px-Factory_1b.svg.png 2x" data-file-width="400" data-file-height="329" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.snclavalin.com/en/index.aspx">SNC-Lavalin</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:S%26P/TSX_60" title="Template:S&amp;P/TSX 60"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:S%26P/TSX_60" title="Template talk:S&amp;P/TSX 60"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:S%26P/TSX_60&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/S%26P/TSX_60" title="S&amp;P/TSX 60">S&amp;P/TSX 60</a> companies of <a href="/wiki/Canada" title="Canada">Canada</a> <small>(December 19, 2014)</small></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agnico_Eagle_Mines_Limited" title="Agnico Eagle Mines Limited">Agnico Eagle Mines</a></li>
+<li><a href="/wiki/Agrium" title="Agrium">Agrium</a></li>
+<li><a href="/wiki/ARC_Resources" title="ARC Resources">ARC Resources</a></li>
+<li><a href="/wiki/Bank_of_Montreal" title="Bank of Montreal">Bank of Montreal</a></li>
+<li><a href="/wiki/Scotiabank" title="Scotiabank">Bank of Nova Scotia</a></li>
+<li><a href="/wiki/Barrick_Gold" title="Barrick Gold">Barrick Gold</a></li>
+<li><a href="/wiki/Bell_Canada" title="Bell Canada">BCE</a></li>
+<li><a href="/wiki/BlackBerry_(company)" title="BlackBerry (company)" class="mw-redirect">BlackBerry</a></li>
+<li><a href="/wiki/Bombardier_Inc." title="Bombardier Inc.">Bombardier</a></li>
+<li><a href="/wiki/Brookfield_Asset_Management" title="Brookfield Asset Management">Brookfield Asset Management</a></li>
+<li><a href="/wiki/Cameco" title="Cameco">Cameco</a></li>
+<li><a href="/wiki/Canadian_Imperial_Bank_of_Commerce" title="Canadian Imperial Bank of Commerce">Canadian Imperial Bank of Commerce</a></li>
+<li><a href="/wiki/Canadian_National_Railway" title="Canadian National Railway">Canadian National</a></li>
+<li><a href="/wiki/Canadian_Natural_Resources" title="Canadian Natural Resources">Canadian Natural Resources</a></li>
+<li><a href="/wiki/Canadian_Oil_Sands" title="Canadian Oil Sands">Canadian Oil Sands</a></li>
+<li><a href="/wiki/Canadian_Pacific_Railway" title="Canadian Pacific Railway">Canadian Pacific</a></li>
+<li><a href="/wiki/Canadian_Tire" title="Canadian Tire">Canadian Tire</a></li>
+<li><a href="/wiki/Catamaran_Corporation" title="Catamaran Corporation">Catamaran Corporation</a></li>
+<li><a href="/wiki/Cenovus_Energy" title="Cenovus Energy">Cenovus Energy</a></li>
+<li><a href="/wiki/CGI_Group" title="CGI Group">CGI Group</a></li>
+<li><a href="/wiki/Alimentation_Couche-Tard" title="Alimentation Couche-Tard">Couche-Tard</a></li>
+<li><a href="/wiki/Crescent_Point_Energy" title="Crescent Point Energy">Crescent Point Energy</a></li>
+<li><a href="/wiki/Eldorado_Gold" title="Eldorado Gold">Eldorado Gold</a></li>
+<li><a href="/wiki/Enbridge" title="Enbridge">Enbridge</a></li>
+<li><a href="/wiki/Encana" title="Encana">Encana</a></li>
+<li><a href="/wiki/First_Quantum_Minerals" title="First Quantum Minerals">First Quantum Minerals</a></li>
+<li><a href="/wiki/Fortis_Inc." title="Fortis Inc.">Fortis Inc.</a></li>
+<li><a href="/wiki/Gildan_Activewear" title="Gildan Activewear">Gildan</a></li>
+<li><a href="/wiki/Goldcorp" title="Goldcorp">Goldcorp</a></li>
+<li><a href="/wiki/Husky_Energy" title="Husky Energy">Husky Energy</a></li>
+<li><a href="/wiki/Imperial_Oil" title="Imperial Oil">Imperial Oil</a></li>
+<li><a href="/wiki/Inter_Pipeline" title="Inter Pipeline">Inter Pipeline</a></li>
+<li><a href="/wiki/Kinross_Gold" title="Kinross Gold">Kinross Gold</a></li>
+<li><a href="/wiki/Loblaw_Companies" title="Loblaw Companies">Loblaw Companies</a></li>
+<li><a href="/wiki/Magna_International" title="Magna International">Magna International</a></li>
+<li><a href="/wiki/Manulife_Financial" title="Manulife Financial">Manulife Financial</a></li>
+<li><a href="/wiki/Metro_Inc." title="Metro Inc.">Metro</a></li>
+<li><a href="/wiki/National_Bank_of_Canada" title="National Bank of Canada">National Bank of Canada</a></li>
+<li><a href="/wiki/Pembina_Pipeline" title="Pembina Pipeline">Pembina Pipeline</a></li>
+<li><a href="/wiki/Potash_Corporation_of_Saskatchewan" title="Potash Corporation of Saskatchewan">PotashCorp</a></li>
+<li><a href="/wiki/Power_Corporation_of_Canada" title="Power Corporation of Canada">Power Corporation</a></li>
+<li><a href="/wiki/Restaurant_Brands_International" title="Restaurant Brands International">Restaurant Brands International</a></li>
+<li><a href="/wiki/Rogers_Communications" title="Rogers Communications">Rogers</a></li>
+<li><a href="/wiki/Royal_Bank_of_Canada" title="Royal Bank of Canada">Royal Bank of Canada</a></li>
+<li><a href="/wiki/Saputo_Incorporated" title="Saputo Incorporated" class="mw-redirect">Saputo</a></li>
+<li><a href="/wiki/Shaw_Communications" title="Shaw Communications">Shaw Communications</a></li>
+<li><a href="/wiki/Silver_Wheaton" title="Silver Wheaton">Silver Wheaton</a></li>
+<li><strong class="selflink">SNC-Lavalin</strong></li>
+<li><a href="/wiki/Sun_Life_Financial" title="Sun Life Financial">Sun Life Financial</a></li>
+<li><a href="/wiki/Suncor_Energy" title="Suncor Energy">Suncor Energy</a></li>
+<li><a href="/wiki/Talisman_Energy" title="Talisman Energy">Talisman Energy</a></li>
+<li><a href="/wiki/Teck_Resources" title="Teck Resources">Teck</a></li>
+<li><a href="/wiki/Telus" title="Telus">Telus</a></li>
+<li><a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a></li>
+<li><a href="/wiki/Toronto-Dominion_Bank" title="Toronto-Dominion Bank">Toronto-Dominion Bank</a></li>
+<li><a href="/wiki/TransAlta" title="TransAlta">TransAlta</a></li>
+<li><a href="/wiki/TransCanada_Corp." title="TransCanada Corp." class="mw-redirect">TransCanada</a></li>
+<li><a href="/wiki/Valeant_Pharmaceuticals" title="Valeant Pharmaceuticals">Valeant</a></li>
+<li><a href="/wiki/George_Weston_Limited" title="George Weston Limited">Weston</a></li>
+<li><a href="/wiki/Yamana_Gold" title="Yamana Gold">Yamana Gold</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1033
+CPU time usage: 0.613 seconds
+Real time usage: 0.805 seconds
+Preprocessor visited node count: 2691/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94809/2097152 bytes
+Template argument size: 6024/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 8/500
+Lua time usage: 0.197/10.000 seconds
+Lua memory usage: 4.34 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  510.246      1 - -total
+ 39.44%  201.223      1 - Template:Reflist
+ 29.13%  148.655      8 - Template:Ambox
+ 18.97%   96.799      1 - Template:Multiple_issues
+ 15.49%   79.027      1 - Template:Infobox_company
+ 13.82%   70.495      1 - Template:Infobox
+ 12.97%   66.200     15 - Template:Cite_news
+  8.75%   44.635      5 - Template:Cite_web
+  5.58%   28.482      2 - Template:Dead_link
+  5.32%   27.120      1 - Template:COI
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;oldid=632697689">http://en.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;oldid=632697689</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:S%26P/TSX_60_Index" title="Category:S&amp;P/TSX 60 Index">S&amp;P/TSX 60 Index</a></li><li><a href="/wiki/Category:S%26P/TSX_Composite_Index" title="Category:S&amp;P/TSX Composite Index">S&amp;P/TSX Composite Index</a></li><li><a href="/wiki/Category:Companies_listed_on_the_Toronto_Stock_Exchange" title="Category:Companies listed on the Toronto Stock Exchange">Companies listed on the Toronto Stock Exchange</a></li><li><a href="/wiki/Category:Companies_based_in_Montreal" title="Category:Companies based in Montreal">Companies based in Montreal</a></li><li><a href="/wiki/Category:Companies_established_in_1911" title="Category:Companies established in 1911">Companies established in 1911</a></li><li><a href="/wiki/Category:Construction_and_civil_engineering_companies_of_Canada" title="Category:Construction and civil engineering companies of Canada">Construction and civil engineering companies of Canada</a></li><li><a href="/wiki/Category:Engineering_companies" title="Category:Engineering companies">Engineering companies</a></li><li><a href="/wiki/Category:SNC-Lavalin" title="Category:SNC-Lavalin">SNC-Lavalin</a></li><li><a href="/wiki/Category:Political_scandals_in_Canada" title="Category:Political scandals in Canada">Political scandals in Canada</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2013" title="Category:Articles with dead external links from October 2013">Articles with dead external links from October 2013</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2013" title="Category:Articles with dead external links from July 2013">Articles with dead external links from July 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest_from_August_2014" title="Category:Wikipedia articles with possible conflicts of interest from August 2014">Wikipedia articles with possible conflicts of interest from August 2014</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_June_2014" title="Category:Articles with a promotional tone from June 2014">Articles with a promotional tone from June 2014</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2014" title="Category:Articles needing additional references from June 2014">Articles needing additional references from June 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2014" title="Category:Articles needing additional references from August 2014">Articles needing additional references from August 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_August_2014" title="Category:Wikipedia articles in need of updating from August 2014">Wikipedia articles in need of updating from August 2014</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_August_2014" title="Category:Articles with a promotional tone from August 2014">Articles with a promotional tone from August 2014</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SNC-Lavalin&amp;returntoquery=diff%3D632697689%26oldid%3D632697630&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SNC-Lavalin&amp;returntoquery=diff%3D632697689%26oldid%3D632697630" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/SNC-Lavalin"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:SNC-Lavalin"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/SNC-Lavalin" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=SNC-Lavalin&amp;action=edit&amp;oldid=632697689"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=SNC-Lavalin&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/SNC-Lavalin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/SNC-Lavalin" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=SNC-Lavalin&amp;oldid=632697689" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=SNC-Lavalin&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q944608" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=SNC-Lavalin&amp;id=632697689" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=SNC-Lavalin">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=SNC-Lavalin&amp;oldid=632697630&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=SNC-Lavalin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/SNC_Lavalin" title="SNC Lavalin – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%86%E2%80%8C%D8%B3%DB%8C-%D9%84%D8%A7%D9%88%D8%A7%D9%84%DB%8C%D9%86" title="اس‌ان‌سی-لاوالین – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/SNC-Lavalin" title="SNC-Lavalin – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%8E%E0%B4%B8%E0%B5%8D.%E0%B4%8E%E0%B5%BB.%E0%B4%B8%E0%B4%BF._%E0%B4%B2%E0%B4%BE%E0%B4%B5%E0%B4%B2%E0%B4%BF%E0%B5%BB" title="എസ്.എൻ.സി. ലാവലിൻ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q944608#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=SNC-Lavalin&amp;diff=632697689&amp;oldid=632697630&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":963,"wgHostname":"mw1033"});
+}</script>
+	</body>
+</html>

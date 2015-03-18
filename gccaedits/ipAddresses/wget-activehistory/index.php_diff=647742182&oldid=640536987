@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Quantitative computed tomography: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Quantitative_computed_tomography" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=647742182&amp;oldid=640536987" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Quantitative_computed_tomography","wgTitle":"Quantitative computed tomography","wgCurRevisionId":647742182,"wgRevisionId":647742182,"wgArticleId":6712032,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that use a Medicine navs subtemplate","X-ray computed tomography"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Quantitative_computed_tomography","wgRelevantArticleId":6712032,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17083560"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Quantitative_computed_tomography skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Quantitative computed tomography: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Quantitative_computed_tomography&amp;oldid=640536987" title="Quantitative computed tomography">Revision as of 18:06, 1 January 2015</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;oldid=640536987" title="Quantitative computed tomography">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Magioladitis" title="User:Magioladitis" class="mw-userlink">Magioladitis</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Magioladitis" title="User talk:Magioladitis">talk</a> | <a href="/wiki/Special:Contributions/Magioladitis" title="Special:Contributions/Magioladitis">contribs</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="comment">(cleanup using <a href="/wiki/Wikipedia:AWB" class="mw-redirect" title="Wikipedia:AWB">AWB</a> (10629))</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Quantitative_computed_tomography&amp;diff=prev&amp;oldid=640536987" title="Quantitative computed tomography" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Quantitative_computed_tomography&amp;oldid=647742182" title="Quantitative computed tomography">Latest revision as of 18:25, 18 February 2015</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit" title="Quantitative computed tomography">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;undoafter=640536987&amp;undo=647742182" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/205.193.94.40" title="Special:Contributions/205.193.94.40" class="mw-userlink mw-anonuserlink">205.193.94.40</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:205.193.94.40" title="User talk:205.193.94.40">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#Diagnostic_use">→</a>‎<span dir="auto"><span class="autocomment">Diagnostic use: </span> Removed statement about NOF recommendation. The referenced report states the opposite.</span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4">&#160;</div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 26:</td>
+  <td colspan="2" class="diff-lineno">Line 26:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==Diagnostic use==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==Diagnostic use==</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>QCT exams are typically used in the diagnosis and monitoring of [[osteoporosis]].<del class="diffchange diffchange-inline"> QCT is one of three methods, cited by the National Osteoporosis Foundation (NOF) as safe and effective for the evaluation of bone mineral density (BMD) for this purpose.&lt;ref name="national osteoporosis foundation"&gt;National Osteoporosis Foundation, "Clinician’s Guide to Prevention and Treatment of Osteoporosis," 2010&lt;/ref&gt;</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>QCT exams are typically used in the diagnosis and monitoring of [[osteoporosis]].</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>===Lumbar spine===</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>===Lumbar spine===</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Latest revision as of 18:25, 18 February 2015</h2>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightblue">Quantitative computed tomography</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><i>Intervention</i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/ICD-9-CM_Volume_3" title="ICD-9-CM Volume 3">ICD-9:</a></th>
+<td><a rel="nofollow" class="external text" href="http://icd9cm.chrisendres.com/index.php?srchtype=procs&amp;srchtext=88.98&amp;Submit=Search&amp;action=search">88.98</a></td>
+</tr>
+</table>
+<p><b>Quantitative computed tomography</b> (QCT) is a medical technique that measures <a href="/wiki/Bone_density" title="Bone density">bone mineral density</a> (BMD) using a standard <a href="/wiki/Computed_tomography" title="Computed tomography" class="mw-redirect">X-ray Computed Tomography</a> (CT) scanner with a calibration standard to convert <a href="/wiki/Hounsfield_Units" title="Hounsfield Units" class="mw-redirect">Hounsfield Units</a> (HU) of the CT image to bone mineral density values.<sup id="cite_ref-JE_Adams_1-0" class="reference"><a href="#cite_note-JE_Adams-1"><span>[</span>1<span>]</span></a></sup> Quantitative CT scans are primarily used to evaluate bone mineral density at the lumbar spine and hip.</p>
+<p>In general, solid phantoms placed in a pad under the patient during CT image acquisition are used for calibration. These phantoms contain materials that represent a number of different equivalent bone mineral densities. Usually either Calcium Hydroxyapatite (CaHAP) or Potassium Phosphate (K2HPO4) are used as the reference standard.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg/220px-Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg/330px-Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg/440px-Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg 2x" data-file-width="512" data-file-height="512" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Image_of_trabecular_bone_of_the_spine_by_Quantitative_computed_tomography.jpg" class="internal" title="Enlarge"></a></div>
+Image of trabecular bone of the spine by Quantitative computed tomography</div>
+</div>
+</div>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Three-dimensional_QCT_imaging"><span class="tocnumber">1.1</span> <span class="toctext">Three-dimensional QCT imaging</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Diagnostic_use"><span class="tocnumber">2</span> <span class="toctext">Diagnostic use</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Lumbar_spine"><span class="tocnumber">2.1</span> <span class="toctext">Lumbar spine</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Hip"><span class="tocnumber">2.2</span> <span class="toctext">Hip</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Contraindications_for_use"><span class="tocnumber">2.3</span> <span class="toctext">Contraindications for use</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Radiation_dose"><span class="tocnumber">2.4</span> <span class="toctext">Radiation dose</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Advantages"><span class="tocnumber">3</span> <span class="toctext">Advantages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Reproducibility"><span class="tocnumber">3.1</span> <span class="toctext">Reproducibility</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Dual_use_of_CT_images"><span class="tocnumber">3.2</span> <span class="toctext">Dual use of CT images</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Reporting"><span class="tocnumber">4</span> <span class="toctext">Reporting</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Peripheral_quantitative_computed_tomography"><span class="tocnumber">5</span> <span class="toctext">Peripheral quantitative computed tomography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Comparison_to_DXA"><span class="tocnumber">5.1</span> <span class="toctext">Comparison to DXA</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>QCT was invented at University of California San Francisco (UCSF) during the 1970s. Douglas Boyd, PhD and Harry Genant, MD used a CT head scanner to do some of the seminal work on QCT.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> At the same time, CT imaging technology progressed rapidly and Genant and Boyd worked with one of EMI’s first whole body CT systems in the late 1970s and early 1980s to apply the quantitative CT method to the spine, coining the term "QCT." Genant later published several articles on spinal QCT in the early 1980s with Christopher E. Cann, PhD. Today, QCT is being used in hundreds of medical imaging centers around the world, both clinically and as a powerful research tool.</p>
+<h3><span class="mw-headline" id="Three-dimensional_QCT_imaging">Three-dimensional QCT imaging</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=2" title="Edit section: Three-dimensional QCT imaging">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Originally, conventional 2D QCT used individual, thick CT slice images through each of multiple vertebrae which involved tilting the CT scanner gantry to align the slice with each vertebra. Today, modern 3D QCT uses the ability of CT scanners to rapidly acquire multiple slices to construct three-dimensional images of the human body. Using 3D imaging substantially reduced image acquisition time, improved reproducibility and enabled QCT bone density analysis of the hip.<sup id="cite_ref-JE_Adams_1-1" class="reference"><a href="#cite_note-JE_Adams-1"><span>[</span>1<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Image_of_3D_volumetric_QCT_scan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Image_of_3D_volumetric_QCT_scan.jpg/220px-Image_of_3D_volumetric_QCT_scan.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Image_of_3D_volumetric_QCT_scan.jpg/330px-Image_of_3D_volumetric_QCT_scan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Image_of_3D_volumetric_QCT_scan.jpg/440px-Image_of_3D_volumetric_QCT_scan.jpg 2x" data-file-width="880" data-file-height="880" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Image_of_3D_volumetric_QCT_scan.jpg" class="internal" title="Enlarge"></a></div>
+Image of 3D volumetric QCT scan</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Diagnostic_use">Diagnostic use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=3" title="Edit section: Diagnostic use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>QCT exams are typically used in the diagnosis and monitoring of <a href="/wiki/Osteoporosis" title="Osteoporosis">osteoporosis</a>.</p>
+<h3><span class="mw-headline" id="Lumbar_spine">Lumbar spine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=4" title="Edit section: Lumbar spine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the spine, QCT is used to measure the bone mineral density of only the spongy interior bone separately from the dense cortical bone that forms the exterior walls of the vertebrae.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> The trabecular bone has much higher metabolic activity than the cortical bone and so is affected by age, disease and therapy-related changes earlier and to a greater degree than cortical bone. This means that QCT of the spine has an advantage compared to other bone density tests because earlier changes in bone mineral density may be detected .<sup id="cite_ref-JE_Adams_1-2" class="reference"><a href="#cite_note-JE_Adams-1"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Hip">Hip</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=5" title="Edit section: Hip">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Image_of_proximal_femur_bone_projection.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Image_of_proximal_femur_bone_projection.jpg/220px-Image_of_proximal_femur_bone_projection.jpg" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Image_of_proximal_femur_bone_projection.jpg/330px-Image_of_proximal_femur_bone_projection.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/74/Image_of_proximal_femur_bone_projection.jpg 2x" data-file-width="425" data-file-height="272" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Image_of_proximal_femur_bone_projection.jpg" class="internal" title="Enlarge"></a></div>
+Image of proximal femur bone projection</div>
+</div>
+</div>
+<p>Clinically, QCT is used at the hip to produce areal BMD measurements and T-Scores that are equivalent to DXA measurements.<sup id="cite_ref-B.C.C_5-0" class="reference"><a href="#cite_note-B.C.C-5"><span>[</span>5<span>]</span></a></sup> The exam can be done without particular attention to the positioning of the patient’s limbs because the software allows the hip anatomy to be manipulated after the image is captured, allowing the exam to be performed on patients with arthritic hips who may find traditional exams uncomfortable.</p>
+<h3><span class="mw-headline" id="Contraindications_for_use">Contraindications for use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=6" title="Edit section: Contraindications for use">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>QCT bone densitometry should not be used for patients who have the following conditions:</p>
+<ul>
+<li>Patients who have recently had another radiological procedure that includes the introduction of high density contrast material (barium, iodine, thorotrast, thorium) or radio-opaque catheters and tubes.</li>
+<li>Patients who are pregnant or may be pregnant.</li>
+</ul>
+<h3><span class="mw-headline" id="Radiation_dose">Radiation dose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=7" title="Edit section: Radiation dose">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>QCT scan protocols are low-dose and can limit the amount of radiation exposure to between 200-400µSv for a spine exam<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> This is comparable to a set of mammograms and typically substantially less than a standard CT exam. Using other non-IV contrast abdominal or pelvic scans such as a Virtual Colonography studies, the QCT exam can be performed without requiring any further image acquisition or consequent radiation dose to the patient.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=8" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>QCT enables spine BMD measurements on patients with scoliosis, which cannot usually be measured using <a href="/wiki/DXA" title="DXA" class="mw-redirect">Dual-energy X-ray absorptiometry</a> (DXA).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> In addition, QCT can avoid the artiﬁcially high BMD measurements that can confuse the results from DXA in arthritic patients, patients who are <a href="/wiki/Obesity" title="Obesity">obese</a>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> who suffer from disc space narrowing or spinal degenerative diseases,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> aortic calciﬁcation<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> or <a href="/wiki/Osteophyte" title="Osteophyte">osteophytes</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Reproducibility">Reproducibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=9" title="Edit section: Reproducibility">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Short-term precision estimates of BMD measurement by 3D QCT have been published for the lumbar spine as 0.8%<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> and femoral neck as 0.69%.<sup id="cite_ref-B.C.C_5-1" class="reference"><a href="#cite_note-B.C.C-5"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Dual_use_of_CT_images">Dual use of CT images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=10" title="Edit section: Dual use of CT images">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several studies have shown that bone density may be measured by QCT using CT images that were ordered for other purposes. Using pre-existing images, including CT colonography exams,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> QCT allows for bone density screening without submitting the patient to any additional radiation exposure. The feasibility of using routine abdominal contrast-enhanced CT scans for the evaluation of bone density by QCT has also been demonstrated.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reporting">Reporting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=11" title="Edit section: Reporting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Average bone mineral density is calculated and then compared to age and sex matched controls. At the spine, a volumetric BMD measurement is made using QCT and rather than using T-Scores, it should be compared to guideline thresholds from the American College of Radiology (ACR):<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> a BMD &lt; 80&#160;mg/cm3 indicates osteoporosis; a BMD &lt; 120&#160;mg/cm3 and &gt; 80&#160;mg/cm3 indicates osteopenia; and a BMD above 120&#160;mg/cm3 is considered normal.</p>
+<p>At the hip, a DXA-equivalent T-score may be calculated for comparison to the WHO classiﬁcation at the proximal femur as normal, osteopenia (T-Score &lt; -1.0 and &gt; -2.5) or osteoporosis (T-Score &lt; -2.5).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> This T-Score may also be used for fracture risk probability calculation in the WHO FRAX® tool<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> with "T-Score" as the appropriate DXA setting.</p>
+<h2><span class="mw-headline" id="Peripheral_quantitative_computed_tomography">Peripheral quantitative computed tomography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=12" title="Edit section: Peripheral quantitative computed tomography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Medicine" title="Medicine">medicine</a>, <b>peripheral quantitative <a href="/wiki/Computed_tomography" title="Computed tomography" class="mw-redirect">computed tomography</a></b>, commonly abbreviated <b>pQCT</b>, is a type of <a href="/wiki/Quantitative_property" title="Quantitative property" class="mw-redirect">quantitative</a> computed tomography (QCT), used for making measurements of the <a href="/wiki/Bone_mineral_density" title="Bone mineral density" class="mw-redirect">bone mineral density</a> (BMD) in a peripheral part of the body, such as the forearms or legs as opposed to QCT that measures bone mineral density at the hip and spine. It is useful for measuring bone strength.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Comparison_to_DXA">Comparison to DXA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=13" title="Edit section: Comparison to DXA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Unlike most other common techniques for measuring BMD, a pQCT scan is able to measure volumetric bone mineral density, plus other measures such as the <a href="/wiki/Stress-strain_index" title="Stress-strain index" class="mw-redirect">stress-strain index</a> (SSI) and the geometry of the bone. <a href="/wiki/DXA" title="DXA" class="mw-redirect">DXA</a> is only able to provide the areal bone mineral density.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Dual_energy_X-ray_absorptiometry" title="Dual energy X-ray absorptiometry" class="mw-redirect">Dual energy X-ray absorptiometry</a> (DXA)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-JE_Adams-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-JE_Adams_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-JE_Adams_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-JE_Adams_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">J. E. Adams, "Quantitative computed tomography.," European journal of radiology, vol. 71, no. 3, pp. 415-24, Sep. 2009.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">K G Faulkner, C C Glüer, S Grampp, and H K Genant, “Cross-calibration of liquid and solid QCT calibration standards: Corrections to the UCSF normative data” Osteoporosis International, vol. 3, no. 1, pp. 36-42, 1993.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.radiology.ucsf.edu/musculoskeletal/reflections-on-development-of-quantitative-computed-tomography/">Reflections on Development of Quantitative Computed Tomography</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">K. Engelke, A. Mastmeyer, V. Bousson, T. Fuerst, J.-D. Laredo, and W. a Kalender, "Reanalysis precision of 3D quantitative computed tomography (QCT) of the spine.," Bone, vol. 44, no. 4, pp. 566-72, Apr. 2009.</span></li>
+<li id="cite_note-B.C.C-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-B.C.C_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-B.C.C_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">B. C. C. Khoo et al., "Comparison of QCT-derived and DXA-derived areal bone mineral density and T scores.," Osteoporosis International, vol. 20, no.9, pp. 1539-45, Sep. 2009.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">J. S. Bauer, S. Virmani, and D. K. Mueller, "Quantitative CT to assess bone mineral density as a diagnostic tool for osteoporosis and related fractures," MedicaMundi, vol. 54, no. 2, pp. 31-37, 2010.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">R. M. Summers et al., "Feasibility of simultaneous computed tomographic colonography and fully automated bone mineral densitometry in a single examination.," Journal of computer assisted tomography, vol. 35, no. 2, pp. 212-6, 2011.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">A. El Maghraoui and C. Roux, "DXA scanning in clinical practice.," QJM, vol. 101, no. 8, pp. 605 17, Aug. 2008.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">E. W. Yu, B. J. Thomas, J. K. Brown, and J. S. Finkelstein, "Simulated increases in body fat and errors in bone mineral density measurements by DXA and QCT.," Journal of Bone and Mineral Research, vol. 27, no. 1, pp. 119-124, Sep. 2011.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">G. Guglielmi et al., "Eﬀect of Spinal Degenerative Changes on Volumetric Bone Mineral Density of the Central Skeleton as Measured by Quantitative Computed Tomography," Acta Radiologica, vol. 46, no. 3, pp. 269-275, Jan. 2005.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">J. A. Smith, J. A. Vento, R. P. Spencer, and B. E. Tendler, "Aortic Calciﬁcation Contributing to Bone Densitometry Measurement," Journal of Clinical Densitometry, vol. 2, no. 2, pp. 181-183, Jun. 1999.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">G. Liu, M. Peacock, O. Eilam, G. Dorulla, E. Braunstein, and C. C. Johnston, "Eﬀect of osteoarthritis in the lumbar spine and hip on bone mineral density and diagnosis of osteoporosis in elderly men and women.," Osteoporosis International, vol. 7, no. 6, pp. 564-9, Jan. 1997.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">J. C. Prior et al., "Premenopausal ovariectomy-related bone loss: a randomized, double-blind, one-year trial of conjugated estrogen or medroxyprogesterone acetate.," Journal of Bone and Mineral Research, vol. 12, no. 11, pp. 1851-63, Nov. 1997.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Pickhardt et al., "Simultaneous screening for osteoporosis at CT colonography: Bone mineral density assessment using MDCT attenuation techniques compared with the DXA reference standard," Journal of Bone and Mineral Research, vol. 26, no. 9, pp. 2194-203, 2011, ,</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Bauer et al., "Volumetric quantitative CT of the spine and hip derived from contrast-enhanced MDCT: conversion factors," American Journal of Roentgenology, vol. 188, no.5, pp. 1294-301, 2007.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">American College of Radiology, "ACR Practice Guideline for the Performance of Quantitative Computed Tomography (QCT) Bone Densitometry," 2008.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">E. M. Lewiecki et al., "International Society for Clinical Densitometry 2007 Adult and Pediatric Oﬃcial Positions.," Bone, vol. 43, no. 6, pp. 1115-21, Dec. 2008.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">E. M. Lewiecki et al., "Oﬃcial Positions for FRAX® Bone Mineral Density and FRAX® simpliﬁcation from Joint Oﬃcial Positions Development Conference of the International Society for Clinical Densitometry and International Osteoporosis Foundation on FRAX®.," Journal of Clinical Densitometry, vol. 14, no. 3, pp. 226-36.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation journal">Müller A, Rüegsegger E, Rüegsegger P (1989). "Peripheral QCT: a low-risk procedure to identify women predisposed to osteoporosis.". <i>Phys Med Biol</i> <b>34</b> (6): 741–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0031-9155%2F34%2F6%2F009">10.1088/0031-9155/34/6/009</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2740441">2740441</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantitative+computed+tomography&amp;rft.atitle=Peripheral+QCT%3A+a+low-risk+procedure+to+identify+women+predisposed+to+osteoporosis.&amp;rft.aulast=M%C3%BCller+A%2C+R%C3%BCegsegger+E%2C+R%C3%BCegsegger+P&amp;rft.au=M%C3%BCller+A%2C+R%C3%BCegsegger+E%2C+R%C3%BCegsegger+P&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1088%2F0031-9155%2F34%2F6%2F009&amp;rft_id=info%3Apmid%2F2740441&amp;rft.issue=6&amp;rft.jtitle=Phys+Med+Biol&amp;rft.pages=741-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=34" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Medical_imaging" title="Template:Medical imaging"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Medical_imaging" title="Template talk:Medical imaging"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Medical_imaging&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">
+<ul>
+<li><a href="/wiki/Medical_test" title="Medical test">Medical testing</a>&#160;: <a href="/wiki/Medical_imaging" title="Medical imaging">Medical imaging</a></li>
+<li><a href="/wiki/Radiology" title="Radiology">Radiology</a></li>
+<li>(<a href="/wiki/ICD-9-CM_Volume_3#.2835.E2.80.9339.29_Operations_on_the_cardiovascular_system" title="ICD-9-CM Volume 3">ICD-9-CM V3</a> 87–88, <a href="/wiki/ICD-10_Procedure_Coding_System" title="ICD-10 Procedure Coding System">ICD-10-PCS B</a>, <a href="/wiki/Current_Procedural_Terminology" title="Current Procedural Terminology">CPT</a> 70010–79999)</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/X-ray" title="X-ray">X-ray</a>/<br />
+<a href="/wiki/Medical_radiography" title="Medical radiography">medical radiography</a>/<br />
+<a href="/wiki/Industrial_radiography" title="Industrial radiography">Industrial radiography</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Projectional_radiography" title="Projectional radiography">2D</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Medical:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pneumoencephalography" title="Pneumoencephalography">Pneumoencephalography</a></li>
+<li><a href="/wiki/Dental_radiography" title="Dental radiography">Dental radiography</a></li>
+<li><a href="/wiki/Sialography" title="Sialography">Sialography</a></li>
+<li><a href="/wiki/Myelography" title="Myelography">Myelography</a></li>
+<li><a href="/wiki/Chest_radiograph" title="Chest radiograph">CXR</a>
+<ul>
+<li><a href="/wiki/Bronchography" title="Bronchography">Bronchography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Abdominal_x-ray" title="Abdominal x-ray">AXR</a></li>
+<li><a href="/wiki/Kidneys,_ureters,_and_bladder_x-ray" title="Kidneys, ureters, and bladder x-ray">KUB</a></li>
+<li><a href="/wiki/Dual-energy_X-ray_absorptiometry" title="Dual-energy X-ray absorptiometry">DXA</a>/<a href="/wiki/Digital_X-ray_radiogrammetry" title="Digital X-ray radiogrammetry">DXR</a></li>
+<li><a href="/wiki/Upper_gastrointestinal_series" title="Upper gastrointestinal series">Upper gastrointestinal series</a>/<a href="/wiki/Small-bowel_follow-through" title="Small-bowel follow-through" class="mw-redirect">Small-bowel follow-through</a>/<a href="/wiki/Lower_gastrointestinal_series" title="Lower gastrointestinal series">Lower gastrointestinal series</a></li>
+<li><a href="/wiki/Cholangiography" title="Cholangiography">Cholangiography</a>/<a href="/wiki/Cholecystography" title="Cholecystography">Cholecystography</a></li>
+<li><a href="/wiki/Mammography" title="Mammography">Mammography</a></li>
+<li><a href="/wiki/Pyelogram" title="Pyelogram">Pyelogram</a></li>
+<li><a href="/wiki/Cystography" title="Cystography">Cystography</a></li>
+<li><a href="/wiki/Arthrogram" title="Arthrogram">Arthrogram</a></li>
+<li><a href="/wiki/Hysterosalpingography" title="Hysterosalpingography">Hysterosalpingography</a></li>
+<li><a href="/wiki/Skeletal_survey" title="Skeletal survey">Skeletal survey</a></li>
+<li><a href="/wiki/Angiography" title="Angiography">Angiography</a>
+<ul>
+<li><a href="/wiki/Angiocardiography" title="Angiocardiography">Angiocardiography</a></li>
+<li><a href="/wiki/Aortography" title="Aortography">Aortography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Venography" title="Venography">Venography</a></li>
+<li><a href="/wiki/Lymphogram" title="Lymphogram">Lymphogram</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Industrial:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Radiographic_testing" title="Radiographic testing">Radiographic testing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/X-ray_computed_tomography" title="X-ray computed tomography">3D / XCT</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Medical:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CT_pulmonary_angiogram" title="CT pulmonary angiogram">CT pulmonary angiogram</a></li>
+<li><a href="/wiki/Computed_tomography_of_the_heart" title="Computed tomography of the heart">Computed tomography of the heart</a></li>
+<li><a href="/wiki/Computed_tomography_of_the_abdomen_and_pelvis" title="Computed tomography of the abdomen and pelvis">Computed tomography of the abdomen and pelvis</a>
+<ul>
+<li><a href="/wiki/Virtual_colonoscopy" title="Virtual colonoscopy">Virtual colonoscopy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Computed_tomography_angiography" title="Computed tomography angiography">CT angiography</a></li>
+<li><a href="/wiki/Computed_tomography_of_the_head" title="Computed tomography of the head">Computed tomography of the head</a></li>
+<li><strong class="selflink">Quantitative computed tomography</strong></li>
+<li><a href="/wiki/Spiral_computed_tomography" title="Spiral computed tomography">Spiral computed tomography</a></li>
+<li><a href="/wiki/High_resolution_CT" title="High resolution CT" class="mw-redirect">High resolution CT</a></li>
+<li><a href="/wiki/Whole_body_imaging" title="Whole body imaging">Whole body imaging</a>
+<ul>
+<li><a href="/wiki/Full-body_CT_scan" title="Full-body CT scan">Full-body CT scan</a></li>
+</ul>
+</li>
+<li><a href="/wiki/X-ray_microtomography" title="X-ray microtomography">X-ray microtomography</a></li>
+<li><a href="/wiki/Electron_beam_tomography" title="Electron beam tomography">Electron beam tomography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Industrial:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Industrial_computed_tomography" title="Industrial computed tomography">Industrial computed tomography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fluoroscopy" title="Fluoroscopy">Fluoroscopy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Magnetic_resonance_imaging" title="Magnetic resonance imaging">MRI</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Magnetic_resonance_imaging_of_the_brain" title="Magnetic resonance imaging of the brain">Magnetic resonance imaging of the brain</a></li>
+<li><a href="/wiki/Magnetic_resonance_neurography" title="Magnetic resonance neurography">MR neurography</a></li>
+<li><a href="/wiki/Cardiac_magnetic_resonance_imaging" title="Cardiac magnetic resonance imaging">Cardiac MRI</a>/<a href="/wiki/Cardiac_MRI_perfusion" title="Cardiac MRI perfusion" class="mw-redirect">Cardiac MRI perfusion</a></li>
+<li><a href="/wiki/Magnetic_resonance_angiography" title="Magnetic resonance angiography">MR angiography</a></li>
+<li><a href="/wiki/Magnetic_resonance_cholangiopancreatography" title="Magnetic resonance cholangiopancreatography">MR cholangiopancreatography</a></li>
+<li><a href="/wiki/Breast_MRI" title="Breast MRI">Breast MRI</a></li>
+<li><a href="/wiki/Functional_magnetic_resonance_imaging" title="Functional magnetic resonance imaging">Functional MRI</a></li>
+<li><a href="/wiki/Diffusion_MRI" title="Diffusion MRI">Diffusion MRI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Medical_ultrasonography" title="Medical ultrasonography">Ultrasound</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Echocardiography" title="Echocardiography">Echocardiography</a></li>
+<li><a href="/wiki/Doppler_echocardiography" title="Doppler echocardiography">Doppler echocardiography</a>
+<ul>
+<li><a href="/wiki/Transthoracic_echocardiogram" title="Transthoracic echocardiogram">TTE</a></li>
+<li><a href="/wiki/Transesophageal_echocardiogram" title="Transesophageal echocardiogram">TEE</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Intravascular_ultrasound" title="Intravascular ultrasound">Intravascular</a></li>
+<li><a href="/wiki/Gynecologic_ultrasonography" title="Gynecologic ultrasonography">Gynecologic</a></li>
+<li><a href="/wiki/Obstetric_ultrasonography" title="Obstetric ultrasonography">Obstetric</a></li>
+<li><a href="/wiki/Echoencephalography" title="Echoencephalography">Echoencephalography</a></li>
+<li><a href="/wiki/Transcranial_Doppler" title="Transcranial Doppler">Transcranial Doppler</a></li>
+<li><a href="/wiki/Abdominal_ultrasonography" title="Abdominal ultrasonography">Abdominal ultrasonography</a></li>
+<li><a href="/wiki/Transrectal_ultrasonography" title="Transrectal ultrasonography">Transrectal</a></li>
+<li><a href="/wiki/Breast_ultrasound" title="Breast ultrasound">Breast ultrasound</a></li>
+<li><a href="/wiki/Transscrotal_ultrasound" title="Transscrotal ultrasound">Transscrotal ultrasound</a></li>
+<li><a href="/wiki/Carotid_ultrasonography" title="Carotid ultrasonography">Carotid ultrasonography</a></li>
+<li><a href="/wiki/Contrast-enhanced_ultrasound" title="Contrast-enhanced ultrasound">Contrast-enhanced</a></li>
+<li><a href="/wiki/3D_ultrasound" title="3D ultrasound">3D ultrasound</a></li>
+<li><a href="/wiki/Endoscopic_ultrasound" title="Endoscopic ultrasound">Endoscopic ultrasound</a></li>
+<li><a href="/wiki/Emergency_ultrasound" title="Emergency ultrasound">Emergency ultrasound</a>
+<ul>
+<li><a href="/wiki/Focused_assessment_with_sonography_for_trauma" title="Focused assessment with sonography for trauma">FAST</a></li>
+<li><a href="/wiki/Pre-hospital_ultrasound" title="Pre-hospital ultrasound">Pre-hospital ultrasound</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Duplex_ultrasonography" title="Duplex ultrasonography">Duplex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nuclear_medicine" title="Nuclear medicine">Radionuclide</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">2D / <a href="/wiki/Scintigraphy" title="Scintigraphy">scintigraphy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cholescintigraphy" title="Cholescintigraphy">Cholescintigraphy</a></li>
+<li><a href="/wiki/Scintimammography" title="Scintimammography">Scintimammography</a></li>
+<li><a href="/wiki/Ventilation/perfusion_scan" title="Ventilation/perfusion scan">Ventilation/perfusion scan</a></li>
+<li><a href="/wiki/Radionuclide_ventriculography" title="Radionuclide ventriculography">Radionuclide ventriculography</a></li>
+<li><a href="/wiki/Radionuclide_angiography" title="Radionuclide angiography">Radionuclide angiography</a></li>
+<li><a href="/wiki/Radioisotope_renography" title="Radioisotope renography">Radioisotope renography</a></li>
+<li><a href="/wiki/Sestamibi_parathyroid_scintigraphy" title="Sestamibi parathyroid scintigraphy">Sestamibi parathyroid scintigraphy</a></li>
+<li><a href="/wiki/Radioactive_iodine_uptake_test" title="Radioactive iodine uptake test">Radioactive iodine uptake test</a></li>
+<li><a href="/wiki/Bone_scintigraphy" title="Bone scintigraphy">Bone scintigraphy</a></li>
+<li><a href="/wiki/Immunoscintigraphy" title="Immunoscintigraphy">Immunoscintigraphy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">full body:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Octreotide_scan" title="Octreotide scan">Octreotide scan</a></li>
+<li><a href="/wiki/Gallium_67_scan" title="Gallium 67 scan">Gallium 67 scan</a></li>
+<li><a href="/wiki/Indium-111_WBC_scan" title="Indium-111 WBC scan">Indium-111 WBC scan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">3D / <a href="/wiki/Emission_computed_tomography" title="Emission computed tomography">ECT</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Single-photon_emission_computed_tomography" title="Single-photon emission computed tomography">SPECT</a>
+<ul>
+<li><a href="/wiki/Gamma_ray" title="Gamma ray">gamma ray</a>: <a href="/wiki/Myocardial_perfusion_imaging" title="Myocardial perfusion imaging">Myocardial perfusion imaging</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Positron_emission_tomography" title="Positron emission tomography">PET</a> (<a href="/wiki/Positron" title="Positron">positron</a>):</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brain_positron_emission_tomography" title="Brain positron emission tomography">Brain PET</a></li>
+<li><a href="/wiki/Cardiac_PET" title="Cardiac PET">Cardiac PET</a></li>
+<li><a href="/wiki/Positron_emission_mammography" title="Positron emission mammography">PET mammography</a></li>
+<li><a href="/wiki/PET-CT" title="PET-CT">PET-CT</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Optical_imaging" title="Optical imaging">Optical</a> <a href="/wiki/Laser" title="Laser">laser</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Optical_tomography" title="Optical tomography">Optical tomography</a>
+<ul>
+<li><a href="/wiki/Optical_coherence_tomography" title="Optical coherence tomography">Optical coherence tomography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Confocal_microscopy" title="Confocal microscopy">Confocal microscopy</a></li>
+<li><a href="/wiki/Endomicroscopy" title="Endomicroscopy">Endomicroscopy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Thermography_(medical)" title="Thermography (medical)">Thermography</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Breast_thermography" title="Breast thermography" class="mw-redirect">Breast thermography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bone,_cartilage,_and_joint_procedures" title="Template:Bone, cartilage, and joint procedures"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bone,_cartilage,_and_joint_procedures" title="Template talk:Bone, cartilage, and joint procedures"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bone,_cartilage,_and_joint_procedures&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Orthopedic_surgery" title="Orthopedic surgery">Orthopedic surgery</a>, operations/<a href="/wiki/Surgery" title="Surgery">surgeries</a> and other procedures on bones and joints (<a href="/wiki/ICD-9-CM_Volume_3#.2876.E2.80.9384.29_Operations_on_the_musculoskeletal_system" title="ICD-9-CM Volume 3">ICD-9-CM V3</a> 76–81, <a href="/wiki/ICD-10_Procedure_Coding_System" title="ICD-10 Procedure Coding System">ICD-10-PCS 0P–S</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bone" title="Bone">Bones</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Facial</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jaw_reduction" title="Jaw reduction">Jaw reduction</a></li>
+<li><a href="/wiki/Dentofacial_osteotomy" title="Dentofacial osteotomy">Dentofacial osteotomy</a></li>
+<li><a href="/wiki/Genioplasty" title="Genioplasty" class="mw-redirect">Genioplasty</a>/<a href="/wiki/Mentoplasty" title="Mentoplasty" class="mw-redirect">Mentoplasty</a>
+<ul>
+<li><a href="/wiki/Chin_augmentation" title="Chin augmentation">Chin augmentation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Orthognathic_surgery" title="Orthognathic surgery">Orthognathic surgery</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Spine</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coccygectomy" title="Coccygectomy">Coccygectomy</a></li>
+<li><a href="/wiki/Laminotomy" title="Laminotomy">Laminotomy</a></li>
+<li><a href="/wiki/Laminectomy" title="Laminectomy">Laminectomy</a></li>
+<li><a href="/wiki/Laminoplasty" title="Laminoplasty">Laminoplasty</a></li>
+<li><a href="/wiki/Corpectomy" title="Corpectomy">Corpectomy</a></li>
+<li><a href="/wiki/Facetectomy" title="Facetectomy">Facetectomy</a></li>
+<li><a href="/wiki/Foraminotomy" title="Foraminotomy">Foraminotomy</a></li>
+<li><a href="/wiki/Vertebral_fixation" title="Vertebral fixation">Vertebral fixation</a></li>
+<li><a href="/wiki/Percutaneous_vertebroplasty" title="Percutaneous vertebroplasty">Percutaneous vertebroplasty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Upper extremity</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/Acromioplasty" title="Acromioplasty">Acromioplasty</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Lower extremity</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Femoral_head_ostectomy" title="Femoral head ostectomy">Femoral head ostectomy</a></li>
+<li><a href="/wiki/Astragalectomy" title="Astragalectomy">Astragalectomy</a></li>
+<li><a href="/wiki/Distraction_osteogenesis" title="Distraction osteogenesis">Distraction osteogenesis</a></li>
+<li><a href="/wiki/Ilizarov_apparatus" title="Ilizarov apparatus">Ilizarov apparatus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">General</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ostectomy" title="Ostectomy">Ostectomy</a></li>
+<li><a href="/wiki/Bone_grafting" title="Bone grafting">Bone grafting</a></li>
+<li><a href="/wiki/Osteotomy" title="Osteotomy">Osteotomy</a></li>
+<li><a href="/wiki/Epiphysiodesis" title="Epiphysiodesis">Epiphysiodesis</a></li>
+<li><a href="/wiki/Reduction_(orthopedic_surgery)" title="Reduction (orthopedic surgery)">Reduction</a></li>
+<li><a href="/wiki/Internal_fixation" title="Internal fixation">Internal fixation</a></li>
+<li><a href="/wiki/External_fixation" title="External fixation">External fixation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cartilage" title="Cartilage">Cartilage</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Articular_cartilage_repair" title="Articular cartilage repair">Articular cartilage repair</a>
+<ul>
+<li><a href="/wiki/Microfracture_surgery" title="Microfracture surgery">Microfracture surgery</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Knee_cartilage_replacement_therapy" title="Knee cartilage replacement therapy">Knee cartilage replacement therapy</a></li>
+<li><a href="/wiki/Autologous_chondrocyte_implantation" title="Autologous chondrocyte implantation">Autologous chondrocyte implantation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Joint" title="Joint">Joints</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Human_vertebral_column" title="Human vertebral column">Spine</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arthrodesis" title="Arthrodesis">Arthrodesis</a>
+<ul>
+<li><a href="/wiki/Spinal_fusion" title="Spinal fusion">Spinal fusion</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Intervertebral_disc" title="Intervertebral disc">Intervertebral discs</a>
+<ul>
+<li><a href="/wiki/Discectomy" title="Discectomy">Discectomy</a></li>
+<li><a href="/wiki/Intervertebral_disc_annuloplasty" title="Intervertebral disc annuloplasty">Annuloplasty</a></li>
+<li><a href="/wiki/Intervertebral_disc_arthroplasty" title="Intervertebral disc arthroplasty">Arthroplasty</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Upper_limb" title="Upper limb">Upper extremity</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shoulder_surgery" title="Shoulder surgery">Shoulder surgery</a>
+<ul>
+<li><a href="/wiki/Shoulder_replacement" title="Shoulder replacement">Shoulder replacement</a></li>
+<li><a href="/wiki/Bankart_repair" title="Bankart repair">Bankart repair</a></li>
+<li><a href="/wiki/Weaver%E2%80%93Dunn_procedure" title="Weaver–Dunn procedure">Weaver–Dunn procedure</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tommy_John_surgery" title="Tommy John surgery">Ulnar collateral ligament reconstruction</a></li>
+<li><a href="/wiki/Hand_surgery" title="Hand surgery">Hand surgery</a>
+<ul>
+<li><a href="/wiki/Brunelli_procedure" title="Brunelli procedure">Brunelli procedure</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Human_leg" title="Human leg">Lower extremity</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hip_resurfacing" title="Hip resurfacing">Hip resurfacing</a></li>
+<li><a href="/wiki/Hip_replacement" title="Hip replacement">Hip replacement</a></li>
+<li><a href="/wiki/Rotationplasty" title="Rotationplasty">Rotationplasty</a></li>
+<li><a href="/wiki/Anterior_cruciate_ligament_reconstruction" title="Anterior cruciate ligament reconstruction">Anterior cruciate ligament reconstruction</a></li>
+<li><a href="/wiki/Knee_replacement" title="Knee replacement">Knee replacement</a>/<a href="/wiki/Unicompartmental_knee_arthroplasty" title="Unicompartmental knee arthroplasty">Unicompartmental knee arthroplasty</a></li>
+<li><a href="/wiki/Ankle_replacement" title="Ankle replacement">Ankle replacement</a></li>
+<li><a href="/wiki/Brostr%C3%B6m_procedure" title="Broström procedure">Broström procedure</a></li>
+<li><a href="/wiki/Triple_arthrodesis" title="Triple arthrodesis">Triple arthrodesis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">General</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arthrotomy" title="Arthrotomy">Arthrotomy</a></li>
+<li><a href="/wiki/Arthroplasty" title="Arthroplasty">Arthroplasty</a></li>
+<li><a href="/wiki/Synovectomy" title="Synovectomy">Synovectomy</a></li>
+<li><a href="/wiki/Arthroscopy" title="Arthroscopy">Arthroscopy</a></li>
+<li><a href="/wiki/Joint_replacement" title="Joint replacement">Replacement joint</a></li>
+<li><i>imaging:</i> <a href="/wiki/Arthrogram" title="Arthrogram">Arthrogram</a></li>
+<li><a href="/wiki/Arthrocentesis" title="Arthrocentesis">Arthrocentesis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<div style="text-align:center; position:relative; white-space:nowrap;"><b>Index of <a href="/wiki/Bone" title="Bone">bones</a> and <a href="/wiki/Cartilage" title="Cartilage">cartilage</a></b>
+<div class="plainlinks hlist navbar mini" style="position:absolute; right:0; top:0; margin:0 5px;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bone_and_cartilage_navs" title="Template:Bone and cartilage navs"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bone_and_cartilage_navs" title="Template talk:Bone and cartilage navs"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bone_and_cartilage_navs&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bone_and_cartilage" title="Template:Bone and cartilage">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Bones_of_skeleton" title="Template:Bones of skeleton">bones</a></li>
+<li>skull
+<ul>
+<li><i><a href="/wiki/Template:Facial_bones" title="Template:Facial bones">face</a></i></li>
+<li><i><a href="/wiki/Template:Cranium" title="Template:Cranium">neurocranium</a></i></li>
+<li><i><a href="/wiki/Template:Compound_structures_of_skull" title="Template:Compound structures of skull">compound structures</a></i></li>
+<li><i><a href="/wiki/Template:Foramina_of_skull" title="Template:Foramina of skull">foramina</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Bones_of_upper_extremity" title="Template:Bones of upper extremity" class="mw-redirect">upper extremity</a></li>
+<li><a href="/wiki/Template:Bones_of_torso" title="Template:Bones of torso">torso</a></li>
+<li><a href="/wiki/Template:Pelvis" title="Template:Pelvis">pelvis</a></li>
+<li><a href="/wiki/Template:Bones_of_lower_extremity" title="Template:Bones of lower extremity" class="mw-redirect">lower extremity</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Bone_and_cartilage_physiology" title="Template:Bone and cartilage physiology">Physiology</a></li>
+<li><a href="/wiki/Template:Embryology_of_bones,_joints,_and_muscles" title="Template:Embryology of bones, joints, and muscles" class="mw-redirect">Development</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_mesoderm" title="Template:Human cell types derived primarily from mesoderm">Cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Osteochondrodysplasia" title="Template:Osteochondrodysplasia">Congenital</a></li>
+<li><a href="/wiki/Template:Osseous_and_chondromatous_tumors" title="Template:Osseous and chondromatous tumors">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Fractures" title="Template:Fractures">Fracture</a></li>
+<li><a href="/wiki/Template:Osteochondropathy" title="Template:Osteochondropathy">Other</a></li>
+<li><a href="/wiki/Template:Nervous_and_musculoskeletal_system_symptoms_and_signs" title="Template:Nervous and musculoskeletal system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_skeletal_system_and_joints" title="Template:Eponymous medical signs for skeletal system and joints">eponymous</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bone,_cartilage,_and_joint_procedures" title="Template:Bone, cartilage, and joint procedures">Procedures</a></li>
+<li><a href="/wiki/Template:Drugs_for_treatment_of_bone_diseases" title="Template:Drugs for treatment of bone diseases">Drugs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<div style="text-align:center; position:relative; white-space:nowrap;"><b>Index of <a href="/wiki/Joint" title="Joint">joint</a></b>
+<div class="plainlinks hlist navbar mini" style="position:absolute; right:0; top:0; margin:0 5px;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Joint_navs" title="Template:Joint navs"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Joint_navs" title="Template talk:Joint navs"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Joint_navs&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Joints" title="Template:Joints">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Joints_of_head_and_neck" title="Template:Joints of head and neck">head and neck</a></li>
+<li><a href="/wiki/Template:Cranial_fibrous_joints" title="Template:Cranial fibrous joints">cranial</a></li>
+<li><a href="/wiki/Template:Joints_of_upper_limbs" title="Template:Joints of upper limbs">arms</a></li>
+<li><a href="/wiki/Template:Joints_of_torso" title="Template:Joints of torso">torso and pelvis</a></li>
+<li><a href="/wiki/Template:Joints_of_lower_limbs" title="Template:Joints of lower limbs">legs</a></li>
+<li><a href="/wiki/Template:Bursae_and_sheaths" title="Template:Bursae and sheaths">bursae and sheathes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Bone_and_cartilage_physiology" title="Template:Bone and cartilage physiology">Physiology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Arthropathies_and_related_conditions" title="Template:Arthropathies and related conditions">Arthritis</a>
+<ul>
+<li><a href="/wiki/Template:Acquired_musculoskeletal_deformities" title="Template:Acquired musculoskeletal deformities">acquired</a></li>
+<li><a href="/wiki/Template:Dorsopathies" title="Template:Dorsopathies" class="mw-redirect">back</a></li>
+<li><a href="/wiki/Template:Arthritis_in_children" title="Template:Arthritis in children">childhood</a></li>
+<li><a href="/wiki/Template:Soft_tissue_disorders" title="Template:Soft tissue disorders">soft tissue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_musculoskeletal_system" title="Template:Congenital malformations and deformations of musculoskeletal system">Congenital</a></li>
+<li><a href="/wiki/Template:Dislocations,_sprains_and_strains" title="Template:Dislocations, sprains and strains">Injury</a></li>
+<li><a href="/wiki/Template:Nervous_and_musculoskeletal_system_symptoms_and_signs" title="Template:Nervous and musculoskeletal system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_skeletal_system_and_joints" title="Template:Eponymous medical signs for skeletal system and joints">eponymous</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Orthopedic_examination" title="Template:Orthopedic examination">Examination</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bone,_cartilage,_and_joint_procedures" title="Template:Bone, cartilage, and joint procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antirheumatic_products" title="Template:Antirheumatic products">rheumatoid arthritis</a></li>
+<li><a href="/wiki/Template:Antigout_preparations" title="Template:Antigout preparations">gout</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1095
+CPU time usage: 0.410 seconds
+Real time usage: 0.461 seconds
+Preprocessor visited node count: 2022/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 127606/2097152 bytes
+Template argument size: 2544/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.104/10.000 seconds
+Lua memory usage: 2.66 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  270.738      1 - -total
+ 78.58%  212.751     12 - Template:Navbox
+ 31.92%   86.408      1 - Template:Operations_and_other_procedures_on_the_musculoskeletal_system
+ 20.43%   55.306      1 - Template:Reflist
+ 19.59%   53.039      1 - Template:Infobox_interventions
+ 18.29%   49.508      1 - Template:Medical_imaging
+ 17.53%   47.472      1 - Template:Infobox
+ 12.12%   32.805      1 - Template:Cite_journal
+ 11.83%   32.017      1 - Template:Bone_and_cartilage_navs
+ 10.38%   28.091      2 - Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6712032-0!*!0!!en!4!* and timestamp 20150318084343 and revision id 647742182
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Quantitative_computed_tomography&amp;oldid=647742182">http://en.wikipedia.org/w/index.php?title=Quantitative_computed_tomography&amp;oldid=647742182</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:X-ray_computed_tomography" title="Category:X-ray computed tomography">X-ray computed tomography</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quantitative+computed+tomography&amp;returntoquery=diff%3D647742182%26oldid%3D640536987&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quantitative+computed+tomography&amp;returntoquery=diff%3D647742182%26oldid%3D640536987" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Quantitative_computed_tomography"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Quantitative_computed_tomography"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Quantitative_computed_tomography" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quantitative_computed_tomography" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quantitative_computed_tomography" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Quantitative_computed_tomography&amp;oldid=647742182" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Quantitative_computed_tomography&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q17083560" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Quantitative_computed_tomography&amp;id=647742182" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Quantitative+computed+tomography">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Quantitative+computed+tomography&amp;oldid=640536987&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Quantitative_computed_tomography&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1_%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A_%D8%A7%D9%84%D9%83%D9%85%D9%8A_%D8%A7%D9%84%D8%B7%D8%A8%D9%82%D9%8A_%D8%A7%D9%84%D9%85%D8%A8%D8%B1%D9%85%D8%AC" title="التصوير المحيطي الكمي الطبقي المبرمج – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Knochendichtemessung" title="Knochendichtemessung – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ost%C3%A9odensitom%C3%A9trie" title="Ostéodensitométrie – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%93%D7%99%D7%A7%D7%AA_%D7%A6%D7%A4%D7%99%D7%A4%D7%95%D7%AA_%D7%A2%D7%A6%D7%9D" title="בדיקת צפיפות עצם – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Densytometria_kostna" title="Densytometria kostna – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q17083560#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 February 2015, at 18:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Quantitative_computed_tomography&amp;diff=647742182&amp;oldid=640536987&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":167,"wgHostname":"mw1040"});
+}</script>
+	</body>
+</html>

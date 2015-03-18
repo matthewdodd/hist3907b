@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Objet (informatique) : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Objet_(informatique)&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Objet_(informatique)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Objet_(informatique)" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=111493627&amp;oldid=109084641&amp;rcid=134746928" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Objet_(informatique)","wgTitle":"Objet (informatique)","wgCurRevisionId":111493627,"wgRevisionId":111493627,"wgArticleId":1122876,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article contenant un appel à traduction en anglais","Portail:Informatique/Articles liés","Portail:Programmation informatique/Articles liés","Programmation orientée objet"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Objet_(informatique)","wgRelevantArticleId":1122876,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q216601"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Objet_informatique skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Objet (informatique) : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Objet_(informatique)&amp;oldid=109084641" title="Objet (informatique)">Version du 13 novembre 2014 à 13:44</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;oldid=109084641" title="Objet (informatique)">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Utilisateur:Raminagrobis" title="Utilisateur:Raminagrobis" class="mw-userlink">Raminagrobis</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Raminagrobis" title="Discussion utilisateur:Raminagrobis">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Raminagrobis" title="Spécial:Contributions/Raminagrobis">contributions</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(un objet informatique ne représente pas nécessairement une chose réelle !)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Objet_(informatique)&amp;diff=prev&amp;oldid=109084641" title="Objet (informatique)" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Objet_(informatique)&amp;oldid=111493627" title="Objet (informatique)">Version actuelle en date du 2 février 2015 à 15:28</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Objet_(informatique)&amp;action=edit" title="Objet (informatique)">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;undoafter=109084641&amp;undo=111493627" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/132.156.19.167" title="Spécial:Contributions/132.156.19.167" class="mw-userlink mw-anonuserlink">132.156.19.167</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=Discussion_utilisateur:132.156.19.167&amp;action=edit&amp;redlink=1" class="new" title="Discussion utilisateur:132.156.19.167 (page inexistante)">discuter</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#Terminologie">→</a>‎<span dir="auto"><span class="autocomment">Terminologie</span></span>)</span></div><div id="mw-diff-ntitle5"><span class="mw-tag-markers">(<a href="/wiki/Sp%C3%A9cial:Balises" title="Spécial:Balises">Balise</a>&#160;: <span class="mw-tag-marker mw-tag-marker-visualeditor"><a href="/wiki/Wikip%C3%A9dia:%C3%89diteurVisuel" title="Wikipédia:ÉditeurVisuel">ÉditeurVisuel</a></span>)</span></div><div id="mw-diff-ntitle4">&#160;</div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 22 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 22 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Une ''[[méthode (informatique)|méthode]]'' est une suite d'instructions qui manipule les caractéristiques et l'état d'un objet.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Une ''[[méthode (informatique)|méthode]]'' est une suite d'instructions qui manipule les caractéristiques et l'état d'un objet.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Une ''propriété'', aussi nommée ''champ'' (''field'') ou ''attribut'',  est une caractéristique propre à un objet donné.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Une ''propriété'', aussi nommée ''champ'' (''field'') ou ''attribut'',  est une caractéristique propre à un objet donné.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>* L’''état'' d'un <del class="diffchange diffchange-inline">object</del> est sa forme à un instant <del class="diffchange diffchange-inline">doné</del>, telle que décrite par les valeurs de l'ensemble de ses propriétés.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>* L’''état'' d'un <ins class="diffchange diffchange-inline">objet</ins> est sa forme à un instant <ins class="diffchange diffchange-inline">donné</ins>, telle que décrite par les valeurs de l'ensemble de ses propriétés.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Une classe ''hérite'' des caractéristiques d'une autre si sa définition est fondée sur celle-ci, auquel cas ses instances partagent les traits des 2 classes. On parle alors de ''sous-classe'' et ''super-classe''.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Une classe ''hérite'' des caractéristiques d'une autre si sa définition est fondée sur celle-ci, auquel cas ses instances partagent les traits des 2 classes. On parle alors de ''sous-classe'' et ''super-classe''.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Il y a ''[[Polymorphisme (informatique)|polymorphisme]]'' (par sous-typage) lorsqu'il existe plusieurs sous-classes d'une même super-classe, qui possèdent chacune leur propre variante d'une même méthode. </div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>* Il y a ''[[Polymorphisme (informatique)|polymorphisme]]'' (par sous-typage) lorsqu'il existe plusieurs sous-classes d'une même super-classe, qui possèdent chacune leur propre variante d'une même méthode. </div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version actuelle en date du 2 février 2015 à 15:28</h2>
+<div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d'aide sur l'homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a> Pour les articles homonymes, voir <a href="/wiki/Objet" title="Objet" class="mw-disambig">Objet</a>.</div>
+<p>En <a href="/wiki/Informatique" title="Informatique">informatique</a>, un <b>objet</b> est un conteneur symbolique, qui possède sa propre existence et incorpore des informations et des mécanismes<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>, éventuellement en rapport avec une chose tangible du monde réel, et manipulés dans un <a href="/wiki/Programme_informatique" title="Programme informatique">programme</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>. C'est le concept central de la <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">programmation orientée objet</a>.</p>
+<p>En <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">programmation orientée objet</a>, un objet est créé à partir d'un modèle appelé <a href="/wiki/Classe_(informatique)" title="Classe (informatique)">classe</a> ou <a href="/wiki/Programmation_orient%C3%A9e_prototype" title="Programmation orientée prototype">prototype</a>, duquel il hérite les comportements et les caractéristiques. Les comportements et les caractéristiques sont typiquement basés sur celles propres aux choses qui ont inspiré l'objet&#160;: une personne (avec son <a href="/wiki/%C3%89tat_civil" title="État civil">état civil</a>), un dossier, un produit.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Sommaire</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Histoire"><span class="tocnumber">1</span> <span class="toctext">Histoire</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Terminologie"><span class="tocnumber">2</span> <span class="toctext">Terminologie</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Utilisation"><span class="tocnumber">3</span> <span class="toctext">Utilisation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#La_programmation_orient.C3.A9e_objet"><span class="tocnumber">3.1</span> <span class="toctext">La programmation orientée objet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Voir_aussi"><span class="tocnumber">4</span> <span class="toctext">Voir aussi</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">5</span> <span class="toctext">Notes et références</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><a href="#Histoire" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Histoire">Histoire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Objet_(informatique)&amp;veaction=edit&amp;vesection=1" title="Modifier la section : Histoire" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;section=1" title="Modifier la section : Histoire">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La notion d'objet a été introduite avec le langage de programmation <a href="/wiki/Simula" title="Simula">Simula</a>, créé à <a href="/wiki/Oslo" title="Oslo">Oslo</a> entre 1962 et 1967 dans le but de faciliter la programmation de logiciels de <a href="/wiki/Simulation_informatique" title="Simulation informatique">simulation</a>. Avec ce langage de programmation, les caractéristiques et les comportements des objets à simuler sont décrits dans le <a href="/wiki/Code_source" title="Code source">code source</a>.</p>
+<p>Le langage de programmation orienté objet <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> a été créé par le <a href="/wiki/Xerox_PARC" title="Xerox PARC" class="mw-redirect">centre de recherche Xerox</a> en 1972.</p>
+<p>La programmation orientée objet est devenue populaire en 1983 avec la sortie du langage de programmation <a href="/wiki/C%2B%2B" title="C++">C++</a>, un langage orienté objet, dont l'utilisation ressemble volontairement au populaire langage <a href="/wiki/C_(langage)" title="C (langage)">C</a>.</p>
+<p>Les premières bases de données orientées objet ont été commercialisées en 1993, et leur technologie n'est pas arrivée à maturité avant la fin du <span class="romain">XX</span><sup>e</sup>&#160;siècle<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup>.</p>
+<p>Le langage de programmation orienté objet <a href="/wiki/Java_(langage)" title="Java (langage)">Java</a> a été créé par <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> en 1995, et était avant tout destiné à la programmation des <a href="/wiki/Application_web" title="Application web">applications web</a>, dont la technologie était en pleine évolution durant les années 1990.</p>
+<h2><a href="#Terminologie" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Terminologie">Terminologie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Objet_(informatique)&amp;veaction=edit&amp;vesection=2" title="Modifier la section : Terminologie" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;section=2" title="Modifier la section : Terminologie">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Une <i><a href="/wiki/Classe_(informatique)" title="Classe (informatique)">classe</a></i> est une description des caractéristiques d'un ou de plusieurs objets. Chaque objet créé à partir de cette classe est une <i><a href="/wiki/Instance_(programmation)" title="Instance (programmation)">instance</a></i> de la classe en question.</li>
+<li>Un <i>prototype</i> est une description d'un objet, qui sera utilisé pour créer d'autres objets par clonage. voir <a href="/wiki/Programmation_orient%C3%A9e_prototype" title="Programmation orientée prototype">programmation orientée prototype</a>.</li>
+<li>Une <i><a href="/wiki/M%C3%A9thode_(informatique)" title="Méthode (informatique)">méthode</a></i> est une suite d'instructions qui manipule les caractéristiques et l'état d'un objet.</li>
+<li>Une <i>propriété</i>, aussi nommée <i>champ</i> (<i>field</i>) ou <i>attribut</i>, est une caractéristique propre à un objet donné.</li>
+<li>L’<i>état</i> d'un objet est sa forme à un instant donné, telle que décrite par les valeurs de l'ensemble de ses propriétés.</li>
+<li>Une classe <i>hérite</i> des caractéristiques d'une autre si sa définition est fondée sur celle-ci, auquel cas ses instances partagent les traits des 2 classes. On parle alors de <i>sous-classe</i> et <i>super-classe</i>.</li>
+<li>Il y a <i><a href="/wiki/Polymorphisme_(informatique)" title="Polymorphisme (informatique)">polymorphisme</a></i> (par sous-typage) lorsqu'il existe plusieurs sous-classes d'une même super-classe, qui possèdent chacune leur propre variante d'une même méthode.</li>
+</ul>
+<p>Dans certains langages OO, les méthodes, les propriétés et l'état d'un objet sont manipulables à partir d'autres objets uniquement si ceux-ci sont explicitement déclarés comme <i>publics</i>. c'est le mécanisme d´<i><a href="/wiki/Encapsulation_(informatique)" title="Encapsulation (informatique)" class="mw-redirect">encapsulation</a></i>.</p>
+<h2><a href="#Utilisation" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Utilisation">Utilisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Objet_(informatique)&amp;veaction=edit&amp;vesection=3" title="Modifier la section : Utilisation" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;section=3" title="Modifier la section : Utilisation">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Parmi les diverses technologies qui gravitent autour des objets, il y a les <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">langages de programmation orientés objet</a> et les <a href="/wiki/Base_de_donn%C3%A9es_orient%C3%A9e_objet" title="Base de données orientée objet">bases de données orientées objet</a>. La notion d'objet est également utilisée dans la programmation de <a href="/wiki/Composant_logiciel" title="Composant logiciel">composants logiciels</a> ainsi que la <a href="/wiki/Conception_de_logiciel" title="Conception de logiciel">conception de logiciel</a>.</p>
+<p>Une <a href="/wiki/Base_de_donn%C3%A9es" title="Base de données">base de données</a> orientée objet permet le stockage permanent d'objets, à l'aide d'un <a href="/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es" title="Système de gestion de base de données">système de gestion de base de données</a> et un langage de programmation adaptés.</p>
+<p>Le <a href="/wiki/Object_Management_Group" title="Object Management Group">Object Management Group</a> est un consortium international de normalisation et de soutien des technologies basées sur les objets.</p>
+<p>Créée par le Object Management Group, <a href="/wiki/CORBA" title="CORBA" class="mw-redirect">CORBA</a> est une <a href="/wiki/Norme_industrielle" title="Norme industrielle" class="mw-redirect">norme</a> relative à l'<a href="/wiki/Architecture_informatique" title="Architecture informatique" class="mw-redirect">architecture</a> de logiciels qui s'échangent des objets.</p>
+<p>Créée par le consortium <a href="/wiki/W3C" title="W3C" class="mw-redirect">W3C</a>, le <a href="/wiki/Document_Object_Model" title="Document Object Model">Document Object Model</a> est une <a href="/wiki/Norme_industrielle" title="Norme industrielle" class="mw-redirect">norme</a> relative à la manipulation des éléments d'une <a href="/wiki/Page_web" title="Page web">page web</a> par un langage de programmation orienté objet comme par exemple <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>.</p>
+<h3><a href="#La_programmation_orient.C3.A9e_objet" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="La_programmation_orient.C3.A9e_objet">La programmation orientée objet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Objet_(informatique)&amp;veaction=edit&amp;vesection=4" title="Modifier la section : La programmation orientée objet" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;section=4" title="Modifier la section : La programmation orientée objet">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="bandeau-section bandeau-niveau-detail loupe">Article détaillé&#160;: <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">programmation orientée objet</a>.</div>
+<p>La programmation orientée objet est un style d'écriture du <a href="/wiki/Code_source" title="Code source">code source</a>, propres à certains <a href="/wiki/Langages_de_programmation" title="Langages de programmation" class="mw-redirect">langages de programmation</a>. Dans ce style, le code source est une suite de descriptions de classes ou de prototypes, avec la description de leurs caractéristiques (<i>propriétés</i>) et de leur comportements (<i>méthodes</i>). <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>, <a href="/wiki/Python_(langage)" title="Python (langage)">Python</a>, <a href="/wiki/Java_(langage)" title="Java (langage)">Java</a> et <a href="/wiki/C%2B%2B" title="C++">C++</a> sont des langages de programmation orientés objet.</p>
+<h2><a href="#Voir_aussi" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Objet_(informatique)&amp;veaction=edit&amp;vesection=5" title="Modifier la section : Voir aussi" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;section=5" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">Programmation orientée objet</a></li>
+</ul>
+<h2><a href="#Notes_et_r.C3.A9f.C3.A9rences" class="mw-headline-anchor" aria-hidden="true" title="Lien vers cette section">§</a><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Objet_(informatique)&amp;veaction=edit&amp;vesection=6" title="Modifier la section : Notes et références" class="mw-editsection-visualeditor">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Objet_(informatique)&amp;action=edit&amp;section=6" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small decimal" style="column-count: 1; -moz-column-count: 1; -webkit-column-count: 1">
+<div style="font-size: 85%">
+<ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Bhuvan Unhelkar, <i><span class="lang-en" lang="en" xml:lang="en">Practical Object Oriented Analysis</span></i>, Thomson Learning Nelson - 2005, <small>(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780170122986" title="Spécial:Ouvrages de référence/9780170122986"><span class="nowrap">9780170122986</span></a>)</small>.</span></li>
+<li id="cite_note-2"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">David Parsons, <i><span class="lang-en" lang="en" xml:lang="en">Object Oriented Programming with C++</span></i>, Cengage Learning EMEA - 2002 <small>(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780826454287" title="Spécial:Ouvrages de référence/9780826454287"><span class="nowrap">9780826454287</span></a>)</small>.</span></li>
+<li id="cite_note-3"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Saba Zamir, <i><span class="lang-en" lang="en" xml:lang="en">Handbook of Object Technology</span></i>, CRC Press - 1999 <small>(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780849331350" title="Spécial:Ouvrages de référence/9780849331350"><span class="nowrap">9780849331350</span></a>)</small>.</span></li>
+<li id="cite_note-4"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Stanley Benjamin Zdonik et David Maier, <i><span class="lang-en" lang="en" xml:lang="en">Readings in Object-Oriented Database Systems</span></i>, Morgan Kaufmann - 1990 <small>(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9781558600003" title="Spécial:Ouvrages de référence/9781558600003"><span class="nowrap">9781558600003</span></a>)</small>.</span></li>
+</ol>
+</div>
+</div>
+<div class="navbox_group" style="clear:both;">
+<table class="navbox collapsible noprint autocollapse" style="margin:auto;">
+<tr>
+<th colspan="2" style="text-align:center;">
+<div style="float:left; width:6em; text-align:left">
+<div class="noprint plainlinksneverexpand nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;"><a href="/wiki/Mod%C3%A8le:Palette_Types_de_donn%C3%A9es" title="Modèle:Palette Types de données"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="//fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Types_de_donn%C3%A9es&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div>
+</div>
+<span style="font-size:110%"><a href="/wiki/Type_(informatique)" title="Type (informatique)">Types de données</a></span></th>
+</tr>
+<tr>
+<td class="group" style="">Non interprétée</td>
+<td class="list" style=""><span class="nowrap"><a href="/wiki/Bit" title="Bit">Bit</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Byte" title="Byte">Byte</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Syst%C3%A8me_trinaire" title="Système trinaire">Trit</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Tryte&amp;action=edit&amp;redlink=1" class="new" title="Tryte (page inexistante)">Tryte</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Mot_(informatique)" title="Mot (informatique)">Mot</a></span></td>
+</tr>
+<tr>
+<td class="group" style="">Numérique</td>
+<td class="list even" style=""><span class="nowrap"><a href="/wiki/Arithm%C3%A9tique_multipr%C3%A9cision" title="Arithmétique multiprécision">Bignum</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Complex_data_type&amp;action=edit&amp;redlink=1" class="new" title="Complex data type (page inexistante)">Complexe</a>&#160;<a href="//en.wikipedia.org/wiki/complex_data_type" class="extiw" title="en:complex data type"><span class="indicateur-langue" title="Équivalent de l’article « complex data type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Decimal_data_type&amp;action=edit&amp;redlink=1" class="new" title="Decimal data type (page inexistante)">Décimal</a>&#160;<a href="//en.wikipedia.org/wiki/Decimal_data_type" class="extiw" title="en:Decimal data type"><span class="indicateur-langue" title="Équivalent de l’article « Decimal data type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Virgule_fixe" title="Virgule fixe">Virgule fixe</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Virgule_flottante" title="Virgule flottante">Virgule flottante</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Entier_(informatique)" title="Entier (informatique)">Entier</a> (<a href="/w/index.php?title=Signedness&amp;action=edit&amp;redlink=1" class="new" title="Signedness (page inexistante)">non signé</a>&#160;<a href="//en.wikipedia.org/wiki/signedness" class="extiw" title="en:signedness"><span class="indicateur-langue" title="Équivalent de l’article « signedness » dans une autre langue">(en)</span></a>) <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Arithm%C3%A9tique_des_intervalles" title="Arithmétique des intervalles" class="mw-redirect">Intervalle</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Rational_data_type&amp;action=edit&amp;redlink=1" class="new" title="Rational data type (page inexistante)">Rationnel</a>&#160;<a href="//en.wikipedia.org/wiki/Rational_data_type" class="extiw" title="en:Rational data type"><span class="indicateur-langue" title="Équivalent de l’article « Rational data type » dans une autre langue">(en)</span></a></span></td>
+</tr>
+<tr>
+<td class="group" style=""><a href="/wiki/Texte_brut" title="Texte brut">Texte brut</a></td>
+<td class="list" style=""><span class="nowrap"><a href="/wiki/Caract%C3%A8re_(informatique)" title="Caractère (informatique)">Caractère</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Cha%C3%AEne_de_caract%C3%A8res" title="Chaîne de caractères">Chaîne de caractères</a> (<a href="/wiki/NUL" title="NUL">Terminé par NUL</a>)</span></td>
+</tr>
+<tr>
+<td class="group" style=""><a href="/wiki/Pointeur_(programmation)" title="Pointeur (programmation)">Pointeur</a></td>
+<td class="list even" style=""><span class="nowrap"><a href="/wiki/Adressage_m%C3%A9moire" title="Adressage mémoire">Adressage mémoire</a> (<a href="/wiki/Adresse_physique" title="Adresse physique">physique</a>, <a href="/wiki/Adresse_virtuelle" title="Adresse virtuelle">virtuelle</a>) <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/R%C3%A9f%C3%A9rence_(programmation)" title="Référence (programmation)">Référence</a></span></td>
+</tr>
+<tr>
+<td class="group" style=""><a href="/w/index.php?title=Composite_data_type&amp;action=edit&amp;redlink=1" class="new" title="Composite data type (page inexistante)">Composite</a>&#160;<a href="//en.wikipedia.org/wiki/Composite_data_type" class="extiw" title="en:Composite data type"><span class="indicateur-langue" title="Équivalent de l’article « Composite data type » dans une autre langue">(en)</span></a></td>
+<td class="list" style=""><span class="nowrap"><a href="/wiki/Type_alg%C3%A9brique_de_donn%C3%A9es" title="Type algébrique de données">Type algébrique de données</a> (<a href="/w/index.php?title=Generalized_algebraic_data_type&amp;action=edit&amp;redlink=1" class="new" title="Generalized algebraic data type (page inexistante)">généralisé</a>&#160;<a href="//en.wikipedia.org/wiki/generalized_algebraic_data_type" class="extiw" title="en:generalized algebraic data type"><span class="indicateur-langue" title="Équivalent de l’article « generalized algebraic data type » dans une autre langue">(en)</span></a>) <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Tableau_(structure_de_donn%C3%A9es)" title="Tableau (structure de données)">Tableau</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Tableau_associatif" title="Tableau associatif">Tableau associatif</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Classe_(informatique)" title="Classe (informatique)">Classe</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Type_d%C3%A9pendant" title="Type dépendant">Dépendant</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Intuitionistic_type_theory&amp;action=edit&amp;redlink=1" class="new" title="Intuitionistic type theory (page inexistante)">Égalité</a>&#160;<a href="//en.wikipedia.org/wiki/Intuitionistic_type_theory#Equality_type" class="extiw" title="en:Intuitionistic type theory"><span class="indicateur-langue" title="Équivalent de l’article « Intuitionistic type theory#Equality type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Inductive_type&amp;action=edit&amp;redlink=1" class="new" title="Inductive type (page inexistante)">Inductive</a>&#160;<a href="//en.wikipedia.org/wiki/Inductive_type" class="extiw" title="en:Inductive type"><span class="indicateur-langue" title="Équivalent de l’article « Inductive type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Liste_(informatique)" title="Liste (informatique)">Liste</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><strong class="selflink">Objet</strong> (<a href="/wiki/M%C3%A9taobjet" title="Métaobjet">métaobjet</a>) <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Option_type&amp;action=edit&amp;redlink=1" class="new" title="Option type (page inexistante)">Option</a>&#160;<a href="//en.wikipedia.org/wiki/Option_type" class="extiw" title="en:Option type"><span class="indicateur-langue" title="Équivalent de l’article « Option type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Product_type&amp;action=edit&amp;redlink=1" class="new" title="Product type (page inexistante)">Product</a>&#160;<a href="//en.wikipedia.org/wiki/Product_type" class="extiw" title="en:Product type"><span class="indicateur-langue" title="Équivalent de l’article « Product type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Enregistrement_(informatique)" title="Enregistrement (informatique)">Record</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Set_(abstract_data_type)&amp;action=edit&amp;redlink=1" class="new" title="Set (abstract data type) (page inexistante)">Set</a>&#160;<a href="//en.wikipedia.org/wiki/Set_(abstract_data_type)" class="extiw" title="en:Set (abstract data type)"><span class="indicateur-langue" title="Équivalent de l’article « Set (abstract data type) » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Vecteur_(structure_de_donn%C3%A9es)" title="Vecteur (structure de données)">Vecteur</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Union_type&amp;action=edit&amp;redlink=1" class="new" title="Union type (page inexistante)">Union</a>&#160;<a href="//en.wikipedia.org/wiki/Union_type" class="extiw" title="en:Union type"><span class="indicateur-langue" title="Équivalent de l’article « Union type » dans une autre langue">(en)</span></a> (<a href="/w/index.php?title=Tagged_union&amp;action=edit&amp;redlink=1" class="new" title="Tagged union (page inexistante)">tagged</a>&#160;<a href="//en.wikipedia.org/wiki/Tagged_union" class="extiw" title="en:Tagged union"><span class="indicateur-langue" title="Équivalent de l’article « Tagged union » dans une autre langue">(en)</span></a>)</span></td>
+</tr>
+<tr>
+<td class="group" style="">Autres</td>
+<td class="list even" style=""><span class="nowrap"><a href="/wiki/Bool%C3%A9en" title="Booléen">Booléen</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Type_vide" title="Type vide">Type vide</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Conteneur_(informatique)" title="Conteneur (informatique)">Collection</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Type_%C3%A9num%C3%A9r%C3%A9" title="Type énuméré">Type énuméré</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Syst%C3%A8me_de_gestion_d%27exceptions" title="Système de gestion d'exceptions">Exception</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Fonction_informatique" title="Fonction informatique">Fonction</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Opaque_data_type&amp;action=edit&amp;redlink=1" class="new" title="Opaque data type (page inexistante)">Opaque</a>&#160;<a href="//en.wikipedia.org/wiki/Opaque_data_type" class="extiw" title="en:Opaque data type"><span class="indicateur-langue" title="Équivalent de l’article « Opaque data type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Type_r%C3%A9cursif" title="Type récursif">Type récursif</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/S%C3%A9maphore_(informatique)" title="Sémaphore (informatique)">Sémaphore</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Stream_(computing)&amp;action=edit&amp;redlink=1" class="new" title="Stream (computing) (page inexistante)">Stream</a>&#160;<a href="//en.wikipedia.org/wiki/stream_(computing)" class="extiw" title="en:stream (computing)"><span class="indicateur-langue" title="Équivalent de l’article « stream (computing) » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Top_type&amp;action=edit&amp;redlink=1" class="new" title="Top type (page inexistante)">Top</a>&#160;<a href="//en.wikipedia.org/wiki/Top_type" class="extiw" title="en:Top type"><span class="indicateur-langue" title="Équivalent de l’article « Top type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Type_class&amp;action=edit&amp;redlink=1" class="new" title="Type class (page inexistante)">Type class</a>&#160;<a href="//en.wikipedia.org/wiki/Type_class" class="extiw" title="en:Type class"><span class="indicateur-langue" title="Équivalent de l’article « Type class » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Type_unit%C3%A9" title="Type unité">Type unité</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Void" title="Void">void</a></span></td>
+</tr>
+<tr>
+<td class="group" style="">Articles liés</td>
+<td class="list" style=""><span class="nowrap"><a href="/wiki/Type_abstrait" title="Type abstrait">Type abstrait</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Structure_de_donn%C3%A9es" title="Structure de données">Structure de données</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/G%C3%A9n%C3%A9ricit%C3%A9" title="Généricité">Généricité</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Kind_(type_theory)&amp;action=edit&amp;redlink=1" class="new" title="Kind (type theory) (page inexistante)">Kind</a>&#160;<a href="//en.wikipedia.org/wiki/Kind_(type_theory)" class="extiw" title="en:Kind (type theory)"><span class="indicateur-langue" title="Équivalent de l’article « Kind (type theory) » dans une autre langue">(en)</span></a> (<a href="/wiki/M%C3%A9taclasse" title="Métaclasse">métaclasse</a>) <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Parametric_polymorphism&amp;action=edit&amp;redlink=1" class="new" title="Parametric polymorphism (page inexistante)">Parametric polymorphism</a>&#160;<a href="//en.wikipedia.org/wiki/Parametric_polymorphism" class="extiw" title="en:Parametric polymorphism"><span class="indicateur-langue" title="Équivalent de l’article « Parametric polymorphism » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Primitive_data_type&amp;action=edit&amp;redlink=1" class="new" title="Primitive data type (page inexistante)">Primitive data type</a>&#160;<a href="//en.wikipedia.org/wiki/Primitive_data_type" class="extiw" title="en:Primitive data type"><span class="indicateur-langue" title="Équivalent de l’article « Primitive data type » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Protocol_(object-oriented_programming)&amp;action=edit&amp;redlink=1" class="new" title="Protocol (object-oriented programming) (page inexistante)">Protocol</a>&#160;<a href="//en.wikipedia.org/wiki/Protocol_(object-oriented_programming)" class="extiw" title="en:Protocol (object-oriented programming)"><span class="indicateur-langue" title="Équivalent de l’article « Protocol (object-oriented programming) » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Interface_(programmation_orient%C3%A9e_objet)" title="Interface (programmation orientée objet)">Interface</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Subtyping&amp;action=edit&amp;redlink=1" class="new" title="Subtyping (page inexistante)">Subtyping</a>&#160;<a href="//en.wikipedia.org/wiki/Subtyping" class="extiw" title="en:Subtyping"><span class="indicateur-langue" title="Équivalent de l’article « Subtyping » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Type_constructor&amp;action=edit&amp;redlink=1" class="new" title="Type constructor (page inexistante)">Type constructor</a>&#160;<a href="//en.wikipedia.org/wiki/Type_constructor" class="extiw" title="en:Type constructor"><span class="indicateur-langue" title="Équivalent de l’article « Type constructor » dans une autre langue">(en)</span></a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Conversion_de_type" title="Conversion de type">Conversion de type</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Type_system&amp;action=edit&amp;redlink=1" class="new" title="Type system (page inexistante)">Type system</a>&#160;<a href="//en.wikipedia.org/wiki/Type_system" class="extiw" title="en:Type system"><span class="indicateur-langue" title="Équivalent de l’article « Type system » dans une autre langue">(en)</span></a></span></td>
+</tr>
+</table>
+<table class="navbox collapsible noprint autocollapse" style="margin:auto;">
+<tr>
+<th colspan="2" style="text-align:center;">
+<div style="float:left; width:6em; text-align:left">
+<div class="noprint plainlinksneverexpand nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;"><a href="/wiki/Mod%C3%A8le:Palette_Unified_Modeling_Language" title="Modèle:Palette Unified Modeling Language"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="//fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Unified_Modeling_Language&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div>
+</div>
+<span style="font-size:110%"><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language" class="mw-redirect">Unified Modeling Language</a></span></th>
+</tr>
+<tr>
+<td class="group" style="">Acteurs</td>
+<td class="list" style=""><span class="nowrap"><i>Organismes</i>: <a href="/wiki/Organisation_internationale_de_normalisation" title="Organisation internationale de normalisation">ISO</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Object_Management_Group" title="Object Management Group">Object Management Group</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Cat%C3%A9gorie:UML_Partners" title="Catégorie:UML Partners">Partenaires de l'UML</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><i>Personnalités</i>&#160;: <a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></span></td>
+</tr>
+<tr>
+<td class="group" style="">Concepts</td>
+<td class="list even" style=""><span class="nowrap"><i>Orientation objet</i>&#160;: <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">POO</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/M%C3%A9thode_d%27analyse_et_de_conception_d%27applications_orient%C3%A9es_objet" title="Méthode d'analyse et de conception d'applications orientées objet">Méthode d'analyse et de conception d'applications orientées objet</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Encapsulation_(programmation)" title="Encapsulation (programmation)">Encapsulation</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/H%C3%A9ritage_(informatique)" title="Héritage (informatique)">Héritage</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Polymorphisme_(informatique)" title="Polymorphisme (informatique)">Polymorphisme</a><br /></span>
+<p><span class="nowrap"><i>Structure</i>: <a href="/w/index.php?title=Acteur_(UML)&amp;action=edit&amp;redlink=1" class="new" title="Acteur (UML) (page inexistante)">Acteur</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Art%C3%A9fact_(UML)" title="Artéfact (UML)">Artéfact</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Attribut_(informatique)" title="Attribut (informatique)">Attribut</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Classe_(informatique)" title="Classe (informatique)">Classe</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Composant" title="Composant" class="mw-disambig">Composant</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Interface_(programmation_orient%C3%A9e_objet)" title="Interface (programmation orientée objet)">Interface</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><strong class="selflink">Objet</strong> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Package_(UML)" title="Package (UML)">Package</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Propri%C3%A9t%C3%A9_(informatique)" title="Propriété (informatique)">Propriété</a><br />
+<i>Comportement</i>&#160;: <a href="/w/index.php?title=Activit%C3%A9_(UML)&amp;action=edit&amp;redlink=1" class="new" title="Activité (UML) (page inexistante)">Activité</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=%C3%89v%C3%A9nement_(UML)&amp;action=edit&amp;redlink=1" class="new" title="Événement (UML) (page inexistante)">Événement</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Passage_de_messages" title="Passage de messages">Message</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/M%C3%A9thode_(informatique)" title="Méthode (informatique)">Méthode</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/%C3%89tat_(informatique)" title="État (informatique)">État</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Cas_d%27utilisation" title="Cas d'utilisation">Cas d'utilisation</a><br />
+<i>Relation</i>&#160;: <a href="/wiki/Agr%C3%A9gation_(programmation)" title="Agrégation (programmation)">Agrégation</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Association_(programmation)&amp;action=edit&amp;redlink=1" class="new" title="Association (programmation) (page inexistante)">Association</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Composition_(programmation)" title="Composition (programmation)">Composition</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/D%C3%A9pendance_logicielle" title="Dépendance logicielle">Dépendance</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/G%C3%A9n%C3%A9ralisation" title="Généralisation" class="mw-disambig">Généralisation</a> (ou <a href="/wiki/H%C3%A9ritage_(informatique)" title="Héritage (informatique)">Héritage</a>)<br />
+<i>Extensibilité</i>&#160;: <a href="/w/index.php?title=Profile_(UML)&amp;action=edit&amp;redlink=1" class="new" title="Profile (UML) (page inexistante)">Profile</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/St%C3%A9r%C3%A9otype_(UML)" title="Stéréotype (UML)">Stéréotype</a><br /></span></p>
+<span class="nowrap"><i>Autres concepts</i>: <a href="/wiki/Cardinalit%C3%A9_(programmation)" title="Cardinalité (programmation)">Cardinalité</a></span></td>
+</tr>
+<tr>
+<td class="group" style="">Diagrammes</td>
+<td class="list" style="">
+<table class="navbox" style="background:transparent; font-size:100%; padding:0; border:0; margin:-3px;">
+<tr>
+<th style="background:#ddf;">Structure</th>
+<td style=";"><span class="nowrap"><a href="/wiki/Diagramme_de_classes" title="Diagramme de classes">Diagramme de classes</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_de_composants" title="Diagramme de composants">Diagramme de composants</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_de_structure_composite" title="Diagramme de structure composite">Diagramme de structure composite</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_de_d%C3%A9ploiement" title="Diagramme de déploiement">Diagramme de déploiement</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_d%27objets" title="Diagramme d'objets">Diagramme d'objets</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_des_paquetages" title="Diagramme des paquetages">Diagramme des paquetages</a></span></td>
+</tr>
+<tr>
+<th style="background:#ddf;">Comportement</th>
+<td style=";"><span class="nowrap"><a href="/wiki/Diagramme_d%27activit%C3%A9" title="Diagramme d'activité">Diagramme d'activité</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_d%27%C3%A9tat" title="Diagramme d'état" class="mw-redirect">Diagramme d'état</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_des_cas_d%27utilisation" title="Diagramme des cas d'utilisation">Diagramme des cas d'utilisation</a></span></td>
+</tr>
+<tr>
+<th style="background:#ddf;">Interaction</th>
+<td style=";"><span class="nowrap"><a href="/wiki/Diagramme_de_communication" title="Diagramme de communication">Diagramme de communication</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_de_s%C3%A9quence" title="Diagramme de séquence">Diagramme de séquence</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_global_d%27interaction" title="Diagramme global d'interaction">Diagramme global d'interaction</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Diagramme_de_temps" title="Diagramme de temps">Diagramme de temps</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="group" style="">Autres liens</td>
+<td class="list even" style=""><span class="nowrap"><a href="/wiki/Unified_Process" title="Unified Process">Rational Unified Process</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Comparaison_des_logiciels_d%27UML" title="Comparaison des logiciels d'UML">Comparaison des outils UML</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">Systems Modeling Language</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/w/index.php?title=Colorisation_d%27UML&amp;action=edit&amp;redlink=1" class="new" title="Colorisation d'UML (page inexistante)">Colorisation d'UML</a> <span style="font-weight:bold">·</span></span> <span class="nowrap"><a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">XMI</a></span></td>
+</tr>
+</table>
+</div>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Informatique" title="Portail de l’informatique"><img alt="Portail de l’informatique" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/24px-Crystal_mycomputer.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/36px-Crystal_mycomputer.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/48px-Crystal_mycomputer.png 2x" data-file-width="64" data-file-height="64" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Informatique" title="Portail:Informatique">Portail de l’informatique</a></span></span></li>
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Programmation_informatique" title="Portail de la programmation informatique"><img alt="Portail de la programmation informatique" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/24px-Nuvola_apps_kcmsystem.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/36px-Nuvola_apps_kcmsystem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/48px-Nuvola_apps_kcmsystem.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Programmation_informatique" title="Portail:Programmation informatique">Portail de la programmation informatique</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1029
+CPU time usage: 0.691 seconds
+Real time usage: 0.778 seconds
+Preprocessor visited node count: 36078/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 197077/2097152 bytes
+Template argument size: 71677/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 24/500
+Lua time usage: 0.055/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  651.755      1 - -total
+ 74.49%  485.524      1 - Modèle:Palette
+ 71.54%  466.265      2 - Modèle:Méta_palette_de_navigation
+ 64.76%  422.070     13 - Modèle:Liste_éléments
+ 60.82%  396.428     13 - Modèle:Liste_éléments/0_espace
+ 48.97%  319.175      1 - Modèle:Palette_Types_de_données
+ 23.95%  156.110      1 - Modèle:Palette_Unified_Modeling_Language
+ 12.48%   81.309      1 - Modèle:Références
+ 12.06%   78.602      1 - Modèle:Méta_palette_de_navigation_sous-groupe
+  8.17%   53.273      1 - Modèle:Portail
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:1122876-0!*!0!!fr!4!* and timestamp 20150312192205 and revision id 111493627
+ -->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Objet_(informatique)&amp;oldid=111493627">http://fr.wikipedia.org/w/index.php?title=Objet_(informatique)&amp;oldid=111493627</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Programmation_orient%C3%A9e_objet" title="Catégorie:Programmation orientée objet">Programmation orientée objet</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais" title="Catégorie:Article contenant un appel à traduction en anglais">Article contenant un appel à traduction en anglais</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Informatique/Articles liés">Portail:Informatique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Programmation_informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Programmation informatique/Articles liés">Portail:Programmation informatique/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Objet+%28informatique%29&amp;returntoquery=diff%3D111493627%26oldid%3D109084641%26rcid%3D134746928&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Objet+%28informatique%29&amp;returntoquery=diff%3D111493627%26oldid%3D109084641%26rcid%3D134746928" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Objet_(informatique)"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Objet_(informatique)"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Objet_(informatique)" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Objet_(informatique)&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Objet_(informatique)&amp;action=edit"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Objet_(informatique)&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Objet+%28informatique%29">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Objet+%28informatique%29&amp;oldid=109084641&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Objet_(informatique)&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Objet_(informatique)" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Objet_(informatique)" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Objet_(informatique)&amp;oldid=111493627" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Objet_(informatique)&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q216601" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Objet_%28informatique%29&amp;id=111493627" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%A6%D9%86_(%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8)" title="كائن (علوم الحاسوب) — arabe" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%90%D0%B1%E2%80%99%D0%B5%D0%BA%D1%82_(%D0%BF%D1%80%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C%D0%BD%D0%B5)" title="Аб’ект (праграмаваньне) — беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B5%D0%BA%D1%82_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5)" title="Обект (програмиране) — bulgare" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Ra%C4%8Dunarski_objekat" title="Računarski objekat — bosniaque" lang="bs" hreflang="bs">Bosanski</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Objecte_(programaci%C3%B3)" title="Objecte (programació) — catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Instance_t%C5%99%C3%ADdy" title="Instance třídy — tchèque" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Objekt_(datalogi)" title="Objekt (datalogi) — danois" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Objekt_(Programmierung)" title="Objekt (Programmierung) — allemand" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Object_(computer_science)" title="Object (computer science) — anglais" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Objekto_(komputiko)" title="Objekto (komputiko) — espéranto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Objeto_(programaci%C3%B3n)" title="Objeto (programación) — espagnol" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Objektu_(programazioa)" title="Objektu (programazioa) — basque" lang="eu" hreflang="eu">Euskara</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Olio_(ohjelmointi)" title="Olio (ohjelmointi) — finnois" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Oibiacht_(r%C3%ADomhaireacht)" title="Oibiacht (ríomhaireacht) — irlandais" lang="ga" hreflang="ga">Gaeilge</a></li>
+													<li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Obxecto_(programaci%C3%B3n)" title="Obxecto (programación) — galicien" lang="gl" hreflang="gl">Galego</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%95%D7%91%D7%99%D7%99%D7%A7%D7%98_(%D7%9E%D7%93%D7%A2%D7%99_%D7%94%D7%9E%D7%97%D7%A9%D7%91)" title="אובייקט (מדעי המחשב) — hébreu" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Objekt_(ra%C4%8Dunalstvo)" title="Objekt (računalstvo) — croate" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Objektum" title="Objektum — hongrois" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Objek_(ilmu_komputer)" title="Objek (ilmu komputer) — indonésien" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Oggetto_(informatica)" title="Oggetto (informatica) — italien" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)" title="オブジェクト (プログラミング) — japonais" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9D%E1%83%91%E1%83%98%E1%83%94%E1%83%A5%E1%83%A2%E1%83%98_(%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%9B%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90)" title="ობიექტი (პროგრამირება) — géorgien" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8C%D0%B5%D0%BA%D1%82_(%D0%B1%D0%B0%D2%93%D0%B4%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B0%D0%BB%D0%B0%D1%83)" title="Обьект (бағдарламалау) — kazakh" lang="kk" hreflang="kk">Қазақша</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99)" title="객체 (컴퓨터 과학) — coréen" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B6%D0%B5%D0%BA%D1%82_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D0%BE%D0%BE)" title="Обжект (программалоо) — kirghize" lang="ky" hreflang="ky">Кыргызча</a></li>
+													<li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Objektas_(programavimas)" title="Objektas (programavimas) — lituanien" lang="lt" hreflang="lt">Lietuvių</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Object_(informatica)" title="Object (informatica) — néerlandais" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Obiekt_(programowanie_obiektowe)" title="Obiekt (programowanie obiektowe) — polonais" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Objeto_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)" title="Objeto (ciência da computação) — portugais" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Obiect_(programare)" title="Obiect (programare) — roumain" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Объект (программирование) — russe" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Object_(computer_science)" title="Object (computer science) — Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D_(%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D)" title="பொருள் (கணினியியல்) — tamoul" lang="ta" hreflang="ta">தமிழ்</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Nesne_(programlama)" title="Nesne (programlama) — turc" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9E%D0%B1%27%D1%94%D0%BA%D1%82_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)" title="Об'єкт (програмування) — ukrainien" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/%C4%90%E1%BB%91i_t%C6%B0%E1%BB%A3ng_(khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh)" title="Đối tượng (khoa học máy tính) — vietnamien" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%AF%B9%E8%B1%A1_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)" title="对象 (计算机科学) — chinois" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q216601#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Dernière modification de cette page le 2 février 2015 à 15:28.</li>
+											<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons paternité partage des conditions initiales à l’identique 3.0 unported">licence Creative Commons paternité partage à l’identique</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Objet_(informatique)" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="//wikimediafoundation.org/wiki/Accueil" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Objet_(informatique)&amp;diff=111493627&amp;oldid=109084641&amp;rcid=134746928&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":191,"wgHostname":"mw1029"});
+}</script>
+	</body>
+</html>

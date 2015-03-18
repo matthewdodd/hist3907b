@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>NIST RBAC model: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=NIST_RBAC_model&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=NIST_RBAC_model&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/NIST_RBAC_model" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=637473991&amp;oldid=626495227" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"NIST_RBAC_model","wgTitle":"NIST RBAC model","wgCurRevisionId":637473991,"wgRevisionId":637473991,"wgArticleId":19926152,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computer access control","Computer network security","Computer security models","Data security","Firewall software","Packets (information technology)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"NIST_RBAC_model","wgRelevantArticleId":19926152,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6954386"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-NIST_RBAC_model skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">NIST RBAC model: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=NIST_RBAC_model&amp;oldid=626495227" title="NIST RBAC model">Revision as of 16:33, 21 September 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit&amp;oldid=626495227" title="NIST RBAC model">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:BattyBot" title="User:BattyBot" class="mw-userlink">BattyBot</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:BattyBot" title="User talk:BattyBot">talk</a> | <a href="/wiki/Special:Contributions/BattyBot" title="Special:Contributions/BattyBot">contribs</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="comment">(fixed <a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">CS1 errors: dates</a> to meet <a href="/wiki/MOS:DATEFORMAT" class="mw-redirect" title="MOS:DATEFORMAT">MOS:DATEFORMAT</a> (also <a href="/wiki/Wikipedia:AWB/GF" class="mw-redirect" title="Wikipedia:AWB/GF">General fixes</a>) using <a href="/wiki/Wikipedia:AWB" class="mw-redirect" title="Wikipedia:AWB">AWB</a> (10457))</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=NIST_RBAC_model&amp;diff=prev&amp;oldid=626495227" title="NIST RBAC model" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=NIST_RBAC_model&amp;oldid=637473991" title="NIST RBAC model">Latest revision as of 13:58, 10 December 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit" title="NIST RBAC model">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit&amp;undoafter=626495227&amp;undo=637473991" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/198.103.167.20" title="Special:Contributions/198.103.167.20" class="mw-userlink mw-anonuserlink">198.103.167.20</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:198.103.167.20" title="User talk:198.103.167.20">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(fix External links markup)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4">&#160;</div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 61:</td>
+  <td colspan="2" class="diff-lineno">Line 61:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==External links==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==External links==</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>* [http://csrc.nist.gov/groups/SNS/rbac/index.html<del class="diffchange diffchange-inline">]</del> <del class="diffchange diffchange-inline">(</del>NIST RBAC web site<del class="diffchange diffchange-inline">)</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>* [http://csrc.nist.gov/groups/SNS/rbac/index.html NIST RBAC web site<ins class="diffchange diffchange-inline">]</ins></div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>* [http://incits.org<del class="diffchange diffchange-inline">]</del> <del class="diffchange diffchange-inline"> (</del>INCITS web site<del class="diffchange diffchange-inline">)</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>* [http://incits.org INCITS web site<ins class="diffchange diffchange-inline">]</ins></div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Category:Computer access control]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Category:Computer access control]]</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Latest revision as of 13:58, 10 December 2014</h2>
+<p>The <b>NIST RBAC model</b> is a standardized definition of <a href="/wiki/Role_based_access_control" title="Role based access control" class="mw-redirect">role based access control</a>. Although originally developed by the <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a>, the standard was adopted and is copyrighted and distributed as INCITS 359-2004 by the <a href="/wiki/International_Committee_for_Information_Technology_Standards" title="International Committee for Information Technology Standards">International Committee for Information Technology Standards</a> (INCITS). The latest version is INCITS 359-2012.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It is managed by INCITS committee CS1.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><a href="#History" class="mw-headline-anchor" aria-hidden="true" title="Link to this section">§</a><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2000, NIST called for a unified standard for RBAC, integrating the RBAC model published in 1992 by Ferraiolo and Kuhn with the RBAC framework introduced by Sandhu, Coyne, Feinstein, and Youman (1996). This proposal was published by Sandhu, Ferraiolo, and Kuhn <sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> and presented at the ACM 5th Workshop on Role Based Access Control. Following debate and comment within the RBAC and security communities, NIST made revisions and proposed a U.S. national standard for RBAC through the INCITS. In 2004, the standard received ballot approval and was adopted as INCITS 359-2004. Sandhu, Ferraiolo, and Kuhn later published an explanation of the design choices in the model. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> In 2010, NIST announced a revision to RBAC, incorporating features of attribute-based access control (ABAC). <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><a href="#See_also" class="mw-headline-anchor" aria-hidden="true" title="Link to this section">§</a><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Role-based_access_control" title="Role-based access control">Role-based access control</a></li>
+</ul>
+<h2><a href="#References" class="mw-headline-anchor" aria-hidden="true" title="Link to this section">§</a><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal"><a rel="nofollow" class="external text" href="http://www.techstreet.com/products/1837530">"Information Technology - Role Based Access Control"</a> (<a href="/wiki/PDF" title="PDF" class="mw-redirect">PDF</a>). 2012-05-29. p.&#160;61.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANIST+RBAC+model&amp;rft.btitle=Information+Technology+-+Role+Based+Access+Control&amp;rft.date=2012-05-29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.techstreet.com%2Fproducts%2F1837530&amp;rft.pages=61&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation conference">Sandhu, R., Ferraiolo, D.F. and Kuhn, D.R. (July 2000). <a rel="nofollow" class="external text" href="http://csrc.nist.gov/rbac/sandhu-ferraiolo-kuhn-00.pdf">"The NIST Model for Role Based Access Control: Toward a Unified Standard"</a> (<a href="/wiki/PDF" title="PDF" class="mw-redirect">PDF</a>). <i>5th ACM Workshop Role-Based Access Control</i>. pp.&#160;47–63.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANIST+RBAC+model&amp;rft.atitle=The+NIST+Model+for+Role+Based+Access+Control%3A+Toward+a+Unified+Standard&amp;rft.aulast=Sandhu%2C+R.%2C+Ferraiolo%2C+D.F.+and+Kuhn%2C+D.R.&amp;rft.au=Sandhu%2C+R.%2C+Ferraiolo%2C+D.F.+and+Kuhn%2C+D.R.&amp;rft.btitle=5th+ACM+Workshop+Role-Based+Access+Control&amp;rft.date=July+2000&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fcsrc.nist.gov%2Frbac%2Fsandhu-ferraiolo-kuhn-00.pdf&amp;rft.pages=47-63&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Ferraiolo, D.F., Kuhn, D.R., and Sandhu, R. (Nov–Dec 2007). <a rel="nofollow" class="external text" href="http://csrc.nist.gov/groups/SNS/rbac/documents/ferraiolo-kuhn-sandhu-07.pdf">"RBAC Standard Rationale: comments on a Critique of the ANSI Standard on Role Based Access Control"</a> (<a href="/wiki/PDF" title="PDF" class="mw-redirect">PDF</a>). <i>IEEE Security &amp; Privacy</i> (IEEE Press) <b>5</b> (6): 51–53. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FMSP.2007.173">10.1109/MSP.2007.173</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANIST+RBAC+model&amp;rft.atitle=RBAC+Standard+Rationale%3A++comments+on+a+Critique+of+the+ANSI+Standard+on+Role+Based+Access+Control&amp;rft.au=Ferraiolo%2C+D.F.%2C+Kuhn%2C+D.R.%2C+and+Sandhu%2C+R.&amp;rft.aulast=Ferraiolo%2C+D.F.%2C+Kuhn%2C+D.R.%2C+and+Sandhu%2C+R.&amp;rft.date=Nov-Dec+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcsrc.nist.gov%2Fgroups%2FSNS%2Frbac%2Fdocuments%2Fferraiolo-kuhn-sandhu-07.pdf&amp;rft_id=info%3Adoi%2F10.1109%2FMSP.2007.173&amp;rft.issue=6&amp;rft.jtitle=IEEE+Security+%26+Privacy&amp;rft.pages=51-53&amp;rft.pub=IEEE+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Kuhn, D.R., Coyne, E.J., and Weil, T.R. (June 2010). <a rel="nofollow" class="external text" href="http://csrc.nist.gov/groups/SNS/rbac/documents/kuhn-coyne-weil-10.pdf">"Adding Attributes to Role Based Access Control"</a> (<a href="/wiki/PDF" title="PDF" class="mw-redirect">PDF</a>). <i>IEEE Computer</i> (IEEE Press) <b>43</b> (6): 79–81. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2Fmc.2010.155">10.1109/mc.2010.155</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANIST+RBAC+model&amp;rft.atitle=Adding+Attributes+to+Role+Based+Access+Control&amp;rft.au=Kuhn%2C+D.R.%2C+Coyne%2C+E.J.%2C+and+Weil%2C+T.R.&amp;rft.aulast=Kuhn%2C+D.R.%2C+Coyne%2C+E.J.%2C+and+Weil%2C+T.R.&amp;rft.date=June+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcsrc.nist.gov%2Fgroups%2FSNS%2Frbac%2Fdocuments%2Fkuhn-coyne-weil-10.pdf&amp;rft_id=info%3Adoi%2F10.1109%2Fmc.2010.155&amp;rft.issue=6&amp;rft.jtitle=IEEE+Computer&amp;rft.pages=79-81&amp;rft.pub=IEEE+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=43" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<h2><a href="#External_links" class="mw-headline-anchor" aria-hidden="true" title="Link to this section">§</a><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://csrc.nist.gov/groups/SNS/rbac/index.html">NIST RBAC web site</a></li>
+<li><a rel="nofollow" class="external text" href="http://incits.org">INCITS web site</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1105
+CPU time usage: 0.102 seconds
+Real time usage: 0.123 seconds
+Preprocessor visited node count: 212/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7196/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.027/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   59.174      1 - -total
+ 89.85%   53.170      3 - Template:Cite_journal
+  9.55%    5.652      1 - Template:Cite_conference
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19926152-0!*!0!!en!*!* and timestamp 20150316155705 and revision id 637473991
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=NIST_RBAC_model&amp;oldid=637473991">http://en.wikipedia.org/w/index.php?title=NIST_RBAC_model&amp;oldid=637473991</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_access_control" title="Category:Computer access control">Computer access control</a></li><li><a href="/wiki/Category:Computer_network_security" title="Category:Computer network security">Computer network security</a></li><li><a href="/wiki/Category:Computer_security_models" title="Category:Computer security models">Computer security models</a></li><li><a href="/wiki/Category:Data_security" title="Category:Data security">Data security</a></li><li><a href="/wiki/Category:Firewall_software" title="Category:Firewall software">Firewall software</a></li><li><a href="/wiki/Category:Packets_(information_technology)" title="Category:Packets (information technology)">Packets (information technology)</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=NIST+RBAC+model&amp;returntoquery=diff%3D637473991%26oldid%3D626495227&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=NIST+RBAC+model&amp;returntoquery=diff%3D637473991%26oldid%3D626495227" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/NIST_RBAC_model"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:NIST_RBAC_model&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/NIST_RBAC_model" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=NIST_RBAC_model&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=NIST_RBAC_model&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/NIST_RBAC_model" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/NIST_RBAC_model" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=NIST_RBAC_model&amp;oldid=637473991" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=NIST_RBAC_model&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6954386" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=NIST_RBAC_model&amp;id=637473991" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=NIST+RBAC+model">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=NIST+RBAC+model&amp;oldid=626495227&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=NIST_RBAC_model&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q6954386#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 December 2014, at 13:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=NIST_RBAC_model&amp;diff=637473991&amp;oldid=626495227&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":168,"wgHostname":"mw1102"});
+}</script>
+	</body>
+</html>

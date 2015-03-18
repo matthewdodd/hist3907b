@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Instability: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Instability&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Instability&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Instability" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=638556264&amp;oldid=631952616" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Instability","wgTitle":"Instability","wgCurRevisionId":649789956,"wgRevisionId":638556264,"wgArticleId":548173,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Wikipedia articles that are too technical from December 2011","All articles that are too technical","Articles needing expert attention from December 2011","All articles needing expert attention","Systems theory","Concepts in physics","Plasma physics","Stability theory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Instability","wgRelevantArticleId":548173,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q405372"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Instability skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Instability: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Instability&amp;oldid=631952616" title="Instability">Revision as of 23:57, 31 October 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instability&amp;action=edit&amp;oldid=631952616" title="Instability">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Smjg" title="User:Smjg" class="mw-userlink">Smjg</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Smjg" title="User talk:Smjg">talk</a> | <a href="/wiki/Special:Contributions/Smjg" title="Special:Contributions/Smjg">contribs</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#Plasma_instabilities">→</a>‎<span dir="auto"><span class="autocomment">Plasma instabilities: </span> _ -&gt; space</span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Instability&amp;diff=prev&amp;oldid=631952616" title="Instability" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Instability&amp;oldid=638556264" title="Instability">Revision as of 22:05, 17 December 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instability&amp;action=edit&amp;oldid=638556264" title="Instability">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Instability&amp;action=edit&amp;undoafter=631952616&amp;undo=638556264" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/205.211.133.128" title="Special:Contributions/205.211.133.128" class="mw-userlink mw-anonuserlink">205.211.133.128</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:205.211.133.128" title="User talk:205.211.133.128">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(Mauvais lien interwiki)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Instability&amp;diff=next&amp;oldid=638556264" title="Instability" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 84:</td>
+  <td colspan="2" class="diff-lineno">Line 84:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[es:Inestabilidad]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[es:Inestabilidad]]</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>[[fr:Instabilité (homonymie)]]</div></td>
+  <td colspan="2" class="diff-empty">&#160;</td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 22:05, 17 December 2014</h2>
+<table class="metadata plainlinks ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be too <a href="//en.wiktionary.org/wiki/technical#Adjective" class="extiw" title="wikt:technical">technical</a> for most readers to understand</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Instability&amp;action=edit">improve</a> this article to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. The <a href="/wiki/Talk:Instability" title="Talk:Instability">talk page</a> may contain suggestions.</span> <small><i>(December 2011)</i></small></span></td>
+</tr>
+</table>
+<div class="hatnote">For inherently unstable aircraft, see <a href="/wiki/Relaxed_stability" title="Relaxed stability">Relaxed stability</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Unstable3.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Unstable3.svg/220px-Unstable3.svg.png" width="220" height="115" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Unstable3.svg/330px-Unstable3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Unstable3.svg/440px-Unstable3.svg.png 2x" data-file-width="916" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Unstable3.svg" class="internal" title="Enlarge"></a></div>
+A ball on the top of a hill is an unstable situation.</div>
+</div>
+</div>
+<p>In numerous fields of study, the component of <b>instability</b> within a <a href="/wiki/System" title="System">system</a> is generally characterized by some of the outputs or internal <a href="/wiki/State_(controls)" title="State (controls)" class="mw-redirect">states</a> growing without <a href="/wiki/Bound_state" title="Bound state">bounds</a>. Not all systems that are not <a href="/wiki/Stability_theory" title="Stability theory">stable</a> are unstable; systems can also be <a href="/wiki/Marginal_stability" title="Marginal stability">marginally stable</a> or exhibit <a href="/wiki/Limit_cycle" title="Limit cycle">limit cycle</a> behavior.</p>
+<p>In <a href="/wiki/Control_theory" title="Control theory">control theory</a>, a system is unstable if any of the <a href="/wiki/Root_of_a_function" title="Root of a function" class="mw-redirect">roots</a> of its <a href="/wiki/Characteristic_equation_(calculus)" title="Characteristic equation (calculus)">characteristic equation</a> has <a href="/wiki/Real_part" title="Real part" class="mw-redirect">real part</a> greater than zero (or if zero is a repeated root). This is equivalent to any of the <a href="/wiki/Eigenvalues" title="Eigenvalues" class="mw-redirect">eigenvalues</a> of the <a href="/wiki/State_space_(controls)" title="State space (controls)" class="mw-redirect">state matrix</a> having either real part greater than zero, or, for the eigenvalues on the imaginary axis, the algebraic multiplicity being larger than the geometric multiplicity.</p>
+<p>In <a href="/wiki/Structural_engineering" title="Structural engineering">structural engineering</a>, a structure can become unstable when excessive load is applied. Beyond a certain threshold, structural <a href="/wiki/Deflection_(engineering)" title="Deflection (engineering)">deflections</a> magnify <a href="/wiki/Stress_(physics)" title="Stress (physics)" class="mw-redirect">stresses</a>, which in turn increases deflections. This can take the form of <a href="/wiki/Buckling" title="Buckling">buckling</a> or crippling. The general field of study is called <a href="/wiki/Structural_stability" title="Structural stability">structural stability</a>.</p>
+<p><a href="/wiki/Atmospheric_instability" title="Atmospheric instability">Atmospheric instability</a> is a major component of all <a href="/wiki/Weather_system" title="Weather system" class="mw-redirect">weather systems</a> on Earth.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Instability_in_solid_mechanics"><span class="tocnumber">1</span> <span class="toctext">Instability in solid mechanics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fluid_instabilities"><span class="tocnumber">2</span> <span class="toctext">Fluid instabilities</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Plasma_instabilities"><span class="tocnumber">3</span> <span class="toctext">Plasma instabilities</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Instabilities_of_stellar_systems"><span class="tocnumber">4</span> <span class="toctext">Instabilities of stellar systems</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Joint_Instabilities"><span class="tocnumber">5</span> <span class="toctext">Joint Instabilities</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Instability_in_solid_mechanics">Instability in solid mechanics</span></h2>
+<ul>
+<li><a href="/wiki/Buckling" title="Buckling">Buckling</a></li>
+<li><a href="/wiki/Elastic_instability" title="Elastic instability">Elastic instability</a></li>
+<li><a href="/wiki/Drucker_stability" title="Drucker stability">Drucker stability</a> of a nonlinear constitutive model</li>
+<li>Biot instability (surface wrinkling in elastomers)</li>
+</ul>
+<h2><span class="mw-headline" id="Fluid_instabilities">Fluid instabilities</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:HD-Rayleigh-Taylor.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HD-Rayleigh-Taylor.gif/220px-HD-Rayleigh-Taylor.gif" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HD-Rayleigh-Taylor.gif/330px-HD-Rayleigh-Taylor.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HD-Rayleigh-Taylor.gif/440px-HD-Rayleigh-Taylor.gif 2x" data-file-width="1978" data-file-height="1541" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HD-Rayleigh-Taylor.gif" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Hydrodynamic" title="Hydrodynamic" class="mw-redirect">Hydrodynamics</a> simulation of the <a href="/wiki/Rayleigh%E2%80%93Taylor_instability" title="Rayleigh–Taylor instability">Rayleigh–Taylor instability</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fluid_Instability.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fluid_Instability.jpg/220px-Fluid_Instability.jpg" width="220" height="303" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fluid_Instability.jpg/330px-Fluid_Instability.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fluid_Instability.jpg/440px-Fluid_Instability.jpg 2x" data-file-width="1743" data-file-height="2397" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fluid_Instability.jpg" class="internal" title="Enlarge"></a></div>
+Unstable flow structure generated from the collision of two impinging jets.</div>
+</div>
+</div>
+<p><a href="/wiki/Fluid" title="Fluid">Fluid</a> instabilities occur in <a href="/wiki/Liquids" title="Liquids" class="mw-redirect">liquids</a>, <a href="/wiki/Gases" title="Gases" class="mw-redirect">gases</a> and <a href="/wiki/Plasma_physics" title="Plasma physics" class="mw-redirect">plasmas</a>, and are often characterized by the shape that form; they are studied in <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid dynamics</a> and <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">magnetohydrodynamics</a>. Fluid instabilities include:</p>
+<ul>
+<li>Ballooning mode instability (some analogy to the Rayleigh–Taylor instability); found in the <a href="/wiki/Magnetosphere" title="Magnetosphere">magnetosphere</a></li>
+<li><a href="/wiki/Atmospheric_instability" title="Atmospheric instability">Atmospheric instability</a>
+<ul>
+<li><a href="/wiki/Hydrodynamic_instability" title="Hydrodynamic instability" class="mw-redirect">Hydrodynamic instability</a> or <a href="/wiki/Dynamic_instability" title="Dynamic instability" class="mw-redirect">dynamic instability</a> (<a href="/wiki/Atmospheric_dynamics" title="Atmospheric dynamics" class="mw-redirect">atmospheric dynamics</a>)
+<ul>
+<li><a href="/w/index.php?title=Inertial_instability&amp;action=edit&amp;redlink=1" class="new" title="Inertial instability (page does not exist)">Inertial instability</a>; <a href="/wiki/Baroclinic_instability" title="Baroclinic instability" class="mw-redirect">baroclinic instability</a>; <a href="/w/index.php?title=Symmetric_instability&amp;action=edit&amp;redlink=1" class="new" title="Symmetric instability (page does not exist)">symmetric instability</a>, <a href="/w/index.php?title=Conditional_symmetric_instability&amp;action=edit&amp;redlink=1" class="new" title="Conditional symmetric instability (page does not exist)">conditional symmetric</a> or <a href="/w/index.php?title=Conditional_symmetric_instability&amp;action=edit&amp;redlink=1" class="new" title="Conditional symmetric instability (page does not exist)">convective symmetric instability</a>; <a href="/w/index.php?title=Barotropic_instability&amp;action=edit&amp;redlink=1" class="new" title="Barotropic instability (page does not exist)">barotropic instability</a>; <a href="/w/index.php?title=Helmholtz_instability&amp;action=edit&amp;redlink=1" class="new" title="Helmholtz instability (page does not exist)">Helmholtz</a> or <a href="/w/index.php?title=Helmholtz_instability&amp;action=edit&amp;redlink=1" class="new" title="Helmholtz instability (page does not exist)">shearing instability</a>; <a href="/w/index.php?title=Rotational_instability&amp;action=edit&amp;redlink=1" class="new" title="Rotational instability (page does not exist)">rotational instability</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Hydrostatic_instability&amp;action=edit&amp;redlink=1" class="new" title="Hydrostatic instability (page does not exist)">Hydrostatic instability</a> or <a href="/w/index.php?title=Static_instability&amp;action=edit&amp;redlink=1" class="new" title="Static instability (page does not exist)">static instability</a>/<a href="/w/index.php?title=Static_instability&amp;action=edit&amp;redlink=1" class="new" title="Static instability (page does not exist)">vertical instability</a> (<a href="/w/index.php?title=Static_instability&amp;action=edit&amp;redlink=1" class="new" title="Static instability (page does not exist)">parcel instability</a>), <a href="/w/index.php?title=Thermodynamic_instability&amp;action=edit&amp;redlink=1" class="new" title="Thermodynamic instability (page does not exist)">thermodynamic instability</a> (<a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">atmospheric thermodynamics</a>)
+<ul>
+<li><a href="/w/index.php?title=Conditional_instability&amp;action=edit&amp;redlink=1" class="new" title="Conditional instability (page does not exist)">Conditional</a> or <a href="/w/index.php?title=Static_instability&amp;action=edit&amp;redlink=1" class="new" title="Static instability (page does not exist)">static instability</a>, <a href="/w/index.php?title=Buoyant_instability&amp;action=edit&amp;redlink=1" class="new" title="Buoyant instability (page does not exist)">buoyant instability</a>, <a href="/w/index.php?title=Latent_instability&amp;action=edit&amp;redlink=1" class="new" title="Latent instability (page does not exist)">latent instability</a>, <a href="/w/index.php?title=Nonlocal_static_instability&amp;action=edit&amp;redlink=1" class="new" title="Nonlocal static instability (page does not exist)">nonlocal static instability</a>, <a href="/w/index.php?title=Conditional-symmetric_instability&amp;action=edit&amp;redlink=1" class="new" title="Conditional-symmetric instability (page does not exist)">conditional-symmetric instability</a>; <a href="/wiki/Convective_instability" title="Convective instability">convective</a>, <a href="/wiki/Convective_instability" title="Convective instability">potential</a>, or <a href="/wiki/Convective_instability" title="Convective instability">thermal instability</a>, <a href="/wiki/Convective_instability_of_the_first_kind" title="Convective instability of the first kind" class="mw-redirect">convective instability of the first</a> and <a href="/wiki/Convective_instability_of_the_second_kind" title="Convective instability of the second kind" class="mw-redirect">second kind</a>; <a href="/w/index.php?title=Absolute_instability&amp;action=edit&amp;redlink=1" class="new" title="Absolute instability (page does not exist)">absolute</a> or <a href="/w/index.php?title=Absolute_instability&amp;action=edit&amp;redlink=1" class="new" title="Absolute instability (page does not exist)">mechanical instability</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/B%C3%A9nard_cells" title="Bénard cells" class="mw-redirect">Bénard instability</a></li>
+<li>Drift mirror instability</li>
+<li><a href="/wiki/Kelvin%E2%80%93Helmholtz_instability" title="Kelvin–Helmholtz instability">Kelvin–Helmholtz instability</a> (similar, but different from the <a href="/wiki/Diocotron_instability" title="Diocotron instability">diocotron instability</a> in plasmas)</li>
+<li><a href="/wiki/Rayleigh%E2%80%93Taylor_instability" title="Rayleigh–Taylor instability">Rayleigh–Taylor instability</a></li>
+<li><a href="/wiki/Plateau-Rayleigh_instability" title="Plateau-Rayleigh instability" class="mw-redirect">Plateau-Rayleigh instability</a> (similar to the Rayleigh–Taylor instability)</li>
+<li><a href="/wiki/Richtmyer-Meshkov_instability" title="Richtmyer-Meshkov instability" class="mw-redirect">Richtmyer-Meshkov instability</a> (similar to the Rayleigh–Taylor instability)</li>
+<li><a href="/wiki/Shock_wave" title="Shock wave">Shock Wave</a> Instability</li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Plasma_instabilities">Plasma instabilities</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Plasma_stability#Plasma_instabilities" title="Plasma stability">Plasma stability § Plasma instabilities</a></div>
+<p><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a> instabilities can be divided into two general groups (1) hydrodynamic instabilities (2) kinetic instabilities. Plasma instabilities are also categorised into different modes&#160;– see <a href="/wiki/Plasma_stability#Plasma_instabilities" title="Plasma stability">this paragraph in plasma stability</a>.</p>
+<h2><span class="mw-headline" id="Instabilities_of_stellar_systems">Instabilities of stellar systems</span></h2>
+<p><a href="/wiki/Galaxies" title="Galaxies" class="mw-redirect">Galaxies</a> and <a href="/wiki/Star_cluster" title="Star cluster">star clusters</a> can be unstable, if small perturbations in the <a href="/wiki/Gravitational_potential" title="Gravitational potential">gravitational potential</a> cause changes in the density that reinforce the original perturbation. Such instabilities usually require that the motions of stars be highly correlated, so that the perturbation is not "smeared out" by random motions. After the instability has run its course, the system is typically "hotter" (the motions are more random) or rounder than before. Instabilities in stellar systems include:</p>
+<ul>
+<li><a href="/w/index.php?title=Bar_instability&amp;action=edit&amp;redlink=1" class="new" title="Bar instability (page does not exist)">Bar instability</a> of rapidly rotating disks</li>
+<li><a href="/wiki/Jeans_instability" title="Jeans instability">Jeans instability</a></li>
+<li><a href="/wiki/Firehose_instability" title="Firehose instability">Firehose instability</a><sup id="cite_ref-MS94_2-0" class="reference"><a href="#cite_note-MS94-2"><span>[</span>2<span>]</span></a></sup></li>
+<li><a href="/w/index.php?title=Gravothermal_instability&amp;action=edit&amp;redlink=1" class="new" title="Gravothermal instability (page does not exist)">Gravothermal instability</a></li>
+<li><a href="/w/index.php?title=Radial-orbit_instability&amp;action=edit&amp;redlink=1" class="new" title="Radial-orbit instability (page does not exist)">Radial-orbit instability</a></li>
+<li>Various instabilities in cold rotating disks</li>
+</ul>
+<h2><span class="mw-headline" id="Joint_Instabilities">Joint Instabilities</span></h2>
+<p>The most common residual disability after any sprain in the body is instability. Mechanical instability includes insufficient stabilizing structures and mobility that exceed the physiological limits. Functional instability involves recurrent sprains or a feeling of giving way of the injured joint.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Injuries cause <a href="/wiki/Proprioceptive" title="Proprioceptive" class="mw-redirect">proprioceptive</a> deficits and impaired postural control in the joint. Individuals with muscular weakness, occult instability, and decreased postural control are more susceptible to injury than those with better postural control. Instability leads to an increase in postural sway, the measurement of the time and distance a subject spends away from an ideal <a href="/wiki/Center_of_pressure_(terrestrial_locomotion)" title="Center of pressure (terrestrial locomotion)">center of pressure</a>. The measurement of a subject’s postural sway can be calculated through testing center of pressure (CoP), which is defined as the vertical projection of center of mass on the ground. Investigators have theorized that if injuries to joints cause <a href="/wiki/Deafferentation" title="Deafferentation" class="mw-redirect">deafferentation</a>, the interruption of sensory nerve fibers, and functional instability, then a subject’s postural sway should be altered.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Joint stability can be enhanced by the use of an external support system, like a brace, to alter body mechanics. The mechanical support provided by a brace provides cutaneous <a href="/wiki/Afferent" title="Afferent" class="mw-disambig">afferent</a> feedback in maintaining postural control and increasing stability.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Plasma_stability" title="Plasma stability">Plasma stability</a></li>
+<li><a href="/wiki/Political_instability" title="Political instability" class="mw-redirect">Political instability</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web">Shengtai Li, Hui Li. <a rel="nofollow" class="external text" href="http://math.lanl.gov/Research/Highlights/amrmhd.shtml">"Parallel AMR Code for Compressible MHD or HD Equations"</a>. Los Alamos National Laboratory.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInstability&amp;rft.aulast=Shengtai+Li%2C+Hui+Li&amp;rft.au=Shengtai+Li%2C+Hui+Li&amp;rft.btitle=Parallel+AMR+Code+for+Compressible+MHD+or+HD+Equations&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmath.lanl.gov%2FResearch%2FHighlights%2Famrmhd.shtml&amp;rft.pub=Los+Alamos+National+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MS94-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-MS94_2-0">^</a></b></span> <span class="reference-text"><span id="CITEREFMerrittSellwood1994" class="citation"><a href="/wiki/David_Merritt" title="David Merritt">Merritt, D.</a>; Sellwood, J. (1994), "Bending Instabilities of Stellar Systems", <i>The Astrophysical Journal</i> <b>425</b>: 551–567, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1994ApJ...425..551M">1994ApJ...425..551M</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F174005">10.1086/174005</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInstability&amp;rft.atitle=Bending+Instabilities+of+Stellar+Systems&amp;rft.aufirst=D.&amp;rft.aulast=Merritt&amp;rft.au=Merritt%2C+D.&amp;rft.au=Sellwood%2C+J.&amp;rft.date=1994&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1994ApJ...425..551M&amp;rft_id=info%3Adoi%2F10.1086%2F174005&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=551-567&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=425" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Guskiewicz, K. M.; Perrin, David H. (1996). "Effect of Orthotics on Postural Sway Following Inversion Ankle Sprain". <i>Journal of Orthopedic and Sports Physical Therapy</i> <b>23</b> (5): 326–331. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2519%2Fjospt.1996.23.5.326">10.2519/jospt.1996.23.5.326</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInstability&amp;rft.atitle=Effect+of+Orthotics+on+Postural+Sway+Following+Inversion+Ankle+Sprain&amp;rft.aufirst=K.+M.&amp;rft.au=Guskiewicz%2C+K.+M.&amp;rft.aulast=Guskiewicz&amp;rft.au=Perrin%2C+David+H.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2519%2Fjospt.1996.23.5.326&amp;rft.issue=5&amp;rft.jtitle=Journal+of+Orthopedic+and+Sports+Physical+Therapy&amp;rft.pages=326-331&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|accessdate=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Pintsaar, A.; Brynhildsen, J.; Tropp, H. (1996). "Postural Corrections after Standardised Perturbations of Single Limb Stance: Effect of Training and Orthotic Devices in Patients with Ankle Instability". <i><a href="/wiki/British_Journal_of_Sports_Medicine" title="British Journal of Sports Medicine">British Journal of Sports Medicine</a></i> <b>30</b> (2): 151–155. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fbjsm.30.2.151">10.1136/bjsm.30.2.151</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInstability&amp;rft.atitle=Postural+Corrections+after+Standardised+Perturbations+of+Single+Limb+Stance%3A+Effect+of+Training+and+Orthotic+Devices+in+Patients+with+Ankle+Instability&amp;rft.au=Brynhildsen%2C+J.&amp;rft.aufirst=A.&amp;rft.aulast=Pintsaar&amp;rft.au=Pintsaar%2C+A.&amp;rft.au=Tropp%2C+H.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1136%2Fbjsm.30.2.151&amp;rft.issue=2&amp;rft.jtitle=British+Journal+of+Sports+Medicine&amp;rft.pages=151-155&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|accessdate=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.efluids.com/efluids/pages/gallery.htm">eFluids Fluid Flow Image Gallery</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1048
+CPU time usage: 0.227 seconds
+Real time usage: 0.298 seconds
+Preprocessor visited node count: 554/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14267/2097152 bytes
+Template argument size: 86/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 1.81 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  173.005      1 - -total
+ 42.73%   73.930      1 - Template:Reflist
+ 42.44%   73.418      1 - Template:Technical
+ 28.55%   49.388      1 - Template:Ambox
+ 18.57%   32.129      1 - Template:Cite_web
+  8.00%   13.836      1 - Template:Citation
+  6.20%   10.735      2 - Template:Cite_journal
+  5.06%    8.750      1 - Template:For
+  4.95%    8.567      1 - Template:Main
+  3.64%    6.305      1 - Template:Hatnote
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Instability&amp;oldid=638556264">http://en.wikipedia.org/w/index.php?title=Instability&amp;oldid=638556264</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Systems theory</a></li><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">Plasma physics</a></li><li><a href="/wiki/Category:Stability_theory" title="Category:Stability theory">Stability theory</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_December_2011" title="Category:Wikipedia articles that are too technical from December 2011">Wikipedia articles that are too technical from December 2011</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_December_2011" title="Category:Articles needing expert attention from December 2011">Articles needing expert attention from December 2011</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Instability&amp;returntoquery=diff%3D638556264%26oldid%3D631952616&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Instability&amp;returntoquery=diff%3D638556264%26oldid%3D631952616" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Instability"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Instability"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Instability" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Instability&amp;action=edit&amp;oldid=638556264"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Instability&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Instability" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Instability" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Instability&amp;oldid=638556264" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Instability&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q405372" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Instability&amp;id=638556264" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Instability">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Instability&amp;oldid=631952616&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Instability&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ast"><a href="//ast.wikipedia.org/wiki/Inestabilid%C3%A1" title="Inestabilidá – Asturian" lang="ast" hreflang="ast">Asturianu</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Instabilit%C3%A4t" title="Instabilität – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Inestabilidad" title="Inestabilidad – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Instabilit%C3%A9" title="Instabilité – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Instabilit%C3%A0" title="Instabilità – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Instabilidade" title="Instabilidade – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Нестабильность – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Nestabilnost" title="Nestabilnost – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%81%D1%82%D1%96%D0%B9%D0%BA%D1%96%D1%81%D1%82%D1%8C" title="Нестійкість – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%B8%8D%E7%A8%B3%E5%AE%9A%E6%80%A7" title="不稳定性 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q405372#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Instability&amp;diff=638556264&amp;oldid=631952616&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":489,"wgHostname":"mw1048"});
+}</script>
+	</body>
+</html>

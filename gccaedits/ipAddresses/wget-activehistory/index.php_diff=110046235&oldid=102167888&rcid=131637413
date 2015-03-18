@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Instabilité gravitaire : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Instabilit%C3%A9_gravitaire" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=110046235&amp;oldid=102167888&amp;rcid=131637413" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Instabilité_gravitaire","wgTitle":"Instabilité gravitaire","wgCurRevisionId":112375199,"wgRevisionId":110046235,"wgArticleId":3958820,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portail:Géologie/Articles liés","Portail:Sciences de la Terre et de l'Univers/Articles liés","Érosion","Géotechnique"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Instabilité_gravitaire","wgRelevantArticleId":3958820,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1567542"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Instabilité_gravitaire skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Instabilité gravitaire : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;oldid=102167888" title="Instabilité gravitaire">Version du 18 mars 2014 à 18:48</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=edit&amp;oldid=102167888" title="Instabilité gravitaire">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Utilisateur:Scientif38" title="Utilisateur:Scientif38" class="mw-userlink">Scientif38</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Scientif38" title="Discussion utilisateur:Scientif38">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Scientif38" title="Spécial:Contributions/Scientif38">contributions</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='Cette modification est mineure.'>m</abbr> <span class="comment">(Renvoi)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;diff=prev&amp;oldid=102167888" title="Instabilité gravitaire" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;oldid=110046235" title="Instabilité gravitaire">Version du 17 décembre 2014 à 23:37</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=edit&amp;oldid=110046235" title="Instabilité gravitaire">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=edit&amp;undoafter=102167888&amp;undo=110046235" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/205.211.133.128" title="Spécial:Contributions/205.211.133.128" class="mw-userlink mw-anonuserlink">205.211.133.128</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:205.211.133.128" title="Discussion utilisateur:205.211.133.128">discuter</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(+homon)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;diff=next&amp;oldid=110046235" title="Instabilité gravitaire" id="differences-nextlink">Modification suivante →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div><del class="diffchange diffchange-inline">[[Image:TalusConesIsfjorden.jpg</del>|<del class="diffchange diffchange-inline">thumb|right|200px|Cônes d'éboulis sur la rive nord de [[Isfjorden]] en Norvège.]]</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div><ins class="diffchange diffchange-inline">{{Voir homonymes</ins>|<ins class="diffchange diffchange-inline">Instabilité}}</ins></div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div><del class="diffchange diffchange-inline">L''''instabilité gravitaire''' est également connue sous le nom de processus de </del>[[<del class="diffchange diffchange-inline">Pente (topographie)</del>|<del class="diffchange diffchange-inline">pente]], ou mouvement de masse rocheuse. Ce processus géomorphologique implique des mouvements de [[roche]]s (sol, substrat, [[régolithe]]...) le long de l'inclinaison</del> d'<del class="diffchange diffchange-inline">une</del> <del class="diffchange diffchange-inline">surface topographique sous l'effet de</del> la <del class="diffchange diffchange-inline">[[gravité]].</del> <del class="diffchange diffchange-inline">Derrière ce nom, se cachent différents processus comme la [[solifluxion]], les [[glissement</del> de<del class="diffchange diffchange-inline"> terrain|glissements de terrain]], les</del> [[<del class="diffchange diffchange-inline">lave torrentielle|laves torrentielles</del>]]<del class="diffchange diffchange-inline">,</del> <del class="diffchange diffchange-inline">les</del> <del class="diffchange diffchange-inline">[[avalanche]]s, les effondrements</del>.<del class="diffchange diffchange-inline">.. Les dimensions de ce type de processus peuvent varier de plusieurs ordres de grandeur et peuvent se mettre en place sur [[Terre</del>]]<del class="diffchange diffchange-inline"> mais également sur [[Mars (planète)|Mars]], [[Vénus (planète)|Vénus]], [[Titan (lune)|Titan]], etc.</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>[[<ins class="diffchange diffchange-inline">Fichier:TalusConesIsfjorden.jpg</ins>|<ins class="diffchange diffchange-inline">vignette|Cônes</ins> d'<ins class="diffchange diffchange-inline">éboulis</ins> <ins class="diffchange diffchange-inline">sur</ins> la <ins class="diffchange diffchange-inline">rive</ins> <ins class="diffchange diffchange-inline">nord</ins> de [[<ins class="diffchange diffchange-inline">Isfjorden</ins>]] <ins class="diffchange diffchange-inline">en</ins> <ins class="diffchange diffchange-inline">Norvège</ins>.]]</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>L’'''instabilité gravitaire''' est également connue sous le nom de processus de [[Pente (topographie)|pente]], ou mouvement de masse rocheuse. Ce processus géomorphologique implique des mouvements de [[roche]]s (sol, substrat, [[régolithe]]...) le long de l'inclinaison d'une surface topographique sous l'effet de la [[gravité]]. Derrière ce nom, se cachent différents processus comme la [[solifluxion]], les [[glissement de terrain|glissements de terrain]], les [[lave torrentielle|laves torrentielles]], les [[avalanche]]s, les effondrements... Les dimensions de ce type de processus peuvent varier de plusieurs ordres de grandeur et peuvent se mettre en place sur [[Terre]] mais également sur [[Mars (planète)|Mars]], [[Vénus (planète)|Vénus]], [[Titan (lune)|Titan]], etc.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Lorsque la force de gravité excède les forces de résistance des matériaux, une rupture dans le sol va alors provoquer cette instabilité gravitaire. La stabilité de la pente est ainsi contrôlée par la cohésion, la friction interne et l'état de contrainte. La pente la plus forte que le matériau sans cohésion puisse supporter sans perdre sa stabilité est nommée angle de repos. Si la pente topographique est plus faible que cet angle de repos, la résistance au cisaillement contrebalance alors la force de gravité agissant sur la masse. Les facteurs pouvant impliquer ces mouvements de masse sont : changement de l'angle de pente (érosion, tectonique, séismes...), l'affaiblissement des matériaux par l'érosion, augmentation de la teneur en eau qui peut alors augmenter le pression de pore, les changements de la couverture végétale, et la surcharge (dans le cas de constructions par exemple).</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>Lorsque la force de gravité excède les forces de résistance des matériaux, une rupture dans le sol va alors provoquer cette instabilité gravitaire. La stabilité de la pente est ainsi contrôlée par la cohésion, la friction interne et l'état de contrainte. La pente la plus forte que le matériau sans cohésion puisse supporter sans perdre sa stabilité est nommée angle de repos. Si la pente topographique est plus faible que cet angle de repos, la résistance au cisaillement contrebalance alors la force de gravité agissant sur la masse. Les facteurs pouvant impliquer ces mouvements de masse sont : changement de l'angle de pente (érosion, tectonique, séismes...), l'affaiblissement des matériaux par l'érosion, augmentation de la teneur en eau qui peut alors augmenter le pression de pore, les changements de la couverture végétale, et la surcharge (dans le cas de constructions par exemple).</div></td>
+</tr>
+
+<!-- diff cache key frwiki:diff:version:1.11a:oldid:102167888:newid:110046235 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version du 17 décembre 2014 à 23:37</h2>
+<div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d'aide sur l'homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a> Pour les articles homonymes, voir <a href="/wiki/Instabilit%C3%A9" title="Instabilité" class="mw-disambig">Instabilité</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:TalusConesIsfjorden.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TalusConesIsfjorden.jpg/220px-TalusConesIsfjorden.jpg" width="220" height="105" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TalusConesIsfjorden.jpg/330px-TalusConesIsfjorden.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TalusConesIsfjorden.jpg/440px-TalusConesIsfjorden.jpg 2x" data-file-width="3232" data-file-height="1544" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:TalusConesIsfjorden.jpg" class="internal" title="Agrandir"></a></div>
+Cônes d'éboulis sur la rive nord de <a href="/wiki/Isfjorden" title="Isfjorden">Isfjorden</a> en Norvège.</div>
+</div>
+</div>
+<p>L’<b>instabilité gravitaire</b> est également connue sous le nom de processus de <a href="/wiki/Pente_(topographie)" title="Pente (topographie)">pente</a>, ou mouvement de masse rocheuse. Ce processus géomorphologique implique des mouvements de <a href="/wiki/Roche" title="Roche">roches</a> (sol, substrat, <a href="/wiki/R%C3%A9golithe" title="Régolithe">régolithe</a>...) le long de l'inclinaison d'une surface topographique sous l'effet de la <a href="/wiki/Gravit%C3%A9" title="Gravité" class="mw-redirect">gravité</a>. Derrière ce nom, se cachent différents processus comme la <a href="/wiki/Solifluxion" title="Solifluxion">solifluxion</a>, les <a href="/wiki/Glissement_de_terrain" title="Glissement de terrain">glissements de terrain</a>, les <a href="/wiki/Lave_torrentielle" title="Lave torrentielle">laves torrentielles</a>, les <a href="/wiki/Avalanche" title="Avalanche">avalanches</a>, les effondrements... Les dimensions de ce type de processus peuvent varier de plusieurs ordres de grandeur et peuvent se mettre en place sur <a href="/wiki/Terre" title="Terre">Terre</a> mais également sur <a href="/wiki/Mars_(plan%C3%A8te)" title="Mars (planète)">Mars</a>, <a href="/wiki/V%C3%A9nus_(plan%C3%A8te)" title="Vénus (planète)">Vénus</a>, <a href="/wiki/Titan_(lune)" title="Titan (lune)">Titan</a>, etc.</p>
+<p>Lorsque la force de gravité excède les forces de résistance des matériaux, une rupture dans le sol va alors provoquer cette instabilité gravitaire. La stabilité de la pente est ainsi contrôlée par la cohésion, la friction interne et l'état de contrainte. La pente la plus forte que le matériau sans cohésion puisse supporter sans perdre sa stabilité est nommée angle de repos. Si la pente topographique est plus faible que cet angle de repos, la résistance au cisaillement contrebalance alors la force de gravité agissant sur la masse. Les facteurs pouvant impliquer ces mouvements de masse sont&#160;: changement de l'angle de pente (érosion, tectonique, séismes...), l'affaiblissement des matériaux par l'érosion, augmentation de la teneur en eau qui peut alors augmenter le pression de pore, les changements de la couverture végétale, et la surcharge (dans le cas de constructions par exemple).</p>
+<h2><span class="mw-headline" id="R.C3.A9f.C3.A9rences">Références</span></h2>
+<ul>
+<li><span class="ouvrage" id="Wicander2005"><span class="ouvrage" id="Monroe.2C_Wicander2005"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> Monroe, Wicander (<abbr class="abbr" title="traduction">trad.</abbr>&#160;de l'allemand), <cite class="italique" lang="en" xml:lang="en">The Changing Earth: Exploring Geology and Evolution</cite>, Australia, Thomson Brooks/Cole,‎ 2005, <abbr class="abbr" title="quatrième">4<sup>e</sup></abbr>&#160;<abbr class="abbr" title="édition">éd.</abbr>, poche <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-495-01020-3" title="Spécial:Ouvrages de référence/978-0-495-01020-3"><span class="nowrap">978-0-495-01020-3</span></a>, <a href="/wiki/Num%C3%A9ro_de_contr%C3%B4le_de_la_Biblioth%C3%A8que_du_Congr%C3%A8s" title="Numéro de contrôle de la Bibliothèque du Congrès">LCCN</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="http://lccn.loc.gov/2004117863">2004117863</a></span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Changing+Earth%3A+Exploring+Geology+and+Evolution&amp;rft.place=Australia&amp;rft.pub=Thomson+Brooks%2FCole&amp;rft.edition=4&amp;rft.aulast=Wicander&amp;rft.aufirst=Monroe%2C&amp;rft.date=2005&amp;rft.isbn=978-0-495-01020-3&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+gravitaire" id="COinS_31906"></span></span></span></li>
+<li><span class="ouvrage" id="M.J.1993"><span class="ouvrage" id="Selby.2C_M.J.1993"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> Selby, M.J. (<abbr class="abbr" title="traduction">trad.</abbr>&#160;de l'allemand), <cite class="italique" lang="en" xml:lang="en">Hillslope Materials and Processes, 2e</cite>, Oxford, <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>,‎ 1993, <abbr class="abbr" title="deuxième">2<sup>e</sup></abbr>&#160;<abbr class="abbr" title="édition">éd.</abbr>, poche <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-19-874183-1" title="Spécial:Ouvrages de référence/978-0-19-874183-1"><span class="nowrap">978-0-19-874183-1</span></a>, <a href="/wiki/Num%C3%A9ro_de_contr%C3%B4le_de_la_Biblioth%C3%A8que_du_Congr%C3%A8s" title="Numéro de contrôle de la Bibliothèque du Congrès">LCCN</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="http://lccn.loc.gov/92035120">92035120</a></span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hillslope+Materials+and+Processes%2C+2e&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.edition=2&amp;rft.aulast=M.J.&amp;rft.aufirst=Selby%2C&amp;rft.date=1993&amp;rft.isbn=978-0-19-874183-1&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+gravitaire" id="COinS_29974"></span></span></span></li>
+<li><span class="ouvrage" id="2007"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> Pudasaini, Shiva P., Hutter, Kolumban (<abbr class="abbr" title="traduction">trad.</abbr>&#160;de l'allemand), <cite class="italique" lang="en" xml:lang="en">Avalanche Dynamics: Dynamics of Rapid Flows of Dense Granular Avalanches</cite>, Berlin, Springer, Berlin, New York,‎ 2007 <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-3-540-32686-1" title="Spécial:Ouvrages de référence/978-3-540-32686-1"><span class="nowrap">978-3-540-32686-1</span></a>, <a href="/wiki/Num%C3%A9ro_de_contr%C3%B4le_de_la_Biblioth%C3%A8que_du_Congr%C3%A8s" title="Numéro de contrôle de la Bibliothèque du Congrès">LCCN</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="http://lccn.loc.gov/2006928957">2006928957</a></span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Avalanche+Dynamics%3A+Dynamics+of+Rapid+Flows+of+Dense+Granular+Avalanches&amp;rft.place=Berlin&amp;rft.pub=Springer%2C+Berlin%2C+New+York&amp;rft.date=2007&amp;rft.isbn=978-3-540-32686-1&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+gravitaire" id="COinS_28921"></span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span></h2>
+<ul>
+<li><a href="/wiki/Glissement_de_terrain" title="Glissement de terrain">Glissement de terrain</a></li>
+<li><a href="/wiki/Reptation" title="Reptation">Reptation</a></li>
+<li><a href="/wiki/Solifluxion" title="Solifluxion">Solifluxion</a></li>
+<li><a href="/wiki/Avalanche" title="Avalanche">Avalanche</a></li>
+<li><a href="/wiki/Angle_de_talus_naturel" title="Angle de talus naturel">Angle de talus naturel</a></li>
+</ul>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:G%C3%A9ologie" title="Portail de la géologie"><img alt="Portail de la géologie" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Monocline01.gif/35px-Monocline01.gif" width="35" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Monocline01.gif/52px-Monocline01.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Monocline01.gif/69px-Monocline01.gif 2x" data-file-width="1230" data-file-height="860" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:G%C3%A9ologie" title="Portail:Géologie">Portail de la géologie</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1082
+CPU time usage: 0.149 seconds
+Real time usage: 0.399 seconds
+Preprocessor visited node count: 394/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9884/2097152 bytes
+Template argument size: 172/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 1.37 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  343.470      1 - -total
+ 76.04%  261.186      1 - Modèle:Portail
+ 70.28%  241.402      1 - Modèle:Catégorisation_badges
+ 22.81%   78.350      3 - Modèle:Ouvrage
+  3.98%   13.667      1 - Modèle:Portail_Géologie
+  2.64%    9.073      1 - Modèle:Méta_lien_vers_portail
+  1.34%    4.594      1 - Modèle:Méta_lien_vers_portail/Catégorisation
+  0.96%    3.311      1 - Modèle:Voir_homonymes
+-->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Instabilité_gravitaire&amp;oldid=110046235">http://fr.wikipedia.org/w/index.php?title=Instabilité_gravitaire&amp;oldid=110046235</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:%C3%89rosion" title="Catégorie:Érosion">Érosion</a></li><li><a href="/wiki/Cat%C3%A9gorie:G%C3%A9otechnique" title="Catégorie:Géotechnique">Géotechnique</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Portail:G%C3%A9ologie/Articles_li%C3%A9s" title="Catégorie:Portail:Géologie/Articles liés">Portail:Géologie/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences_de_la_Terre_et_de_l%27Univers/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences de la Terre et de l'Univers/Articles liés">Portail:Sciences de la Terre et de l'Univers/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+gravitaire&amp;returntoquery=diff%3D110046235%26oldid%3D102167888%26rcid%3D131637413&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+gravitaire&amp;returntoquery=diff%3D110046235%26oldid%3D102167888%26rcid%3D131637413" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Instabilit%C3%A9_gravitaire"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Instabilit%C3%A9_gravitaire"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Instabilit%C3%A9_gravitaire" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;oldid=110046235&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=edit&amp;oldid=110046235"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Instabilit%C3%A9+gravitaire">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Instabilit%C3%A9+gravitaire&amp;oldid=102167888&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Autres projets</h3>
+
+			<div class="body">
+									<ul>
+													<li class="wb-otherproject-link wb-otherproject-commons"><a href="//commons.wikimedia.org/wiki/Category:Mass_movements" hreflang="en">Wikimedia Commons</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Instabilit%C3%A9_gravitaire" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Instabilit%C3%A9_gravitaire" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;oldid=110046235" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1567542" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Instabilit%C3%A9_gravitaire&amp;id=110046235" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Mas-symudiad" title="Mas-symudiad — gallois" lang="cy" hreflang="cy">Cymraeg</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Massenbewegung_(Geologie)" title="Massenbewegung (Geologie) — allemand" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Mass_wasting" title="Mass wasting — anglais" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Remoci%C3%B3n_de_masa" title="Remoción de masa — espagnol" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%A0%D7%95%D7%A2%D7%AA_%D7%91%D7%9C%D7%99%D7%AA" title="תנועת בלית — hébreu" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Pemborosan_massal" title="Pemborosan massal — indonésien" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Massabeweging" title="Massabeweging — néerlandais" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Massebevegelse" title="Massebevegelse — norvégien" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ruchy_masowe" title="Ruchy masowe — polonais" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Massr%C3%B6relse_(geologi)" title="Massrörelse (geologi) — suédois" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B4%A9%E5%A3%9E%E4%BD%9C%E7%94%A8" title="崩壞作用 — chinois" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q1567542#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">Vous êtes sur une ancienne version de l’article. <br />Il a depuis été corrigé pour cause d’informations erronées, de vandalisme ou de contenu incompatible avec la <a href="/wiki/Wikip%C3%A9dia:Licence_Creative_Commons_Paternit%C3%A9-Partage_des_Conditions_Initiales_%C3%A0_l%27Identique_3.0_Unported" title="Wikipédia:Licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique 3.0 Unported">licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique</a>, ou simplement amélioré.<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Instabilit%C3%A9_gravitaire&amp;diff=110046235&amp;oldid=102167888&amp;rcid=131637413&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":549,"wgHostname":"mw1082"});
+}</script>
+	</body>
+</html>

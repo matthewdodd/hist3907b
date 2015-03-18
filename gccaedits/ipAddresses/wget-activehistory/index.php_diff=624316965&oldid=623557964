@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>NanoRacks CubeSat Deployer: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/NanoRacks_CubeSat_Deployer" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=624316965&amp;oldid=623557964" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"NanoRacks_CubeSat_Deployer","wgTitle":"NanoRacks CubeSat Deployer","wgCurRevisionId":637294990,"wgRevisionId":624316965,"wgArticleId":43595729,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Uncategorized from August 2014","Articles with invalid date parameter in template","All uncategorized pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"NanoRacks_CubeSat_Deployer","wgRelevantArticleId":43595729,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18379183"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-NanoRacks_CubeSat_Deployer skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">NanoRacks CubeSat Deployer: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;oldid=623557964" title="NanoRacks CubeSat Deployer">Revision as of 10:08, 31 August 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=edit&amp;oldid=623557964" title="NanoRacks CubeSat Deployer">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Yobot" title="User:Yobot" class="mw-userlink">Yobot</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Yobot" title="User talk:Yobot">talk</a> | <a href="/wiki/Special:Contributions/Yobot" title="Special:Contributions/Yobot">contribs</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="comment">(<a href="/wiki/Wikipedia:CHECKWIKI" class="mw-redirect" title="Wikipedia:CHECKWIKI">WP:CHECKWIKI</a> error fixes using <a href="/wiki/Wikipedia:AWB" class="mw-redirect" title="Wikipedia:AWB">AWB</a> (10441))</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;diff=prev&amp;oldid=623557964" title="NanoRacks CubeSat Deployer" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;oldid=624316965" title="NanoRacks CubeSat Deployer">Revision as of 18:09, 5 September 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=edit&amp;oldid=624316965" title="NanoRacks CubeSat Deployer">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=edit&amp;undoafter=623557964&amp;undo=624316965" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/142.74.1.3" title="Special:Contributions/142.74.1.3" class="mw-userlink mw-anonuserlink">142.74.1.3</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:142.74.1.3" title="User talk:142.74.1.3">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#NRCSD_Technical_Details">→</a>‎<span dir="auto"><span class="autocomment">NRCSD Technical Details: </span>  Removed a paragraph that had nothing to do with cubesats or NRCSD.</span>)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;diff=next&amp;oldid=624316965" title="NanoRacks CubeSat Deployer" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 32:</td>
+  <td colspan="2" class="diff-lineno">Line 32:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The NRCSD is a rectangular tube that consists of anodized aluminum plates, base plate assembly, access panels, and deployer doors. The NRCSD deployer doors are located on the forward end, the base plate assembly is located on the aft end, and access panels are provided on the top.&lt;ref&gt;[http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf NanoRacks Interface Document for NRCSD]&lt;/ref&gt; The inside walls of the NRCSD are a smooth bore design to minimize and/or preclude hang-up or jamming of CubeSat appendages during deployment, should these become released prematurely. However, deployable systems shall be designed such that there is no intentional contact with the inside walls of the NRCSD.&lt;ref&gt;[http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf NanoRacks Interface Document for NRCSD]&lt;/ref&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>The NRCSD is a rectangular tube that consists of anodized aluminum plates, base plate assembly, access panels, and deployer doors. The NRCSD deployer doors are located on the forward end, the base plate assembly is located on the aft end, and access panels are provided on the top.&lt;ref&gt;[http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf NanoRacks Interface Document for NRCSD]&lt;/ref&gt; The inside walls of the NRCSD are a smooth bore design to minimize and/or preclude hang-up or jamming of CubeSat appendages during deployment, should these become released prematurely. However, deployable systems shall be designed such that there is no intentional contact with the inside walls of the NRCSD.&lt;ref&gt;[http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf NanoRacks Interface Document for NRCSD]&lt;/ref&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"></td>
+  <td colspan="2" class="diff-empty">&#160;</td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>On board the ISS, the NanoRacks Platforms are installed in Express Rack (ER) locker inserts to supply power and USB data transfer capability for NanoRacks Modules. Each NanoRacks Module must conform to a standard size of approximately 10&amp;nbsp;cm x 10&amp;nbsp;cm x 10&amp;nbsp;cm with a mass of 1&amp;nbsp;kg.&lt;ref&gt;[http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf NanoRacks Interface Document for NRCSD]&lt;/ref&gt; Every NanoRacks Module has a different educational or industrial researcher, the experiments supported cover a wide range of disciplines, some NanoRacks Modules serve as sorties. An ISS crew member powers down the NanoRacks Platform and then plugs in the resupplied NanoRacks Modules. The NanoRacks Platform is powered up, and the data cable between the associated USB port on the NanoRacks Platform front panel and an Express Laptop computer is plugged in to collect data and download at designated times.&lt;ref&gt;[http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf NanoRacks Interface Document for NRCSD]&lt;/ref&gt;</div></td>
+  <td colspan="2" class="diff-empty">&#160;</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>For a deployment, the platform is moved outside via the Kibo Module’s Airlock and slide table that allows the JEMRMS to move the deployers to the correct orientation for the satellite release and also provides command and control to the deployers. Each NRCSD (NanoRacks CubeSat Deployer) is capable of holding six CubeSat Units - allowing it to launch two 3U satellites or a number of 2U and 1U satellites.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>For a deployment, the platform is moved outside via the Kibo Module’s Airlock and slide table that allows the JEMRMS to move the deployers to the correct orientation for the satellite release and also provides command and control to the deployers. Each NRCSD (NanoRacks CubeSat Deployer) is capable of holding six CubeSat Units - allowing it to launch two 3U satellites or a number of 2U and 1U satellites.</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 18:09, 5 September 2014</h2>
+<p>Currently, there are two <a href="/wiki/CubeSat" title="CubeSat">CubeSat</a> deployers on board the International Space Station (ISS): The <a href="/wiki/Japanese_Experiment_Module" title="Japanese Experiment Module" class="mw-redirect">Japanese Experiment Module</a> (JEM) Small Satellite Orbital Deployer (J-SSOD) and the <a href="/wiki/NanoRacks" title="NanoRacks">NanoRacks</a> CubeSat Deployer (NRCSD). The J-SSOD is the first of its kind to deploy small satellites from the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a>. The NRCSD is the first commercially operated small satellite deployer from the ISS, maximizing full capabilities of each airlock cycle of deployments.</p>
+<p>CubeSats are a class of research spacecraft called nanosatellites. The cube-shaped satellites measure about 4 inches on each side, weigh less than 3 pounds, and have a volume of about 1 quart. Putting them in orbit requires a special apparatus, such as the NanoRacks CubeSat Deployer. This puts the CubeSat into position to be grabbed by one of the station’s robotic arms, which places the CubeSat deployer into the correct position to release the miniature satellites into proper orbit.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#JEM_Small_Satellite_Orbital_Deployer"><span class="tocnumber">2.1</span> <span class="toctext">JEM Small Satellite Orbital Deployer</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#NanoRacks_CubeSat_Deployer_Development"><span class="tocnumber">2.2</span> <span class="toctext">NanoRacks CubeSat Deployer Development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#NRCSD_Technical_Details"><span class="tocnumber">3</span> <span class="toctext">NRCSD Technical Details</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Manufacturing_the_NRCSD"><span class="tocnumber">4</span> <span class="toctext">Manufacturing the NRCSD</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Mission_Profile"><span class="tocnumber">5</span> <span class="toctext">Mission Profile</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Integrating_the_CubeSats"><span class="tocnumber">5.1</span> <span class="toctext">Integrating the CubeSats</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Orbital_Sciences.2C_Orb-1"><span class="tocnumber">5.2</span> <span class="toctext">Orbital Sciences, Orb-1</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Orbital_Sciences_Orb-2"><span class="tocnumber">5.3</span> <span class="toctext">Orbital Sciences Orb-2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span></h2>
+<p>The <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> was designed to be used as both a microgravity laboratory as well as a launch pad for low-earth orbit services. The Japanese Space Agency (<a href="/wiki/JAXA" title="JAXA">JAXA</a>) created on the <a href="/wiki/Kibo_(ISS_module)" title="Kibo (ISS module)">Kibo</a> ISS Module a small satellite deployment system, utilizing the J-SSOD.</p>
+<p><a href="/wiki/NanoRacks" title="NanoRacks">NanoRacks</a>, via its Space Act Agreement with <a href="/wiki/NASA" title="NASA">NASA</a>, deployed a CubeSat via the J-SSOD. Seeing the emerging market demand for CubeSats, NanoRacks self-funded its’ own ISS deployer, with the permission of both NASA and JAXA. NanoRacks evolved away from the J-SSOD due to the small number of satellites that could be deployed in one airlock cycle and their desire to maximize the capacity of each airlock cycle. The J-SSOD used a full airlock cycle to only launch 6U. The NanoRacks CubeSat Deployer uses two airlock cycles, each holding eight deployers. Each deployer is capable of holding 6U, allowing for a total of 48U per airlock cycle.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Deploying CubeSats from ISS has a number of benefits. Launching the vehicles aboard the logistics carrier of ISS visiting vehicle reduces the vibration and loads they have to encounter during launch. In addition, they can be packed in protective materials so that the probability of CubeSat damage during launch is reduced significantly. In addition, for earth observation satellites, such as those of Planet Labs, the lower orbit of the ISS orbit, at roughly 400 Kilometers, is an advantage. In addition, the lower orbit allows for a natural decay of the satellites, thus reducing the build-up of orbital debris.</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<h3><span class="mw-headline" id="JEM_Small_Satellite_Orbital_Deployer">JEM Small Satellite Orbital Deployer</span></h3>
+<p>The Japanese Experiment Module Small Satellite Orbital Deployer (J-SSOD) is the first of its kind to deploy small satellites from the International Space Station. The facility provides a unique satellite install case to the Japanese Experiment Module (JEM) Remote Manipulator System (RMS) for deploying small, CubeSat, satellites from the ISS.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The J-SSOD holds up to 3 small one-unit (1U, 10 x 10 x 10 centimeters) small CubeSats per satellite install case, 6 in total, though other sizes up to 55 x 55 x 35&#160;cm may also be used. Each pre-packed satellite install case is loaded by crewmembers onto the Multi-Purpose Experiment Platform (MPEP) within the JEM habitable volume.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> The MPEP platform is then attached to the JEM Slide Table inside the JEM airlock for transfer to the JEMRMS and space environment. The JEMRMS grapples and maneuvers the MPEP and J-SSOD to a predefined deployment orientation and then jettisons the small CubeSat satellites.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>The MPEP is a platform that acts as an interface between operations inside and outside the ISS, and the J-SSOD mechanism is installed on this platform. On July 21, 2012, JAXA launched the HTV-3 module to the ISS on <a href="/wiki/Expedition_33" title="Expedition 33">Expedition 33</a>. The J-SSOD was a payload on this flight along with five CubeSats that were planned to be deployed by the J-SSOD mounted on the JEMRMS (JEM- Remote Manipulator System), a robotic arm, later in 2012. The five CubeSats were deployed successfully on Oct. 4, 2012 by the JAXA astronaut <a href="/wiki/Akihiko_Hoshide" title="Akihiko Hoshide">Akihiko Hoshide</a> using the newly installed J-SSOD. This represented the first deployment service of J-SSOD.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="NanoRacks_CubeSat_Deployer_Development">NanoRacks CubeSat Deployer Development</span></h3>
+<p>In October 2013, NanoRacks became the first company to coordinate the deployment of small satellites (CubeSats/nanosatellites) from the ISS via the airlock in the Japanese KIBO module. This deployment was done by NanoRacks using J-SSOD. NanoRacks’ first customer was FPT University of Hanoi, Vietnam. Their F-1 CubeSat was developed by young engineers and students at FSpace laboratory at FPT University of Hanoi. The mission of F-1 was to “survive” the space environment for one month, measuring temperature and magnetic data while taking low-resolution photos of Earth.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In 2013, NanoRacks sought permission from NASA to develop their own hardware and CubeSat/SmallSat deployer to use over the JEM- Small Satellite Deployer. NanoRacks brought leadership to the American small satellite industry by building a larger deployer capable of deploying 48U of satellites. NanoRacks designed, manufactured, and tested the deployer for NASA and JAXA approval to reach the International Space Station.</p>
+<p>The NanoRacks CubeSat Deployer was launched on January 9, 2014, on the Orbital Sciences Orb-1 Cygnus Mission along with 33 small satellites.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="NRCSD_Technical_Details">NRCSD Technical Details</span></h2>
+<p>The NanoRacks CubeSat Deployer (NRCSD) is a self-contained CubeSat deployer system that mechanically and electrically isolates CubeSats from the ISS, cargo resupply vehicles, and ISS crew. The NRCSD design is compliant with NASA ISS flight safety requirements and is space qualified.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>The NRCSD is a rectangular tube that consists of anodized aluminum plates, base plate assembly, access panels, and deployer doors. The NRCSD deployer doors are located on the forward end, the base plate assembly is located on the aft end, and access panels are provided on the top.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The inside walls of the NRCSD are a smooth bore design to minimize and/or preclude hang-up or jamming of CubeSat appendages during deployment, should these become released prematurely. However, deployable systems shall be designed such that there is no intentional contact with the inside walls of the NRCSD.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>For a deployment, the platform is moved outside via the Kibo Module’s Airlock and slide table that allows the JEMRMS to move the deployers to the correct orientation for the satellite release and also provides command and control to the deployers. Each NRCSD (NanoRacks CubeSat Deployer) is capable of holding six CubeSat Units - allowing it to launch two 3U satellites or a number of 2U and 1U satellites.</p>
+<h2><span class="mw-headline" id="Manufacturing_the_NRCSD">Manufacturing the NRCSD</span></h2>
+<p>Quad-M, Inc. developed the CubeSat Deployer to be compliant with the Cal Poly standard. It was redesigned and manufactured to NanoRacks’ specification for use on the International Space Station.</p>
+<p>Quad-M performed an initial design analysis to ensure a compliant design. The structural analysis included a modal analysis to evaluate vibration response, and the thermal analysis included calculations to evaluate different door coating options and an initial transient thermal analysis to estimate. In addition, Quad-M performed development tests for: the door release, the CSD/CubeSat Deployment test, random vibration test, and temperature cycling.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Mission_Profile">Mission Profile</span></h2>
+<h3><span class="mw-headline" id="Integrating_the_CubeSats">Integrating the CubeSats</span></h3>
+<p>CubeSat integration begins with unpacking the CSD from the shipping container and then removing the Base Plate Assembly from the rear of the CSD. Next, the CubeSat is inserted from the rear and is slid up snug against the doors. Additional CubeSats are then inserted from the rear in the same progress. The Base Plate Assembly is then reinstalled. Four jack screws are then adjusted with the Pusher Plate and locked. The Containment Bolt is then removed, and the deployer is packed for shipment.</p>
+<h3><span class="mw-headline" id="Orbital_Sciences.2C_Orb-1">Orbital Sciences, Orb-1</span></h3>
+<p><b>Launch Vehicle:</b> Orbital Sciences Cygnus (Orb-1)</p>
+<p><b>Launch Date:</b> January 9, 2014<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p><b>Total Number of CubeSats:</b> 33</p>
+<p><b><a href="/wiki/Planet_Labs" title="Planet Labs">Planet Labs</a>:</b> Doves, Flock 1A (28)</p>
+<p><b>Purpose:</b> These 28 3U CubeSats are working to build an Earth-observation constellation based solely on CubeSats. The CubeSats contain batteries that provide power to the various systems in each Dove. Each satellite has an optical telescope for acquiring high-resolution images of earth. Each satellites uses an X-band system for the downlink of acquired images and systems telemetry at data rates of 120Mbit/s.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p><b>NanoSatisfi:</b> <a href="/wiki/ArduSat" title="ArduSat">ArduSat</a> (1)</p>
+<p><b>Purpose:</b> This 2U CubeSat will provide a platform for students and space enthusiasts to run space-based Arduino experiments. This is a follow up of ArduSat-1 launched in November 2013.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p><b><a href="/wiki/Kaunas_University_of_Technology" title="Kaunas University of Technology">Kaunas University of Technology</a>:</b> LitSat-1 (1)</p>
+<p><b>Purpose:</b> To use low-cost open-source hardware and software for its flight computers that will control the satellite payload. The CubeSat carries a VGA camera, a GPS receiver, a linear transponder, and an AX-25 packet radio transponder. <b><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></b></p>
+<p><b><a href="/wiki/Vilnius_University" title="Vilnius University">Vilnius University</a>:</b> <a href="/wiki/Lituanica_SAT-1" title="Lituanica SAT-1">Lituanica SAT-1</a> (1)</p>
+<p><b>Purpose:</b> One of Lithuania’s first satellites (together with LitSat-1). This CubeSat is equipped with a low resolution VGA camera, GPS receiver, 9k6 AX25 FSK telemetry beacon, UHF CW beacon, and a 150&#160;mW V/U FM mode voice repeater. The satellite will transmit payload and sensor data images and three Lithuanian words.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<p><b><a href="/w/index.php?title=Southern_Stars_Group&amp;action=edit&amp;redlink=1" class="new" title="Southern Stars Group (page does not exist)">Southern Stars</a>:</b> <a href="/wiki/SkyCube" title="SkyCube">SkyCube</a> (1)</p>
+<p><b>Purpose:</b> This crowd-funded 2-Kilogram 1U satellites that features deployable solar panels, four cameras, and communication antennas that are used to receive messages from Earth that are then transmitted at pre-determined times.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p><b>University of Peru:</b> UAPSat-1 (1)</p>
+<p><b>Purpose:</b> This 1U CubeSat uses body-mounted solar panels for power-generation. It is equipped with a minicomputer, radio transmitters/receivers, a power control module, and a basic attitude control system. The satellite will transmit telemetry data and temperature sensor readings from inside and outside the spacecraft.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Orbital_Sciences_Orb-2">Orbital Sciences Orb-2</span></h3>
+<p><b>Launch Vehicle:</b> Orbital Sciences Cygnus (Orb-2)</p>
+<p><b>Launch Date:</b> July 13, 2014</p>
+<p><b>Total Number of CubeSats:</b> 32</p>
+<p><b><a href="/wiki/Planet_Labs" title="Planet Labs">Planet Labs</a>:</b> Doves, Flock 1A (28)</p>
+<p><b>Purpose:</b> These 28 3U CubeSats are working to build an Earth-observation constellation based solely on CubeSats. The CubeSats contain batteries that provide power to the various systems in each Dove. Each satellite has an optical telescope for acquiring high-resolution images of earth. Each satellites uses an X-band system for the downlink of acquired images and systems telemetry at data rates of 120Mbit/s <sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p><b><a href="/wiki/NASA_Ames_Research_Center" title="NASA Ames Research Center" class="mw-redirect">NASA Ames Research Center</a>/<a href="/wiki/San_Jose_State_University" title="San Jose State University">San Jose State University</a>:</b> <a href="/wiki/TechEdSat" title="TechEdSat">TechEdSat</a>-4 (1)</p>
+<p><b>Purpose:</b> This satellites uses commercial off-the-shelf components to provide the basic satellites functions such as commanding, power generation &amp; supply, and communications with the other two units of the satellites. The CubeSat will fly and Exo-Brake to orbit that is deployed once the satellite is released to demonstrate a Passive De-Orbit System for satellites.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<p><b>MIT <a href="/wiki/Lincoln_Laboratory" title="Lincoln Laboratory" class="mw-redirect">Lincoln Laboratory</a>:</b> MicroMAS: Microsized Microwave Atmospheric Satellite (1)</p>
+<p><b>Purpose:</b> This satellite carries a nine-channel passive microwave radiometer to demonstrate miniaturized radiometer technology in space for application in ultra-compact spacecraft systems such as high performance multi-band sounder for future weather satellites.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<p><b>GEARSSAAT</b> (1)</p>
+<p><b>Purpose:</b> This satellite is equipped with Globalstar communications terminals that will perform studies involving the Globalstar communications satellite constellation.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<p><b>Lambda Team:</b> Lambdasat (1)</p>
+<p><b>Purpose:</b> The spacecraft will conduct technical demonstration of the satellite bus in the radiation environment in space and track systems degradation. The satellite also carries and Automatic Identification System (AIS) for tracking sea vessels around the globe, and a science experiment that looks at Graphene in space.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://nanoracks.com/products/smallsat-deployment/">http://nanoracks.com/products/smallsat-deployment/</a> NanoRacks SmallSat Deployment</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">http://[iss.jaxa.jp/en/kiboexp/jssod JAXA, J-SSOD]</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">http://[iss.jaxa.jp/en/kiboexp/jssod JAXA, J-SSOD]</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">http://[iss.jaxa.jp/en/kiboexp/jssod JAXA, J-SSOD]</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nasa.gov/mission_pages/station/research/news/j_ssod.html">NASA CubeSats in Orbit After Historic Space Station Deployment, December 10, 2012</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://iss.jaxa.jp/en/kuoa/news/kuoa_120921.html">JAXA September 21, 2012</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.parabolicarc.com/2014/01/09/spaceflight-nanoracks-team-cubesat-launches/">ParabolicArc, January 9, 2014</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf">NanoRacks Interface Document for NRCSD</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf">NanoRacks Interface Document for NRCSD</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nanoracks.com/wp-content/uploads/Current_edition_of_Interface_Document_for_CubeSat_Customers.pdf">NanoRacks Interface Document for NRCSD</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://quadminc.com/">Quad-M</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.orbital.com/newsinfo/missionupdates/orb-1/">Orbital Sciences Mission Updates, Orb-1</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.planet.com/flock1/">Planet Labs Flock 1</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nanosat.jp/4th/pdf/Day4_1_UN_04_Peter_Platzer/UN_04_Mr.Peter_Platzer.pdf">NanoSatisfi ArduSat</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.litsat1.eu/en/">LitSat-1</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.kosmonautai.lt/en/">http://www.kosmonautai.lt/en/</a> LituanicaSat-1, First Lithuanian Satellites</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.southernstars.com/skycube/">Southern Star SkyCube Summary</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.uapsat.info/">UAPSat Information Page</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.planet.com/flock1">Planet Labs Flock 1</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nasa.gov/mission_pages/station/research/experiments/1815.html">NASA TechEdSat-4, The Development of On-Demand Sample Return Capability, July 29, 2014</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://article.wn.com/view/2014/03/27/MicroMAS_Small_is_Beautiful_MIT_Massachusetts_Institute_of_T/">MicroMAS: Small is Beautiful, March 27, 2014</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.spaceflight101.com/cygnus-orb-2-cargo-manifest.html">Spaceflight 101 Orb-2 Cargo Manifest</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://space.skyrocket.de/doc_sdat/lambdasat.htm">http://space.skyrocket.de/doc_sdat/lambdasat.htm</a> LambdaSat</span></li>
+</ol>
+<table class="metadata plainlinks ambox ambox-style ambox-uncategorized" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>has not been added to any <a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">categories</a></b>. Please help out by <a href="/wiki/Wikipedia:Categorization_FAQ#How_do_I_add_an_article_to_a_category.3F" title="Wikipedia:Categorization FAQ" class="mw-redirect">adding categories</a> to it so that it can be listed with similar articles. <small><i>(August 2014)</i></small></span></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1214
+CPU time usage: 0.164 seconds
+Real time usage: 0.202 seconds
+Preprocessor visited node count: 621/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3913/2097152 bytes
+Template argument size: 200/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 1.27 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   92.790      1 - Template:Uncategorized
+100.00%   92.790      1 - -total
+ 60.81%   56.422      1 - Template:Mbox
+ 27.89%   25.877      4 - Template:Pagetype
+ 17.69%   16.411      1 - Template:DMCFACT
+ 15.00%   13.914      1 - Template:Dated_maintenance_category
+ 10.16%    9.432      1 - Template:FULLROOTPAGENAME
+  6.64%    6.161      1 - Template:Ns_has_subpages
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;oldid=624316965">http://en.wikipedia.org/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;oldid=624316965</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Uncategorized_from_August_2014&amp;action=edit&amp;redlink=1" class="new" title="Category:Uncategorized from August 2014 (page does not exist)">Uncategorized from August 2014</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_invalid_date_parameter_in_template" title="Category:Articles with invalid date parameter in template">Articles with invalid date parameter in template</a></li><li><a href="/wiki/Category:All_uncategorized_pages" title="Category:All uncategorized pages">All uncategorized pages</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=NanoRacks+CubeSat+Deployer&amp;returntoquery=diff%3D624316965%26oldid%3D623557964&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=NanoRacks+CubeSat+Deployer&amp;returntoquery=diff%3D624316965%26oldid%3D623557964" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/NanoRacks_CubeSat_Deployer"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:NanoRacks_CubeSat_Deployer"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/NanoRacks_CubeSat_Deployer" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=edit&amp;oldid=624316965"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/NanoRacks_CubeSat_Deployer" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/NanoRacks_CubeSat_Deployer" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;oldid=624316965" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q18379183" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=NanoRacks_CubeSat_Deployer&amp;id=624316965" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=NanoRacks+CubeSat+Deployer">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=NanoRacks+CubeSat+Deployer&amp;oldid=623557964&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q18379183#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=NanoRacks_CubeSat_Deployer&amp;diff=624316965&amp;oldid=623557964&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":377,"wgHostname":"mw1214"});
+}</script>
+	</body>
+</html>

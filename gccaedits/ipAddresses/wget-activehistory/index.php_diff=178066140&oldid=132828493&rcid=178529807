@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Difference between revisions of "Jet Ski" - Wikidata</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Q5175704&amp;action=edit" />
+<link rel="edit" title="Edit" href="/w/index.php?title=Q5175704&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikidata.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikidata.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikidata (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//www.wikidata.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Q5175704" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikidata Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://www.wikidata.org/w/index.php?diff=178066140&amp;oldid=132828493&amp;rcid=178529807" />
+<link rel="stylesheet" href="//bits.wikimedia.org/www.wikidata.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.AuthorityControl%2CCommonsMedia%2CNewSection%2CSearch%2CSiteIdToInterwiki%2Cimagelinks%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikidata-org.badges%7Cext.wikihiero%2CwikimediaBadges%7Cjquery.wikibase.statementview%2Ctoolbar%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.common%2Ctoc&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/www.wikidata.org/load.php?debug=false&amp;lang=en&amp;modules=jquery.ui.core&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/www.wikidata.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/www.wikidata.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: wikidatawiki:resourceloader:filter:minify-css:7:a3dc8afcb7dde22226f93829d7320b7d */</style>
+<script src="//bits.wikimedia.org/www.wikidata.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Q5175704","wgTitle":"Q5175704","wgCurRevisionId":187008763,"wgRevisionId":178066140,"wgArticleId":4946679,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikibase-item","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Q5175704","wgRelevantArticleId":4946679,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikidata","wbIsEditView":false,"wbEntityId":"Q5175704","wbUsedEntities":"{\"P373\":{\"content\":{\"type\":\"property\",\"id\":\"P373\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"name of the Wikimedia Commons category containing files related to this item (without the prefix \\\"Category\\\")\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"Commons category\"}},\"datatype\":\"string\"},\"title\":\"Property:P373\"},\"P856\":{\"content\":{\"type\":\"property\",\"id\":\"P856\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"URL to the website of this item\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"official website\"}},\"datatype\":\"url\"},\"title\":\"Property:P856\"},\"P143\":{\"content\":{\"type\":\"property\",\"id\":\"P143\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"source of this claim's value (use only in References section)\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"imported from\"}},\"datatype\":\"wikibase-item\"},\"title\":\"Property:P143\"},\"Q328\":{\"content\":{\"type\":\"item\",\"id\":\"Q328\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"English language edition of Wikipedia, the free encyclopedia\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"English Wikipedia\"}}},\"title\":\"Q328\"},\"P646\":{\"content\":{\"type\":\"property\",\"id\":\"P646\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"ID specifying an equivalent page in the Freebase open knowledge graph\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"Freebase identifier\"}},\"datatype\":\"string\"},\"title\":\"Property:P646\"},\"P248\":{\"content\":{\"type\":\"property\",\"id\":\"P248\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"to be used in the source field, to indicate where a claim is made\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"stated in\"}},\"datatype\":\"wikibase-item\"},\"title\":\"Property:P248\"},\"Q15241312\":{\"content\":{\"type\":\"item\",\"id\":\"Q15241312\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"dumps of the public part of Google's Knowledge Graph\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"Freebase Data Dumps\"}}},\"title\":\"Q15241312\"},\"P577\":{\"content\":{\"type\":\"property\",\"id\":\"P577\",\"descriptions\":{\"en\":{\"language\":\"en\",\"value\":\"date or point in time when this work was first published (don't replace old values)\"}},\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"publication\"}},\"datatype\":\"time\"},\"title\":\"Property:P577\"}}","wbEntity":"{\"id\":\"Q5175704\",\"type\":\"item\",\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"Jet Ski\"},\"es\":{\"language\":\"es\",\"value\":\"Jet ski\"},\"war\":{\"language\":\"war\",\"value\":\"Jet Ski\"},\"ca\":{\"language\":\"ca\",\"value\":\"Jet ski\"},\"bg\":{\"language\":\"bg\",\"value\":\"\\u0414\\u0436\\u0435\\u0442 \\u0441\\u043a\\u0438\"},\"pt\":{\"language\":\"pt\",\"value\":\"Jet ski\"},\"sl\":{\"language\":\"sl\",\"value\":\"Jet Ski\"}},\"claims\":{\"P373\":[{\"id\":\"q5175704$9CFEE72E-6538-4EDA-A450-DD8251193F84\",\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P373\",\"datavalue\":{\"value\":\"Jetskis\",\"type\":\"string\"}},\"type\":\"statement\",\"rank\":\"normal\"}],\"P856\":[{\"id\":\"Q5175704$639EDB9F-4C4F-42CA-908E-F91B8FB85F02\",\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P856\",\"datavalue\":{\"value\":\"http://www.kawasaki.com/Products/Watercraft.aspx\",\"type\":\"string\"}},\"type\":\"statement\",\"rank\":\"normal\",\"references\":[{\"hash\":\"7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0\",\"snaks\":{\"P143\":[{\"snaktype\":\"value\",\"property\":\"P143\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":328},\"type\":\"wikibase-entityid\"}}]},\"snaks-order\":[\"P143\"]}]}],\"P646\":[{\"id\":\"Q5175704$04A03A7C-B4AE-4C7B-9E21-5285FD454234\",\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P646\",\"datavalue\":{\"value\":\"/m/01xs3r\",\"type\":\"string\"}},\"type\":\"statement\",\"rank\":\"normal\",\"references\":[{\"hash\":\"b923b0d68beb300866b87ead39f61e63ec30d8af\",\"snaks\":{\"P248\":[{\"snaktype\":\"value\",\"property\":\"P248\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":15241312},\"type\":\"wikibase-entityid\"}}],\"P577\":[{\"snaktype\":\"value\",\"property\":\"P577\",\"datavalue\":{\"value\":{\"time\":\"+00000002013-10-28T00:00:00Z\",\"timezone\":0,\"before\":0,\"after\":0,\"precision\":11,\"calendarmodel\":\"http://www.wikidata.org/entity/Q1985727\"},\"type\":\"time\"}}]},\"snaks-order\":[\"P248\",\"P577\"]}]}]},\"sitelinks\":{\"enwiki\":{\"site\":\"enwiki\",\"title\":\"Jet Ski\",\"badges\":[]},\"ptwiki\":{\"site\":\"ptwiki\",\"title\":\"Jet ski\",\"badges\":[]},\"eswiki\":{\"site\":\"eswiki\",\"title\":\"Jet Ski\",\"badges\":[]},\"bgwiki\":{\"site\":\"bgwiki\",\"title\":\"\\u0414\\u0436\\u0435\\u0442 \\u0441\\u043a\\u0438\",\"badges\":[]},\"warwiki\":{\"site\":\"warwiki\",\"title\":\"Jet Ski\",\"badges\":[]},\"cawiki\":{\"site\":\"cawiki\",\"title\":\"Jet ski\",\"badges\":[]},\"slwiki\":{\"site\":\"slwiki\",\"title\":\"Jet Ski\",\"badges\":[]},\"frwiki\":{\"site\":\"frwiki\",\"title\":\"Jet Ski\",\"badges\":[]}}}","wbUserSpecifiedLanguages":[],"wbUserIsBlocked":false,"wbUserCanEdit":true,"wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"save\", you agree to the \u003Ca href=\"//wikimediafoundation.org/wiki/Terms_of_Use\" class=\"extiw\" title=\"wikimedia:Terms of Use\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":{"Q17437798":"wb-badge-goodarticle","Q17437796":"wb-badge-featuredarticle","Q17559452":"wb-badge-recommendedarticle","Q17506997":"wb-badge-featuredlist","Q17580674":"wb-badge-featuredportal"},"wbExperimentalFeatures":false});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: wikidatawiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","wikibase.ui.entitysearch","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Q5175704 skin-vector action-view wb-entitypage wb-itempage wb-itempage-Q5175704 wb-diffpage wb-oldrevpage">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Difference between revisions of "Jet Ski"</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikidata</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Q5175704&amp;oldid=132828493" title="Q5175704">Revision as of 16:24, 23 May 2014</a> (<a href="/w/index.php?title=Q5175704&amp;action=edit&amp;restore=132828493" title="Q5175704">restore</a>)</strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:AkkakkBot" title="User:AkkakkBot" class="mw-userlink">AkkakkBot</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:AkkakkBot" class="mw-redirect" title="User talk:AkkakkBot">talk</a> | <a href="/wiki/Special:Contributions/AkkakkBot" title="Special:Contributions/AkkakkBot">contribs</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(‎<span dir="auto"><span class="autocomment">Updated item: </span></span> - set sl label to Jet Ski (task 5))</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Q5175704&amp;diff=prev&amp;oldid=132828493" title="Q5175704" id="differences-prevlink">← Older edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Q5175704&amp;oldid=178066140" title="Q5175704">Revision as of 09:37, 30 November 2014</a> (<a href="/w/index.php?title=Q5175704&amp;action=edit&amp;restore=178066140" title="Q5175704">restore</a>) <span class="mw-diff-undo">(<a href="/w/index.php?title=Q5175704&amp;action=edit&amp;undoafter=132828493&amp;undo=178066140" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/205.211.133.128" title="Special:Contributions/205.211.133.128" class="mw-userlink mw-anonuserlink">205.211.133.128</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=User_talk:205.211.133.128&amp;action=edit&amp;redlink=1" class="new" title="User talk:205.211.133.128 (page does not exist)">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(‎<span dir="auto"><span class="autocomment">Added link to [frwiki]: </span></span> Jet Ski)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Q5175704&amp;diff=next&amp;oldid=178066140" title="Q5175704" id="differences-nextlink">Newer edit →</a></div></td>
+				</tr><tr><td colspan="2" class="diff-lineno">links / frwiki / name</td><td colspan="2" class="diff-lineno">links / frwiki / name</td></tr><tr><td colspan="2">&nbsp;</td><td class="diff-marker">+</td><td class="diff-addedline"><div><ins class="diffchange diffchange-inline"><a href="//fr.wikipedia.org/wiki/Jet_Ski" hreflang="fr" dir="auto">Jet Ski</a></ins></div></td></tr>
+<!-- diff cache key wikidatawiki:diff:version:1.11a:oldid:132828493:newid:178066140:lang:en -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 09:37, 30 November 2014</h2>
+<div id="wb-item-Q5175704" class="wikibase-entityview wb-item" lang="en" dir="ltr">
+<div class="wikibase-entityview-main"><h1 id="wb-firstHeading-Q5175704" class="wb-firstHeading">
+<!-- wikibase-labelview --><div class="wikibase-labelview " dir="auto">
+<div class="wikibase-labelview-container">
+<span class="wikibase-labelview-text">Jet Ski</span>
+<span class="wikibase-labelview-entityid">(Q5175704)</span>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-wrapper"></span>
+</div>
+</div>
+</h1><div class="wikibase-descriptionview wb-empty" dir="auto">
+<div class="wikibase-descriptionview-container">
+<span class="wikibase-descriptionview-text">No description defined yet</span>
+<!-- wikibase-toolbar -->
+</div>
+</div><hr class="wb-hr" /><div class="wikibase-aliasesview wb-empty">
+<div class="wikibase-aliasesview-container">
+<span class="wikibase-aliasesview-label">No aliases defined.</span>
+<ul class="wikibase-aliasesview-list"></ul>
+<!-- wb-toolbar -->
+</div>
+</div><div id="toc" class="toc wb-toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#claims"><span class="toctext">Statements</span></a></li><li class="toclevel-1 tocsection-2"><a href="#sitelinks-wikipedia"><span class="toctext">Wikipedia</span></a></li><li class="toclevel-1 tocsection-3"><a href="#sitelinks-wikibooks"><span class="toctext">Wikibooks</span></a></li><li class="toclevel-1 tocsection-4"><a href="#sitelinks-wikinews"><span class="toctext">Wikinews</span></a></li><li class="toclevel-1 tocsection-5"><a href="#sitelinks-wikiquote"><span class="toctext">Wikiquote</span></a></li><li class="toclevel-1 tocsection-6"><a href="#sitelinks-wikisource"><span class="toctext">Wikisource</span></a></li><li class="toclevel-1 tocsection-7"><a href="#sitelinks-wikivoyage"><span class="toctext">Wikivoyage</span></a></li><li class="toclevel-1 tocsection-8"><a href="#sitelinks-special"><span class="toctext">Other sites</span></a></li></ul>
+</div><h2 class="wb-section-heading" dir="auto" id="claims">Statements</h2><div class="wb-claimlistview">
+<div class="wb-claims" id="">
+<div class="wb-claimgrouplistview">
+<div class="wb-claimlists"><div class="wb-claimlistview">
+<div class="wb-claims" id="P373">
+<div class="wikibase-statementview wikibase-statement-q5175704$9CFEE72E-6538-4EDA-A450-DD8251193F84">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><!-- wb-snak --><div class="wb-snak wb-snakview">
+<div class="wb-snak-property-container">
+<div class="wb-snak-property" dir="auto"></div>
+</div>
+<div class="wb-snak-value-container" dir="auto">
+<div class="wb-snak-typeselector"></div>
+<div class="wb-snak-value wb-snakview-variation-valuesnak">Jetskis</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><!-- wb-listview --></div>
+</div>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references"><!-- wb-listview --></div>
+</div>
+</div> <!-- [0,*] wb-claim|wb-statement -->
+</div>
+<div class="wb-claimgrouplistview-groupname">
+<div class="wb-claim-name" dir="auto"><a title="Property:P373" href="/wiki/Property:P373">Commons category</a></div>
+</div><span class="wikibase-toolbar-wrapper"><span class="wikibase-toolbar-container"></span></span> <!-- [0,*] wb-toolbar -->
+</div><div class="wb-claimlistview">
+<div class="wb-claims" id="P856">
+<div class="wikibase-statementview wikibase-statement-Q5175704$639EDB9F-4C4F-42CA-908E-F91B8FB85F02">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><!-- wb-snak --><div class="wb-snak wb-snakview">
+<div class="wb-snak-property-container">
+<div class="wb-snak-property" dir="auto"></div>
+</div>
+<div class="wb-snak-value-container" dir="auto">
+<div class="wb-snak-typeselector"></div>
+<div class="wb-snak-value wb-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="http://www.kawasaki.com/Products/Watercraft.aspx">http://www.kawasaki.com/Products/Watercraft.aspx</a></div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><!-- wb-listview --></div>
+</div>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references"><!-- wb-listview --><div class="wb-listview"><div class="wb-referenceview wb-referenceview-7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0">
+<div class="wb-referenceview-heading"></div>
+<div class="wb-referenceview-listview"><div class="wb-snaklistview">
+<div class="wb-snaklistview-listview"><div class="wb-snak wb-snakview">
+<div class="wb-snak-property-container">
+<div class="wb-snak-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from</a></div>
+</div>
+<div class="wb-snak-value-container" dir="auto">
+<div class="wb-snak-typeselector"></div>
+<div class="wb-snak-value wb-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+</div>
+</div><!-- wb-listview --></div>
+</div><!-- [0,*] wb-snaklistview --></div>
+</div></div></div>
+</div>
+</div> <!-- [0,*] wb-claim|wb-statement -->
+</div>
+<div class="wb-claimgrouplistview-groupname">
+<div class="wb-claim-name" dir="auto"><a title="Property:P856" href="/wiki/Property:P856">official website</a></div>
+</div><span class="wikibase-toolbar-wrapper"><span class="wikibase-toolbar-container"></span></span> <!-- [0,*] wb-toolbar -->
+</div><div class="wb-claimlistview">
+<div class="wb-claims" id="P646">
+<div class="wikibase-statementview wikibase-statement-Q5175704$04A03A7C-B4AE-4C7B-9E21-5285FD454234">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><!-- wb-snak --><div class="wb-snak wb-snakview">
+<div class="wb-snak-property-container">
+<div class="wb-snak-property" dir="auto"></div>
+</div>
+<div class="wb-snak-value-container" dir="auto">
+<div class="wb-snak-typeselector"></div>
+<div class="wb-snak-value wb-snakview-variation-valuesnak">/m/01xs3r</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><!-- wb-listview --></div>
+</div>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references"><!-- wb-listview --><div class="wb-listview"><div class="wb-referenceview wb-referenceview-b923b0d68beb300866b87ead39f61e63ec30d8af">
+<div class="wb-referenceview-heading"></div>
+<div class="wb-referenceview-listview"><div class="wb-snaklistview">
+<div class="wb-snaklistview-listview"><div class="wb-snak wb-snakview">
+<div class="wb-snak-property-container">
+<div class="wb-snak-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wb-snak-value-container" dir="auto">
+<div class="wb-snak-typeselector"></div>
+<div class="wb-snak-value wb-snakview-variation-valuesnak"><a title="Q15241312" href="/wiki/Q15241312">Freebase Data Dumps</a></div>
+</div>
+</div><!-- wb-listview --></div>
+</div><div class="wb-snaklistview">
+<div class="wb-snaklistview-listview"><div class="wb-snak wb-snakview">
+<div class="wb-snak-property-container">
+<div class="wb-snak-property" dir="auto"><a title="Property:P577" href="/wiki/Property:P577">publication</a></div>
+</div>
+<div class="wb-snak-value-container" dir="auto">
+<div class="wb-snak-typeselector"></div>
+<div class="wb-snak-value wb-snakview-variation-valuesnak">28 October 2013</div>
+</div>
+</div><!-- wb-listview --></div>
+</div><!-- [0,*] wb-snaklistview --></div>
+</div></div></div>
+</div>
+</div> <!-- [0,*] wb-claim|wb-statement -->
+</div>
+<div class="wb-claimgrouplistview-groupname">
+<div class="wb-claim-name" dir="auto"><a title="Property:P646" href="/wiki/Property:P646">Freebase identifier</a></div>
+</div><span class="wikibase-toolbar-wrapper"><span class="wikibase-toolbar-container"></span></span> <!-- [0,*] wb-toolbar -->
+</div><!-- [0,*] wb-claimlist--></div>
+<!-- {1} wb-toolbar -->
+</div> <!-- [0,*] wb-claim|wb-statement -->
+</div>
+ <!-- [0,*] wb-toolbar -->
+</div></div>
+<div class="wikibase-entityview-side"><div class="wikibase-sitelinkgrouplistview"><!-- wb-listview --><div class="wb-listview"><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikipedia">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h2 class="wb-section-heading" dir="auto" id="sitelinks-wikipedia">Wikipedia<span class="wikibase-sitelinkgroupview-counter"></span></h2>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+</div>
+</div>
+<!-- wikibase-sitelinklistview --><div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><!-- [0,*] wikibase-sitelinkview --><li class="wikibase-sitelinkview wikibase-sitelinkview-bgwiki" data-wb-siteid="bgwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bgwiki" title="български">bgwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bgwiki" lang="bg" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//bg.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%82_%D1%81%D0%BA%D0%B8" hreflang="bg">Джет ски</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-cawiki" data-wb-siteid="cawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cawiki" title="català">cawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cawiki" lang="ca" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//ca.wikipedia.org/wiki/Jet_ski" hreflang="ca">Jet ski</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwiki" data-wb-siteid="enwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwiki" title="English">enwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwiki" lang="en" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//en.wikipedia.org/wiki/Jet_Ski" hreflang="en">Jet Ski</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-eswiki" data-wb-siteid="eswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-eswiki" title="español">eswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-eswiki" lang="es" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//es.wikipedia.org/wiki/Jet_Ski" hreflang="es">Jet Ski</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwiki" data-wb-siteid="frwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwiki" title="français">frwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwiki" lang="fr" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//fr.wikipedia.org/wiki/Jet_Ski" hreflang="fr">Jet Ski</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ptwiki" data-wb-siteid="ptwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ptwiki" title="português">ptwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ptwiki" lang="pt" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//pt.wikipedia.org/wiki/Jet_ski" hreflang="pt">Jet ski</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-slwiki" data-wb-siteid="slwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-slwiki" title="slovenščina">slwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-slwiki" lang="sl" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//sl.wikipedia.org/wiki/Jet_Ski" hreflang="sl">Jet Ski</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-warwiki" data-wb-siteid="warwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-warwiki" title="Winaray">warwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-warwiki" lang="war" dir="auto"><!-- wikibase-sitelinkview-pagename --><span class="wikibase-sitelinkview-page"><a href="//war.wikipedia.org/wiki/Jet_Ski" hreflang="war">Jet Ski</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><!-- [0,*] wb-badge --></span></span>
+</li></ul>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikibooks">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h2 class="wb-section-heading" dir="auto" id="sitelinks-wikibooks">Wikibooks<span class="wikibase-sitelinkgroupview-counter"></span></h2>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+</div>
+</div>
+<!-- wikibase-sitelinklistview --><div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><!-- [0,*] wikibase-sitelinkview --></ul>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikinews">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h2 class="wb-section-heading" dir="auto" id="sitelinks-wikinews">Wikinews<span class="wikibase-sitelinkgroupview-counter"></span></h2>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+</div>
+</div>
+<!-- wikibase-sitelinklistview --><div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><!-- [0,*] wikibase-sitelinkview --></ul>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiquote">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h2 class="wb-section-heading" dir="auto" id="sitelinks-wikiquote">Wikiquote<span class="wikibase-sitelinkgroupview-counter"></span></h2>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+</div>
+</div>
+<!-- wikibase-sitelinklistview --><div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><!-- [0,*] wikibase-sitelinkview --></ul>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikisource">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h2 class="wb-section-heading" dir="auto" id="sitelinks-wikisource">Wikisource<span class="wikibase-sitelinkgroupview-counter"></span></h2>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+</div>
+</div>
+<!-- wikibase-sitelinklistview --><div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><!-- [0,*] wikibase-sitelinkview --></ul>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikivoyage">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h2 class="wb-section-heading" dir="auto" id="sitelinks-wikivoyage">Wikivoyage<span class="wikibase-sitelinkgroupview-counter"></span></h2>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+</div>
+</div>
+<!-- wikibase-sitelinklistview --><div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><!-- [0,*] wikibase-sitelinkview --></ul>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="special">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h2 class="wb-section-heading" dir="auto" id="sitelinks-special">Other sites<span class="wikibase-sitelinkgroupview-counter"></span></h2>
+<!-- wikibase-toolbar --><span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "></span></span>
+</div>
+</div>
+<!-- wikibase-sitelinklistview --><div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><!-- [0,*] wikibase-sitelinkview --></ul>
+</div>
+</div></div></div></div>
+</div><noscript><img src="//www.wikidata.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://www.wikidata.org/w/index.php?title=Q5175704&amp;oldid=178066140">http://www.wikidata.org/w/index.php?title=Q5175704&amp;oldid=178066140</a>"					</div>
+													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-uls" class="active"><a href="#" class="uls-trigger autonym">English</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Q5175704&amp;returntoquery=diff%3D178066140%26oldid%3D132828493%26rcid%3D178529807&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Q5175704&amp;returntoquery=diff%3D178066140%26oldid%3D132828493%26rcid%3D178529807" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Q5175704"  title="View the item [c]" accesskey="c">Item</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Q5175704&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Q5175704" >Read</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Q5175704&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikidata [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikidata:Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikidata:Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-portal"><a href="/wiki/Special:MyLanguage/Project:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-villagepump"><a href="/wiki/Wikidata:Project_chat">Project chat</a></li>
+													<li id="n-special-newitem"><a href="/wiki/Special:NewItem">Create a new item</a></li>
+													<li id="n-special-itembytitle"><a href="/wiki/Special:ItemByTitle" title="Search for items by site and title">Item by title</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random item [x]" accesskey="x">Random item</a></li>
+													<li id="n-help"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_wikidata.org&amp;uselang=en" title="Support us">Donate</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Q5175704">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Q5175704&amp;oldid=132828493&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Q5175704&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Q5175704" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Q5175704" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Q5175704&amp;oldid=178066140" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Q5175704&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wb-concept-uri"><a href="http://www.wikidata.org/entity/Q5175704" title="URI that identifies the concept described by this item">Concept URI</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Q5175704&amp;id=178066140" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">All structured data from the main and property namespace is available under the <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
+text in the other namespaces is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Special:MyLanguage/Project:Introduction" title="Special:MyLanguage/Project:Introduction">About Wikidata</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Special:MyLanguage/Project:General_disclaimer" title="Special:MyLanguage/Project:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//m.wikidata.org/w/index.php?title=Q5175704&amp;diff=178066140&amp;oldid=132828493&amp;rcid=178529807&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Search","ext.gadget.AuthorityControl","ext.gadget.CommonsMedia","ext.gadget.SiteIdToInterwiki","ext.gadget.imagelinks","ext.gadget.NewSection","ext.wikiEditor.init","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.pt","ext.PropertySuggester.EntitySelector"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/www.wikidata.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":197,"wgHostname":"mw1250"});
+}</script>
+	</body>
+</html>

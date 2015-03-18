@@ -1,0 +1,1350 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Hypercapnia: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hypercapnia&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hypercapnia&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Hypercapnia" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=638218749&amp;oldid=637868813" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hypercapnia","wgTitle":"Hypercapnia","wgCurRevisionId":651208924,"wgRevisionId":638218749,"wgArticleId":497803,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with incorrect ref formatting","Articles with contributors link","Articles to be merged from December 2013","All articles to be merged","Articles that use a Medicine navs subtemplate","Diving medicine","Medical emergencies","Respiratory diseases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hypercapnia","wgRelevantArticleId":497803,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q615759"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hypercapnia skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hypercapnia: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Hypercapnia&amp;oldid=637868813" title="Hypercapnia">Revision as of 04:52, 13 December 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Hypercapnia&amp;action=edit&amp;oldid=637868813" title="Hypercapnia">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Jarble" title="User:Jarble" class="mw-userlink">Jarble</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Jarble" title="User talk:Jarble">talk</a> | <a href="/wiki/Special:Contributions/Jarble" title="Special:Contributions/Jarble">contribs</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#See_also">→</a>‎<span dir="auto"><span class="autocomment">See also</span></span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Hypercapnia&amp;diff=prev&amp;oldid=637868813" title="Hypercapnia" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Hypercapnia&amp;oldid=638218749" title="Hypercapnia">Revision as of 15:02, 15 December 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Hypercapnia&amp;action=edit&amp;oldid=638218749" title="Hypercapnia">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Hypercapnia&amp;action=edit&amp;undoafter=637868813&amp;undo=638218749" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/131.137.245.207" title="Special:Contributions/131.137.245.207" class="mw-userlink mw-anonuserlink">131.137.245.207</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:131.137.245.207" title="User talk:131.137.245.207">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(<a href="#Tolerance">→</a>‎<span dir="auto"><span class="autocomment">Tolerance</span></span>)</span></div><div id="mw-diff-ntitle5"><span class="mw-tag-markers">(<a href="/wiki/Special:Tags" title="Special:Tags">Tag</a>: <span class="mw-tag-marker mw-tag-marker-extraneous_markup">extraneous markup</span>)</span></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Hypercapnia&amp;diff=next&amp;oldid=638218749" title="Hypercapnia" id="differences-nextlink">Next edit →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 43:</td>
+  <td colspan="2" class="diff-lineno">Line 43:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>! scope="col" | Major limitation</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>! scope="col" | Major limitation</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>| 0.<del class="diffchange diffchange-inline">03</del> || lifetime || normal atmosphere</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>| 0.<ins class="diffchange diffchange-inline">04&lt;ref&gt;&lt;/ref&gt;</ins> || lifetime || normal atmosphere</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>|-</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 0.5 || lifetime || rowspan="2" | no detectable limitations</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>| 0.5 || lifetime || rowspan="2" | no detectable limitations</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Revision as of 15:02, 15 December 2014</h2>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Hypercapnia</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Carbon-dioxide-3D-vdW.svg" class="image"><img alt="Carbon-dioxide-3D-vdW.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carbon-dioxide-3D-vdW.svg/230px-Carbon-dioxide-3D-vdW.svg.png" width="230" height="151" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carbon-dioxide-3D-vdW.svg/345px-Carbon-dioxide-3D-vdW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carbon-dioxide-3D-vdW.svg/460px-Carbon-dioxide-3D-vdW.svg.png 2x" data-file-width="1100" data-file-height="723" /></a>
+<div><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/R06.8">R06.8</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=786.09">786.09</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb95.htm">95</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D006935">D006935</a></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/50px-Merge-arrows.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/75px-Merge-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/100px-Merge-arrows.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> with <i><a href="/wiki/CO2_retention" title="CO2 retention" class="mw-redirect">CO2 retention</a></i>. (<a href="/wiki/Talk:Hypercapnia" title="Talk:Hypercapnia">Discuss</a>) <small><i>Proposed since December 2013.</i></small></span></td>
+</tr>
+</table>
+<p><b>Hypercapnia</b> or <b>hypercapnea</b> (from the <a href="/wiki/Greek_language" title="Greek language">Greek</a> <i>hyper</i> = "above" or "too much" and <i>kapnos</i> = "<a href="/wiki/Smoke" title="Smoke">smoke</a>"), also known as hypercarbia, is a condition of abnormally elevated <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>) levels in the blood. Carbon dioxide is a <a href="/wiki/Gas" title="Gas">gaseous</a> product of the <a href="/wiki/Human_body" title="Human body">body's</a> <a href="/wiki/Metabolism" title="Metabolism">metabolism</a> and is normally expelled through the <a href="/wiki/Lung" title="Lung">lungs</a>.</p>
+<p>Hypercapnia normally triggers a reflex which increases breathing and access to oxygen, such as arousal and turning the head during sleep. A failure of this reflex can be fatal, as in <a href="/wiki/Sudden_infant_death_syndrome" title="Sudden infant death syndrome">sudden infant death syndrome</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Hypercapnia is the opposite of <a href="/wiki/Hypocapnia" title="Hypocapnia">hypocapnia</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Causes"><span class="tocnumber">1</span> <span class="toctext">Causes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Symptoms_and_signs"><span class="tocnumber">2</span> <span class="toctext">Symptoms and signs</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Laboratory_values"><span class="tocnumber">3</span> <span class="toctext">Laboratory values</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Tolerance"><span class="tocnumber">4</span> <span class="toctext">Tolerance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#During_diving"><span class="tocnumber">5</span> <span class="toctext">During diving</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Additional_sources_of_carbon_dioxide_in_diving"><span class="tocnumber">5.1</span> <span class="toctext">Additional sources of carbon dioxide in diving</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Skip_breathing"><span class="tocnumber">5.2</span> <span class="toctext">Skip breathing</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Rebreathers"><span class="tocnumber">5.3</span> <span class="toctext">Rebreathers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+<p>Hypercapnia is generally caused by <a href="/wiki/Hypoventilation" title="Hypoventilation">hypoventilation</a>, <a href="/wiki/Lung_disease" title="Lung disease" class="mw-redirect">lung disease</a>, or diminished <a href="/wiki/Consciousness" title="Consciousness">consciousness</a>. It may also be caused by exposure to environments containing abnormally high concentrations of carbon dioxide (usually due to volcanic or geothermal causes), or by <a href="/wiki/Rebreathing" title="Rebreathing" class="mw-redirect">rebreathing</a> exhaled <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>. It can also be an initial effect of administering supplemental oxygen on a patient with sleep apnea. In this situation the hypercapnia can also be accompanied by <a href="/wiki/Respiratory_acidosis" title="Respiratory acidosis">respiratory acidosis</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Symptoms_and_signs">Symptoms and signs</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:272px;"><a href="/wiki/File:Main_symptoms_of_carbon_dioxide_toxicity.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Main_symptoms_of_carbon_dioxide_toxicity.svg/270px-Main_symptoms_of_carbon_dioxide_toxicity.svg.png" width="270" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Main_symptoms_of_carbon_dioxide_toxicity.svg/405px-Main_symptoms_of_carbon_dioxide_toxicity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Main_symptoms_of_carbon_dioxide_toxicity.svg/540px-Main_symptoms_of_carbon_dioxide_toxicity.svg.png 2x" data-file-width="1196" data-file-height="1033" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Main_symptoms_of_carbon_dioxide_toxicity.svg" class="internal" title="Enlarge"></a></div>
+Main symptoms of Carbon dioxide toxicity, by increasing <a href="/wiki/Volume_percent" title="Volume percent">volume percent</a> in air.<sup id="cite_ref-friedman_3-0" class="reference"><a href="#cite_note-friedman-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-AMSA_4-0" class="reference"><a href="#cite_note-AMSA-4"><span>[</span>4<span>]</span></a></sup></div>
+</div>
+</div>
+<p>Symptoms and signs of early hypercapnia include flushed skin, full <a href="/wiki/Pulse" title="Pulse">pulse</a>, <a href="/wiki/Tachypnea" title="Tachypnea">tachypnea</a>, <a href="/wiki/Dyspnea" title="Dyspnea">dyspnea</a>, <a href="/wiki/Extrasystole" title="Extrasystole" class="mw-redirect">extrasystoles</a>, muscle twitches, hand flaps, reduced neural activity, and possibly a raised <a href="/wiki/Blood_pressure" title="Blood pressure">blood pressure</a>. According to other sources, symptoms of mild hypercapnia might include headache, confusion and lethargy. Hypercapnia can induce increased cardiac output, an elevation in arterial blood pressure, and a propensity toward arrhythmias.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> In severe hypercapnia (generally PaCO<sub>2</sub> greater than 10 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">kPa</a> or 75 <a href="/wiki/MmHg" title="MmHg" class="mw-redirect">mmHg</a>), symptomatology progresses to disorientation, <a href="/wiki/Panic" title="Panic">panic</a>, <a href="/wiki/Hyperventilation" title="Hyperventilation">hyperventilation</a>, <a href="/wiki/Convulsions" title="Convulsions" class="mw-redirect">convulsions</a>, <a href="/wiki/Unconsciousness" title="Unconsciousness">unconsciousness</a>, and eventually <a href="/wiki/Death" title="Death">death</a>.<sup id="cite_ref-Lambertson_1971_7-0" class="reference"><a href="#cite_note-Lambertson_1971-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Laboratory_values">Laboratory values</span></h2>
+<p>Hypercapnia is generally defined as a <a href="/wiki/Blood_gas" title="Blood gas">blood gas</a> carbon dioxide level over 45 mmHg. Since carbon dioxide is in equilibrium with <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a> in the blood, hypercapnia can drive serum pH down, resulting in a <a href="/wiki/Respiratory_acidosis" title="Respiratory acidosis">respiratory acidosis</a>. Clinically, the effect of hypercapnia on pH is estimated using the ratio of the arterial pressure of carbon dioxide to the concentration of bicarbonate ion, P<sub>a</sub>CO<sub>2</sub>/[HCO<sub>3</sub><sup>-</sup>].</p>
+<h2><span class="mw-headline" id="Tolerance">Tolerance</span></h2>
+<table class="wikitable">
+<caption>Tolerance to increased atmospheric CO<sub>2</sub> concentration<sup id="cite_ref-Lambertson_1971_7-1" class="reference"><a href="#cite_note-Lambertson_1971-7"><span>[</span>7<span>]</span></a></sup></caption>
+<tr>
+<th rowspan="2" scope="col">&#160;%CO<sub>2</sub> in inspired air</th>
+<th colspan="2" scope="col">Expected tolerance for useful activity on continued exposure to elevated CO<sub>2</sub></th>
+</tr>
+<tr>
+<th scope="col">Duration</th>
+<th scope="col">Major limitation</th>
+</tr>
+<tr>
+<td>0.04<strong class="error mw-ext-cite-error">Cite error: There are <code>&lt;ref&gt;</code> tags on this page without content in them (see the <a href="/wiki/Help:Cite_errors/Cite_error_ref_no_input" title="Help:Cite errors/Cite error ref no input">help page</a>).</strong></td>
+<td>lifetime</td>
+<td>normal atmosphere</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td>lifetime</td>
+<td rowspan="2">no detectable limitations</td>
+</tr>
+<tr>
+<td>1.0</td>
+<td>lifetime</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>&gt; 1 month</td>
+<td rowspan="3">mild respiratory stimulation</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>&gt; 1 month</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>&gt; 1 month</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>&gt; 1 month</td>
+<td rowspan="2">moderate respiratory stimulation</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>&gt; 1 week</td>
+</tr>
+<tr>
+<td>4.0</td>
+<td>&gt; 1 week</td>
+<td rowspan="2">moderate respiratory stimulation, exaggerated respiratory response to exercise</td>
+</tr>
+<tr>
+<td>4.5</td>
+<td>&gt; 8 hours</td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>&gt; 4 hours</td>
+<td rowspan="2">prominent respiratory stimulus, exaggerated respiratory response to exercise</td>
+</tr>
+<tr>
+<td>5.5</td>
+<td>&gt; 1 hours</td>
+</tr>
+<tr>
+<td>6.0</td>
+<td>&gt; 0.5 hours</td>
+<td rowspan="2">prominent respiratory stimulus, exaggerated respiratory response to exercise, beginnings of mental confusion</td>
+</tr>
+<tr>
+<td>6.5</td>
+<td>&gt; 0.25 hours</td>
+</tr>
+<tr>
+<td>7.0</td>
+<td>&gt; 0.1 hours</td>
+<td>limitation by dyspnea and mental confusion</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="During_diving">During diving</span></h2>
+<p>Normal respiration in divers results in <a href="/wiki/Pulmonary_alveolus" title="Pulmonary alveolus">alveolar</a> <a href="/wiki/Hypoventilation" title="Hypoventilation">hypoventilation</a> resulting in inadequate CO<sub>2</sub> elimination or hypercapnia. Lanphier's work at the <a href="/wiki/United_States_Navy_Experimental_Diving_Unit" title="United States Navy Experimental Diving Unit">US Navy Experimental Diving Unit</a> answered the question "why don't divers breathe enough?":<sup id="cite_ref-usn_9-0" class="reference"><a href="#cite_note-usn-9"><span>[</span>9<span>]</span></a></sup></p>
+<ul>
+<li>Higher Inspired Oxygen (PiO<sub>2</sub>) at 4 atm (404 kPa) accounted for not more than 25% of the elevation in End Tidal CO<sub>2</sub> (etCO<sub>2</sub>) above values found at the same work rate when breathing air just below the surface.<sup id="cite_ref-AD0784151_10-0" class="reference"><a href="#cite_note-AD0784151-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-AD0728247_11-0" class="reference"><a href="#cite_note-AD0728247-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-AD0206734_12-0" class="reference"><a href="#cite_note-AD0206734-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-AD0725851_13-0" class="reference"><a href="#cite_note-AD0725851-13"><span>[</span>13<span>]</span></a></sup></li>
+<li>Increased Work of Breathing accounted for most of the elevation of PACO<sub>2</sub> (<a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">alveolar gas equation</a>) in exposures above 1 atm (101 kPa), as indicated by the results when helium was substituted for nitrogen at 4 atm (404 kPa).<sup id="cite_ref-AD0784151_10-1" class="reference"><a href="#cite_note-AD0784151-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-AD0728247_11-1" class="reference"><a href="#cite_note-AD0728247-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-AD0206734_12-1" class="reference"><a href="#cite_note-AD0206734-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-AD0725851_13-1" class="reference"><a href="#cite_note-AD0725851-13"><span>[</span>13<span>]</span></a></sup></li>
+<li>Inadequate ventilatory response to exertion was indicated by the fact that, despite resting values in the normal range, PetCO<sub>2</sub> rose markedly with exertion even when the divers breathed air at a depth of only a few feet.<sup id="cite_ref-AD0784151_10-2" class="reference"><a href="#cite_note-AD0784151-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-AD0728247_11-2" class="reference"><a href="#cite_note-AD0728247-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-AD0206734_12-2" class="reference"><a href="#cite_note-AD0206734-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-AD0725851_13-2" class="reference"><a href="#cite_note-AD0725851-13"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Additional_sources_of_carbon_dioxide_in_diving">Additional sources of carbon dioxide in diving</span></h3>
+<p>There is a variety of reasons for <a href="/wiki/CO2_retention" title="CO2 retention" class="mw-redirect">carbon dioxide not being expelled completely</a> when the diver exhales:</p>
+<ul>
+<li>The diver is exhaling into a vessel that does not allow all the CO<sub>2</sub> to escape to the environment, such as a long <a href="/wiki/Snorkeling" title="Snorkeling">snorkel</a>, <a href="/wiki/Full_face_diving_mask" title="Full face diving mask">full face diving mask</a>, or <a href="/wiki/Diving_helmet" title="Diving helmet">diving helmet</a>, and the diver then re-inhales from that vessel, causing increased <a href="/wiki/Dead_space_(physiology)" title="Dead space (physiology)">deadspace</a>.<sup id="cite_ref-AD0725851_13-3" class="reference"><a href="#cite_note-AD0725851-13"><span>[</span>13<span>]</span></a></sup></li>
+<li>The <a href="/wiki/Soda_lime" title="Soda lime">carbon dioxide scrubber</a> in the diver's <a href="/wiki/Rebreather" title="Rebreather">rebreather</a> is failing to remove sufficient carbon dioxide from the loop (Higher inspired CO<sub>2</sub>).</li>
+<li>The diver is over-exercising, producing excess carbon dioxide due to elevated metabolic activity.</li>
+<li>The <a href="/wiki/Density" title="Density">density</a> of the <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a> is higher at depth, so the effort required to fully inhale and exhale has increased, making breathing more difficult and less efficient (Work of breathing).<sup id="cite_ref-usn_9-1" class="reference"><a href="#cite_note-usn-9"><span>[</span>9<span>]</span></a></sup> The higher gas density also causes gas mixing within the lung to be less efficient, thus increasing the deadspace (wasted breathing).<sup id="cite_ref-AD0725851_13-4" class="reference"><a href="#cite_note-AD0725851-13"><span>[</span>13<span>]</span></a></sup></li>
+<li>The diver is deliberately <a href="/wiki/Hypoventilation" title="Hypoventilation">hypoventilating</a>, known as "skip breathing" (<i>see below</i>).</li>
+</ul>
+<h3><span class="mw-headline" id="Skip_breathing">Skip breathing</span></h3>
+<p>Skip breathing is a controversial technique to conserve <a href="/wiki/Breathing_gas" title="Breathing gas">breathing gas</a> when using <a href="/wiki/Open-circuit_scuba" title="Open-circuit scuba" class="mw-redirect">open-circuit scuba</a>, which consists of briefly holding one's breath between inhalation and exhalation (i.e., "skipping" a breath). It leads to CO<sub>2</sub> not being exhaled efficiently.<sup id="cite_ref-Cheshire2001_14-0" class="reference"><a href="#cite_note-Cheshire2001-14"><span>[</span>14<span>]</span></a></sup> There is also an increased risk of burst lung from holding the breath while ascending. It is counterproductive with a <a href="/wiki/Rebreather" title="Rebreather">rebreather</a>, where the act of breathing pumps the gas around the "loop", pushing carbon dioxide through the scrubber and mixing freshly injected oxygen.</p>
+<h3><span class="mw-headline" id="Rebreathers">Rebreathers</span></h3>
+<p>In closed circuit <a href="/wiki/Scuba_set" title="Scuba set">SCUBA</a> (<a href="/wiki/Rebreather" title="Rebreather">rebreather</a>) diving, exhaled carbon dioxide must be removed from the breathing system, usually by a <a href="/wiki/Scrubber" title="Scrubber">scrubber</a> containing a solid chemical compound with a high affinity for CO<sub>2</sub>, such as <a href="/wiki/Soda_lime" title="Soda lime">soda lime</a>.<sup id="cite_ref-rebreather2.0_15-0" class="reference"><a href="#cite_note-rebreather2.0-15"><span>[</span>15<span>]</span></a></sup> If not removed from the system, it may be re-inhaled, causing an increase in the inhaled concentration.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Helmet_logo_for_Underwater_Diving_portal.png" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/20px-Helmet_logo_for_Underwater_Diving_portal.png" width="20" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/30px-Helmet_logo_for_Underwater_Diving_portal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/40px-Helmet_logo_for_Underwater_Diving_portal.png 2x" data-file-width="429" data-file-height="600" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Underwater_diving" title="Portal:Underwater diving">Underwater diving portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Inert_gas_asphyxiation" title="Inert gas asphyxiation">Inert gas asphyxiation</a></li>
+<li><a href="/wiki/Lake_Nyos" title="Lake Nyos">Lake Nyos</a></li>
+<li><a href="/wiki/Human_Respiration" title="Human Respiration" class="mw-redirect">Respiratory Physiology</a></li>
+<li><a href="/wiki/Hypocapnia" title="Hypocapnia">Hypocapnia</a>, decreased level of carbon dioxide</li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Permissive_hypercapnia" title="Permissive hypercapnia">Permissive hypercapnia</a></li>
+<li><a href="/wiki/Sleep_apnea" title="Sleep apnea">Sleep apnea</a></li>
+<li><a href="/wiki/Water_boarding" title="Water boarding" class="mw-redirect">Water boarding</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">N Engl J Med 361:795 The sudden infant death syndrome</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Dement, Roth, Kryger, <a rel="nofollow" class="external text" href="http://books.google.com/books?id=JpNeAAAACAAJ&amp;dq=%27Principles+%26+Practices+of+Sleep+Medicine">'Principles &amp; Practices of Sleep Medicine'</a> 3rd edition, 2000, p. 887.</span></li>
+<li id="cite_note-friedman-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-friedman_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.inspect-ny.com/hazmat/CO2gashaz.htm">Toxicity of Carbon Dioxide Gas Exposure, CO<sub>2</sub> Poisoning Symptoms, Carbon Dioxide Exposure Limits, and Links to Toxic Gas Testing Procedures</a> By Daniel Friedman – InspectAPedia</span></li>
+<li id="cite_note-AMSA-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMSA_4-0">^</a></b></span> <span class="reference-text">Davidson, Clive. 7 February 2003. "Marine Notice: Carbon Dioxide: Health Hazard". Australian Maritime Safety Authority.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Stapczynski J. S, "Chapter 62. Respiratory Distress" (Chapter). Tintinalli JE, Kelen GD, Stapczynski JS, Ma OJ, Cline DM: Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 6th Edition: <a rel="nofollow" class="external free" href="http://www.accessmedicine.com/content.aspx?aID=591330">http://www.accessmedicine.com/content.aspx?aID=591330</a>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Morgan GE, Jr., Mikhail MS, Murray MJ, "Chapter 3. Breathing Systems" (Chapter). Morgan GE, Jr., Mikhail MS, Murray MJ: Clinical Anesthesiology, 4th Edition: <a rel="nofollow" class="external free" href="http://www.accessmedicine.com/content.aspx?aID=886013">http://www.accessmedicine.com/content.aspx?aID=886013</a>.</span></li>
+<li id="cite_note-Lambertson_1971-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lambertson_1971_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lambertson_1971_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Christian_J._Lambertsen" title="Christian J. Lambertsen">Lambertsen, Christian J.</a> (1971). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/3861">"Carbon Dioxide Tolerance and Toxicity"</a>. <i>Environmental Biomedical Stress Data Center, Institute for Environmental Medicine, University of Pennsylvania Medical Center</i> (Philadelphia, PA). IFEM Report No. 2–71<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Carbon+Dioxide+Tolerance+and+Toxicity&amp;rft.au=Lambertsen%2C+Christian+J.&amp;rft.aulast=Lambertsen%2C+Christian+J.&amp;rft.date=1971&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F3861&amp;rft.jtitle=Environmental+Biomedical+Stress+Data+Center%2C+Institute+for+Environmental+Medicine%2C+University+of+Pennsylvania+Medical+Center&amp;rft.place=Philadelphia%2C+PA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=IFEM+Report+No.+2%26ndash%3B71" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation journal">Glatte Jr H. A., Motsay G. J., Welch B. E. (1967). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/6045">"Carbon Dioxide Tolerance Studies"</a>. <i>Brooks AFB, TX School of Aerospace Medicine Technical Report</i>. SAM-TR-67-77<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Carbon+Dioxide+Tolerance+Studies&amp;rft.au=Glatte+Jr+H.+A.%2C+Motsay+G.+J.%2C+Welch+B.+E.&amp;rft.aulast=Glatte+Jr+H.+A.%2C+Motsay+G.+J.%2C+Welch+B.+E.&amp;rft.date=1967&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F6045&amp;rft.jtitle=Brooks+AFB%2C+TX+School+of+Aerospace+Medicine+Technical+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=SAM-TR-67-77" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-usn-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-usn_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-usn_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a rel="nofollow" class="external text" href="http://www.supsalv.org/00c3_publications.asp?destPage=00c3&amp;pageID=3.9"><i>US Navy Diving Manual, 6th revision</i></a>. United States: US Naval Sea Systems Command. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.btitle=US+Navy+Diving+Manual%2C+6th+revision&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.supsalv.org%2F00c3_publications.asp%3FdestPage%3D00c3%26pageID%3D3.9&amp;rft.place=United+States&amp;rft.pub=US+Naval+Sea+Systems+Command&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AD0784151-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-AD0784151_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AD0784151_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AD0784151_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lanphier, EH (1955). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/3326">"Nitrogen-Oxygen Mixture Physiology, Phases 1 and 2"</a>. <i>US Navy Experimental Diving Unit Technical Report</i>. AD0784151<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Nitrogen-Oxygen+Mixture+Physiology%2C+Phases+1+and+2&amp;rft.au=Lanphier%2C+EH&amp;rft.aulast=Lanphier%2C+EH&amp;rft.date=1955&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F3326&amp;rft.jtitle=US+Navy+Experimental+Diving+Unit+Technical+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=AD0784151" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AD0728247-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-AD0728247_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AD0728247_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AD0728247_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lanphier EH, Lambertsen CJ, Funderburk LR (1956). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/3327">"Nitrogen-Oxygen Mixture Physiology – Phase 3. End-Tidal Gas Sampling System. Carbon Dioxide Regulation in Divers. Carbon Dioxide Sensitivity Tests"</a>. <i>US Navy Experimental Diving Unit Technical Report</i>. AD0728247<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Nitrogen-Oxygen+Mixture+Physiology+%26ndash%3B+Phase+3.+End-Tidal+Gas+Sampling+System.+Carbon+Dioxide+Regulation+in+Divers.+Carbon+Dioxide+Sensitivity+Tests&amp;rft.au=Lanphier+EH%2C+Lambertsen+CJ%2C+Funderburk+LR&amp;rft.aulast=Lanphier+EH%2C+Lambertsen+CJ%2C+Funderburk+LR&amp;rft.date=1956&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F3327&amp;rft.jtitle=US+Navy+Experimental+Diving+Unit+Technical+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=AD0728247" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AD0206734-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-AD0206734_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AD0206734_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AD0206734_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lanphier EH (1958). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/3362">"Nitrogen-oxygen mixture physiology. Phase 4. Carbon Dioxide sensitivity as a potential means of personnel selection. Phase 6. Carbon Dioxide regulation under diving conditions"</a>. <i>US Navy Experimental Diving Unit Technical Report</i>. AD0206734<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Nitrogen-oxygen+mixture+physiology.+Phase+4.+Carbon+Dioxide+sensitivity+as+a+potential+means+of+personnel+selection.+Phase+6.+Carbon+Dioxide+regulation+under+diving+conditions&amp;rft.au=Lanphier+EH&amp;rft.aulast=Lanphier+EH&amp;rft.date=1958&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F3362&amp;rft.jtitle=US+Navy+Experimental+Diving+Unit+Technical+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=AD0206734" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AD0725851-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-AD0725851_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AD0725851_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AD0725851_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AD0725851_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AD0725851_13-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lanphier EH (1956). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/3809">"Nitrogen-Oxygen Mixture Physiology. Phase 5. Added Respiratory Dead Space (Value in Personnel Selection tests) (Physiological Effects Under Diving Conditions)"</a>. <i>US Navy Experimental Diving Unit Technical Report</i>. AD0725851<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Nitrogen-Oxygen+Mixture+Physiology.+Phase+5.+Added+Respiratory+Dead+Space+%28Value+in+Personnel+Selection+tests%29+%28Physiological+Effects+Under+Diving+Conditions%29&amp;rft.au=Lanphier+EH&amp;rft.aulast=Lanphier+EH&amp;rft.date=1956&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F3809&amp;rft.jtitle=US+Navy+Experimental+Diving+Unit+Technical+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=AD0725851" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Cheshire2001-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cheshire2001_14-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Cheshire, William P; Ott, Michael C (2001). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1046/j.1526-4610.2001.111006235.x/full">"Headache in Divers"</a>. <i>Headache: The Journal of Head and Face Pain</i> <b>41</b> (3): 235–247. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1046%2Fj.1526-4610.2001.111006235.x">10.1046/j.1526-4610.2001.111006235.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11264683">11264683</a>. <q>Carbon dioxide can accumulate insidiously in the diver who intentionally holds the breath intermittently (skip breathing) in a mistaken attempt to conserve air</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Headache+in+Divers&amp;rft.au=Cheshire%2C+William+P&amp;rft.aufirst=William+P&amp;rft.aulast=Cheshire&amp;rft.au=Ott%2C+Michael+C&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1046%2Fj.1526-4610.2001.111006235.x%2Ffull&amp;rft_id=info%3Adoi%2F10.1046%2Fj.1526-4610.2001.111006235.x&amp;rft_id=info%3Apmid%2F11264683&amp;rft.issue=3&amp;rft.jtitle=Headache%3A+The+Journal+of+Head+and+Face+Pain&amp;rft.pages=235-247&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=41" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rebreather2.0-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-rebreather2.0_15-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Richardson, Drew; Menduno, Michael; Shreeves, Karl (eds). (1996). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/7555">"Proceedings of Rebreather Forum 2.0."</a>. <i>Diving Science and Technology Workshop.</i>: 286<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-16</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercapnia&amp;rft.atitle=Proceedings+of+Rebreather+Forum+2.0.&amp;rft.aulast=Richardson%2C+Drew%3B+Menduno%2C+Michael%3B+Shreeves%2C+Karl+%28eds%29.&amp;rft.au=Richardson%2C+Drew%3B+Menduno%2C+Michael%3B+Shreeves%2C+Karl+%28eds%29.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F7555&amp;rft.jtitle=Diving+Science+and+Technology+Workshop.&amp;rft.pages=286&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:Silver">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Respiratory_system_symptoms_and_signs" title="Template:Respiratory system symptoms and signs"><span title="View this template" style=";background:Silver;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Respiratory_system_symptoms_and_signs" title="Template talk:Respiratory system symptoms and signs"><span title="Discuss this template" style=";background:Silver;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Respiratory_system_symptoms_and_signs&amp;action=edit"><span title="Edit this template" style=";background:Silver;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Symptom" title="Symptom">Symptoms</a> and <a href="/wiki/Medical_sign" title="Medical sign">signs</a>: <a href="/wiki/Respiratory_system" title="Respiratory system">respiratory system</a> (<a href="/wiki/ICD-10_Chapter_R#.28R00.E2.80.93R09.29_Circulatory_and_respiratory_systems" title="ICD-10 Chapter R" class="mw-redirect">R04–R07</a>, <a href="/wiki/List_of_ICD-9_codes_780%E2%80%93799:_symptoms,_signs,_and_ill-defined_conditions#Symptoms_involving_respiratory_system_and_other_chest_symptoms" title="List of ICD-9 codes 780–799: symptoms, signs, and ill-defined conditions">786</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Template:Medical_records_and_physical_exam" title="Template:Medical records and physical exam">Medical examination and history taking</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Auscultation" title="Auscultation">Auscultation</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Respiratory_sounds" title="Respiratory sounds">Respiratory sounds</a>
+<ul>
+<li><a href="/wiki/Stridor" title="Stridor">Stridor</a></li>
+<li><a href="/wiki/Wheeze" title="Wheeze">Wheeze</a></li>
+<li><a href="/wiki/Crackles" title="Crackles">Crackles</a></li>
+<li><a href="/wiki/Rhonchi" title="Rhonchi">Rhonchi</a></li>
+<li><a href="/wiki/Hamman%27s_sign" title="Hamman's sign">Hamman's sign</a></li>
+<li><a href="/wiki/Pleural_friction_rub" title="Pleural friction rub">Pleural friction rub</a></li>
+<li><a href="/wiki/Fremitus" title="Fremitus">Fremitus</a></li>
+<li><a href="/wiki/Bronchophony" title="Bronchophony">Bronchophony</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Elicited findings
+<ul>
+<li><a href="/wiki/Pectoriloquy" title="Pectoriloquy">Pectoriloquy</a>: <a href="/wiki/Whispered_pectoriloquy" title="Whispered pectoriloquy">Whispered pectoriloquy</a></li>
+<li><a href="/wiki/Egophony" title="Egophony">Egophony</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Abnormalities<br />
+of breathing</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Respiratory_distress" title="Respiratory distress">Respiratory distress</a></li>
+<li><a href="/wiki/Respiratory_arrest" title="Respiratory arrest">Respiratory arrest</a></li>
+<li><a href="/wiki/Cyanosis" title="Cyanosis">Cyanosis</a></li>
+<li>Rate
+<ul>
+<li><a href="/wiki/Apnea" title="Apnea">Apnea</a></li>
+<li><a href="/wiki/Dyspnea" title="Dyspnea">Dyspnea</a></li>
+<li><a href="/wiki/Hyperventilation" title="Hyperventilation">Hyperventilation</a></li>
+<li><a href="/wiki/Hypoventilation" title="Hypoventilation">Hypoventilation</a></li>
+<li><a href="/wiki/Hyperpnea" title="Hyperpnea">Hyperpnea</a></li>
+<li><a href="/wiki/Tachypnea" title="Tachypnea">Tachypnea</a></li>
+<li><a href="/wiki/Hypopnea" title="Hypopnea">Hypopnea</a></li>
+<li><a href="/wiki/Bradypnea" title="Bradypnea">Bradypnea</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Orthopnea" title="Orthopnea">Orthopnea</a>/<a href="/wiki/Platypnea" title="Platypnea">Platypnea</a></li>
+<li><a href="/wiki/Trepopnea" title="Trepopnea">Trepopnea</a></li>
+</ul>
+<ul>
+<li>Pattern
+<ul>
+<li><a href="/wiki/Biot%27s_respiration" title="Biot's respiration">Biot's respiration</a></li>
+<li><a href="/wiki/Cheyne%E2%80%93Stokes_respiration" title="Cheyne–Stokes respiration">Cheyne–Stokes respiration</a></li>
+<li><a href="/wiki/Kussmaul_breathing" title="Kussmaul breathing">Kussmaul breathing</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Asphyxia" title="Asphyxia">Asphyxia</a></li>
+<li><a href="/wiki/Breath-holding_spells" title="Breath-holding spells" class="mw-redirect">Breath holding</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chest_pain#Pulmonary" title="Chest pain">Chest pain</a>
+<ul>
+<li><a href="/wiki/Precordial_catch_syndrome" title="Precordial catch syndrome">Precordial catch syndrome</a></li>
+<li><a href="/wiki/Pleurisy" title="Pleurisy">Pleurisy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nail_clubbing" title="Nail clubbing">Clubbing</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Cough" title="Cough">Cough</a></li>
+<li><a href="/wiki/Sputum" title="Sputum">Sputum</a></li>
+<li><a href="/wiki/Hemoptysis" title="Hemoptysis">Hemoptysis</a></li>
+<li><a href="/wiki/Epistaxis" title="Epistaxis" class="mw-redirect">Epistaxis</a></li>
+<li><a href="/wiki/Silhouette_sign" title="Silhouette sign">Silhouette sign</a></li>
+<li><a href="/wiki/Post-nasal_drip" title="Post-nasal drip">Post-nasal drip</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Mouth_breathing" title="Mouth breathing">Mouth breathing</a></li>
+<li><a href="/wiki/Snoring" title="Snoring">Snoring</a></li>
+<li><a href="/wiki/Hiccup" title="Hiccup">Hiccup</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<div style="text-align:center; position:relative; white-space:nowrap;"><b>Index of the <a href="/wiki/Respiratory_system" title="Respiratory system">respiratory system</a></b>
+<div class="plainlinks hlist navbar mini" style="position:absolute; right:0; top:0; margin:0 5px;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Respiratory_system_navs" title="Template:Respiratory system navs"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Respiratory_system_navs" title="Template talk:Respiratory system navs"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Respiratory_system_navs&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Anatomy
+<ul>
+<li><a href="/wiki/Template:Nose_anatomy" title="Template:Nose anatomy">nose</a></li>
+<li><a href="/wiki/Template:Larynx_anatomy" title="Template:Larynx anatomy">larynx</a></li>
+<li><a href="/wiki/Template:Lower_respiratory_system_anatomy" title="Template:Lower respiratory system anatomy">lower</a></li>
+<li><a href="/wiki/Template:Thoracic_cavity" title="Template:Thoracic cavity">thorax</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Respiratory_physiology" title="Template:Respiratory physiology">Physiology</a></li>
+<li><a href="/wiki/Template:Development_of_respiratory_system" title="Template:Development of respiratory system">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_respiratory_system" title="Template:Congenital malformations and deformations of respiratory system">Congenital</a></li>
+<li><a href="/wiki/Template:Respiratory_neoplasia" title="Template:Respiratory neoplasia">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Chest_trauma" title="Template:Chest trauma">Chest trauma</a></li>
+<li>Infection
+<ul>
+<li><a href="/wiki/Template:Common_cold" title="Template:Common cold">Common cold</a></li>
+<li><a href="/wiki/Template:Pneumonia" title="Template:Pneumonia">Pneumonia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Respiratory_pathology" title="Template:Respiratory pathology">Other</a></li>
+<li><a href="/wiki/Template:Respiratory_system_symptoms_and_signs" title="Template:Respiratory system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_respiratory_system" title="Template:Eponymous medical signs for respiratory system">eponymous</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Respiratory_system_procedures" title="Template:Respiratory system procedures">Procedures</a>
+<ul>
+<li><a href="/wiki/Template:Mechanical_ventilation" title="Template:Mechanical ventilation">mechanical ventilation</a></li>
+</ul>
+</li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Nasal_preparations" title="Template:Nasal preparations">nasal</a></li>
+<li><a href="/wiki/Template:Throat_preparations" title="Template:Throat preparations">throat</a></li>
+<li><a href="/wiki/Template:Drugs_for_obstructive_airway_diseases" title="Template:Drugs for obstructive airway diseases">obstructive airway diseases</a></li>
+<li><a href="/wiki/Template:Cough_and_cold_preparations" title="Template:Cough and cold preparations">cough and cold</a></li>
+<li><a href="/wiki/Template:Histaminergics" title="Template:Histaminergics">histaminergics</a></li>
+<li><a href="/wiki/Template:PAH_rx" title="Template:PAH rx" class="mw-redirect">pulmonary arterial hypertension</a></li>
+<li><a href="/wiki/Template:Other_respiratory_system_products" title="Template:Other respiratory system products">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Underwater_diving" title="Template:Underwater diving"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Underwater_diving" title="Template talk:Underwater diving"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Underwater_diving&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Underwater_diving" title="Underwater diving">Underwater diving</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Modes</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freediving" title="Freediving">Freediving</a></li>
+<li><a href="/wiki/Saturation_diving" title="Saturation diving">Saturation diving</a></li>
+<li><a href="/wiki/Scuba_diving" title="Scuba diving">Scuba diving</a></li>
+<li><a href="/wiki/Snorkelling" title="Snorkelling" class="mw-redirect">Snorkelling</a></li>
+<li><a href="/wiki/Surface-supplied_diving" title="Surface-supplied diving">Surface-supplied diving</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="13" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Buzo.jpg" class="image" title="Scuba Diver"><img alt="Scuba Diver" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Buzo.jpg/100px-Buzo.jpg" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Buzo.jpg/150px-Buzo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Buzo.jpg/200px-Buzo.jpg 2x" data-file-width="691" data-file-height="691" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Recreational<br />
+specialities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altitude_diving" title="Altitude diving">Altitude diving</a></li>
+<li><a href="/wiki/Cave_diving" title="Cave diving">Cave diving</a></li>
+<li><a href="/wiki/Deep_diving" title="Deep diving">Deep diving</a></li>
+<li><a href="/wiki/Ice_diving" title="Ice diving">Ice diving</a></li>
+<li><a href="/wiki/Gas_blending" title="Gas blending">Mixed gas diving</a></li>
+<li><a href="/wiki/Muck_diving" title="Muck diving">Muck diving</a></li>
+<li><a href="/wiki/Open-water_diving" title="Open-water diving">Open-water diving</a></li>
+<li><a href="/wiki/Rebreather_diving" title="Rebreather diving">Rebreather diving</a></li>
+<li><a href="/wiki/Solo_diving" title="Solo diving">Solo diving</a></li>
+<li><a href="/wiki/Side_mount_diving" title="Side mount diving">Side mount diving</a></li>
+<li><a href="/wiki/Technical_diving" title="Technical diving">Technical diving</a></li>
+<li><a href="/wiki/Wreck_diving" title="Wreck diving">Wreck diving</a></li>
+<li><a href="/wiki/Underwater_sports" title="Underwater sports">Underwater sports</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Equipment</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Backplate_and_wing" title="Backplate and wing">Backplate and wing</a></li>
+<li><a href="/wiki/Buoyancy_compensator_(diving)" title="Buoyancy compensator (diving)">Buoyancy control device</a></li>
+<li><a href="/wiki/Breathing_gas" title="Breathing gas">Breathing gas</a></li>
+<li><a href="/wiki/Rupture_disc" title="Rupture disc">Burst disc</a></li>
+<li><a href="/wiki/Distance_line" title="Distance line">Distance line/dive reel</a></li>
+<li><a href="/wiki/Dive_computer" title="Dive computer">Dive computer</a></li>
+<li><a href="/wiki/Diving_air_compressor" title="Diving air compressor">Diving air compressor</a></li>
+<li><a href="/wiki/Diving_bell" title="Diving bell">Diving bell</a></li>
+<li><a href="/wiki/Diving_chamber" title="Diving chamber">Diving chamber</a></li>
+<li><a href="/wiki/Diving_cylinder" title="Diving cylinder">Diving cylinder</a></li>
+<li><a href="/wiki/Diving_equipment" title="Diving equipment">Diving equipment</a></li>
+<li><a href="/wiki/Diving_helmet" title="Diving helmet">Diving helmet</a></li>
+<li><a href="/wiki/Dive_light" title="Dive light">Dive light</a></li>
+<li><a href="/wiki/Diver%27s_pump" title="Diver's pump">Diver's pump</a></li>
+<li><a href="/wiki/Diving_regulator" title="Diving regulator">Diving regulator</a></li>
+<li><a href="/wiki/Diver_propulsion_vehicle" title="Diver propulsion vehicle">Diver propulsion vehicle</a></li>
+<li><a href="/wiki/Diving_shot" title="Diving shot">Diving shot</a></li>
+<li><a href="/wiki/Diving_suit" title="Diving suit">Diving suit</a></li>
+<li><a href="/wiki/Diving_weighting_system" title="Diving weighting system">Diving weighting system</a></li>
+<li><a href="/wiki/Swimfin" title="Swimfin">Fins</a></li>
+<li><a href="/wiki/Full-face_mask" title="Full-face mask" class="mw-redirect">Full-face mask</a></li>
+<li><a href="/wiki/Integrated_Diver_Display_Mask" title="Integrated Diver Display Mask">Integrated Diver Display Mask</a></li>
+<li><a href="/wiki/Lifting_bag" title="Lifting bag">Lifting bag</a></li>
+<li><a href="/wiki/Line_marker" title="Line marker">Line marker</a></li>
+<li><a href="/wiki/Diving_mask" title="Diving mask">Mask</a></li>
+<li><a href="/wiki/Moon_pool" title="Moon pool">Moon pool</a></li>
+<li><a href="/wiki/Rash_guard" title="Rash guard">Rash vest</a></li>
+<li><a href="/wiki/Rebreather" title="Rebreather">Rebreather</a></li>
+<li><a href="/wiki/Scuba_set" title="Scuba set">Scuba set</a></li>
+<li><a href="/wiki/Snoopy_loop" title="Snoopy loop">Snoopy loop</a></li>
+<li><a href="/wiki/Snorkeling" title="Snorkeling">Snorkel</a></li>
+<li><a href="/wiki/Surface_marker_buoy" title="Surface marker buoy">Surface marker buoy</a></li>
+<li><a href="/wiki/Towboard" title="Towboard">Towboard</a></li>
+<li><a href="/wiki/Vintage_scuba" title="Vintage scuba">Vintage scuba</a></li>
+<li><a href="/wiki/Wetsuit" title="Wetsuit">Wetsuit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clearance_diver" title="Clearance diver">Clearance diver</a></li>
+<li><a href="/wiki/Commercial_offshore_diving" title="Commercial offshore diving">Commercial offshore diving</a></li>
+<li><a href="/wiki/Frogman" title="Frogman">Frogman</a></li>
+<li><a href="/wiki/List_of_military_diving_units" title="List of military diving units">List of military diving units</a></li>
+<li><a href="/wiki/Police_diving" title="Police diving">Police diving</a></li>
+<li><a href="/wiki/Professional_diving" title="Professional diving">Professional diving</a></li>
+<li><a href="/wiki/Public_safety_diving" title="Public safety diving">Public safety diving</a></li>
+<li><a href="/wiki/Recreational_diving" title="Recreational diving">Recreational diving</a></li>
+<li><a href="/wiki/Scientific_diving" title="Scientific diving" class="mw-redirect">Scientific diving</a></li>
+<li><a href="/wiki/Underwater_archaeology" title="Underwater archaeology">Underwater archaeology</a></li>
+<li><a href="/wiki/Underwater_photography" title="Underwater photography">Underwater photography</a></li>
+<li><a href="/wiki/Underwater_videography" title="Underwater videography">Underwater videography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Hazards</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barotrauma" title="Barotrauma">Barotrauma</a></li>
+<li><a href="/wiki/Decompression_sickness" title="Decompression sickness">Decompression sickness</a></li>
+<li><a href="/wiki/Deep_water_blackout" title="Deep water blackout">Deep water blackout</a></li>
+<li><a href="/wiki/Drowning" title="Drowning">Drowning</a></li>
+<li><a href="/wiki/Dysbaric_osteonecrosis" title="Dysbaric osteonecrosis">Dysbaric osteonecrosis</a></li>
+<li><a href="/wiki/High_pressure_nervous_syndrome" title="High pressure nervous syndrome" class="mw-redirect">High pressure nervous syndrome</a></li>
+<li><a href="/wiki/Human_factors_in_diving_safety" title="Human factors in diving safety">Human factors in diving safety</a></li>
+<li><strong class="selflink">Hypercapnia</strong></li>
+<li><a href="/wiki/Hypothermia" title="Hypothermia">Hypothermia</a></li>
+<li><a href="/wiki/Isobaric_counterdiffusion" title="Isobaric counterdiffusion">Isobaric counterdiffusion</a></li>
+<li><a href="/wiki/List_of_diving_hazards_and_precautions" title="List of diving hazards and precautions">List of diving hazards and precautions</a></li>
+<li><a href="/wiki/List_of_signs_and_symptoms_of_diving_disorders" title="List of signs and symptoms of diving disorders">List of signs and symptoms of diving disorders</a></li>
+<li><a href="/wiki/Nitrogen_narcosis" title="Nitrogen narcosis">Nitrogen narcosis</a></li>
+<li><a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">Oxygen toxicity</a></li>
+<li><a href="/wiki/Seasickness" title="Seasickness">Seasickness</a></li>
+<li><a href="/wiki/Shallow_water_blackout" title="Shallow water blackout">Shallow water blackout</a></li>
+<li><a href="/wiki/Silt_out" title="Silt out">Silt out</a></li>
+<li><a href="/wiki/Task_loading" title="Task loading">Task loading</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Procedures</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascending_and_descending_(diving)" title="Ascending and descending (diving)">Ascending and descending (diving)</a></li>
+<li><a href="/wiki/Buddy_diving" title="Buddy diving">Buddy diving</a></li>
+<li><a href="/wiki/Controlled_buoyant_lift" title="Controlled buoyant lift">Controlled buoyant lift</a></li>
+<li><a href="/wiki/Controlled_emergency_swimming_ascent" title="Controlled emergency swimming ascent">Controlled emergency swimming ascent</a></li>
+<li><a href="/wiki/Decompression_(diving)" title="Decompression (diving)">Decompression (diving)</a></li>
+<li><a href="/wiki/Dive_planning" title="Dive planning">Dive planning</a></li>
+<li><a href="/wiki/Diver_communications" title="Diver communications">Diver communications</a></li>
+<li><a href="/wiki/Diver_rescue" title="Diver rescue">Diver rescue</a></li>
+<li><a href="/wiki/Diver_trim" title="Diver trim">Diver trim</a></li>
+<li><a href="/wiki/Emergency_ascent" title="Emergency ascent">Emergency ascent</a></li>
+<li><a href="/wiki/Night_diving" title="Night diving">Night diving</a></li>
+<li><a href="/wiki/Penetration_diving" title="Penetration diving">Penetration diving</a></li>
+<li><a href="/wiki/Recreational_diver_training" title="Recreational diver training">Recreational diver training</a></li>
+<li><a href="/wiki/Rule_of_thirds_(diving)" title="Rule of thirds (diving)">Rule of thirds (diving)</a></li>
+<li><a href="/wiki/Scuba_skills" title="Scuba skills">Scuba skills</a></li>
+<li><a href="/wiki/Scuba_gas_planning" title="Scuba gas planning">Scuba gas planning</a></li>
+<li><a href="/wiki/Underwater_navigation" title="Underwater navigation">Underwater navigation</a></li>
+<li><a href="/wiki/Underwater_searches" title="Underwater searches">Underwater searches</a></li>
+<li><a href="/wiki/Underwater_search_and_recovery" title="Underwater search and recovery">Underwater search and recovery</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">History</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ancient_divers" title="Ancient divers" class="mw-redirect">Ancient divers</a></li>
+<li><a href="/wiki/History_of_decompression_research_and_development" title="History of decompression research and development">History of decompression research and development</a></li>
+<li><a href="/wiki/Timeline_of_diving_technology" title="Timeline of diving technology">Timeline of diving technology</a></li>
+<li><a href="/wiki/List_of_researchers_in_underwater_diving" title="List of researchers in underwater diving">List of researchers in underwater diving</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> Categories: <a href="/wiki/Category:Diving_equipment" title="Category:Diving equipment">Diving equipment</a></li>
+<li><a href="/wiki/Category:Professional_diving" title="Category:Professional diving">Professional diving</a></li>
+<li><a href="/wiki/Category:Recreational_diving" title="Category:Recreational diving">Recreational diving</a></li>
+<li><a href="/wiki/Category:Underwater_diving_history" title="Category:Underwater diving history">Underwater diving history</a></li>
+<li><a href="/wiki/Category:Underwater_diving_procedures" title="Category:Underwater diving procedures">Underwater diving procedures</a></li>
+<li><a href="/wiki/Category:Underwater_diving_safety" title="Category:Underwater diving safety">Underwater diving safety</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="//commons.wikimedia.org/wiki/Category:Underwater_diving" class="extiw" title="commons:Category:Underwater diving">Commons</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Glossary_of_underwater_diving_terminology" title="Glossary of underwater diving terminology">Glossary</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Underwater_diving" title="Portal:Underwater diving">Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Diving_medicine,_physiology_and_physics" title="Template:Diving medicine, physiology and physics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Diving_medicine,_physiology_and_physics" title="Template talk:Diving medicine, physiology and physics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Diving_medicine,_physiology_and_physics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Diving medicine, physiology, physics and environment</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Diving_medicine" title="Diving medicine">Diving medicine</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Diving_disorders" title="Diving disorders">Injuries<br />
+and<br />
+Disorders</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Pressure</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Oxygen</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep_water_blackout" title="Deep water blackout">Deep water blackout</a></li>
+<li><a href="/wiki/Hyperoxia" title="Hyperoxia">Hyperoxia</a></li>
+<li><a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">Oxygen toxicity</a></li>
+<li><a href="/wiki/Shallow_water_blackout" title="Shallow water blackout">Shallow water blackout</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Inert gases</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atrial_septal_defect" title="Atrial septal defect">Atrial septal defect</a></li>
+<li><a href="/wiki/Avascular_necrosis" title="Avascular necrosis">Avascular necrosis</a></li>
+<li><a href="/wiki/Decompression_sickness" title="Decompression sickness">Decompression sickness</a></li>
+<li><a href="/wiki/Dysbaric_osteonecrosis" title="Dysbaric osteonecrosis">Dysbaric osteonecrosis</a></li>
+<li><a href="/wiki/High-pressure_nervous_syndrome" title="High-pressure nervous syndrome">High-pressure nervous syndrome</a></li>
+<li><a href="/wiki/Hydrogen_narcosis" title="Hydrogen narcosis">Hydrogen narcosis</a></li>
+<li><a href="/wiki/Isobaric_counterdiffusion" title="Isobaric counterdiffusion">Isobaric counterdiffusion</a></li>
+<li><a href="/wiki/Nitrogen_narcosis" title="Nitrogen narcosis">Nitrogen narcosis</a></li>
+<li><a href="/wiki/Taravana" title="Taravana">Taravana</a></li>
+<li><a href="/wiki/Uncontrolled_decompression" title="Uncontrolled decompression">Uncontrolled decompression</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Carbon dioxide</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Hypercapnia</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Aerosinusitis" title="Aerosinusitis">Aerosinusitis</a></li>
+<li><a href="/wiki/Air_embolism" title="Air embolism">Air embolism</a></li>
+<li><a href="/wiki/Alternobaric_vertigo" title="Alternobaric vertigo">Alternobaric vertigo</a></li>
+<li><a href="/wiki/Barodontalgia" title="Barodontalgia">Barodontalgia</a></li>
+<li><a href="/wiki/Barostriction" title="Barostriction">Barostriction</a></li>
+<li><a href="/wiki/Barotrauma" title="Barotrauma">Barotrauma</a></li>
+<li><a href="/wiki/Compression_arthralgia" title="Compression arthralgia">Compression arthralgia</a></li>
+<li><a href="/wiki/Decompression_illness" title="Decompression illness">Decompression illness</a></li>
+<li><a href="/wiki/Dental_barotrauma" title="Dental barotrauma">Dental barotrauma</a></li>
+<li><a href="/wiki/Dysbarism" title="Dysbarism">Dysbarism</a></li>
+<li><a href="/wiki/Ear_clearing" title="Ear clearing">Ear clearing</a></li>
+<li><a href="/wiki/Frenzel_maneuver" title="Frenzel maneuver">Frenzel maneuver</a></li>
+<li><a href="/wiki/Valsalva_maneuver" title="Valsalva maneuver">Valsalva maneuver</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Immersion</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asphyxia" title="Asphyxia">Asphyxia</a></li>
+<li><a href="/wiki/Drowning" title="Drowning">Drowning</a></li>
+<li><a href="/wiki/Hypothermia" title="Hypothermia">Hypothermia</a></li>
+<li><a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">Hypoxia (medical)</a></li>
+<li><a href="/wiki/Immersion_diuresis" title="Immersion diuresis">Immersion diuresis</a></li>
+<li><a href="/wiki/Instinctive_drowning_response" title="Instinctive drowning response">Instinctive drowning response</a></li>
+<li><a href="/wiki/Salt_water_aspiration_syndrome" title="Salt water aspiration syndrome">Salt water aspiration syndrome</a></li>
+<li><a href="/wiki/Swimming-induced_pulmonary_edema" title="Swimming-induced pulmonary edema">Swimming-induced pulmonary edema</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/List_of_signs_and_symptoms_of_diving_disorders" title="List of signs and symptoms of diving disorders">List of signs and symptoms of diving disorders</a></li>
+<li><a href="/wiki/Diving_disorders" title="Diving disorders">Diving disorders</a></li>
+<li><a href="/wiki/Seasickness" title="Seasickness">Seasickness</a></li>
+<li><a href="/wiki/Cramps" title="Cramps" class="mw-redirect">Cramps</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Treatments</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Diving_medicine" title="Diving medicine">Diving medicine</a></li>
+<li><a href="/wiki/Hyperbaric_medicine" title="Hyperbaric medicine">Hyperbaric medicine</a></li>
+<li><a href="/wiki/In-water_recompression" title="In-water recompression">In-water recompression</a></li>
+<li><a href="/wiki/Oxygen_therapy" title="Oxygen therapy">Oxygen therapy</a></li>
+<li><a href="/wiki/Diving_chamber" title="Diving chamber">Diving chamber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:SpongeDiver.jpg" class="image"><img alt="SpongeDiver.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/SpongeDiver.jpg/100px-SpongeDiver.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/SpongeDiver.jpg/150px-SpongeDiver.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/SpongeDiver.jpg/200px-SpongeDiver.jpg 2x" data-file-width="600" data-file-height="800" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Diving physiology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_gills_(human)" title="Artificial gills (human)">Artificial gills (human)</a></li>
+<li><a href="/wiki/Blood%E2%80%93air_barrier" title="Blood–air barrier">Blood–air barrier</a></li>
+<li><a href="/wiki/CO%E2%82%82_retention" title="CO₂ retention">CO₂ retention</a></li>
+<li><a href="/wiki/Cold_shock_response" title="Cold shock response">Cold shock response</a></li>
+<li><a href="/wiki/Blood_shift" title="Blood shift">Blood shift</a></li>
+<li><a href="/wiki/Decompression_(diving)" title="Decompression (diving)">Decompression (diving)</a></li>
+<li><a href="/wiki/Decompression_theory" title="Decompression theory">Decompression theory</a></li>
+<li><a href="/wiki/Gas_exchange" title="Gas exchange">Gas exchange</a></li>
+<li><a href="/wiki/History_of_decompression_research_and_development" title="History of decompression research and development">History of decompression research and development</a></li>
+<li><a href="/wiki/Lipid" title="Lipid">Lipid</a></li>
+<li><a href="/wiki/Mammalian_diving_reflex" title="Mammalian diving reflex">Mammalian diving reflex</a></li>
+<li><a href="/wiki/Maximum_operating_depth" title="Maximum operating depth">Maximum operating depth</a></li>
+<li><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a></li>
+<li><a href="/wiki/Normocapnia" title="Normocapnia">Normocapnia</a></li>
+<li><a href="/wiki/Oxygen_window_in_technical_diving" title="Oxygen window in technical diving" class="mw-redirect">Oxygen window in technical diving</a></li>
+<li><a href="/wiki/Perfusion" title="Perfusion">Perfusion</a></li>
+<li><a href="/wiki/Pulmonary_circulation" title="Pulmonary circulation">Pulmonary circulation</a></li>
+<li><a href="/wiki/Respiratory_exchange_ratio" title="Respiratory exchange ratio">Respiratory exchange ratio</a></li>
+<li><a href="/wiki/Respiratory_quotient" title="Respiratory quotient">Respiratory quotient</a></li>
+<li><a href="/wiki/Systemic_circulation" title="Systemic circulation">Systemic circulation</a></li>
+<li><a href="/wiki/Tissue_(biology)" title="Tissue (biology)">Tissue (biology)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Diving_physics" title="Diving physics">Diving physics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ambient_pressure" title="Ambient pressure">Ambient pressure</a></li>
+<li><a href="/wiki/Anti_fog" title="Anti fog" class="mw-redirect">Anti fog</a></li>
+<li><a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">Amontons' law</a></li>
+<li><a href="/wiki/Archimedes%27_principle" title="Archimedes' principle">Archimedes' principle</a></li>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Boyle%27s_law" title="Boyle's law">Boyle's law</a></li>
+<li><a href="/wiki/Breathing_performance_of_regulators" title="Breathing performance of regulators">Breathing performance of regulators</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Charles%27_law" title="Charles' law" class="mw-redirect">Charles' law</a></li>
+<li><a href="/wiki/Combined_gas_law" title="Combined gas law">Combined gas law</a></li>
+<li><a href="/wiki/Dalton%27s_law" title="Dalton's law">Dalton's law</a></li>
+<li><a href="/wiki/Diffusion" title="Diffusion">Diffusion</a></li>
+<li><a href="/wiki/Diving_physics" title="Diving physics">Diving physics</a></li>
+<li><a href="/wiki/Force" title="Force">Force</a></li>
+<li><a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">Gay-Lussac's law</a></li>
+<li><a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a></li>
+<li><a href="/wiki/Hydrophobe" title="Hydrophobe">Hydrophobe</a></li>
+<li><a href="/wiki/Hydrostatic_pressure" title="Hydrostatic pressure" class="mw-redirect">Hydrostatic pressure</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+<li><a href="/wiki/Molecular_diffusion" title="Molecular diffusion">Molecular diffusion</a></li>
+<li><a href="/wiki/Neutral_buoyancy" title="Neutral buoyancy">Neutral buoyancy</a></li>
+<li><a href="/wiki/Fraction_of_inspired_oxygen" title="Fraction of inspired oxygen">Oxygen fraction</a></li>
+<li><a href="/wiki/Partial_pressure" title="Partial pressure">Partial pressure</a></li>
+<li><a href="/wiki/Permeation" title="Permeation">Permeation</a></li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a></li>
+<li><a href="/wiki/Psychrometric_constant" title="Psychrometric constant">Psychrometric constant</a></li>
+<li><a href="/wiki/Snell%27s_law" title="Snell's law">Snell's law</a></li>
+<li><a href="/wiki/Solution" title="Solution">Solution</a></li>
+<li><a href="/wiki/Solubility" title="Solubility">Solubility</a></li>
+<li><a href="/wiki/Supersaturation" title="Supersaturation">Supersaturation</a></li>
+<li><a href="/wiki/Surfactant" title="Surfactant">Surfactant</a></li>
+<li><a href="/wiki/Surface_tension" title="Surface tension">Surface tension</a></li>
+<li><a href="/wiki/Torricellian_chamber" title="Torricellian chamber">Torricellian chamber</a></li>
+<li><a href="/wiki/Underwater_vision" title="Underwater vision">Underwater vision</a></li>
+<li><a href="/wiki/Weight" title="Weight">Weight</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Diving environment</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algal_bloom" title="Algal bloom">Algal bloom</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Breaking wave</a></li>
+<li><a href="/wiki/Current_(ocean)" title="Current (ocean)" class="mw-redirect">Current (ocean)</a></li>
+<li><a href="/wiki/Current_(stream)" title="Current (stream)">Current (stream)</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/Halocline" title="Halocline">Halocline</a></li>
+<li><a href="/wiki/Longshore_current" title="Longshore current" class="mw-redirect">Longshore current</a></li>
+<li><a href="/wiki/Rip_current" title="Rip current">Rip current</a></li>
+<li><a href="/wiki/Stratification_(water)" title="Stratification (water)">Stratification</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Surf</a></li>
+<li><a href="/wiki/Waves_in_shallow_water" title="Waves in shallow water" class="mw-redirect">Surge (wave action)</a></li>
+<li><a href="/wiki/Thermocline" title="Thermocline">Thermocline</a></li>
+<li><a href="/wiki/Tide" title="Tide">Tides</a></li>
+<li><a href="/wiki/Turbidity" title="Turbidity">Turbidity</a></li>
+<li><a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">Undertow (water waves)</a></li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Researchers in<br />
+diving medicine,<br />
+physiology and physics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arthur_J._Bachrach" title="Arthur J. Bachrach">Arthur J. Bachrach</a></li>
+<li><a href="/wiki/Albert_R._Behnke" title="Albert R. Behnke">Albert R. Behnke</a></li>
+<li><a href="/wiki/Paul_Bert" title="Paul Bert">Paul Bert</a></li>
+<li><a href="/wiki/George_F._Bond" title="George F. Bond">George F. Bond</a></li>
+<li><a href="/wiki/Sir_Robert_Boyle" title="Sir Robert Boyle" class="mw-redirect">Sir Robert Boyle</a></li>
+<li><a href="/wiki/Albert_A._B%C3%BChlmann" title="Albert A. Bühlmann">Albert A. Bühlmann</a></li>
+<li><a href="/wiki/John_R_Clarke" title="John R Clarke">John R Clarke</a></li>
+<li><a href="/wiki/William_Paul_Fife" title="William Paul Fife">William Paul Fife</a></li>
+<li><a href="/wiki/John_Scott_Haldane" title="John Scott Haldane">John Scott Haldane</a></li>
+<li><a href="/wiki/Robert_William_Hamilton,_Jr." title="Robert William Hamilton, Jr.">Robert William Hamilton, Jr.</a></li>
+<li><a href="/wiki/Leonard_Erskine_Hill" title="Leonard Erskine Hill">Leonard Erskine Hill</a></li>
+<li><a href="/wiki/Felix_Hoppe-Seyler" title="Felix Hoppe-Seyler">Felix Hoppe-Seyler</a></li>
+<li><a href="/wiki/Christian_J._Lambertsen" title="Christian J. Lambertsen">Christian J. Lambertsen</a></li>
+<li><a href="/wiki/Simon_Mitchell" title="Simon Mitchell">Simon Mitchell</a></li>
+<li><a href="/wiki/Charles_Momsen" title="Charles Momsen">Charles Momsen</a></li>
+<li><a href="/wiki/John_Rawlins_(Royal_Navy_officer)" title="John Rawlins (Royal Navy officer)">John Rawlins (Royal Navy officer)</a></li>
+<li><a href="/wiki/Charles_Wesley_Shilling" title="Charles Wesley Shilling">Charles Wesley Shilling</a></li>
+<li><a href="/wiki/Jules_Triger" title="Jules Triger" class="mw-redirect">Jules Triger</a></li>
+<li><a href="/wiki/Edward_D._Thalmann" title="Edward D. Thalmann">Edward D. Thalmann</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Diving medical<br />
+research<br />
+organisations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dd><a href="/wiki/Aerospace_Medical_Association" title="Aerospace Medical Association">Aerospace Medical Association</a></dd>
+<dd><a href="/wiki/Divers_Alert_Network" title="Divers Alert Network">Divers Alert Network</a></dd>
+<dd><a href="/wiki/Diving_Diseases_Research_Centre" title="Diving Diseases Research Centre">Diving Diseases Research Centre</a></dd>
+<dd><a href="/wiki/Fitness_to_dive" title="Fitness to dive">Fitness to dive</a></dd>
+<dd><a href="/wiki/List_of_diving_hazards_and_precautions" title="List of diving hazards and precautions">List of diving hazards and precautions</a></dd>
+<dd><a href="/wiki/National_Board_of_Diving_and_Hyperbaric_Medical_Technology" title="National Board of Diving and Hyperbaric Medical Technology">National Board of Diving and Hyperbaric Medical Technology</a></dd>
+<dd><a href="/wiki/Naval_Submarine_Medical_Research_Laboratory" title="Naval Submarine Medical Research Laboratory">Naval Submarine Medical Research Laboratory</a></dd>
+<dd><a href="/wiki/Royal_Australian_Navy_School_of_Underwater_Medicine" title="Royal Australian Navy School of Underwater Medicine">Royal Australian Navy School of Underwater Medicine</a></dd>
+<dd><a href="/wiki/Rubicon_Foundation" title="Rubicon Foundation">Rubicon Foundation</a></dd>
+<dd><a href="/wiki/South_Pacific_Underwater_Medicine_Society" title="South Pacific Underwater Medicine Society">South Pacific Underwater Medicine Society</a></dd>
+<dd><a href="/wiki/Undersea_and_Hyperbaric_Medical_Society" title="Undersea and Hyperbaric Medical Society">Undersea and Hyperbaric Medical Society</a></dd>
+<dd><a href="/wiki/United_States_Navy_Experimental_Diving_Unit" title="United States Navy Experimental Diving Unit">United States Navy Experimental Diving Unit</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> Categories: <a href="/wiki/Category:Diving_medicine" title="Category:Diving medicine">Diving medicine</a></li>
+<li><a href="/wiki/Category:Underwater_diving_physiology" title="Category:Underwater diving physiology">Underwater diving physiology</a></li>
+<li><a href="/wiki/Category:Underwater_diving_physics" title="Category:Underwater diving physics">Underwater diving physics</a></li>
+<li><a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Physical oceanography</a></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Glossary_of_underwater_diving_terminology" title="Glossary of underwater diving terminology">Glossary</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Underwater_diving" title="Portal:Underwater diving">Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1022
+CPU time usage: 0.596 seconds
+Real time usage: 0.736 seconds
+Preprocessor visited node count: 3041/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 133301/2097152 bytes
+Template argument size: 7210/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.164/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  494.539      1 - -total
+ 39.68%  196.251      7 - Template:Navbox
+ 24.38%  120.571      1 - Template:Reflist
+ 20.12%   99.497      1 - Template:Infobox_Disease
+ 17.58%   86.918      1 - Template:Infobox
+ 15.00%   74.180      8 - Template:Cite_journal
+ 14.41%   71.244      1 - Template:Merge
+ 13.77%   68.097      3 - Template:Navbox_subgroup
+ 11.89%   58.784      1 - Template:Diving_medicine,_physiology_and_physics
+  9.21%   45.535      1 - Template:Mbox
+-->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Hypercapnia&amp;oldid=638218749">http://en.wikipedia.org/w/index.php?title=Hypercapnia&amp;oldid=638218749</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Diving_medicine" title="Category:Diving medicine">Diving medicine</a></li><li><a href="/wiki/Category:Medical_emergencies" title="Category:Medical emergencies">Medical emergencies</a></li><li><a href="/wiki/Category:Respiratory_diseases" title="Category:Respiratory diseases">Respiratory diseases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_incorrect_ref_formatting" title="Category:Pages with incorrect ref formatting">Pages with incorrect ref formatting</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Articles_to_be_merged_from_December_2013" title="Category:Articles to be merged from December 2013">Articles to be merged from December 2013</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hypercapnia&amp;returntoquery=diff%3D638218749%26oldid%3D637868813&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hypercapnia&amp;returntoquery=diff%3D638218749%26oldid%3D637868813" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hypercapnia"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Hypercapnia"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Hypercapnia" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Hypercapnia&amp;action=edit&amp;oldid=638218749"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hypercapnia&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hypercapnia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hypercapnia" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Hypercapnia&amp;oldid=638218749" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Hypercapnia&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q615759" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hypercapnia&amp;id=638218749" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hypercapnia">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hypercapnia&amp;oldid=637868813&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Hypercapnia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B7_%D8%AB%D9%86%D8%A7%D8%A6%D9%8A_%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D8%AF%D9%85" title="فرط ثنائي أكسيد الكربون في الدم – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%93%D1%96%D0%BF%D0%B5%D1%80%D0%BA%D0%B0%D0%BF%D0%BD%D1%96%D1%8F" title="Гіперкапнія – Belarusian" lang="be" hreflang="be">Беларуская</a></li>
+													<li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Hiperkapnija" title="Hiperkapnija – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Hiperc%C3%A0pnia" title="Hipercàpnia – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Hyperkapnie" title="Hyperkapnie – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Hipercapnia" title="Hipercapnia – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Hiperkapnio" title="Hiperkapnio – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Hypercapnie" title="Hypercapnie – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Ipercapnia" title="Ipercapnia – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Hyperkapni" title="Hyperkapni – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Hiperkapnia" title="Hiperkapnia – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Hipercapnia" title="Hipercapnia – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D0%B0%D0%BF%D0%BD%D0%B8%D1%8F" title="Гиперкапния – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D0%B0%D0%BF%D0%BD%D0%B8%D1%98%D0%B0" title="Хиперкапнија – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Hyperkapni" title="Hyperkapni – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D1%96%D0%BF%D0%B5%D1%80%D0%BA%D0%B0%D0%BF%D0%BD%D1%96%D1%8F" title="Гіперкапнія – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%AB%98%E7%A2%B3%E9%85%B8%E8%A1%80%E7%97%87" title="高碳酸血症 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q615759#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="http://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>.<br /> Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.<br/></span></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hypercapnia&amp;diff=638218749&amp;oldid=637868813&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":921,"wgHostname":"mw1022"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="pl" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Wikipedia, wolna encyklopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/atom+xml" title="Kanał informacyjny Wikipedii o ilustracjach na medal" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom" />
+<link rel="alternate" type="application/atom+xml" title="Kanał informacyjny Wikipedii o wybranych rocznicach" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom" />
+<link rel="alternate" type="application/atom+xml" title="Kanał informacyjny Wikipedii o nowych artykułach" href="/w/api.php?action=featuredfeed&amp;feed=dyk&amp;feedformat=atom" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (pl)" />
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Kanał Atom Wikipedii" href="/w/index.php?title=Specjalna:Ostatnie_zmiany&amp;feed=atom" />
+<link rel="canonical" href="http://pl.wikipedia.org/w/index.php?oldid=41720290&amp;rcid=55570314" />
+<link rel="stylesheet" href="//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false&amp;lang=pl&amp;modules=ext.gadget.ReferenceTooltips%2Cedit-buttons%2Cedit-first-section%2Cedit-summaries%2Cedit-summary-warning%2Cenhanced-upload%2Cheading-icons%2Cmain-page%2Cmap-toggler%2Cmaps%2Cmy-sandbox%2CnuxTBKeys%2CrefToolbar%2Csmall-references%2Cwikibugs%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false&amp;lang=pl&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: plwiki:resourceloader:filter:minify-css:7:5d62dabc21961e39c199020e06fd9577 */</style>
+<script src="//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false&amp;lang=pl&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Strona_główna","wgTitle":"Strona główna","wgCurRevisionId":41775807,"wgRevisionId":41775807,"wgArticleId":2956678,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgMonthNamesShort":["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"],"wgRelevantPageName":"Wikipedia:Strona_główna","wgRelevantArticleId":2956678,"wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"polski","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"pl"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: plwiki:resourceloader:filter:minify-js:7:be4ca842acfb9aaf3eac068c26df467a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.gadget.main-page","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-4 ns-subject page-Wikipedia_Strona_główna skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"pl\" dir=\"ltr\"\u003E\u003Cdiv\u003E\u003C/div\u003E\n\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="pl">Wikipedia:Strona główna</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Z Wikipedii, wolnej encyklopedii</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Skocz do:					<a href="#mw-head">nawigacja</a>, 					<a href="#p-search">szukaj</a>
+				</div>
+				<div id="mw-content-text" lang="pl" dir="ltr" class="mw-content-ltr"><p>Wersja #41720290 strony "Wikipedia:Strona główna" nie istnieje.
+</p><p>Zazwyczaj jest to spowodowane przestarzałym linkiem do usuniętej strony. Powód usunięcia znajduje się w <a class="external text" href="//pl.wikipedia.org/w/index.php?title=Specjalna:Rejestr/delete&amp;page=Wikipedia:Strona_g%C5%82%C3%B3wna">rejestrze</a>.
+</p><noscript><img src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Źródło: „<a dir="ltr" href="http://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_główna&amp;oldid=41775807">http://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_główna&amp;oldid=41775807</a>”					</div>
+													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu nawigacyjne</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Osobiste</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna&amp;returntoquery=oldid%3D41720290%26rcid%3D55570314&amp;type=signup" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to konieczne.">Utwórz konto</a></li><li id="pt-login"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna&amp;returntoquery=oldid%3D41720290%26rcid%3D55570314" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o">Zaloguj się</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Przestrzenie nazw</h3>
+						<ul>
+															<li  id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna"  title="Zobacz stronę projektu [a]" accesskey="a">Strona projektu</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Dyskusja_Wikipedii:Strona_g%C5%82%C3%B3wna"  title="Dyskusja o zawartości tej strony [t]" accesskey="t">Dyskusja</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Warianty</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Wyświetleń</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" >Czytaj</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=edit"  title="Ta strona jest zabezpieczona. Możesz zobaczyć tekst źródłowy. [e]" accesskey="e">Tekst źródłowy</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=history"  title="Starsze wersje tej strony. [h]" accesskey="h">Historia i autorzy</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Więcej</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Szukaj</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Szukaj" title="Przeszukaj Wikipedię [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Specjalna:Szukaj" name="title" /><input type="submit" name="fulltext" value="Szukaj" title="Szukaj wprowadzonego tekstu w treści stron" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Przejdź" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna"  title="Strona główna"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Nawigacja</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z">Strona główna</a></li>
+													<li id="n-randompage"><a href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]" accesskey="x">Losuj artykuł</a></li>
+													<li id="n-Kategorie"><a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">Kategorie artykułów</a></li>
+													<li id="n-Featured-articles"><a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">Najlepsze artykuły</a></li>
+													<li id="n-bug_in_article"><a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">Zgłoś błąd</a></li>
+													<li id="n-bad-image"><a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">Zgłoś błąd w pliku</a></li>
+													<li id="n-FAQ"><a href="/wiki/Pomoc:FAQ">Częste pytania (FAQ)</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-zmiany' aria-labelledby='p-zmiany-label'>
+			<h3 id='p-zmiany-label'>Dla czytelników</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-wyszukaj"><a href="/wiki/Pomoc:Wyszukiwarka">Wyszukaj informacje</a></li>
+													<li id="n-re-use"><a href="/wiki/Pomoc:Kopiowanie_poza_Wikipedi%C4%99">Użyj informacji</a></li>
+													<li id="n-czytelnicy"><a href="/wiki/Wikipedia:O_Wikipedii">O Wikipedii</a></li>
+													<li id="n-contact"><a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">Kontakt</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">Wspomóż Wikipedię</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-edytorzy' aria-labelledby='p-edytorzy-label'>
+			<h3 id='p-edytorzy-label'>Dla wikipedystów</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-pierwsze-kroki"><a href="/wiki/Pomoc:Pierwsze_kroki">Pierwsze kroki</a></li>
+													<li id="n-helppage-name"><a href="/wiki/Pomoc:Spis_tre%C5%9Bci">Centrum pomocy</a></li>
+													<li id="n-Guidelines"><a href="/wiki/Wikipedia:Zasady">Zasady edytowania</a></li>
+													<li id="n-bar"><a href="/wiki/Wikipedia:Kawiarenka_pod_Weso%C5%82ym_Encyklopedyst%C4%85">Kawiarenka</a></li>
+													<li id="n-Noticeboard"><a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">Ogłoszenia</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian na Wikipedii. [r]" accesskey="r">Ostatnie zmiany</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Narzędzia</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Specjalna:Linkuj%C4%85ce/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j">Linkujące</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Specjalna:Zmiany_w_linkowanych/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]" accesskey="k">Zmiany w linkowanych</a></li>
+													<li id="t-upload"><a href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]" accesskey="u">Prześlij plik</a></li>
+													<li id="t-specialpages"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich specjalnych stron [q]" accesskey="q">Strony specjalne</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;oldid=41775807" title="Stały link do tej wersji strony">Link do tej wersji</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=info" title="Więcej informacji na temat tej strony">Informacje o tej stronie</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Drukuj lub eksportuj</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AStrona+g%C5%82%C3%B3wna">Utwórz książkę</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=render_article&amp;arttitle=Wikipedia%3AStrona+g%C5%82%C3%B3wna&amp;oldid=41720290&amp;writer=rdf2latex">Pobierz jako PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;printable=yes" title="Wersja do wydruku [p]" accesskey="p">Wersja do druku</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>W innych językach</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Tę stronę ostatnio zmodyfikowano o 02:04, 12 lut 2015.</li>
+											<li id="footer-info-copyright">Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/Warunki_korzystania">warunkach korzystania</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Zasady_zachowania_poufno%C5%9Bci" title="wikimedia:Zasady zachowania poufności">Zasady zachowania poufności</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">O Wikipedii</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">Korzystasz z Wikipedii tylko na własną odpowiedzialność</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Dla deweloperów</a></li>
+											<li id="footer-places-mobileview"><a href="//pl.m.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;oldid=41720290&amp;rcid=55570314&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja dla urządzeń mobilnych</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.maps","ext.gadget.heading-icons","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.my-sandbox","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload","ext.gadget.small-references","ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","ext.wikiEditor.init","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false\u0026amp;lang=pl\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1247"});
+}</script>
+	</body>
+</html>

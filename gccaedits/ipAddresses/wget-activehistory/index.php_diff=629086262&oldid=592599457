@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Multilinear principal component analysis: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Multilinear_principal_component_analysis" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=629086262&amp;oldid=592599457" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Multilinear_principal_component_analysis","wgTitle":"Multilinear principal component analysis","wgCurRevisionId":629086262,"wgRevisionId":629086262,"wgArticleId":30928751,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing context from June 2012","All Wikipedia articles needing context","Wikipedia introduction cleanup from June 2012","All pages needing cleanup","Dimension reduction","Machine learning","Multivariate statistics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Multilinear_principal_component_analysis","wgRelevantArticleId":30928751,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6934740"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Multilinear_principal_component_analysis skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Multilinear principal component analysis: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;oldid=592599457" title="Multilinear principal component analysis">Revision as of 07:00, 27 January 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit&amp;oldid=592599457" title="Multilinear principal component analysis">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/User:Monkbot" title="User:Monkbot" class="mw-userlink">Monkbot</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Monkbot" class="mw-redirect" title="User talk:Monkbot">talk</a> | <a href="/wiki/Special:Contributions/Monkbot" title="Special:Contributions/Monkbot">contribs</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='This is a minor edit'>m</abbr> <span class="comment">(Fix <a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">CS1 deprecated date parameter errors</a>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;diff=prev&amp;oldid=592599457" title="Multilinear principal component analysis" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;oldid=629086262" title="Multilinear principal component analysis">Latest revision as of 18:41, 10 October 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit" title="Multilinear principal component analysis">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit&amp;undoafter=592599457&amp;undo=629086262" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/142.206.2.12" title="Special:Contributions/142.206.2.12" class="mw-userlink mw-anonuserlink">142.206.2.12</a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:142.206.2.12" title="User talk:142.206.2.12">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(cleanup)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4">&#160;</div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 1:</td>
+  <td colspan="2" class="diff-lineno">Line 1:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>{{context|date=June 2012}}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>{{context|date=June 2012}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>'''Multilinear principal component analysis (MPCA)'''&lt;ref name="MPCA"&gt;H. Lu, K. N. Plataniotis, and A. N. Venetsanopoulos, (2008) [http://www.dsp.utoronto.ca/~haiping/Publication/MPCA_TNN08_rev2010.pdf "MPCA: Multilinear principal component analysis of tensor objects"], ''IEEE Trans. Neural Netw.'',  19 (1), 18–39&lt;/ref&gt; is a mathematical procedure that uses multiple orthogonal transformations to convert a set of multidimensional objects into another set of multidimensional objects of lower dimensions. There is one orthogonal (linear) transformation for each dimension (mode)<del class="diffchange diffchange-inline">:</del> hence ''multilinear''. This transformation aims to capture as high a variance as possible, accounting for as much of the variability in the data as possible, subject to the constraint of mode-wise orthogonality. </div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>'''Multilinear principal component analysis (MPCA)'''&lt;ref name="MPCA"&gt;H. Lu, K. N. Plataniotis, and A. N. Venetsanopoulos, (2008) [http://www.dsp.utoronto.ca/~haiping/Publication/MPCA_TNN08_rev2010.pdf "MPCA: Multilinear principal component analysis of tensor objects"], ''IEEE Trans. Neural Netw.'',  19 (1), 18–39&lt;/ref&gt; is a mathematical procedure that uses multiple orthogonal transformations to convert a set of multidimensional objects into another set of multidimensional objects of lower dimensions. There is one orthogonal (linear) transformation for each dimension (mode)<ins class="diffchange diffchange-inline">;</ins> hence ''multilinear''. This transformation aims to capture as high a variance as possible, accounting for as much of the variability in the data as possible, subject to the constraint of mode-wise orthogonality. </div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>MPCA is a multilinear extension of [[principal component analysis]] (PCA). The major difference is that PCA needs to reshape a multidimensional object into a [[Feature vector|vector]], while MPCA operates directly on multidimensional objects through mode-wise processing. <del class="diffchange diffchange-inline">E.g.</del>, for 100x100 images, PCA operates on vectors of 10000x1 while MPCA operates on vectors of 100x1 in two modes. For the same amount of [[dimension reduction]], PCA needs to estimate 49<del class="diffchange diffchange-inline"> </del>(10000/(<del class="diffchange diffchange-inline">100x2</del>)-1) times more parameters than MPCA<del class="diffchange diffchange-inline"> in this example</del>. Thus, MPCA is more efficient and better conditioned in practice.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>MPCA is a multilinear extension of [[principal component analysis]] (PCA). The major difference is that PCA needs to reshape a multidimensional object into a [[Feature vector|vector]], while MPCA operates directly on multidimensional objects through mode-wise processing. <ins class="diffchange diffchange-inline">For example</ins>, for 100x100 images, PCA operates on vectors of 10000x1 while MPCA operates on vectors of 100x1 in two modes. For the same amount of [[dimension reduction]], PCA needs to estimate 49<ins class="diffchange diffchange-inline">*</ins>(10000/(<ins class="diffchange diffchange-inline">100*2</ins>)-1) times more parameters than MPCA. Thus, MPCA is more efficient and better conditioned in practice.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>MPCA is a basic algorithm for dimension reduction via [[multilinear subspace learning]]. In wider scope, it belongs to [[tensor]]-based computation. Its origin can be traced back to the [[Tucker decomposition]]&lt;ref&gt;{{Cite journal|last1=Tucker| first1=Ledyard R</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>MPCA is a basic algorithm for dimension reduction via [[multilinear subspace learning]]. In wider scope, it belongs to [[tensor]]-based computation. Its origin can be traced back to the [[Tucker decomposition]]&lt;ref&gt;{{Cite journal|last1=Tucker| first1=Ledyard R</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Line 14:</td>
+  <td colspan="2" class="diff-lineno">Line 14:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== The algorithm ==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== The algorithm ==</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>MPCA performs [[feature extraction]] by determining a [[Multilinear_subspace_learning#Multilinear_projection|multilinear projection]] that captures most of the original tensorial input variations. As in PCA, MPCA works on centered data. The MPCA solution follows the alternating least square (ALS) &lt;ref&gt;P. M. Kroonenberg and J. de Leeuw, [http://www.springerlink.com/content/c8551t1p31236776/ Principal component analysis of three-mode data by means of alternating least squares algorithms], Psychometrika, 45 (1980), pp. 69–97.&lt;/ref&gt;<del class="diffchange diffchange-inline"> approach.</del> Thus, is iterative in nature and it proceeds by decomposing the original problem to a series of multiple projection subproblems.  Each subproblem is a classical PCA problem, which can be easily solved.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>MPCA performs [[feature extraction]] by determining a [[Multilinear_subspace_learning#Multilinear_projection|multilinear projection]] that captures most of the original tensorial input variations. As in PCA, MPCA works on centered data. The MPCA solution follows the alternating least square (ALS) <ins class="diffchange diffchange-inline">approach.</ins>&lt;ref&gt;P. M. Kroonenberg and J. de Leeuw, [http://www.springerlink.com/content/c8551t1p31236776/ Principal component analysis of three-mode data by means of alternating least squares algorithms], Psychometrika, 45 (1980), pp. 69–97.&lt;/ref&gt; Thus, is iterative in nature and it proceeds by decomposing the original problem to a series of multiple projection subproblems.  Each subproblem is a classical PCA problem, which can be easily solved.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>It should be noted that while PCA with orthogonal transformations produces uncorrelated features/variables, this is not the case for MPCA. Due to the nature of tensor-to-tensor transformation, MPCA features are not uncorrelated in general although the transformation in each mode is orthogonal.&lt;ref name="UMPCA"&gt;H.  Lu,  K.  N.  Plataniotis,  and  A.  N.  Venetsanopoulos,  "[http://www.dsp.utoronto.ca/~haiping/Publication/UMPCA_TNN09.pdf Uncorrelated  multilinear  principal  component  analysis  for unsupervised multilinear subspace learning]," IEEE Trans. Neural Netw., vol. 20, no. 11, pp. 1820–1836, Nov. 2009.&lt;/ref&gt; In contrast, the uncorrelated MPCA (UMPCA) &lt;ref name="UMPCA"/&gt;<del class="diffchange diffchange-inline"> generates uncorrelated multilinear features.</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>It should be noted that while PCA with orthogonal transformations produces uncorrelated features/variables, this is not the case for MPCA. Due to the nature of tensor-to-tensor transformation, MPCA features are not uncorrelated in general although the transformation in each mode is orthogonal.&lt;ref name="UMPCA"&gt;H.  Lu,  K.  N.  Plataniotis,  and  A.  N.  Venetsanopoulos,  "[http://www.dsp.utoronto.ca/~haiping/Publication/UMPCA_TNN09.pdf Uncorrelated  multilinear  principal  component  analysis  for unsupervised multilinear subspace learning]," IEEE Trans. Neural Netw., vol. 20, no. 11, pp. 1820–1836, Nov. 2009.&lt;/ref&gt; In contrast, the uncorrelated MPCA (UMPCA) <ins class="diffchange diffchange-inline">generates uncorrelated multilinear features.</ins>&lt;ref name="UMPCA"/&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Feature selection ==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Feature selection ==</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>MPCA produces tensorial features. For conventional usage, vectorial features are often preferred. <del class="diffchange diffchange-inline">E.g.</del> most classifiers in the literature takes vectors as input. On the other hand, as there are correlations among MPCA features, a further selection process often <del class="diffchange diffchange-inline">improve</del> the performance. Supervised (discriminative) MPCA feature selection is used in &lt;ref name="MPCA"/&gt;<del class="diffchange diffchange-inline"> for object recognition</del> while unsupervised MPCA feature selection is employed in visualization task.&lt;ref&gt;H.  Lu,  H.-L. Eng, M. Thida, and K.N. Plataniotis,  "[http://www.dsp.utoronto.ca/~haiping/Publication/CrowdMPCA_CIKM2010.pdf Visualization and Clustering of Crowd Video Content in MPCA Subspace]," in Proceedings of the 19th ACM Conference on Information and Knowledge Management (CIKM 2010) , Toronto, ON, Canada, October, 2010.&lt;/ref&gt;</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>MPCA produces tensorial features. For conventional usage, vectorial features are often preferred. <ins class="diffchange diffchange-inline">For example</ins> most classifiers in the literature takes vectors as input. On the other hand, as there are correlations among MPCA features, a further selection process often <ins class="diffchange diffchange-inline">improves</ins> the performance. Supervised (discriminative) MPCA feature selection is used in <ins class="diffchange diffchange-inline">object recognition</ins>&lt;ref name="MPCA"/&gt; while unsupervised MPCA feature selection is employed in visualization task.&lt;ref&gt;H.  Lu,  H.-L. Eng, M. Thida, and K.N. Plataniotis,  "[http://www.dsp.utoronto.ca/~haiping/Publication/CrowdMPCA_CIKM2010.pdf Visualization and Clustering of Crowd Video Content in MPCA Subspace]," in Proceedings of the 19th ACM Conference on Information and Knowledge Management (CIKM 2010) , Toronto, ON, Canada, October, 2010.&lt;/ref&gt;</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Extensions ==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Extensions ==</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-lineno">Line 44:</td>
+  <td colspan="2" class="diff-lineno">Line 44:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>{{Reflist}}</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>{{Reflist}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>[[Category:Multivariate statistics]]</div></td>
+  <td colspan="2" class="diff-empty">&#160;</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Category:Dimension reduction]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Category:Dimension reduction]]</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Category:Machine learning]]</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>[[Category:Machine learning]]</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>[[Category:Multivariate statistics]]</div></td>
+</tr>
+
+<!-- diff cache key enwiki:diff:version:1.11a:oldid:592599457:newid:629086262 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Latest revision as of 18:41, 10 October 2014</h2>
+<table class="metadata plainlinks ambox ambox-style ambox-Context" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>provides insufficient context for those unfamiliar with the subject</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit">improve the article</a> with a <a href="/wiki/Wikipedia:Writing_better_articles#Lead_section" title="Wikipedia:Writing better articles">good introductory style</a>.</span> <small><i>(June 2012)</i></small></span></td>
+</tr>
+</table>
+<p><b>Multilinear principal component analysis (MPCA)</b><sup id="cite_ref-MPCA_1-0" class="reference"><a href="#cite_note-MPCA-1"><span>[</span>1<span>]</span></a></sup> is a mathematical procedure that uses multiple orthogonal transformations to convert a set of multidimensional objects into another set of multidimensional objects of lower dimensions. There is one orthogonal (linear) transformation for each dimension (mode); hence <i>multilinear</i>. This transformation aims to capture as high a variance as possible, accounting for as much of the variability in the data as possible, subject to the constraint of mode-wise orthogonality.</p>
+<p>MPCA is a multilinear extension of <a href="/wiki/Principal_component_analysis" title="Principal component analysis">principal component analysis</a> (PCA). The major difference is that PCA needs to reshape a multidimensional object into a <a href="/wiki/Feature_vector" title="Feature vector">vector</a>, while MPCA operates directly on multidimensional objects through mode-wise processing. For example, for 100x100 images, PCA operates on vectors of 10000x1 while MPCA operates on vectors of 100x1 in two modes. For the same amount of <a href="/wiki/Dimension_reduction" title="Dimension reduction" class="mw-redirect">dimension reduction</a>, PCA needs to estimate 49*(10000/(100*2)-1) times more parameters than MPCA. Thus, MPCA is more efficient and better conditioned in practice.</p>
+<p>MPCA is a basic algorithm for dimension reduction via <a href="/wiki/Multilinear_subspace_learning" title="Multilinear subspace learning">multilinear subspace learning</a>. In wider scope, it belongs to <a href="/wiki/Tensor" title="Tensor">tensor</a>-based computation. Its origin can be traced back to the <a href="/wiki/Tucker_decomposition" title="Tucker decomposition">Tucker decomposition</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> in 1960s and it is closely related to <a href="/wiki/Higher-order_singular_value_decomposition" title="Higher-order singular value decomposition">higher-order singular value decomposition</a>,<sup id="cite_ref-HOSVD_3-0" class="reference"><a href="#cite_note-HOSVD-3"><span>[</span>3<span>]</span></a></sup> (HOSVD) and to the best rank-(R1, R2, ..., RN ) approximation of higher-order tensors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_algorithm"><span class="tocnumber">1</span> <span class="toctext">The algorithm</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Feature_selection"><span class="tocnumber">2</span> <span class="toctext">Feature selection</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Extensions"><span class="tocnumber">3</span> <span class="toctext">Extensions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Resources"><span class="tocnumber">4</span> <span class="toctext">Resources</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="The_algorithm">The algorithm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit&amp;section=1" title="Edit section: The algorithm">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>MPCA performs <a href="/wiki/Feature_extraction" title="Feature extraction">feature extraction</a> by determining a <a href="/wiki/Multilinear_subspace_learning#Multilinear_projection" title="Multilinear subspace learning">multilinear projection</a> that captures most of the original tensorial input variations. As in PCA, MPCA works on centered data. The MPCA solution follows the alternating least square (ALS) approach.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Thus, is iterative in nature and it proceeds by decomposing the original problem to a series of multiple projection subproblems. Each subproblem is a classical PCA problem, which can be easily solved.</p>
+<p>It should be noted that while PCA with orthogonal transformations produces uncorrelated features/variables, this is not the case for MPCA. Due to the nature of tensor-to-tensor transformation, MPCA features are not uncorrelated in general although the transformation in each mode is orthogonal.<sup id="cite_ref-UMPCA_6-0" class="reference"><a href="#cite_note-UMPCA-6"><span>[</span>6<span>]</span></a></sup> In contrast, the uncorrelated MPCA (UMPCA) generates uncorrelated multilinear features.<sup id="cite_ref-UMPCA_6-1" class="reference"><a href="#cite_note-UMPCA-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Feature_selection">Feature selection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit&amp;section=2" title="Edit section: Feature selection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>MPCA produces tensorial features. For conventional usage, vectorial features are often preferred. For example most classifiers in the literature takes vectors as input. On the other hand, as there are correlations among MPCA features, a further selection process often improves the performance. Supervised (discriminative) MPCA feature selection is used in object recognition<sup id="cite_ref-MPCA_1-1" class="reference"><a href="#cite_note-MPCA-1"><span>[</span>1<span>]</span></a></sup> while unsupervised MPCA feature selection is employed in visualization task.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Extensions">Extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit&amp;section=3" title="Edit section: Extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Various extensions of MPCA have been developed:<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<ul>
+<li>Uncorrelated MPCA (UMPCA) <sup id="cite_ref-UMPCA_6-2" class="reference"><a href="#cite_note-UMPCA-6"><span>[</span>6<span>]</span></a></sup></li>
+<li><a href="/wiki/Boosting_(meta-algorithm)" title="Boosting (meta-algorithm)" class="mw-redirect">Boosting</a>+MPCA<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li>
+<li>Non-negative MPCA (NMPCA) <sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+<li>Robust MPCA (RMPCA) <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Resources">Resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit&amp;section=4" title="Edit section: Resources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>Matlab code</b>: <a rel="nofollow" class="external text" href="http://www.mathworks.com/matlabcentral/fileexchange/26168">MPCA</a>.</li>
+<li><b>Matlab code</b>: <a rel="nofollow" class="external text" href="http://www.mathworks.com/matlabcentral/fileexchange/35432">UMPCA (including data)</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-MPCA-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-MPCA_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MPCA_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">H. Lu, K. N. Plataniotis, and A. N. Venetsanopoulos, (2008) <a rel="nofollow" class="external text" href="http://www.dsp.utoronto.ca/~haiping/Publication/MPCA_TNN08_rev2010.pdf">"MPCA: Multilinear principal component analysis of tensor objects"</a>, <i>IEEE Trans. Neural Netw.</i>, 19 (1), 18–39</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Ledyard_R_Tucker" title="Ledyard R Tucker" class="mw-redirect">Tucker, Ledyard R</a> (September 1966). "Some mathematical notes on three-mode factor analysis". <i><a href="/wiki/Psychometrika" title="Psychometrika" class="mw-redirect">Psychometrika</a></i> <b>31</b> (3): 279–311. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF02289464">10.1007/BF02289464</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultilinear+principal+component+analysis&amp;rft.atitle=Some+mathematical+notes+on+three-mode+factor+analysis&amp;rft.aufirst=Ledyard+R&amp;rft.aulast=Tucker&amp;rft.au=Tucker%2C+Ledyard+R&amp;rft.date=September+1966&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF02289464&amp;rft.issue=3&amp;rft.jtitle=Psychometrika&amp;rft.pages=279-311&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-HOSVD-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-HOSVD_3-0">^</a></b></span> <span class="reference-text">L.D. Lathauwer, B.D. Moor, J. Vandewalle (2000) <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=354398">"A multilinear singular value decomposition"</a>, <i>SIAM Journal of Matrix Analysis and Applications</i>, 21 (4), 1253–1278</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">L. D. Lathauwer, B. D. Moor, J. Vandewalle (2000) <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=354405">"On the best rank-1 and rank-(R1, R2, ..., RN ) approximation of higher-order tensors"</a>, <i>SIAM Journal of Matrix Analysis and Applications</i> 21 (4), 1324–1342.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">P. M. Kroonenberg and J. de Leeuw, <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/c8551t1p31236776/">Principal component analysis of three-mode data by means of alternating least squares algorithms</a>, Psychometrika, 45 (1980), pp. 69–97.</span></li>
+<li id="cite_note-UMPCA-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-UMPCA_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UMPCA_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-UMPCA_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">H. Lu, K. N. Plataniotis, and A. N. Venetsanopoulos, "<a rel="nofollow" class="external text" href="http://www.dsp.utoronto.ca/~haiping/Publication/UMPCA_TNN09.pdf">Uncorrelated multilinear principal component analysis for unsupervised multilinear subspace learning</a>," IEEE Trans. Neural Netw., vol. 20, no. 11, pp. 1820–1836, Nov. 2009.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">H. Lu, H.-L. Eng, M. Thida, and K.N. Plataniotis, "<a rel="nofollow" class="external text" href="http://www.dsp.utoronto.ca/~haiping/Publication/CrowdMPCA_CIKM2010.pdf">Visualization and Clustering of Crowd Video Content in MPCA Subspace</a>," in Proceedings of the 19th ACM Conference on Information and Knowledge Management (CIKM 2010) , Toronto, ON, Canada, October, 2010.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation journal">Lu, Haiping; Plataniotis, K.N.; Venetsanopoulos, A.N. (2011). <a rel="nofollow" class="external text" href="http://www.dsp.utoronto.ca/~haiping/Publication/SurveyMSL_PR2011.pdf">"A Survey of Multilinear Subspace Learning for Tensor Data"</a>. <i>Pattern Recognition</i> <b>44</b> (7): 1540–1551. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.patcog.2011.01.004">10.1016/j.patcog.2011.01.004</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultilinear+principal+component+analysis&amp;rft.atitle=A+Survey+of+Multilinear+Subspace+Learning+for+Tensor+Data&amp;rft.aufirst=Haiping&amp;rft.aulast=Lu&amp;rft.au=Lu%2C+Haiping&amp;rft.au=Plataniotis%2C+K.N.&amp;rft.au=Venetsanopoulos%2C+A.N.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.dsp.utoronto.ca%2F~haiping%2FPublication%2FSurveyMSL_PR2011.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.patcog.2011.01.004&amp;rft.issue=7&amp;rft.jtitle=Pattern+Recognition&amp;rft.pages=1540-1551&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">H. Lu, K. N. Plataniotis and A. N. Venetsanopoulos, "<a rel="nofollow" class="external text" href="http://www.hindawi.com/journals/ivp/2009/713183.html">Boosting Discriminant Learners for Gait Recognition using MPCA Features</a>", EURASIP Journal on Image and Video Processing, Volume 2009, Article ID 713183, 11 pages, 2009. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1155%2F2009%2F713183">10.1155/2009/713183</a>.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Y. Panagakis, C. Kotropoulos, G. R. Arce, "Non-negative multilinear principal component analysis of auditory temporal modulations for music genre classiﬁcation", IEEE Trans. on Audio, Speech, and Language Processing, vol. 18, no. 3, pp. 576–588, 2010.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">K. Inoue, K. Hara, K. Urahama, "Robust multilinear principal component analysis", Proc. IEEE Conference on Computer Vision, 2009, pp. 591–597.</span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1212
+CPU time usage: 0.159 seconds
+Real time usage: 0.226 seconds
+Preprocessor visited node count: 439/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7935/2097152 bytes
+Template argument size: 203/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 1.57 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  137.282      1 - -total
+ 49.94%   68.552      1 - Template:Context
+ 40.26%   55.270      1 - Template:Reflist
+ 30.43%   41.771      1 - Template:Ambox
+ 21.79%   29.910      2 - Template:Cite_journal
+  6.17%    8.475      1 - Template:Doi
+  2.91%    3.995      2 - Template:Hide_in_print
+  1.49%    2.041      1 - Template:Only_in_print
+  1.40%    1.919      1 - Template:Str_left
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30928751-0!*!0!!en!4!* and timestamp 20150318165824 and revision id 629086262
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Multilinear_principal_component_analysis&amp;oldid=629086262">http://en.wikipedia.org/w/index.php?title=Multilinear_principal_component_analysis&amp;oldid=629086262</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dimension_reduction" title="Category:Dimension reduction">Dimension reduction</a></li><li><a href="/wiki/Category:Machine_learning" title="Category:Machine learning">Machine learning</a></li><li><a href="/wiki/Category:Multivariate_statistics" title="Category:Multivariate statistics">Multivariate statistics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_context_from_June_2012" title="Category:Wikipedia articles needing context from June 2012">Wikipedia articles needing context from June 2012</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_context" title="Category:All Wikipedia articles needing context">All Wikipedia articles needing context</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_June_2012" title="Category:Wikipedia introduction cleanup from June 2012">Wikipedia introduction cleanup from June 2012</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Multilinear+principal+component+analysis&amp;returntoquery=diff%3D629086262%26oldid%3D592599457&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Multilinear+principal+component+analysis&amp;returntoquery=diff%3D629086262%26oldid%3D592599457" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Multilinear_principal_component_analysis"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Multilinear_principal_component_analysis"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Multilinear_principal_component_analysis" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Multilinear_principal_component_analysis" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Multilinear_principal_component_analysis" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;oldid=629086262" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6934740" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Multilinear_principal_component_analysis&amp;id=629086262" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Multilinear+principal+component+analysis">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Multilinear+principal+component+analysis&amp;oldid=592599457&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Multilinear_principal_component_analysis&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A4%9A%E7%B7%9A%E6%80%A7%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90" title="多線性主成分分析 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q6934740#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 October 2014, at 18:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Multilinear_principal_component_analysis&amp;diff=629086262&amp;oldid=592599457&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1180"});
+}</script>
+	</body>
+</html>

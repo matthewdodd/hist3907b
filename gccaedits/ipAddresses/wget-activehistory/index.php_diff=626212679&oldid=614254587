@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>RemoteView: Difference between revisions - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=RemoteView&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=RemoteView&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/RemoteView" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/index.php?diff=626212679&amp;oldid=614254587" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"RemoteView","wgTitle":"RemoteView","wgCurRevisionId":626212679,"wgRevisionId":626212679,"wgArticleId":18733935,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["GIS software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"RemoteView","wgRelevantArticleId":18733935,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17145825"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-RemoteView skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">RemoteView: Difference between revisions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=RemoteView&amp;oldid=614254587" title="RemoteView">Revision as of 17:49, 24 June 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=RemoteView&amp;action=edit&amp;oldid=614254587" title="RemoteView">edit</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/w/index.php?title=User:RonNatalie&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:RonNatalie (page does not exist)">RonNatalie</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=User_talk:RonNatalie&amp;action=edit&amp;redlink=1" class="new" title="User talk:RonNatalie (page does not exist)">talk</a> | <a href="/wiki/Special:Contributions/RonNatalie" title="Special:Contributions/RonNatalie">contribs</a>)</span></div><div id="mw-diff-otitle3"></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=RemoteView&amp;diff=prev&amp;oldid=614254587" title="RemoteView" id="differences-prevlink">← Previous edit</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=RemoteView&amp;oldid=626212679" title="RemoteView">Latest revision as of 14:19, 19 September 2014</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=RemoteView&amp;action=edit" title="RemoteView">edit</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=RemoteView&amp;action=edit&amp;undoafter=614254587&amp;undo=626212679" title="&quot;Undo&quot; reverts this edit and opens the edit form in preview mode. It allows adding a reason in the summary.">undo</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Special:Contributions/131.137.199.59" title="Special:Contributions/131.137.199.59" class="mw-userlink mw-anonuserlink">131.137.199.59</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=User_talk:131.137.199.59&amp;action=edit&amp;redlink=1" class="new" title="User talk:131.137.199.59 (page does not exist)">talk</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(Erdas imagine was the first ELT widely used by almost a decade.  Changes first line of Overview to remove implication that RV was.)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4">&#160;</div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Line 21:</td>
+  <td colspan="2" class="diff-lineno">Line 21:</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Overview ==</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>== Overview ==</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>'''RemoteView''' <del class="diffchange diffchange-inline">was</del> <del class="diffchange diffchange-inline">the</del> <del class="diffchange diffchange-inline">first</del> <del class="diffchange diffchange-inline">successful</del> electronic [[light table]] application<del class="diffchange diffchange-inline"> to be widely available</del>, initially developed and released commercially by Sensor Systems in 1996. An electronic light table application makes it possible for imagery analysts to review satellite images on a computer instead of examining film or printed photographs. RemoteView was originally written only for the Unix operating system, but as the US Department of Defense transitioned to the Windows operating system, Sensor Systems released a Windows-based version that soon became a primary tool used by the intelligence community. Overwatch acquired Sensor Systems and the RemoteView software in 2005.&lt;ref name="Acquire"&gt;{{cite web|title=Federal Information Technology Systems Announces the Acquisition of Sensor Systems, Inc.|url=http://www.daroth.com/press/Federal%20IT%20acquires%20Sensor%20Systems%20040105.pdf|publisher=Daroth Capital Press|accessdate=April 2005}}&lt;/ref&gt; Textron Systems acquired Overwatch in 2006.</div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>'''RemoteView''' <ins class="diffchange diffchange-inline">is</ins> <ins class="diffchange diffchange-inline">a</ins> <ins class="diffchange diffchange-inline">widely</ins> <ins class="diffchange diffchange-inline">available</ins> electronic [[light table]] application, initially developed and released commercially by Sensor Systems in 1996. An electronic light table application makes it possible for imagery analysts to review satellite images on a computer instead of examining film or printed photographs. RemoteView was originally written only for the Unix operating system, but as the US Department of Defense transitioned to the Windows operating system, Sensor Systems released a Windows-based version that soon became a primary tool used by the intelligence community. Overwatch acquired Sensor Systems and the RemoteView software in 2005.&lt;ref name="Acquire"&gt;{{cite web|title=Federal Information Technology Systems Announces the Acquisition of Sensor Systems, Inc.|url=http://www.daroth.com/press/Federal%20IT%20acquires%20Sensor%20Systems%20040105.pdf|publisher=Daroth Capital Press|accessdate=April 2005}}&lt;/ref&gt; Textron Systems acquired Overwatch in 2006.</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>RemoteView's main function is an imagery and geospatial analysis tool. It can display a wide array of imagery formats, elevation data sets, and vector data sets. Capabilities include image enhancements, photogrammetry, orthorectification, multispectral classification, pan sharpening, change detection, assisted search, location positioning, and 3D terrain visualization.&lt;ref name="RemoteView"&gt;{{cite web|title=RemoteView|url=http://www.overwatch.com/products/remote_view_pro.php|publisher=Overwatch |accessdate=October 23, 2012}}&lt;/ref&gt; These features allow an intelligence analyst to review large-scale imagery and generate annotated reports on any findings.</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>RemoteView's main function is an imagery and geospatial analysis tool. It can display a wide array of imagery formats, elevation data sets, and vector data sets. Capabilities include image enhancements, photogrammetry, orthorectification, multispectral classification, pan sharpening, change detection, assisted search, location positioning, and 3D terrain visualization.&lt;ref name="RemoteView"&gt;{{cite web|title=RemoteView|url=http://www.overwatch.com/products/remote_view_pro.php|publisher=Overwatch |accessdate=October 23, 2012}}&lt;/ref&gt; These features allow an intelligence analyst to review large-scale imagery and generate annotated reports on any findings.</div></td>
+</tr>
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Latest revision as of 14:19, 19 September 2014</h2>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">RemoteView</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:RemoteView_Product_Logo_-_Black_-_Aug_2011.png" class="image"><img alt="RemoteView Product Logo - Black - Aug 2011.png" src="//upload.wikimedia.org/wikipedia/en/a/ad/RemoteView_Product_Logo_-_Black_-_Aug_2011.png" width="250" height="20" data-file-width="250" data-file-height="20" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:RemoteView_Pro_3-2-2_main_window_with_loading_dock_image.jpg" class="image"><img alt="RemoteView Pro 3-2-2 main window with loading dock image.jpg" src="//upload.wikimedia.org/wikipedia/en/a/a3/RemoteView_Pro_3-2-2_main_window_with_loading_dock_image.jpg" width="250" height="191" data-file-width="250" data-file-height="191" /></a>
+<div>RemoteView main window with image loaded</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>Overwatch Systems</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;">Initial release</th>
+<td>1996<span class="noprint">; 19&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1996</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>3.2.3 / October&#160;2012<span class="noprint">; 2&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2012-10</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;">Development status</th>
+<td>Active</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;">Written in</th>
+<td>C++</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td>Windows</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;"><a href="/wiki/File_size" title="File size">Size</a></th>
+<td>≈650 MB</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;">Available in</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;"><a href="/wiki/List_of_software_categories" title="List of software categories">Type</a></th>
+<td><a href="/wiki/Geographic_information_system" title="Geographic information system">GIS</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.overwatch.com/products/remote_view_pro.php">www<wbr />.overwatch<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>RemoteView</b> is the family name of a group of software programs designed to aid in analyzing satellite or aerial images of the Earth's surface for the purpose of collecting and disseminating <a href="/wiki/Geospatial_intelligence" title="Geospatial intelligence">geospatial intelligence</a>. The <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">National Geospatial-Intelligence Agency</a> (NGA) is a longtime user of RemoteView software.<sup id="cite_ref-Overwatch_Press_Release_1-0" class="reference"><a href="#cite_note-Overwatch_Press_Release-1"><span>[</span>1<span>]</span></a></sup> The software is published by <a href="/wiki/Textron" title="Textron">Textron</a> Systems Geospatial Systems.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Extensions"><span class="tocnumber">2</span> <span class="toctext">Extensions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RemoteView&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>RemoteView</b> is a widely available electronic <a href="/wiki/Light_table" title="Light table">light table</a> application, initially developed and released commercially by Sensor Systems in 1996. An electronic light table application makes it possible for imagery analysts to review satellite images on a computer instead of examining film or printed photographs. RemoteView was originally written only for the Unix operating system, but as the US Department of Defense transitioned to the Windows operating system, Sensor Systems released a Windows-based version that soon became a primary tool used by the intelligence community. Overwatch acquired Sensor Systems and the RemoteView software in 2005.<sup id="cite_ref-Acquire_2-0" class="reference"><a href="#cite_note-Acquire-2"><span>[</span>2<span>]</span></a></sup> Textron Systems acquired Overwatch in 2006.</p>
+<p>RemoteView's main function is an imagery and geospatial analysis tool. It can display a wide array of imagery formats, elevation data sets, and vector data sets. Capabilities include image enhancements, photogrammetry, orthorectification, multispectral classification, pan sharpening, change detection, assisted search, location positioning, and 3D terrain visualization.<sup id="cite_ref-RemoteView_3-0" class="reference"><a href="#cite_note-RemoteView-3"><span>[</span>3<span>]</span></a></sup> These features allow an intelligence analyst to review large-scale imagery and generate annotated reports on any findings.</p>
+<p>RemoteView for Windows comes in two versions, RemoteView Desktop and RemoteView Pro. RemoteView Desktop is an entry-level imagery exploitation and analysis solution, for focusing on a single image at a time or reviewing the results of another analyst's work. RemoteView Pro is the flagship product offering a greater number of tools, extensions, and capabilities.</p>
+<h2><span class="mw-headline" id="Extensions">Extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RemoteView&amp;action=edit&amp;section=2" title="Edit section: Extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Overwatch offers a series of extensions that add specialized capabilities to RemoteView.<sup id="cite_ref-RemoteView_Exsentions_4-0" class="reference"><a href="#cite_note-RemoteView_Exsentions-4"><span>[</span>4<span>]</span></a></sup> These include:</p>
+<ul>
+<li>Virtual Mosaic – a tool for quickly joining more than four adjacent or overlapping images</li>
+<li>3D Pro – a module that expands visualization tools to allow creating 3D virtual worlds for simulating real world conditions and planning missions</li>
+<li>RVConnect – a tool that enables automatic data sharing between RemoteView and Esri’s ArcMap software</li>
+<li>V-TRAC Basic – a complementary video player that allows analysis of full motion video recorded by UAVs</li>
+<li>V-TRAC Pro – expands the abilities of V-TRAC Basic to include mark-up and reporting tools</li>
+<li>GeoCatalog for Desktop – a complementary database that makes it easier to organize and retrieve geospatial data</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RemoteView&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Overwatch_Press_Release-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Overwatch_Press_Release_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.overwatch.com/news/press_release_item.php?ReleaseID=1465779">"Overwatch Announces 5-Year Research Contract with National Geospatial-Intelligence Agency"</a>. Overwatch Press<span class="reference-accessdate">. Retrieved <span class="nowrap">September 1,</span> 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARemoteView&amp;rft.btitle=Overwatch+Announces+5-Year+Research+Contract+with+National+Geospatial-Intelligence+Agency&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.overwatch.com%2Fnews%2Fpress_release_item.php%3FReleaseID%3D1465779&amp;rft.pub=Overwatch+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Acquire-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Acquire_2-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.daroth.com/press/Federal%20IT%20acquires%20Sensor%20Systems%20040105.pdf">"Federal Information Technology Systems Announces the Acquisition of Sensor Systems, Inc."</a>. Daroth Capital Press<span class="reference-accessdate">. Retrieved April 2005</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARemoteView&amp;rft.btitle=Federal+Information+Technology+Systems+Announces+the+Acquisition+of+Sensor+Systems%2C+Inc.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.daroth.com%2Fpress%2FFederal%2520IT%2520acquires%2520Sensor%2520Systems%2520040105.pdf&amp;rft.pub=Daroth+Capital+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RemoteView-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-RemoteView_3-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.overwatch.com/products/remote_view_pro.php">"RemoteView"</a>. Overwatch<span class="reference-accessdate">. Retrieved <span class="nowrap">October 23,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARemoteView&amp;rft.btitle=RemoteView&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.overwatch.com%2Fproducts%2Fremote_view_pro.php&amp;rft.pub=Overwatch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RemoteView_Exsentions-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-RemoteView_Exsentions_4-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.overwatch.com/products/remote_view_extensions.php">"RemoteView Extensions"</a>. Overwatch<span class="reference-accessdate">. Retrieved <span class="nowrap">January 27,</span> 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARemoteView&amp;rft.btitle=RemoteView+Extensions&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.overwatch.com%2Fproducts%2Fremote_view_extensions.php&amp;rft.pub=Overwatch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RemoteView&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Geomatics" title="Geomatics">Geomatics</a></li>
+<li><a href="/wiki/Imagery_analysis" title="Imagery analysis">Imagery analysis</a></li>
+<li><a href="/wiki/Remote_sensing" title="Remote sensing">Remote sensing</a></li>
+<li><a href="/wiki/Remote_sensing_application" title="Remote sensing application">Remote sensing application</a></li>
+<li><a href="/wiki/Satellite_imagery" title="Satellite imagery">Satellite imagery</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RemoteView&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.overwatch.com">Overwatch Systems</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.overwatch.com/products/remote_view_pro.php">RemoteView Product Page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.textronsystems.com">Textron Systems</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:GIS_Software" title="Template:GIS Software"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:GIS_Software&amp;action=edit&amp;redlink=1" class="new" title="Template talk:GIS Software (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GIS_Software&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Geographic_information_systems_software" title="Geographic information systems software" class="mw-redirect">GIS Software</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Arc</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">ESRI</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ARC_Macro_Language" title="ARC Macro Language">ARC Macro Language</a></li>
+<li><a href="/wiki/ArcEditor" title="ArcEditor">ArcEditor</a></li>
+<li><a href="/wiki/ArcExplorer" title="ArcExplorer">ArcExplorer</a></li>
+<li><a href="/wiki/ArcGIS" title="ArcGIS">ArcGIS</a></li>
+<li><a href="/wiki/ArcGIS_Engine" title="ArcGIS Engine">ArcGIS Engine</a></li>
+<li><a href="/wiki/ArcGIS_Explorer" title="ArcGIS Explorer" class="mw-redirect">ArcGIS Explorer</a></li>
+<li><a href="/wiki/ArcGIS_Server" title="ArcGIS Server">ArcGIS Server</a></li>
+<li><a href="/wiki/ArcIMS" title="ArcIMS">ArcIMS</a></li>
+<li><a href="/wiki/ArcInfo" title="ArcInfo">ArcInfo</a></li>
+<li><a href="/wiki/ArcMap" title="ArcMap">ArcMap</a></li>
+<li><a href="/wiki/ArcSDE" title="ArcSDE">ArcSDE</a></li>
+<li><a href="/wiki/ArcView" title="ArcView">ArcView</a></li>
+<li><a href="/wiki/ArcView_3.x" title="ArcView 3.x">ArcView 3.x</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Third Party Plugins</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CommunityViz" title="CommunityViz">CommunityViz</a></li>
+<li><a href="/wiki/GeoSTAC" title="GeoSTAC">GeoSTAC</a></li>
+<li><a href="/wiki/PurVIEW" title="PurVIEW">PurVIEW</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/BAE_SYSTEMS" title="BAE SYSTEMS" class="mw-redirect">BAE Systems</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Socet_set" title="Socet set" class="mw-redirect">SOCET SET</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Caliper_Corporation" title="Caliper Corporation">Caliper</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Maptitude" title="Maptitude">Maptitude</a></li>
+<li><a href="/wiki/TransModeler" title="TransModeler">TransModeler</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Erdas</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Erdas_Imagine" title="Erdas Imagine">Imagine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Intergraph</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GeoMedia" title="GeoMedia">GeoMedia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Overwatch<br />
+Geospatial</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">RemoteView</strong></li>
+<li><a href="/wiki/Feature_Analyst" title="Feature Analyst">Feature Analyst</a></li>
+<li><a href="/wiki/LIDAR_Analyst" title="LIDAR Analyst">LIDAR Analyst</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Google</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Earth" title="Google Earth">Google Earth</a></li>
+<li><a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecosystem_Management_Decision_Support" title="Ecosystem Management Decision Support">EMDS</a></li>
+<li><a href="/wiki/Feature_Manipulation_Engine" title="Feature Manipulation Engine">Feature Manipulation Engine</a></li>
+<li><a href="/wiki/GeoBase_(Telogis_GIS_software)" title="GeoBase (Telogis GIS software)" class="mw-redirect">GeoBase</a></li>
+<li><a href="/wiki/GeoNetwork_opensource" title="GeoNetwork opensource">GeoNetwork</a></li>
+<li><a href="/wiki/IDRISI" title="IDRISI">IDRISI</a></li>
+<li><a href="/wiki/ILWIS" title="ILWIS">ILWIS</a></li>
+<li><a href="/wiki/Land_Allocation_Decision_Support_System" title="Land Allocation Decision Support System">Land Allocation Decision Support System</a></li>
+<li><a href="/wiki/LandSerf" title="LandSerf">LandSerf</a></li>
+<li><a href="/wiki/Manifold_System" title="Manifold System">Manifold System</a></li>
+<li><a href="/wiki/MapInfo_Professional" title="MapInfo Professional">MapInfo</a></li>
+<li><a href="/wiki/Mapbender" title="Mapbender">Mapbender</a></li>
+<li><a href="/wiki/RoboGEO" title="RoboGEO">RoboGEO</a></li>
+<li><a href="/wiki/SPRING" title="SPRING">SPRING</a></li>
+<li><a href="/wiki/Sedris" title="Sedris">Sedris</a></li>
+<li><a href="/wiki/Smallworld" title="Smallworld">Smallworld</a></li>
+<li><a href="/wiki/TNTmips" title="TNTmips">TNTmips</a></li>
+<li><a href="/wiki/TeraVue" title="TeraVue">TeraVue</a></li>
+<li><a href="/wiki/Visual_Nature_Studio" title="Visual Nature Studio">Visual Nature Studio</a></li>
+<li><a href="/wiki/Xplanet" title="Xplanet">Xplanet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1103
+CPU time usage: 0.257 seconds
+Real time usage: 0.302 seconds
+Preprocessor visited node count: 1280/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31317/2097152 bytes
+Template argument size: 1474/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 1.99 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  195.324      1 - -total
+ 46.44%   90.707      1 - Template:Infobox_software
+ 43.30%   84.576      1 - Template:Infobox
+ 30.39%   59.356      1 - Template:Reflist
+ 22.70%   44.337      2 - Template:Navbox
+ 21.61%   42.206      4 - Template:Cite_web
+ 20.08%   39.219      1 - Template:GIS_Software
+ 12.85%   25.095      2 - Template:Start_date_and_age
+  8.28%   16.175      1 - Template:Navbox_subgroup
+  3.63%    7.096      2 - Template:Years_or_months_ago
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18733935-0!*!0!!en!4!* and timestamp 20150318205233 and revision id 626212679
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=RemoteView&amp;oldid=626212679">http://en.wikipedia.org/w/index.php?title=RemoteView&amp;oldid=626212679</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:GIS_software" title="Category:GIS software">GIS software</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=RemoteView&amp;returntoquery=diff%3D626212679%26oldid%3D614254587&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=RemoteView&amp;returntoquery=diff%3D626212679%26oldid%3D614254587" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/RemoteView"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:RemoteView&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/RemoteView" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=RemoteView&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=RemoteView&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/RemoteView" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/RemoteView" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=RemoteView&amp;oldid=626212679" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=RemoteView&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q17145825" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=RemoteView&amp;id=626212679" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=RemoteView">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=RemoteView&amp;oldid=614254587&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=RemoteView&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q17145825#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 September 2014, at 14:19.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=RemoteView&amp;diff=626212679&amp;oldid=614254587&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":533,"wgHostname":"mw1103"});
+}</script>
+	</body>
+</html>

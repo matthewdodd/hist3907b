@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Instabilité électrothermique : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Instabilit%C3%A9_%C3%A9lectrothermique" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=110046108&amp;oldid=109753700&amp;rcid=131637130" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Instabilité_électrothermique","wgTitle":"Instabilité électrothermique","wgCurRevisionId":112518403,"wgRevisionId":110046108,"wgArticleId":1072815,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Recension temporaire pour le modèle Article","Article contenant un lien mort","Portail:Physique/Articles liés","Portail:Sciences/Articles liés","Portail:Électricité et électronique/Articles liés","Plasma","Électromagnétisme"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Instabilité_électrothermique","wgRelevantArticleId":1072815,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3151657"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Instabilité_électrothermique skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Instabilité électrothermique : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;oldid=109753700" title="Instabilité électrothermique">Version du 7 décembre 2014 à 16:49</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=edit&amp;oldid=109753700" title="Instabilité électrothermique">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Utilisateur:Vivar%C3%A9s" title="Utilisateur:Vivarés" class="mw-userlink">Vivarés</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Vivar%C3%A9s" title="Discussion utilisateur:Vivarés">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Vivar%C3%A9s" title="Spécial:Contributions/Vivarés">contributions</a>)</span></div><div id="mw-diff-otitle3"><abbr class='minoredit' title='Cette modification est mineure.'>m</abbr> <span class="comment">(&quot;kelvin&quot; prend la marque du pluriel (cf. <a href="/wiki/Syst%C3%A8me_international_d%27unit%C3%A9s" title="Système international d'unités">Système international d&#039;unités</a> et <a href="/wiki/Kelvin" title="Kelvin">kelvin</a>))</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;diff=prev&amp;oldid=109753700" title="Instabilité électrothermique" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;oldid=110046108" title="Instabilité électrothermique">Version du 17 décembre 2014 à 23:32</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=edit&amp;oldid=110046108" title="Instabilité électrothermique">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=edit&amp;undoafter=109753700&amp;undo=110046108" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/205.211.133.128" title="Spécial:Contributions/205.211.133.128" class="mw-userlink mw-anonuserlink">205.211.133.128</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:205.211.133.128" title="Discussion utilisateur:205.211.133.128">discuter</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(+homon)</span></div><div id="mw-diff-ntitle5"></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;diff=next&amp;oldid=110046108" title="Instabilité électrothermique" id="differences-nextlink">Modification suivante →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 1 :</td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>{{Voir homonymes|Instabilité}}</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>__NOTOC__</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>__NOTOC__</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>L''''instabilité électrothermique''' dite aussi '''instabilité de Velikhov''' ou '''instabilité d'ionisation''' a été prédite par la théorie par le physicien russe [[Evgeny Velikhov]] en 1962, prédiction qui fut confirmée  expérimentalement dès 1965&lt;ref&gt;</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>L''''instabilité électrothermique''' dite aussi '''instabilité de Velikhov''' ou '''instabilité d'ionisation''' a été prédite par la théorie par le physicien russe [[Evgeny Velikhov]] en 1962, prédiction qui fut confirmée  expérimentalement dès 1965&lt;ref&gt;</div></td>
+</tr>
+
+<!-- diff cache key frwiki:diff:version:1.11a:oldid:109753700:newid:110046108 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version du 17 décembre 2014 à 23:32</h2>
+<div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d'aide sur l'homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a> Pour les articles homonymes, voir <a href="/wiki/Instabilit%C3%A9" title="Instabilité" class="mw-disambig">Instabilité</a>.</div>
+<p>L'<b>instabilité électrothermique</b> dite aussi <b>instabilité de Velikhov</b> ou <b>instabilité d'ionisation</b> a été prédite par la théorie par le physicien russe <a href="/w/index.php?title=Evgeny_Velikhov&amp;action=edit&amp;redlink=1" class="new" title="Evgeny Velikhov (page inexistante)">Evgeny Velikhov</a> en 1962, prédiction qui fut confirmée expérimentalement dès 1965<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>.</p>
+<p>C'est une «&#160;<a href="/wiki/Turbulence" title="Turbulence">turbulence</a> du gaz d'<a href="/wiki/%C3%89lectron" title="Électron">électrons</a>&#160;» qui survient dans le <a href="/wiki/Physique_des_plasmas" title="Physique des plasmas">plasma</a> <a href="/wiki/Physique_des_plasmas#Temp.C3.A9rature_des_esp.C3.A8ces_.28.C2.AB_plasma_chaud_.C2.BB.2C_.C2.AB_plasma_froid_.C2.BB.29" title="Physique des plasmas">bitempérature</a> d'un <a href="/wiki/Convertisseur_MHD" title="Convertisseur MHD">convertisseur MHD</a>, soumis à un fort <a href="/wiki/Champ_magn%C3%A9tique" title="Champ magnétique">champ magnétique</a> et en régime d’ionisation hors d'équilibre thermodynamique, c'est-à-dire lorsque la température électronique excède la température ionique (par exemple quand le «&#160;gaz d'électrons&#160;» est chauffé à 10&#160;000 <a href="/wiki/Kelvin" title="Kelvin">kelvins</a>, alors que les «&#160;lourds&#160;» (atomes et ions) restent «&#160;froids&#160;» aux alentours de <span class="nowrap">4&#160;000&#160;K</span>).</p>
+<p>Au niveau microscopique, localement, la densité électronique et la température électronique (qui est la mesure de l’énergie cinétique moyenne d'<a href="/wiki/Agitation_thermique" title="Agitation thermique" class="mw-redirect">agitation thermique</a> dans le gaz d’électrons) fluctuent, de même que les vecteurs densité de courant électrique et <a href="/wiki/Champ_%C3%A9lectrique" title="Champ électrique">champ électrique</a>. Cette instabilité se manifeste quand l’effet Joule communique, localement, de l’énergie au gaz d’électrons, et que celui-ci ne parvient pas à dissiper cette énergie par le jeu de collisions, élastiques ou inélastiques. Sa manifestation est extrêmement rapide puisque son temps caractéristique d’établissement est du même ordre de grandeur que le temps caractéristique d’ionisation du plasma. Le plasma se stratifie alors, «&#160;comme un mille-feuilles&#160;», avec alternance de couches fortement et faiblement ionisées. Dans un tube de Gleiser soumis à un champ magnétique transversal, créé par exemple par un simple aimant permanent, la décharge prend alors l’allure «&#160;d’une pile d’assiettes&#160;»</p>
+<center><a href="/wiki/Fichier:Electrothermal_instability_evolution.gif" class="image"><img alt="Electrothermal instability evolution.gif" src="//upload.wikimedia.org/wikipedia/commons/2/28/Electrothermal_instability_evolution.gif" width="490" height="160" data-file-width="490" data-file-height="160" /></a></center>
+<center><i>Évolution de l'instabilité électrothermique dans un convertisseur MHD de Faraday<br />
+Lignes de courant électrique (calcul numérique, Russie, 1968)</i></center>
+<p><br /></p>
+<h2><span class="mw-headline" id="Effet_Hall_dans_les_plasmas">Effet Hall dans les plasmas</span></h2>
+<p>L'effet Hall, s'agissant des gaz, n'a pas grand chose à voir avec l'effet Hall tel qu'il se produit dans les solides, où le paramètre de Hall reste toujours inférieur à l'unité. Dans un plasma, ce paramètre peut prendre des valeurs importantes.</p>
+<p>Ce paramètre de Hall β est le rapport entre la gyrofréquence électronique Ω<sub>e</sub> et la fréquence de collision ν entre l'électron et les espèces lourdes présentes dans le plasma (ion, atomes et molécules):</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\beta \, = \, \frac {\Omega_e}{\nu} \, = \, \frac {e\ B}{m_e\ \nu}
+" src="//upload.wikimedia.org/math/9/4/f/94f0ffa46df5dfaae699262aeca9ed7c.png" /></dd>
+</dl>
+<p>où</p>
+<dl>
+<dd><i>e</i> est <a href="/wiki/Charge_%C3%A9l%C3%A9mentaire" title="Charge élémentaire">la charge de l'électron</a> (1.6 × 10<sup>-19</sup> <a href="/wiki/Coulomb" title="Coulomb">coulomb</a>)</dd>
+<dd><i>B</i> est le champ magnétique (en <a href="/wiki/Tesla_(unit%C3%A9)" title="Tesla (unité)">tesla</a>)</dd>
+<dd>m<sub>e</sub> est la masse de l'électron (0.9 × 10<sup>-30</sup> kg)</dd>
+</dl>
+<p>Le paramètre de Hall croit avec le champ magnétique. Lorsque l'effet Hall est modéré, les trajectoires des électrons entre deux rencontres avec des particules lourdes (neutres ou ionisées) sont quasiment linéaires. Mais quand le paramètre de Hall est élevé, les trajectoires des électrons, le long de leur libre parcours, s’incurvent. Les vecteurs densité de <b>J</b> et champ électrique <b>E</b> ne sont plus colinéaires, mais séparés par <b>l’angle de Hall</b> θ , relié au paramètre de Hall par la relation&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\ \beta \, = \, \tan \theta
+" src="//upload.wikimedia.org/math/0/d/5/0d5523f45a131132b2732f616ef25d8e.png" /></dd>
+</dl>
+<h3><span class="mw-headline" id="Conductivit.C3.A9_d.E2.80.99un_plasma_soumis_.C3.A0_un_champ_magn.C3.A9tique_transversal">Conductivité d’un plasma soumis à un champ magnétique transversal</span></h3>
+<p>Dans un gaz ionisé hors d’équilibre, en régime d’effet Hall fort la loi d'Ohm &#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\mathbf{J} = \sigma\mathbf{E}
+" src="//upload.wikimedia.org/math/b/0/1/b01861a532059e60f6a3eb878fd6ed01.png" /></dd>
+</dl>
+<p>où la conductivité électrique <i>σ</i> s’écrit sous une forme matricielle&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\sigma = \sigma_s \begin{Vmatrix} \dfrac{1}{1+\beta^2} &amp; \dfrac{-\beta}{1+\beta^2} \\ \dfrac{\beta}{1+\beta^2} &amp; \dfrac{1}{1+\beta^2} \end{Vmatrix}
+" src="//upload.wikimedia.org/math/c/4/6/c4687cdf732782d4f585160b48777127.png" /></dd>
+</dl>
+<p>où σ<sub>S</sub> est la conductivité électrique scalaire . (en <a href="/wiki/Siemens_(unit%C3%A9)" title="Siemens (unité)">siemens</a> par mètre),</p>
+<p><br /></p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\sigma_s = \frac {n_e\ e^2}{m_e\ \nu}
+" src="//upload.wikimedia.org/math/a/c/6/ac6adfb26e0e86113235ca8c865d65b0.png" /></dd>
+</dl>
+<p>et où n<sub>e</sub> est la densité électronique (nombre d'électrons par mètre cube).</p>
+<p>La densité de courant <b>J</b> possède lors deux composantes, l’une parallèle au champ électrique et l’autre lui étant perpendiculaire&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+J_{\parallel} = \frac {n_e\ e^2}{m_e\ \nu} \ \frac {E}{1+\beta^2} \qquad \text{and} \qquad J_{\perp} = \frac {-n_e\ e^2}{m_e\ \nu} \ \frac {\beta\ E}{1+\beta^2}
+" src="//upload.wikimedia.org/math/c/d/1/cd1aaa5f48bf67de3ab84bd51e7498eb.png" /></dd>
+</dl>
+<p>D'où</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+J_{\perp} = J_{\parallel}\ \beta
+" src="//upload.wikimedia.org/math/1/d/b/1db91dd20df0cf94a6b2743d364a3a09.png" /></dd>
+</dl>
+<p>L'effet Hall fait que, dans le plasma, les électrons cheminent «&#160;en crabe&#160;» (par rapport à la direction du champ électrique).</p>
+<p>Lorsque le champ magnétique B est élevé, le paramètre de Hall β l’est aussi, et <img class="mwe-math-fallback-image-inline tex" alt="\frac {1}{1+\beta^2} \ll 1" src="//upload.wikimedia.org/math/f/4/8/f48c13fcc98fba424fd5c16ea6033f63.png" /></p>
+<p>Ainsi les deux conductivités <img class="mwe-math-fallback-image-inline tex" alt="
+\sigma_{\parallel} \approx \frac {\sigma_s}{\beta^2} \qquad \text{et} \qquad \sigma_{\perp} \approx \frac {\sigma_s}{\beta}
+" src="//upload.wikimedia.org/math/6/f/1/6f1e01030ea8addcc6a4205d2c40c2de.png" /></p>
+<p>deviennent faibles. De ce fait, le courant a tendance à s’établir, en régime de paramètre de Hall élevé, en dehors des régions soumises à un champ magnétique élevé.</p>
+<p><br /></p>
+<h3><span class="mw-headline" id="Param.C3.A8tre_de_Hall_critique">Paramètre de Hall critique</span></h3>
+<p>L'instabilité électrothermique se manifeste dans un plasma bitempérature (T<sub>e</sub> &gt; T<sub>g</sub>), hors d’équilibre thermodynamique, lorsque le paramètre Hall est supérieur à sa valeur critique β<sub>cr</sub>.</p>
+<p>Nous avons</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+f = \frac{\left( \frac{\delta \mu}{\mu} \right)}{\left( \frac{\delta n_e}{n_e} \right)}
+" src="//upload.wikimedia.org/math/3/0/6/30691428adc41c28edea88cf70413613.png" /></dd>
+</dl>
+<p>où μ est la mobilité électronique (en <a href="/wiki/M%C3%A8tre" title="Mètre">m<sup>2</sup></a>/(<a href="/wiki/Volt" title="Volt">V</a>•<a href="/wiki/Seconde_(temps)" title="Seconde (temps)">s</a>))</p>
+<p>et</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+s = \frac{2\ k\ T_e^2}{E_i\; (T_e - T_g)} \times \frac {1}{1 + \dfrac{3}{2}\ \dfrac{k\; T_e}{E_i}}
+" src="//upload.wikimedia.org/math/9/a/8/9a81797004114f39d98a6ff1c676d514.png" /></dd>
+</dl>
+<p>où <i>E<sub>i</sub></i> est l'énergie d'ionisation et <i>k</i> la constante de Boltzmann.</p>
+<p>Le taux de croissance de l'instabilité est</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+g = \frac{\sigma\ E^2}{n_e\; \left( E_i + \frac{3}{2} k\; T_e \right)\; \left( 1 + \beta^2 \right)}\; (\beta - \beta_{cr})
+" src="//upload.wikimedia.org/math/7/a/f/7afa6813340ee8cf802b801adc4e5420.png" /></dd>
+</dl>
+<p>Et <b>la valeur critique du paramètre de Hall</b> est</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\beta_{cr} = 1.935 f + 0.065 + s
+~" src="//upload.wikimedia.org/math/9/b/4/9b4dc1f46f972cd9a5dfb425aa7688f0.png" /></dd>
+</dl>
+<p>La façon dont le paramètre critique de Hall β<sub>cr</sub> varie avec le degré d'ionisation α&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\alpha = \frac{n_i}{n_n}
+" src="//upload.wikimedia.org/math/a/7/b/a7ba935446a96c22fcdcdf62a26cfce6.png" /></dd>
+</dl>
+<p>où n<sub>i</sub> est la densité ionique et n<sub>n</sub> la densité de particules neutres (en nombre de particules par mètre cube) dépend du régime considéré. La section efficace de collision électron-ions Q<sub>ei</sub> (collisions dites coulombiennes, correspondant à des forces à grand rayon d’action) est beaucoup plus élevée que la section efficace de collision associée aux collisions électron-particules neutres Q<sub>en</sub>, et cela de plusieurs ordres de grandeur. Ainsi, même avec un degré d'ionisation α faible, la fréquence de collision électron-ions ν<sub>ei</sub> peut égaler celles de collisions électron-neutres ν<sub>en</sub>, voire lui être supérieure. Comme la densité électronique, et par delà la densité ionique varient très vite avec la température électronique, on distinguera deux régimes.</p>
+<p>• On dira qu’un gaz est faiblement ionisé (appelé aussi non-coulombien), quand la fréquence de collision électron-ions est faible devant la fréquence de collision électron-neutres, c’est-à-dire quand&#160;:</p>
+<p>ν<sub>ei</sub> &lt; ν<sub>en</sub></p>
+<p>Alors la valeur du paramètre de Hall critique s’écrira&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\beta_{cr} \approx (s^2 + 2s)^{\frac{1}{2}}
+" src="//upload.wikimedia.org/math/4/8/6/4868a55f0707f00cbca5563efe4be433.png" /></dd>
+</dl>
+<p>• Lorsque la fréquence de collision électron-ions domine, c’est-à-dire que</p>
+<p>ν<sub>ei</sub> &gt; ν<sub>en</sub></p>
+<p>on dira que le plasma est en régime coulombien. Les Anglo-Saxons emploient la dénomination <i>fully ionized gas</i>, introduite par Lyman Spitzer, ou «&#160;plasma totalement ionisé&#160;», qui prête quelque peu à confusion mais est devenue l’expression consacrée. En effet, un plasma peut mériter ce qualificatif alors que le taux d’ionisation est de l’ordre de un pour cent. Dans ce régime coulombien la valeur critique du paramètre de Hall s’écrit alors&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\beta_{cr} \approx (2 + s)
+" src="//upload.wikimedia.org/math/6/1/6/616fda2e58e8ca910f807bb5b34f597d.png" /></dd>
+</dl>
+<p>s étant faible, cette valeur est très proche de 2. NB&#160;: En régime intermédiaire, la dénomination anglo-saxonne est <i>partially ionized gaz</i>, «&#160;plasma partiellement ionisé&#160;».</p>
+<h2><span class="mw-headline" id="Probl.C3.A8mes_techniques_et_leurs_solutions">Problèmes techniques et leurs solutions</span></h2>
+<p>Un gaz bi-température, globalement froid, mais où le gaz d’électrons est chaud (T<sub>e</sub> &gt;&gt; T<sub>g</sub>) est la clef des convertisseurs MHD, parce que cela permet d'obtenir une conductivité électrique suffisante, tout en protégeant les parois d'une ablation qui se produirait avec une température de gaz élevée. Cette idée fut introduite en premier lieu pour les générateur MHD au tout début des années 1960 par <a href="/w/index.php?title=Jack_L._Kerrebrock&amp;action=edit&amp;redlink=1" class="new" title="Jack L. Kerrebrock (page inexistante)">Jack L. Kerrebrock</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup> et <a href="/w/index.php?title=Alexander_E._Sheindlin&amp;action=edit&amp;redlink=1" class="new" title="Alexander E. Sheindlin (page inexistante)">Alexander E. Sheindlin</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>.</p>
+<p>Mais l'instabilité électrothermique ruina tous les projets MHD de conversion hors d’équilibre dans le monde, alors que des calculs préliminaires donnaient une efficacité de conversion énergétique supérieure à 60&#160;% avec ce type de matériel. En effet, la structuration du plasma en «&#160;mille feuille&#160;»(du point de vue de l’ionisation) se traduisant globalement par une forte réduction de la conductivité électrique globale, effondrait drastiquement le rendement à cause de l’accroissement des pertes par effet Joule. À la fin des années soixante des études, tant théoriques qu’expérimentales, furent menées par différents chercheurs<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>, mais aucune solution fonctionnelle ne fut trouvée à cette époque. Cela entraîna l’abandon des études menées sur des générateurs MHD, où l’on recherchait un fonctionnement hors d’équilibre, et par delà l'arrêt global des <a href="/wiki/Recherche_scientifique" title="Recherche scientifique">recherches</a> civiles sur les <a href="/wiki/G%C3%A9n%C3%A9rateur_MHD" title="Générateur MHD">générateurs MHD</a>, pourtant très actives au début des années soixante dans la plupart des pays technologiquement avancés (États-Unis, URSS, France, Angleterre, Italie, Allemagne, Pologne, Chine, etc.).</p>
+<p>Néanmoins des études théoriques sur la vitesse de croissance de l'instabilité électrothermique ainsi que sur les conditions critiques montrèrent qu'une zone de stabilité pouvait exister, pour des températures électroniques suffisamment élevées.</p>
+<p>Le premier fonctionnement hors d’équilibre stable, avec forte extraction de puissance (plusieurs mégawatts) fut obtenu en 1966 sur un générateur impulsionnel, de type tube à choc, le temps de rafale étant de cent microsecondes. En maintenant la température du gaz à <span class="nowrap">10&#160;000&#160;°K</span>, il s’avéra possible de descendre la température du gaz d’essai, un mélange d’hélium et d’argon, à <span class="nowrap">6&#160;000&#160;°K</span>, puis <span class="nowrap">4&#160;000&#160;°K</span>. Mais ces valeurs de température étant incompatibles avec un fonctionnement en régime permanent ces travaux, ces expériences ne pouvaient que faire figure de simulations, par rapport à des expériences à visées industrielles. Ce succès sur ces générateur impulsionnels n’empêcha donc pas l’abandon des projets, dans tous les pays qui s’étaient impliqués au début des années soixante, parfois avec de très gros moyens<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite_crochet">[</span>6<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite_crochet">[</span>7<span class="cite_crochet">]</span></a></sup>. L’obtention d’un régime de fonctionnement stable repose sur une <b>rapide transition vers des conditions «&#160;totalement ionisés&#160;»</b> (suffisamment rapide pour prendre de vitesse la croissance de l'instabilité électrothermique). Ce passage en régime coulombien entraîne l’effondrement rapide du paramètre de Hall, du fait de l’augmentation drastique de la fréquence de collision. Si les conditions expérimentales sont telles qu’alors la valeur du paramètre de Hall devient inférieure à la valeur critique coulombienne, proche de 2, le plasma est stable. Mais cette méthode a ses limites, s’agissant d’expérimentations menées en tube à choc, où les paramètres gazodynamiques, pour un gaz d’essai donné (pression, température, vitesse) sont liés. Elle reste conceptuellement intéressante<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite_crochet">[</span>8<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite_crochet">[</span>9<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite_crochet">[</span>10<span class="cite_crochet">]</span></a></sup>. Ainsi ce mode de contrôle de l’instabilité électrothermique ne permit pas de réduire la température du gaz T<sub>g</sub> pour déboucher sur une application industrielle.</p>
+<p>Une autre idée pour le contrôle de l'instabilité serait d’accroître la vitesse d'ionisation non thermique grâce à un laser qui agirait comme un système de guidage pour streamers entre électrodes, augmentant la densité d'électron et la conductivité, réduisant ainsi l'effet Hall sous sa valeur critique le long du parcours. Mais ce concept n'a jamais été testé expérimentalement.</p>
+<p>Dans les années 1970 et plus récemment, quelques chercheurs ont tenté de maîtriser l'instabilité à l'aide de <b>champs oscillants</b>. Les oscillations du champ électrique ou d'un champ RF électromagnétique additionnel qui modifie localement le paramètre de Hall<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite_crochet">[</span>11<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite_crochet">[</span>12<span class="cite_crochet">]</span></a></sup>.</p>
+<p>Une solution très efficace a été trouvée au début des années 1980 en atténuant la valeur du champ magnétique dans les «&#160;allées&#160;» où on souhaitait que les streamers de courant s’établissent, entre deux électrodes dans un convertisseur de Faraday. En régime de paramètre de Hall élevé, ces régions à champ magnétique atténué présentent une conductivité électrique plus forte. Les streamers de courant s’y établissent, et la valeur élevée de la densité de courant, en relevant localement le degré d’ionisation, entraîne une chute locale du paramètre de Hall, en dessous de la valeur locale du paramètre de Hall critique. D’où une disparition complète de l’instabilité et «&#160;confinement du plasma par gradient de champ magnétique&#160;». Des expérience avec des streamers de courants exempts d'instabilité ont été ainsi obtenus avec cette méthode<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite_crochet">[</span>13<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite_crochet">[</span>14<span class="cite_crochet">]</span></a></sup>. L'intensité de cet effet, fortement non linéaire, était inattendue, mais se révéla être une méthode très efficace pour guider ces streamers de courant. Mais cette dernière méthode d'annihilation de l'instabilité électrothermique fut découverte trop tard, dix années après que les efforts entrepris par de nombreux pays pour faire fonctionner des générateurs MHD en configuration hors d'équilibre aient été abandonnés. <a href="/w/index.php?title=Vladimir_S._Golubev&amp;action=edit&amp;redlink=1" class="new" title="Vladimir S. Golubev (page inexistante)">Vladimir S. Golubev</a>, principal collaborateur d'Evgeny Velikhov, quand il rencontra <a href="/wiki/Jean-Pierre_Petit" title="Jean-Pierre Petit">Jean-Pierre Petit</a> en 1983 au <abbr class="abbr" title="Neuvième">9<sup>e</sup></abbr> colloque international de MHD de Moscou fit cette remarque à l'inventeur de cette méthode de stabilisation par gradient de champ magnétique&#160;:</p>
+<center>
+<p>«&#160;Tu apportes le remède, mais le malade est déjà mort...&#160;»</p>
+</center>
+<p>Cependant il faut noter que cette méthode de stabilisation du plasma par confinement magnétique, avec annihilation de l’instabilité électrothermique, bien que trouvée tardivement pour le développement de centrales MHD, devra être mise en œuvre quand on développera des systèmes MHD liés à des appareils évoluant à vitesse hypersonique, à haute altitude.</p>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span></h2>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span></h3>
+<ul>
+<li><a href="/wiki/Magn%C3%A9tohydrodynamique" title="Magnétohydrodynamique">Magnétohydrodynamique</a></li>
+<li><a href="/wiki/Convertisseur_MHD" title="Convertisseur MHD">Convertisseur MHD</a></li>
+<li><a href="/wiki/G%C3%A9n%C3%A9rateur_MHD" title="Générateur MHD">Générateur MHD</a></li>
+<li><a href="/wiki/Acc%C3%A9l%C3%A9rateur_MHD" title="Accélérateur MHD">Accélérateur MHD</a></li>
+<li><a href="//fr.wikibooks.org/wiki/A%C3%A9rodyne_MHD" class="extiw" title="b:Aérodyne MHD">Aérodyne MHD</a></li>
+</ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span></h3>
+<ul>
+<li>M. Mitchner, C.H. Kruger Jr., <a rel="nofollow" class="external text" href="http://navier.stanford.edu/PIG/C4_S10.pdf">Two-temperature ionization instability</a>, chapitre 4 (MHD) - Section 10, <span style="white-space:nowrap"><abbr class="abbr" title="page(s)">p.</abbr>&#160;230–241</span>. From the plasma physics course book <cite style="font-style:normal" class="ouvrage"><span class="noarchive"><a rel="nofollow" class="external text" href="http://navier.stanford.edu/PIG/PIGdefault.html"><span style="color:red">«&#160;Partially Ionized Gases&#160;»</span></a></span> <sup>(<span class="plainlinks"><a rel="nofollow" class="external text" href="http://web.archive.org/web/*/http://navier.stanford.edu/PIG/PIGdefault.html">Archive</a></span> • <span class="plainlinks"><a rel="nofollow" class="external text" href="http://archive.wikiwix.com/cache/?url=http://navier.stanford.edu/PIG/PIGdefault.html">Wikiwix</a></span> • <span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="http://archive.is/http://navier.stanford.edu/PIG/PIGdefault.html">Archive.is</a></span> • <span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:http://navier.stanford.edu/PIG/PIGdefault.html">Google</a></span> • <a href="/wiki/Projet:Correction_des_liens_externes#J.27ai_trouv.C3.A9_un_lien_mort.2C_que_faire_.3F" title="Projet:Correction des liens externes">Que&#160;faire&#160;?</a>)</sup>, consulté le 2013-03-30</cite>, <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>, 1973 (reprint 1992), Mechanical Engineering Department, <a href="/wiki/Universit%C3%A9_Stanford" title="Université Stanford">université Stanford</a>, CA, États-Unis. <a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0471611727" class="internal mw-magiclink-isbn">ISBN 0-471-61172-7</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<div style="font-size: 85%">
+<ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a></span>
+<ul>
+<li><span class="reference-text">E. P. Velikhov, <i>Hall instability of current-carrying clightly-ionized plasmas</i>, 1° International Symposium on Magnetoplasmadynamics Electrical Power Generation, Newcastle-upon-Tyne, England, paper 47, 1962.</span></li>
+<li><span class="reference-text">E. P. Velikhov, A. M. Dykhne, <i>Plasma turbulence due to the ionization instability in a strong magnetic field</i>, 6° International Conference on Ionization Phenomena in Gases, Paris, France, <span style="white-space:nowrap"><abbr class="abbr" title="page(s)">p.</abbr>&#160;511</span>, 1962.</span></li>
+<li>E. P. Velikhov, A. M. Dykhne, I. Ya Shipuk, <i>Ionization instability of a plasma with hot electrons</i>, 7° Int. Con! on Ionization Phenomena in Gases, Belgrade, Yougoslavie, 1965.</li>
+</ul>
+</li>
+<li id="cite_note-2"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Kerrebrock"><span class="ouvrage" id="J.L._Kerrebrock">J.L. Kerrebrock, «&#160;<cite style="font-style:normal;">Non-equilibrium effects on conductivity and electrode heat transfer in ionized gases</cite>&#160;», <i>Technical Note #4</i>, Guggenheim Jet Propulsion Center, <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">Caltech</a>, Pasadena, California., AFOSR-165,‎ <span class="nowrap">1<sup>er</sup> novembre 1960</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Non-equilibrium+effects+on+conductivity+and+electrode+heat+transfer+in+ionized+gases&amp;rft.jtitle=Technical+Note+%234&amp;rft.aulast=Kerrebrock&amp;rft.aufirst=J.L.&amp;rft.date=1960&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+%C3%A9lectrothermique" id="COinS_31454"></span></span></span><a href="/w/index.php?title=Mod%C3%A8le:OSTI&amp;action=edit&amp;redlink=1" class="new" title="Modèle:OSTI (page inexistante)">Modèle:OSTI</a></span></li>
+<li id="cite_note-3"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite style="font-style:normal">A.E. Sheindlin; V.A. Batenin, E.I. Asinovsky (6 juillet 1964). «&#160;investigation of non-equilibrium ionization in a mixture of argon and potassium&#160;» in <i>International symposium on magnetohydrodynamic electric power generation</i>. Paris (France) <i>CONF-640701-102</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.btitle=CONF-640701-102&amp;rft.atitle=investigation+of+non-equilibrium+ionization+in+a+mixture+of+argon+and+potassium&amp;rft.au=A.E.+Sheindlin&amp;rft.date=6+juillet+1964{{#if: {{{édition| | &amp;rft.edition=%7B%3Cdiv+style%3D%22border%3Adashed+1px+lightgray%3B+margin%3A0.5em%3B+padding%3A0.5em%3B%22%3E%0A%3Cdiv+class%3D%22BibList%22%3E%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22WikiNorme%22%3E%0A%2A+%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22BibTeX%22+style%3D%22font-family%3Amonospace%3B%22%3E%40Book%7B%7D%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISBD%22%3E%0A%2A+.%26nbsp%3B%E2%80%93%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISO690%22%3E%0A%2A+%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E{{#if: {{{lieu| | &amp;rft.place=%7B%3Cspan+class%3D%22ouvrage%22+id%3D%22Lieutaghi1969.2C_2004%22%3E%3Cspan+class%3D%22ouvrage%22+id%3D%22Pierre_Lieutaghi1969.2C_2004%22%3EPierre+Lieutaghi%2C+%3Ccite+class%3D%22italique%22%3ELe+Livre+des+Arbres%2C+Arbustes+%26+Arbrisseaux%3C%2Fcite%3E%2C+Actes+Sud%2C%26lrm%3B+1969%2C+2004%2C+1322%26nbsp%3B%3Cabbr+class%3D%22abbr%22+title%3D%22pages%22%3Ep.%3C%2Fabbr%3E%3Cspan+class%3D%22Z3988%22+title%3D%22ctx_ver%3DZ39.88-2004%26rft_val_fmt%3Dinfo%253Aofi%252Ffmt%253Akev%253Amtx%253Abook%26rft.genre%3Dbook%26rft.btitle%3DLe%2BLivre%2Bdes%2BArbres%252C%2BArbustes%2B%2526%2BArbrisseaux%26rft.pub%3DActes%2BSud%26rft.aulast%3DLieutaghi%26rft.aufirst%3DPierre%26rft.date%3D2004%26rft.tpages%3D1322%26rfr_id%3Dinfo%253Asid%252Ffr.wikipedia.org%253AInstabilit%25C3%25A9%2B%25C3%25A9lectrothermique%22+id%3D%22COinS_27189%22%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E">&#160;</span> <a href="/w/index.php?title=Mod%C3%A8le:OSTI&amp;action=edit&amp;redlink=1" class="new" title="Modèle:OSTI (page inexistante)">Modèle:OSTI</a></span></li>
+<li id="cite_note-4"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite style="font-style:normal">A. Solbes (24-30 juillet 1968). «&#160;A quasi linear plane wave study of electrothermal instabilities&#160;» in <i>8th International Conference on MHD Electrical Power Generation</i>. International Atomic Energy Agency, Varsovie, Pologne <i>SM/107/26</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.btitle=SM%2F107%2F26&amp;rft.atitle=A+quasi+linear+plane+wave+study+of+electrothermal+instabilities&amp;rft.au=A.+Solbes&amp;rft.date=24-30+juillet+1968{{#if: {{{édition| | &amp;rft.edition=%7B%3Cdiv+style%3D%22border%3Adashed+1px+lightgray%3B+margin%3A0.5em%3B+padding%3A0.5em%3B%22%3E%0A%3Cdiv+class%3D%22BibList%22%3E%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22WikiNorme%22%3E%0A%2A+%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22BibTeX%22+style%3D%22font-family%3Amonospace%3B%22%3E%40Book%7B%7D%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISBD%22%3E%0A%2A+.%26nbsp%3B%E2%80%93%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISO690%22%3E%0A%2A+%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E{{#if: {{{lieu| | &amp;rft.place=%7B%3Cspan+class%3D%22ouvrage%22+id%3D%22Lieutaghi1969.2C_2004%22%3E%3Cspan+class%3D%22ouvrage%22+id%3D%22Pierre_Lieutaghi1969.2C_2004%22%3EPierre+Lieutaghi%2C+%3Ccite+class%3D%22italique%22%3ELe+Livre+des+Arbres%2C+Arbustes+%26+Arbrisseaux%3C%2Fcite%3E%2C+Actes+Sud%2C%26lrm%3B+1969%2C+2004%2C+1322%26nbsp%3B%3Cabbr+class%3D%22abbr%22+title%3D%22pages%22%3Ep.%3C%2Fabbr%3E%3Cspan+class%3D%22Z3988%22+title%3D%22ctx_ver%3DZ39.88-2004%26rft_val_fmt%3Dinfo%253Aofi%252Ffmt%253Akev%253Amtx%253Abook%26rft.genre%3Dbook%26rft.btitle%3DLe%2BLivre%2Bdes%2BArbres%252C%2BArbustes%2B%2526%2BArbrisseaux%26rft.pub%3DActes%2BSud%26rft.aulast%3DLieutaghi%26rft.aufirst%3DPierre%26rft.date%3D2004%26rft.tpages%3D1322%26rfr_id%3Dinfo%253Asid%252Ffr.wikipedia.org%253AInstabilit%25C3%25A9%2B%25C3%25A9lectrothermique%22+id%3D%22COinS_27189%22%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E">&#160;</span></span></li>
+<li id="cite_note-5"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite style="font-style:normal">A.H. Nelson; M.G. Haines (26-28 mars 1969). «&#160;Analysis of the nature and growth of electrothermal waves&#160;» in <i>10th Symposium in Engineering Aspects of MHD</i>. MIT, Cambridge, MA, USA <i>Proceedings</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier" class="mw-redirect">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1088/0032-1028/11/10/003">10.1088/0032-1028/11/10/003</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.btitle=Proceedings&amp;rft.atitle=Analysis+of+the+nature+and+growth+of+electrothermal+waves&amp;rft.au=A.H.+Nelson&amp;rft.date=26-28+mars+1969{{#if: {{{édition| | &amp;rft.edition=%7B%3Cdiv+style%3D%22border%3Adashed+1px+lightgray%3B+margin%3A0.5em%3B+padding%3A0.5em%3B%22%3E%0A%3Cdiv+class%3D%22BibList%22%3E%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22WikiNorme%22%3E%0A%2A+%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22BibTeX%22+style%3D%22font-family%3Amonospace%3B%22%3E%40Book%7B%7D%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISBD%22%3E%0A%2A+.%26nbsp%3B%E2%80%93%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISO690%22%3E%0A%2A+%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E{{#if: {{{lieu| | &amp;rft.place=%7B%3Cspan+class%3D%22ouvrage%22+id%3D%22Lieutaghi1969.2C_2004%22%3E%3Cspan+class%3D%22ouvrage%22+id%3D%22Pierre_Lieutaghi1969.2C_2004%22%3EPierre+Lieutaghi%2C+%3Ccite+class%3D%22italique%22%3ELe+Livre+des+Arbres%2C+Arbustes+%26+Arbrisseaux%3C%2Fcite%3E%2C+Actes+Sud%2C%26lrm%3B+1969%2C+2004%2C+1322%26nbsp%3B%3Cabbr+class%3D%22abbr%22+title%3D%22pages%22%3Ep.%3C%2Fabbr%3E%3Cspan+class%3D%22Z3988%22+title%3D%22ctx_ver%3DZ39.88-2004%26rft_val_fmt%3Dinfo%253Aofi%252Ffmt%253Akev%253Amtx%253Abook%26rft.genre%3Dbook%26rft.btitle%3DLe%2BLivre%2Bdes%2BArbres%252C%2BArbustes%2B%2526%2BArbrisseaux%26rft.pub%3DActes%2BSud%26rft.aulast%3DLieutaghi%26rft.aufirst%3DPierre%26rft.date%3D2004%26rft.tpages%3D1322%26rfr_id%3Dinfo%253Asid%252Ffr.wikipedia.org%253AInstabilit%25C3%25A9%2B%25C3%25A9lectrothermique%22+id%3D%22COinS_27189%22%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E&amp;rft_id=info:doi/10.1088%2F0032-1028%2F11%2F10%2F003">&#160;</span></span></li>
+<li id="cite_note-6"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite style="font-style:normal">J.P. Petit; J. Valensi, J.P. Caressa (24-30 juillet 1968). «&#160;Theoretical and experimental study in shock tube of non-equilibrium phenomena in a closed-cycle MHD generator&#160;» in <i>8th International Conference on MHD Electrical Power Generation</i>. International Atomic Energy Agency, Varsovie, Pologne <i>Proceedings</i> <b>2</b>: 745-750.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.btitle=Proceedings&amp;rft.atitle=Theoretical+and+experimental+study+in+shock+tube+of+non-equilibrium+phenomena+in+a+closed-cycle+MHD+generator&amp;rft.au=J.P.+Petit&amp;rft.date=24-30+juillet+1968{{#if: {{{édition| | &amp;rft.edition=%7B%3Cdiv+style%3D%22border%3Adashed+1px+lightgray%3B+margin%3A0.5em%3B+padding%3A0.5em%3B%22%3E%0A%3Cdiv+class%3D%22BibList%22%3E%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22WikiNorme%22%3E%0A%2A+%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22BibTeX%22+style%3D%22font-family%3Amonospace%3B%22%3E%40Book%7B%7D%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISBD%22%3E%0A%2A+.%26nbsp%3B%E2%80%93%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISO690%22%3E%0A%2A+%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E{{#if: {{{lieu| | &amp;rft.place=%7B%3Cspan+class%3D%22ouvrage%22+id%3D%22Lieutaghi1969.2C_2004%22%3E%3Cspan+class%3D%22ouvrage%22+id%3D%22Pierre_Lieutaghi1969.2C_2004%22%3EPierre+Lieutaghi%2C+%3Ccite+class%3D%22italique%22%3ELe+Livre+des+Arbres%2C+Arbustes+%26+Arbrisseaux%3C%2Fcite%3E%2C+Actes+Sud%2C%26lrm%3B+1969%2C+2004%2C+1322%26nbsp%3B%3Cabbr+class%3D%22abbr%22+title%3D%22pages%22%3Ep.%3C%2Fabbr%3E%3Cspan+class%3D%22Z3988%22+title%3D%22ctx_ver%3DZ39.88-2004%26rft_val_fmt%3Dinfo%253Aofi%252Ffmt%253Akev%253Amtx%253Abook%26rft.genre%3Dbook%26rft.btitle%3DLe%2BLivre%2Bdes%2BArbres%252C%2BArbustes%2B%2526%2BArbrisseaux%26rft.pub%3DActes%2BSud%26rft.aulast%3DLieutaghi%26rft.aufirst%3DPierre%26rft.date%3D2004%26rft.tpages%3D1322%26rfr_id%3Dinfo%253Asid%252Ffr.wikipedia.org%253AInstabilit%25C3%25A9%2B%25C3%25A9lectrothermique%22+id%3D%22COinS_27189%22%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E&amp;rft.pages=745-750&amp;rft.series=2">&#160;</span></span></li>
+<li id="cite_note-7"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Petit"><span class="ouvrage" id="J.P._Petit"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> J.P. Petit, <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Growth rate of electrothermal instability and critical Hall parameter in closed-cycle MHD generators when the electron mobility is variable</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en">Comptes rendus de l'Académie des sciences</span></i>, Paris, French Academy of Sciences, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;269,‎ <span class="nowrap">1<sup>er</sup> septembre 1969</span>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;365–367<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Growth+rate+of+electrothermal+instability+and+critical+Hall+parameter+in+closed-cycle+MHD+generators+when+the+electron+mobility+is+variable&amp;rft.jtitle=Comptes+rendus+de+l%27Acad%C3%A9mie+des+sciences&amp;rft.issue=269&amp;rft.aulast=Petit&amp;rft.aufirst=J.P.&amp;rft.date=1969&amp;rft.pages=365%E2%80%93367&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+%C3%A9lectrothermique" id="COinS_41746"></span></span></span></span></li>
+<li id="cite_note-8"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite style="font-style:normal">J.P. Petit; J. Valensi, J.P. Caressa (24-30 juillet 1968). «&#160;Electrical characteristics of a converter using as a conversion fluid a binary mix of rare gases with non-equilibrium ionization&#160;» in <i>8th International Conference on MHD Electrical Power Generation</i>. International Atomic Energy Agency, Varsovie, Pologne <i>Proceedings</i> <b>3</b>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.btitle=Proceedings&amp;rft.atitle=Electrical+characteristics+of+a+converter+using+as+a+conversion+fluid+a+binary+mix+of+rare+gases+with+non-equilibrium+ionization&amp;rft.au=J.P.+Petit&amp;rft.date=24-30+juillet+1968{{#if: {{{édition| | &amp;rft.edition=%7B%3Cdiv+style%3D%22border%3Adashed+1px+lightgray%3B+margin%3A0.5em%3B+padding%3A0.5em%3B%22%3E%0A%3Cdiv+class%3D%22BibList%22%3E%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22WikiNorme%22%3E%0A%2A+%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22BibTeX%22+style%3D%22font-family%3Amonospace%3B%22%3E%40Book%7B%7D%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISBD%22%3E%0A%2A+.%26nbsp%3B%E2%80%93%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISO690%22%3E%0A%2A+%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E{{#if: {{{lieu| | &amp;rft.place=%7B%3Cspan+class%3D%22ouvrage%22+id%3D%22Lieutaghi1969.2C_2004%22%3E%3Cspan+class%3D%22ouvrage%22+id%3D%22Pierre_Lieutaghi1969.2C_2004%22%3EPierre+Lieutaghi%2C+%3Ccite+class%3D%22italique%22%3ELe+Livre+des+Arbres%2C+Arbustes+%26+Arbrisseaux%3C%2Fcite%3E%2C+Actes+Sud%2C%26lrm%3B+1969%2C+2004%2C+1322%26nbsp%3B%3Cabbr+class%3D%22abbr%22+title%3D%22pages%22%3Ep.%3C%2Fabbr%3E%3Cspan+class%3D%22Z3988%22+title%3D%22ctx_ver%3DZ39.88-2004%26rft_val_fmt%3Dinfo%253Aofi%252Ffmt%253Akev%253Amtx%253Abook%26rft.genre%3Dbook%26rft.btitle%3DLe%2BLivre%2Bdes%2BArbres%252C%2BArbustes%2B%2526%2BArbrisseaux%26rft.pub%3DActes%2BSud%26rft.aulast%3DLieutaghi%26rft.aufirst%3DPierre%26rft.date%3D2004%26rft.tpages%3D1322%26rfr_id%3Dinfo%253Asid%252Ffr.wikipedia.org%253AInstabilit%25C3%25A9%2B%25C3%25A9lectrothermique%22+id%3D%22COinS_27189%22%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E&amp;rft.series=3">&#160;</span></span></li>
+<li id="cite_note-9"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Petit"><span class="ouvrage" id="J.P._Petit"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> J.P. Petit, <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Electrical characteristics of a Faraday linear generator using a binary mix of rare gases, with non-equilibrium ionization</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en">Comptes rendus de l'Académie des sciences</span></i>, Paris, French Academy of Sciences, <abbr class="abbr" title="volume">vol.</abbr>&#160;268, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;A,‎ <span class="nowrap">27 janvier 1969</span>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;245–247<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Electrical+characteristics+of+a+Faraday+linear+generator+using+a+binary+mix+of+rare+gases%2C+with+non-equilibrium+ionization&amp;rft.jtitle=Comptes+rendus+de+l%27Acad%C3%A9mie+des+sciences&amp;rft.issue=A&amp;rft.aulast=Petit&amp;rft.aufirst=J.P.&amp;rft.date=1969&amp;rft.volume=268&amp;rft.pages=245%E2%80%93247&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+%C3%A9lectrothermique" id="COinS_41399"></span></span></span></span></li>
+<li id="cite_note-10"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Hatori1974"><span class="ouvrage" id="S._Hatori1974"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> S. Hatori, <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Stabilization of Ionization Instability in an MHD Generator</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en">Journal of the Physical Society of Japan</span></i>, Tokyo Institute of Technology, Yokohama, Japan, <abbr class="abbr" title="volume">vol.</abbr>&#160;36, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;3,‎ mars&#160;1974, <abbr class="abbr" title="page(s)">p.</abbr>&#160;920–920 <small style="line-height:1em;">(<a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="http://dx.doi.org/10.1143/JPSJ.36.920">10.1143/JPSJ.36.920</a></span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Stabilization+of+Ionization+Instability+in+an+MHD+Generator&amp;rft.jtitle=Journal+of+the+Physical+Society+of+Japan&amp;rft.issue=3&amp;rft.aulast=Hatori&amp;rft.aufirst=S.&amp;rft.date=1974-03&amp;rft.volume=36&amp;rft.pages=920%E2%80%93920&amp;rft_id=info%3Adoi%2F10.1143%2FJPSJ.36.920&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+%C3%A9lectrothermique" id="COinS_37706"></span></span></span></span></li>
+<li id="cite_note-11"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Shapiro"><span class="ouvrage" id="G.I._Shapiro"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> G.I. Shapiro, <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Stabilization of ionization instability in a variable electric field</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en">Pis'ma v Zhurnal Tekhnicheskoi Fiziki</span></i>, Akademiia Nauk SSSR, Institut Problem Mekhaniki, Moscou, URSS, <abbr class="abbr" title="volume">vol.</abbr>&#160;4, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;12,‎ <span class="nowrap">12 avril 1978</span>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;393-396<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Stabilization+of+ionization+instability+in+a+variable+electric+field&amp;rft.jtitle=Pis%27ma+v+Zhurnal+Tekhnicheskoi+Fiziki&amp;rft.issue=12&amp;rft.aulast=Shapiro&amp;rft.aufirst=G.I.&amp;rft.date=1978&amp;rft.volume=4&amp;rft.pages=393-396&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+%C3%A9lectrothermique" id="COinS_35340"></span></span></span></span></li>
+<li id="cite_note-12"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Murakami2005"><span class="ouvrage" id="T._Murakami2005"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> T. Murakami, <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Dynamic stabilization of the electrothermal instability</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en">Applied Physics Letters</span></i>, Tokyo Institute of Technology, Yokohama, Japon, <abbr class="abbr" title="volume">vol.</abbr>&#160;86, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;19,‎ décembre&#160;2005, <abbr class="abbr" title="page(s)">p.</abbr>&#160;191502–191502.3 <small style="line-height:1em;">(<a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="http://dx.doi.org/10.1063/1.1926410">10.1063/1.1926410</a></span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dynamic+stabilization+of+the+electrothermal+instability&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.issue=19&amp;rft.aulast=Murakami&amp;rft.aufirst=T.&amp;rft.date=2005-12&amp;rft.volume=86&amp;rft.pages=191502%E2%80%93191502.3&amp;rft_id=info%3Adoi%2F10.1063%2F1.1926410&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+%C3%A9lectrothermique" id="COinS_36501"></span></span></span></span></li>
+<li id="cite_note-13"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="ouvrage" id="Petit"><span class="ouvrage" id="J.P._Petit"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> J.P. Petit, <span lang="en" xml:lang="en">«&#160;<cite style="font-style:normal;">Method for eliminating the Velikhov instability</cite>&#160;»</span>, <i><span class="lang-en" lang="en" xml:lang="en">Comptes-rendus de l'Académie des Sciences</span></i>, Paris, French Academy of Sciences,‎ <span class="nowrap">27 avril 1981</span>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;158–161<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Method+for+eliminating+the+Velikhov+instability&amp;rft.jtitle=Comptes-rendus+de+l%27Acad%C3%A9mie+des+Sciences&amp;rft.aulast=Petit&amp;rft.aufirst=J.P.&amp;rft.date=1981&amp;rft.pages=158%E2%80%93161&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AInstabilit%C3%A9+%C3%A9lectrothermique" id="COinS_31680"></span></span></span></span></li>
+<li id="cite_note-14"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite style="font-style:normal">J.P. Petit (septembre 1983). «&#160;<a rel="nofollow" class="external text" href="http://www.mhdprospects.com/pdf/cancellation_of_the_velikhov_instability_by_magnetic_confinment.pdf">Cancellation of the Velikhov instability by magnetic confinment</a>&#160;» (PDF) in <i>8th International Conference on MHD Electrical Power Generation</i>. <i>Moscou (Russie)</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.btitle=Moscou+%28Russie%29&amp;rft.atitle=Cancellation+of+the+Velikhov+instability+by+magnetic+confinment&amp;rft.au=J.P.+Petit&amp;rft.date=1983{{#if: {{{édition| | &amp;rft.edition=%7B%3Cdiv+style%3D%22border%3Adashed+1px+lightgray%3B+margin%3A0.5em%3B+padding%3A0.5em%3B%22%3E%0A%3Cdiv+class%3D%22BibList%22%3E%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22WikiNorme%22%3E%0A%2A+%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22BibTeX%22+style%3D%22font-family%3Amonospace%3B%22%3E%40Book%7B%7D%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISBD%22%3E%0A%2A+.%26nbsp%3B%E2%80%93%0A%3C%2Fdiv%3E%3Cdiv+class%3D%22ISO690%22%3E%0A%2A+%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E{{#if: {{{lieu| | &amp;rft.place=%7B%3Cspan+class%3D%22ouvrage%22+id%3D%22Lieutaghi1969.2C_2004%22%3E%3Cspan+class%3D%22ouvrage%22+id%3D%22Pierre_Lieutaghi1969.2C_2004%22%3EPierre+Lieutaghi%2C+%3Ccite+class%3D%22italique%22%3ELe+Livre+des+Arbres%2C+Arbustes+%26+Arbrisseaux%3C%2Fcite%3E%2C+Actes+Sud%2C%26lrm%3B+1969%2C+2004%2C+1322%26nbsp%3B%3Cabbr+class%3D%22abbr%22+title%3D%22pages%22%3Ep.%3C%2Fabbr%3E%3Cspan+class%3D%22Z3988%22+title%3D%22ctx_ver%3DZ39.88-2004%26rft_val_fmt%3Dinfo%253Aofi%252Ffmt%253Akev%253Amtx%253Abook%26rft.genre%3Dbook%26rft.btitle%3DLe%2BLivre%2Bdes%2BArbres%252C%2BArbustes%2B%2526%2BArbrisseaux%26rft.pub%3DActes%2BSud%26rft.aulast%3DLieutaghi%26rft.aufirst%3DPierre%26rft.date%3D2004%26rft.tpages%3D1322%26rfr_id%3Dinfo%253Asid%252Ffr.wikipedia.org%253AInstabilit%25C3%25A9%2B%25C3%25A9lectrothermique%22+id%3D%22COinS_27189%22%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E&amp;rft_id=http%3A%2F%2Fwww.mhdprospects.com%2Fpdf%2Fcancellation_of_the_velikhov_instability_by_magnetic_confinment.pdf">&#160;</span></span></li>
+</ol>
+</div>
+<table class="navbox collapsible noprint autocollapse" style="margin:auto;">
+<tr>
+<th colspan="2" style="text-align:center;background:#ccccff;;">
+<div style="float:left; width:6em; text-align:left">
+<div class="noprint plainlinksneverexpand nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;"><a href="/wiki/Mod%C3%A8le:Palette_%C3%89lectromagn%C3%A9tisme" title="Modèle:Palette Électromagnétisme"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="//fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_%C3%89lectromagn%C3%A9tisme&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div>
+</div>
+<span style="font-size:110%"><i><small><a href="/wiki/Automatique" title="Automatique">Automatique</a> • <a href="/wiki/%C3%89lectricit%C3%A9" title="Électricité">Électricité</a> • <a href="/wiki/%C3%89lectrochimie" title="Électrochimie">Électrochimie</a> •</small></i> <b><a href="/wiki/%C3%89lectromagn%C3%A9tisme" title="Électromagnétisme">Électromagnétisme</a></b> <i><small>• <a href="/wiki/%C3%89lectronique" title="Électronique">Électronique</a> • <a href="/wiki/%C3%89lectrotechnique" title="Électrotechnique">Électrotechnique</a> • <a href="/wiki/Robotique" title="Robotique">Robotique</a> • <a href="/wiki/Traitement_du_signal" title="Traitement du signal">Traitement du signal</a></small></i></span></th>
+</tr>
+<tr>
+<td class="group" style="width:120px; background:#ccccff;"><a href="/wiki/%C3%89lectrostatique" title="Électrostatique">Électrostatique</a></td>
+<td class="list" style="text-align:left;; background:#FFFFFF;"><span class="nowrap"><a href="/wiki/Champ_%C3%A9lectrique" title="Champ électrique">Champ électrique</a> •</span> <span class="nowrap"><a href="/wiki/Charge_%C3%A9lectrique" title="Charge électrique">Charge électrique</a> •</span> <span class="nowrap"><a href="/wiki/Loi_de_Coulomb_(%C3%A9lectrostatique)" title="Loi de Coulomb (électrostatique)">Loi de Coulomb</a> •</span> <span class="nowrap"><a href="/wiki/Potentiel_%C3%A9lectrique" title="Potentiel électrique">Potentiel électrique</a> •</span> <span class="nowrap"><a href="/wiki/Pression_%C3%A9lectrostatique" title="Pression électrostatique">Pression électrostatique</a></span></td>
+</tr>
+<tr>
+<td class="group" style="width:120px; background:#ccccff;"><a href="/wiki/Magn%C3%A9tostatique" title="Magnétostatique">Magnétostatique</a></td>
+<td class="list even" style="text-align:left;; background:#ECECEC;"><span class="nowrap"><a href="/wiki/Champ_magn%C3%A9tique" title="Champ magnétique">Champ magnétique</a> •</span> <span class="nowrap"><a href="/wiki/Moment_magn%C3%A9tique" title="Moment magnétique">Moment magnétique</a> •</span> <span class="nowrap"><a href="/wiki/Aimantation" title="Aimantation">Aimantation</a> •</span> <span class="nowrap"><a href="/wiki/Loi_de_Biot_et_Savart" title="Loi de Biot et Savart">Loi de Biot et Savart</a></span></td>
+</tr>
+<tr>
+<td class="group" style="width:120px; background:#ccccff;"><a href="/wiki/%C3%89lectrocin%C3%A9tique" title="Électrocinétique">Électrocinétique</a></td>
+<td class="list" style="text-align:left;; background:#FFFFFF;"><span class="nowrap"><a href="/wiki/Amp%C3%A8re" title="Ampère">Ampère</a> •</span> <span class="nowrap"><a href="/wiki/Champ_%C3%A9lectromagn%C3%A9tique" title="Champ électromagnétique">Champ électromagnétique</a> •</span> <span class="nowrap"><a href="/wiki/Courant_de_d%C3%A9placement" title="Courant de déplacement">Courant de déplacement</a> •</span> <span class="nowrap"><a href="/wiki/Courant_%C3%A9lectrique" title="Courant électrique">Courant électrique</a> •</span> <span class="nowrap"><a href="/wiki/Courants_de_Foucault" title="Courants de Foucault">Courants de Foucault</a> •</span> <span class="nowrap"><a href="/wiki/%C3%89quations_de_Maxwell" title="Équations de Maxwell">Équations de Maxwell</a> •</span> <span class="nowrap"><a href="/wiki/Force_%C3%A9lectromotrice" title="Force électromotrice">Force électromotrice</a> •</span> <span class="nowrap"><a href="/wiki/Force_de_Lorentz" title="Force de Lorentz">Force de Lorentz</a> •</span> <span class="nowrap"><a href="/wiki/Induction_%C3%A9lectromagn%C3%A9tique" title="Induction électromagnétique">Induction électromagnétique</a> •</span> <span class="nowrap"><a href="/wiki/Loi_de_Lenz-Faraday" title="Loi de Lenz-Faraday">Loi de Lenz-Faraday</a> •</span> <span class="nowrap"><a href="/wiki/Potentiels_de_Li%C3%A9nard%E2%80%93Wiechert" title="Potentiels de Liénard–Wiechert">Potentiels de Liénard–Wiechert</a> •</span> <span class="nowrap"><a href="/wiki/Rayonnement_%C3%A9lectromagn%C3%A9tique" title="Rayonnement électromagnétique">Rayonnement électromagnétique</a></span></td>
+</tr>
+<tr>
+<td class="group" style="width:120px; background:#ccccff;"><a href="/wiki/Magn%C3%A9tisme" title="Magnétisme">Magnétisme</a></td>
+<td class="list even" style="text-align:left;; background:#ECECEC;"><span class="nowrap"><a href="/wiki/Antiferromagn%C3%A9tisme" title="Antiferromagnétisme">Antiferromagnétisme</a> •</span> <span class="nowrap"><a href="/wiki/Circuit_magn%C3%A9tique" title="Circuit magnétique">Circuit magnétique</a> •</span> <span class="nowrap"><a href="/wiki/Diamagn%C3%A9tisme" title="Diamagnétisme">Diamagnétisme</a> •</span> <span class="nowrap"><a href="/wiki/Domaine_de_Weiss" title="Domaine de Weiss">Domaine de Weiss</a> •</span> <span class="nowrap"><a href="/wiki/Ferrimagn%C3%A9tisme" title="Ferrimagnétisme">Ferrimagnétisme</a> •</span> <span class="nowrap"><a href="/wiki/Ferromagn%C3%A9tisme" title="Ferromagnétisme">Ferromagnétisme</a> •</span> <span class="nowrap"><a href="/wiki/H%C3%A9limagn%C3%A9tisme" title="Hélimagnétisme">Hélimagnétisme</a> •</span> <span class="nowrap"><a href="/wiki/Inversion_du_champ_magn%C3%A9tique_terrestre" title="Inversion du champ magnétique terrestre">Inversion du champ magnétique terrestre</a> •</span> <span class="nowrap"><a href="/wiki/Loi_de_Curie" title="Loi de Curie">Loi de Curie</a> •</span> <span class="nowrap"><a href="/wiki/Paramagn%C3%A9tisme" title="Paramagnétisme">Paramagnétisme</a> •</span> <span class="nowrap"><a href="/wiki/Perm%C3%A9abilit%C3%A9_magn%C3%A9tique" title="Perméabilité magnétique">Perméabilité magnétique</a> •</span> <span class="nowrap"><a href="/wiki/Superparamagn%C3%A9tisme" title="Superparamagnétisme">Superparamagnétisme</a> •</span> <span class="nowrap"><a href="/wiki/Susceptibilit%C3%A9_magn%C3%A9tique" title="Susceptibilité magnétique">Susceptibilité magnétique</a></span></td>
+</tr>
+</table>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Physique" title="Portail de la physique"><img alt="Portail de la physique" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/24px-Logo_physics.svg.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/36px-Logo_physics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_physics.svg/48px-Logo_physics.svg.png 2x" data-file-width="438" data-file-height="438" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Physique" title="Portail:Physique">Portail de la physique</a></span></span></li>
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:%C3%89lectricit%C3%A9_et_%C3%A9lectronique" title="Portail de l’électricité et de l’électronique"><img alt="Portail de l’électricité et de l’électronique" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/24px-Nuvola_apps_ksim.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/36px-Nuvola_apps_ksim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/48px-Nuvola_apps_ksim.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:%C3%89lectricit%C3%A9_et_%C3%A9lectronique" title="Portail:Électricité et électronique">Portail de l’électricité et de l’électronique</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1244
+CPU time usage: 0.393 seconds
+Real time usage: 0.590 seconds
+Preprocessor visited node count: 14656/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 85819/2097152 bytes
+Template argument size: 13132/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.36 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  520.625      1 - -total
+ 24.65%  128.347      1 - Modèle:Palette_Électromagnétisme
+ 24.10%  125.491      1 - Modèle:Méta_palette_de_navigation
+ 21.16%  110.160      4 - Modèle:Liste_éléments
+ 18.00%   93.732      4 - Modèle:Liste_éléments/0_espace
+ 17.09%   88.964      6 - Modèle:Lien_conférence
+  8.89%   46.296      7 - Modèle:Article
+  7.11%   37.003      6 - Modèle:Édition
+  6.84%   35.608      7 - Modèle:Module_biblio/indication_de_langue
+  6.79%   35.370      1 - Modèle:Portail
+-->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Instabilité_électrothermique&amp;oldid=110046108">http://fr.wikipedia.org/w/index.php?title=Instabilité_électrothermique&amp;oldid=110046108</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Plasma" title="Catégorie:Plasma">Plasma</a></li><li><a href="/wiki/Cat%C3%A9gorie:%C3%89lectromagn%C3%A9tisme" title="Catégorie:Électromagnétisme">Électromagnétisme</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Recension_temporaire_pour_le_mod%C3%A8le_Article" title="Catégorie:Recension temporaire pour le modèle Article">Recension temporaire pour le modèle Article</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_lien_mort" title="Catégorie:Article contenant un lien mort">Article contenant un lien mort</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Physique/Articles_li%C3%A9s" title="Catégorie:Portail:Physique/Articles liés">Portail:Physique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:%C3%89lectricit%C3%A9_et_%C3%A9lectronique/Articles_li%C3%A9s" title="Catégorie:Portail:Électricité et électronique/Articles liés">Portail:Électricité et électronique/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+%C3%A9lectrothermique&amp;returntoquery=diff%3D110046108%26oldid%3D109753700%26rcid%3D131637130&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Instabilit%C3%A9+%C3%A9lectrothermique&amp;returntoquery=diff%3D110046108%26oldid%3D109753700%26rcid%3D131637130" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Instabilit%C3%A9_%C3%A9lectrothermique"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Instabilit%C3%A9_%C3%A9lectrothermique"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Instabilit%C3%A9_%C3%A9lectrothermique" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;oldid=110046108&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=edit&amp;oldid=110046108"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Instabilit%C3%A9+%C3%A9lectrothermique">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Instabilit%C3%A9+%C3%A9lectrothermique&amp;oldid=109753700&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Instabilit%C3%A9_%C3%A9lectrothermique" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Instabilit%C3%A9_%C3%A9lectrothermique" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;oldid=110046108" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3151657" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Instabilit%C3%A9_%C3%A9lectrothermique&amp;id=110046108" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Electrothermal_instability" title="Electrothermal instability — anglais" lang="en" hreflang="en">English</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q3151657#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">Vous êtes sur une ancienne version de l’article. <br />Il a depuis été corrigé pour cause d’informations erronées, de vandalisme ou de contenu incompatible avec la <a href="/wiki/Wikip%C3%A9dia:Licence_Creative_Commons_Paternit%C3%A9-Partage_des_Conditions_Initiales_%C3%A0_l%27Identique_3.0_Unported" title="Wikipédia:Licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique 3.0 Unported">licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique</a>, ou simplement amélioré.<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Instabilit%C3%A9_%C3%A9lectrothermique&amp;diff=110046108&amp;oldid=109753700&amp;rcid=131637130&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":693,"wgHostname":"mw1244"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Trigonométrie sphérique : Différence entre versions — Wikipédia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=edit" />
+<link rel="edit" title="Modifier" href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)" />
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Trigonom%C3%A9trie_sph%C3%A9rique" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom" />
+<link rel="canonical" href="http://fr.wikipedia.org/w/index.php?diff=105665319&amp;oldid=100538998&amp;rcid=122666746" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.MonobookToolbarStandard%2CWdsearch%2CWikiMiniAtlas%2CWikiOpenStreetMap%2CnewCollapsible%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: frwiki:resourceloader:filter:minify-css:7:06ebe4fffe895aa83d9f3697a665ff56 */</style>
+<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Trigonométrie_sphérique","wgTitle":"Trigonométrie sphérique","wgCurRevisionId":107988173,"wgRevisionId":105665319,"wgArticleId":121937,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article à référence nécessaire","Article contenant un appel à traduction en anglais","Portail:Géométrie/Articles liés","Projet:Mathématiques/Articles","Portail:Sciences/Articles liés","Sphère","Trigonométrie","Formule ou théorème de François Viète"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv","fév","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"],"wgRelevantPageName":"Trigonométrie_sphérique","wgRelevantArticleId":121937,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr"},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"français","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q46463"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"fr"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: frwiki:resourceloader:filter:minify-js:7:e2e8d01a1b8b6d426e8ffe0861b948f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Trigonométrie_sphérique skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp\u003E\n\u003C/p\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Trigonométrie sphérique : Différence entre versions</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class='diff diff-contentalign-left'>
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<col class='diff-marker' />
+				<col class='diff-content' />
+				<tr style='vertical-align: top;'>
+				<td colspan='2' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;oldid=100538998" title="Trigonométrie sphérique">Version du 23 janvier 2014 à 21:58</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=edit&amp;oldid=100538998" title="Trigonométrie sphérique">modifier</a>)</span></strong></div><div id="mw-diff-otitle2"><a href="/wiki/Utilisateur:JeffMik1" title="Utilisateur:JeffMik1" class="mw-userlink">JeffMik1</a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:JeffMik1" title="Discussion utilisateur:JeffMik1">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/JeffMik1" title="Spécial:Contributions/JeffMik1">contributions</a>)</span></div><div id="mw-diff-otitle3"> <span class="comment">(<a href="#Applications">→</a>‎<span dir="auto"><span class="autocomment">Applications</span></span>)</span></div><div id="mw-diff-otitle5"></div><div id="mw-diff-otitle4"><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;diff=prev&amp;oldid=100538998" title="Trigonométrie sphérique" id="differences-prevlink">← Modification précédente</a></div></td>
+				<td colspan='2' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;oldid=105665319" title="Trigonométrie sphérique">Version du 23 juillet 2014 à 18:50</a> <span class="mw-diff-edit">(<a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=edit&amp;oldid=105665319" title="Trigonométrie sphérique">modifier</a>)</span> <span class="mw-diff-undo">(<a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=edit&amp;undoafter=100538998&amp;undo=105665319" title="« Annuler » rétablit la modification précédente et ouvre la fenêtre de modification en mode prévisualisation. Il est possible d’ajouter une raison dans le résumé.">annuler</a>)</span></strong></div><div id="mw-diff-ntitle2"><a href="/wiki/Sp%C3%A9cial:Contributions/199.212.17.112" title="Spécial:Contributions/199.212.17.112" class="mw-userlink mw-anonuserlink">199.212.17.112</a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=Discussion_utilisateur:199.212.17.112&amp;action=edit&amp;redlink=1" class="new" title="Discussion utilisateur:199.212.17.112 (page inexistante)">discuter</a>)</span> </div><div id="mw-diff-ntitle3"> <span class="comment">(La formule permettant de calculer la distance entre deux point sur une sphère était inversée: sinsin coscoscos au lieu de coscos sinsincos)</span></div><div id="mw-diff-ntitle5"><span class="mw-tag-markers">(<a href="/wiki/Sp%C3%A9cial:Balises" title="Spécial:Balises">Balise</a>&#160;: <span class="mw-tag-marker mw-tag-marker-visualeditor"><a href="/wiki/Wikip%C3%A9dia:%C3%89diteurVisuel" title="Wikipédia:ÉditeurVisuel">ÉditeurVisuel</a></span>)</span></div><div id="mw-diff-ntitle4"><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;diff=next&amp;oldid=105665319" title="Trigonométrie sphérique" id="differences-nextlink">Modification suivante →</a></div></td>
+				</tr><tr>
+  <td colspan="2" class="diff-lineno">Ligne 28 :</td>
+  <td colspan="2" class="diff-lineno">Ligne 28 :</td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>La formule des cosinus permet notamment de calculer la distance entre deux points ''A'' et ''B'' sur la Terre en fonction de leurs latitudes et longitudes. Pour cela, on place ''C'' au pôle nord, de sorte que ''a'' est le complémentaire de la latitude &lt;math&gt;\scriptstyle{\phi_A}&lt;/math&gt; de ''A'', ''b'' le complémentaire de celle &lt;math&gt;\scriptstyle{\phi_B}&lt;/math&gt; de ''B'', et ''c'' la différence de longitude &lt;math&gt;\scriptstyle{\Delta \lambda = \lambda_B - \lambda_A}&lt;/math&gt;. On obtient directement</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>La formule des cosinus permet notamment de calculer la distance entre deux points ''A'' et ''B'' sur la Terre en fonction de leurs latitudes et longitudes. Pour cela, on place ''C'' au pôle nord, de sorte que ''a'' est le complémentaire de la latitude &lt;math&gt;\scriptstyle{\phi_A}&lt;/math&gt; de ''A'', ''b'' le complémentaire de celle &lt;math&gt;\scriptstyle{\phi_B}&lt;/math&gt; de ''B'', et ''c'' la différence de longitude &lt;math&gt;\scriptstyle{\Delta \lambda = \lambda_B - \lambda_A}&lt;/math&gt;. On obtient directement</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">−</td>
+  <td class="diff-deletedline"><div>:&lt;math&gt;d_{AB}=R c= R \arccos{ \left( \<del class="diffchange diffchange-inline">sin</del> \phi_A \<del class="diffchange diffchange-inline">sin</del> \phi_B + \<del class="diffchange diffchange-inline">cos</del> \phi_A \<del class="diffchange diffchange-inline">cos</del> \phi_B \cos \Delta \lambda \right)}<del class="diffchange diffchange-inline">&lt;/math&gt; (où &lt;math&gt;R&lt;/math&gt; = {{unité|6400|km}} est le rayon terrestre).</del></div></td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>:&lt;math&gt;d_{AB}=R c= R \arccos{ \left( \<ins class="diffchange diffchange-inline">cos</ins> \phi_A \<ins class="diffchange diffchange-inline">cos</ins> \phi_B + \<ins class="diffchange diffchange-inline">sin</ins> \phi_A \<ins class="diffchange diffchange-inline">sin</ins> \phi_B \cos \Delta \lambda \right)}</div></td>
+</tr>
+<tr>
+  <td colspan="2" class="diff-empty">&#160;</td>
+  <td class="diff-marker">+</td>
+  <td class="diff-addedline"><div>&lt;/math&gt; (où &lt;math&gt;R&lt;/math&gt; = {{unité|6400|km}} est le rayon terrestre).</div></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"></td>
+</tr>
+<tr>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==== Formule des sinus ====</div></td>
+  <td class="diff-marker">&#160;</td>
+  <td class="diff-context"><div>==== Formule des sinus ====</div></td>
+</tr>
+
+<!-- diff cache key frwiki:diff:version:1.11a:oldid:100538998:newid:105665319 -->
+</table><hr class='diff-hr' id='mw-oldid' />
+		<h2 class='diff-currentversion-title'>Version du 23 juillet 2014 à 18:50</h2>
+<p>La <b>trigonométrie sphérique</b> est un ensemble de relations analogues à celles de la <a href="/wiki/Trigonom%C3%A9trie" title="Trigonométrie">trigonométrie</a> <a href="/wiki/G%C3%A9om%C3%A9trie_euclidienne" title="Géométrie euclidienne">euclidienne</a> mais portant sur les <a href="/wiki/Angle" title="Angle">angles</a> et <a href="/wiki/Distance" title="Distance" class="mw-disambig">distances</a> repérés sur une <a href="/wiki/Sph%C3%A8re" title="Sphère">sphère</a>.</p>
+<p>La figure de base est le <b>triangle sphérique</b>, délimité non plus par des <a href="/wiki/Segment_(math%C3%A9matiques)" title="Segment (mathématiques)">segments</a> de <a href="/wiki/Droite_(math%C3%A9matiques)" title="Droite (mathématiques)">droites</a> mais par des <a href="/wiki/Cercle#D.C3.A9finitions" title="Cercle">arcs</a> de <a href="/wiki/Grand_cercle" title="Grand cercle">grands cercles</a> de cette sphère. Les règles habituelles de la trigonométrie euclidienne ne sont pas applicables&#160;; par exemple la <a href="/wiki/Somme_des_angles_d%27un_triangle" title="Somme des angles d'un triangle">somme des angles d'un triangle</a> situé sur une sphère est supérieure à 180 degrés.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Sommaire</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Le_triangle_sph.C3.A9rique"><span class="tocnumber">1</span> <span class="toctext">Le triangle sphérique</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Formules_fondamentales"><span class="tocnumber">1.1</span> <span class="toctext">Formules fondamentales</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Conventions"><span class="tocnumber">1.1.1</span> <span class="toctext">Conventions</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Formule_des_cosinus_et_relation_duale"><span class="tocnumber">1.1.2</span> <span class="toctext">Formule des cosinus et relation duale</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Formule_des_sinus"><span class="tocnumber">1.1.3</span> <span class="toctext">Formule des sinus</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Troisi.C3.A8me_formule_fondamentale_et_relation_duale"><span class="tocnumber">1.1.4</span> <span class="toctext">Troisième formule fondamentale et relation duale</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Formule_des_cotangentes"><span class="tocnumber">1.1.5</span> <span class="toctext">Formule des cotangentes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Autres_formules"><span class="tocnumber">1.2</span> <span class="toctext">Autres formules</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Formules_des_demi-angles_et_demi-c.C3.B4t.C3.A9s"><span class="tocnumber">1.2.1</span> <span class="toctext">Formules des demi-angles et demi-côtés</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Formules_de_Gauss"><span class="tocnumber">1.2.2</span> <span class="toctext">Formules de Gauss</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Analogies_de_Napier"><span class="tocnumber">1.2.3</span> <span class="toctext">Analogies de Napier</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Aire_du_triangle_sph.C3.A9rique"><span class="tocnumber">1.2.4</span> <span class="toctext">Aire du triangle sphérique</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Formule_de_l.27Huilier"><span class="tocnumber">1.2.5</span> <span class="toctext">Formule de l'Huilier</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Triangle_polaire"><span class="tocnumber">2</span> <span class="toctext">Triangle polaire</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Aper.C3.A7u_historique"><span class="tocnumber">3</span> <span class="toctext">Aperçu historique</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Applications"><span class="tocnumber">4</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">5</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Voir_aussi"><span class="tocnumber">6</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Articles_connexes"><span class="tocnumber">6.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Liens_externes"><span class="tocnumber">6.2</span> <span class="toctext">Liens externes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Le_triangle_sph.C3.A9rique">Le triangle sphérique</span></h2>
+<h3><span class="mw-headline" id="Formules_fondamentales">Formules fondamentales</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:272px;"><a href="/wiki/Fichier:Triangle_sph%C3%A9rique.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Triangle_sph%C3%A9rique.svg/270px-Triangle_sph%C3%A9rique.svg.png" width="270" height="270" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Triangle_sph%C3%A9rique.svg/405px-Triangle_sph%C3%A9rique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Triangle_sph%C3%A9rique.svg/540px-Triangle_sph%C3%A9rique.svg.png 2x" data-file-width="320" data-file-height="320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:Triangle_sph%C3%A9rique.svg" class="internal" title="Agrandir"></a></div>
+triangle sphérique</div>
+</div>
+</div>
+<h4><span class="mw-headline" id="Conventions">Conventions</span></h4>
+<p>On considère trois points <i>A</i>, <i>B</i> et <i>C</i> sur une sphère comme représentés par la figure ci-contre, ainsi que les arcs de grands cercles qui les relient. On note <i>α</i>, parfois <img class="mwe-math-fallback-image-inline tex" alt="^{\hat A}" src="//upload.wikimedia.org/math/0/b/2/0b2cdb980ac5aaf8ed188ef3bf715534.png" />, l'angle du triangle au sommet <i>A</i>, et de façon analogue pour les autres sommets. On note <i>a</i>, <i>b</i> et <i>c</i> les angles sous-tendus au centre <i>O</i> de la sphère par la partie de grand cercle correspondante. Ainsi <i>a</i> désigne l'angle <i>BOC</i>, etc. Un angle de 2π correspond à un grand cercle entier. Bien entendu les longueurs se déduisent de <i>a</i>, <i>b</i> et <i>c</i> en les multipliant par le rayon de la sphère.</p>
+<h4><span class="mw-headline" id="Formule_des_cosinus_et_relation_duale">Formule des cosinus et relation duale</span></h4>
+<p>L'une des relations les plus importantes de la trigonométrie sphérique, donnée par <a href="/wiki/Fran%C3%A7ois_Vi%C3%A8te" title="François Viète">François Viète</a> en 1593 dans son <i>De Varorium</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup> est la <b>formule des cosinus</b>, qui relie la longueur d'un côté à celles de deux autres côtés ainsi qu'à l'angle entre eux&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\cos c = \cos a\, \cos b + \sin a\, \sin b\, \cos\gamma~," src="//upload.wikimedia.org/math/4/b/f/4bff65a5f8a9d0c5560f3c5ca267a19a.png" /></dd>
+</dl>
+<p>qu'il ne faut pas confondre avec la <b>relation duale</b>, obtenue en remplaçant dans cette relation tous les grands cercles par leurs points polaires&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\cos\gamma = -\cos\alpha\,\cos\beta + \sin\alpha\,\sin\beta\,\cos c~." src="//upload.wikimedia.org/math/d/a/7/da7ed709e41d1c71f0124d71e2ff4ad0.png" /></dd>
+</dl>
+<p>La formule des cosinus se démontre de plusieurs façons. L'une d'elle consiste à exprimer de différentes manières le produit scalaire, dans l'espace euclidien ambiant, entre les vecteurs reliant le centre O de la sphère aux points A et B. Une autre est détaillée ci dessous.</p>
+<p>Dans le cas particulier où le triangle est rectangle en <i>C</i>, on obtient</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\cos\, c = \cos\, a \cos\, b" src="//upload.wikimedia.org/math/6/f/9/6f9e6634c15ba1c732f00a198c048e67.png" />,</dd>
+</dl>
+<p>formule correspondant au <a href="/wiki/Th%C3%A9or%C3%A8me_de_Pythagore" title="Théorème de Pythagore">théorème de Pythagore</a> pour la trigonométrie sphérique. On remarque que si le triangle est suffisamment petit pour que l'on puisse remplacer les cosinus par leur développement limité au deuxième ordre, on retrouve effectivement le théorème de Pythagore.</p>
+<p>La formule des cosinus permet notamment de calculer la distance entre deux points <i>A</i> et <i>B</i> sur la Terre en fonction de leurs latitudes et longitudes. Pour cela, on place <i>C</i> au pôle nord, de sorte que <i>a</i> est le complémentaire de la latitude <img class="mwe-math-fallback-image-inline tex" alt="\scriptstyle{\phi_A}" src="//upload.wikimedia.org/math/b/b/9/bb93a785305d2732d675177e19c73ddb.png" /> de <i>A</i>, <i>b</i> le complémentaire de celle <img class="mwe-math-fallback-image-inline tex" alt="\scriptstyle{\phi_B}" src="//upload.wikimedia.org/math/a/3/9/a395cf3c2d2591253950f2979af9db8f.png" /> de <i>B</i>, et <i>c</i> la différence de longitude <img class="mwe-math-fallback-image-inline tex" alt="\scriptstyle{\Delta \lambda = \lambda_B - \lambda_A}" src="//upload.wikimedia.org/math/8/f/f/8ff3755509ff06b277f4bd69e2374c50.png" />. On obtient directement</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="d_{AB}=R c= R \arccos{ \left( \cos \phi_A \cos \phi_B + \sin \phi_A \sin \phi_B \cos \Delta \lambda \right)}
+" src="//upload.wikimedia.org/math/4/b/3/4b31fc78d7923afe3818858a366673b3.png" /> (où <img class="mwe-math-fallback-image-inline tex" alt="R" src="//upload.wikimedia.org/math/e/1/e/e1e1d3d40573127e9ee0480caf1283d6.png" /> = <span class="nowrap">6&#160;400&#160;km</span> est le rayon terrestre).</dd>
+</dl>
+<h4><span class="mw-headline" id="Formule_des_sinus">Formule des sinus</span></h4>
+<p>On remarque que d'après la relation duale évoquée précédemment, un triangle sphérique est déterminé par ses trois angles, ce qui est très différent du cas du triangle euclidien (plan). Il y a une analogie parfaite (de dualité), dans le triangle sphérique, entre longueurs des côtés et angles aux sommets. La <b><a href="/wiki/Loi_des_sinus" title="Loi des sinus">formule des sinus</a></b> illustre cette analogie&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\sin a}{\sin \alpha} = \frac{\sin b}{\sin \beta} = \frac{\sin c}{\sin \gamma}~," src="//upload.wikimedia.org/math/3/b/9/3b9a1f892bacc8f9ff5ea0f1844d75d4.png" /></dd>
+</dl>
+<p>ou encore</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sin a : \sin b : \sin c = \sin\alpha : \sin\beta : \sin\gamma~," src="//upload.wikimedia.org/math/b/c/9/bc98ba7df7253e74d86b0e9b3180f0e5.png" /></dd>
+</dl>
+<p>ce qui doit se comprendre comme <span class="citation">«&#160;les trois quantités de gauche sont dans les <a href="/wiki/Proportionnalit%C3%A9" title="Proportionnalité">mêmes proportions</a> que les trois quantités de droite (le rapport entre deux quelconques à gauche est le même que le rapport correspondant à droite)&#160;»</span>.</p>
+<h4><span class="mw-headline" id="Troisi.C3.A8me_formule_fondamentale_et_relation_duale">Troisième formule fondamentale et relation duale</span></h4>
+<p>La formule des cosinus peut également s'écrire sous la forme</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\cos\gamma = \frac{\cos c - \cos a\,\cos b}{\sin a\,\sin b}~." src="//upload.wikimedia.org/math/0/9/a/09a6569dd6662374dd0471ea24593ea6.png" /></dd>
+</dl>
+<p>Des expressions analogues pour <img class="mwe-math-fallback-image-inline tex" alt="\cos\alpha" src="//upload.wikimedia.org/math/4/d/c/4dc86bcc4da107ee7959075512d77e7a.png" /> et <img class="mwe-math-fallback-image-inline tex" alt="\cos\beta" src="//upload.wikimedia.org/math/8/f/a/8fa0cbe5d12596324ec7722a59c81386.png" /> on déduit ce qui est parfois appelé<sup class="need_ref_tag" style="padding-left:2px;"><a href="/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire" title="Aide:Référence nécessaire">[réf.&#160;nécessaire]</a></sup> la <b>troisième formule fondamentale</b> de la trigonométrie sphérique (les deux premières étant celles des cosinus et des sinus), qui relie trois longueurs à deux angles du triangle&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sin c\cos\beta = \sin a\cos b - \cos a\sin b\cos\gamma~." src="//upload.wikimedia.org/math/1/2/8/12894ba54fd72af2b49add44d1bdb43e.png" /></dd>
+</dl>
+<p>Il est intéressant de remarquer la similarité avec la formule des cosinus <img class="mwe-math-fallback-image-inline tex" alt="\cos c = \cos a\, \cos b + \sin a\, \sin b\, \cos\gamma~" src="//upload.wikimedia.org/math/7/0/b/70b589ee763267520b8f5c054c8b031e.png" />.</p>
+<p>La <b>relation duale</b> peut quant à elle s'écrire</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sin\gamma\cos b = \sin\alpha\cos\beta + \cos\alpha\sin\beta\cos c~," src="//upload.wikimedia.org/math/d/c/8/dc8c0f26272b066662ccac4973bb314f.png" /></dd>
+</dl>
+<p>à comparer avec la relation duale de la formule des cosinus <img class="mwe-math-fallback-image-inline tex" alt="\cos\gamma = -\cos\alpha\,\cos\beta + \sin\alpha\,\sin\beta\,\cos c~" src="//upload.wikimedia.org/math/5/f/6/5f6517b3dfec13d561ccc0dd28e97684.png" />.</p>
+<h4><span class="mw-headline" id="Formule_des_cotangentes">Formule des cotangentes</span></h4>
+<p>À partir de la troisième formule fondamentale, on obtient aisément la dernière formule dite <b>des cotangentes</b>, qui relie quatre éléments successifs du triangle sphérique&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sin c\cot b = \sin\alpha\cot\beta + \cos\alpha\cos c ~." src="//upload.wikimedia.org/math/6/e/0/6e06732d338e773dc96a20fcc44da337.png" /></dd>
+</dl>
+<p>Pour obtenir cette formule, il suffit de diviser la relation duale de la troisième formule fondamentale par <img class="mwe-math-fallback-image-inline tex" alt="\sin\beta" src="//upload.wikimedia.org/math/b/a/8/ba808f24a085ededdf7b537b79dabeb8.png" /> puis d'utiliser la formule des sinus.</p>
+<div class="NavFrame demonstration" style="border: thin solid #aaaaaa; margin:1em 2em; padding: 0 1em; font-size:100%; text-align:justify;">
+<div class="NavHead" style="background-color:transparent; padding:0;"><strong>Démonstration des formules fondamentales</strong></div>
+<div class="NavContent" style="padding-bottom:0.4em">
+<p><i>a</i>, <i>b</i> et <i>c</i> désignent les longueurs, <i>A</i>, <i>B</i> et <i>C</i> désignent les sommets, <i>α</i>, <i>β</i> et <i>γ</i> désignent les angles du triangle sphérique.</p>
+<dl>
+<dd>1) On forme deux repères orthonormés directs <b>R</b> et <b>R'</b> de même premier vecteur, et tels que <i>A</i> soit le pôle nord du système de <a href="/wiki/Coordonn%C3%A9es_sph%C3%A9riques" title="Coordonnées sphériques">coordonnées sphériques</a> associé au premier repère et <i>B</i> le pôle nord du second.</dd>
+</dl>
+<div class="NavFrame demonstration" style="border: thin solid #aaaaaa; margin:1em 2em; padding: 0 1em; font-size:100%; text-align:justify;">
+<div class="NavHead" style="background-color:transparent; padding:0;"><strong>Détail de cette construction</strong></div>
+<div class="NavContent" style="padding-bottom:0.4em">
+<p>On note <img class="mwe-math-fallback-image-inline tex" alt="R=(O,\overrightarrow i,\overrightarrow j,\overrightarrow k)" src="//upload.wikimedia.org/math/6/5/8/65849455168bbe25c6d4c88f694b3edf.png" /> et <img class="mwe-math-fallback-image-inline tex" alt="R'=(O,\overrightarrow {i'}, \overrightarrow{j'}, \overrightarrow{k'})" src="//upload.wikimedia.org/math/e/b/a/eba61ee3bf398d1a28ae65182c603cb7.png" /> avec <img class="mwe-math-fallback-image-inline tex" alt="\overrightarrow k= \overrightarrow{OA},~ \overrightarrow{k'}= \overrightarrow{OB}~." src="//upload.wikimedia.org/math/d/3/0/d30a0a1ad920b885125a3d4dcdc317c2.png" /></p>
+<p>On prend alors</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \overrightarrow i=\overrightarrow {i'}={ 1\over \sin c } \overrightarrow k\wedge \overrightarrow {k'}={ 1\over \sin c } \overrightarrow{OA}\wedge  \overrightarrow{OB}~." src="//upload.wikimedia.org/math/f/1/f/f1f7e5a6476ce57fd7824db5cf7e746d.png" /></dd>
+</dl>
+<p>On en déduit</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \overrightarrow j= \overrightarrow k\wedge  \overrightarrow  i= { 1\over \sin c } [ \overrightarrow{OA}\wedge(\overrightarrow{OA}\wedge  \overrightarrow{OB})]~." src="//upload.wikimedia.org/math/4/0/d/40d30f9abae9a03cc5039550584fb4a8.png" /></dd>
+</dl>
+<p>La formule du <a href="/wiki/Double_produit_vectoriel" title="Double produit vectoriel" class="mw-redirect">double produit vectoriel</a> conduit à</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \overrightarrow j={ 1\over \sin c } ( (OA|OB)\overrightarrow{OA}-||OA||^2\overrightarrow{OB})={1\over \sin c } (\cos c~\overrightarrow{OA}-\overrightarrow{OB})~." src="//upload.wikimedia.org/math/3/3/c/33c98293ddde27b39b756c9394b08131.png" /></dd>
+</dl>
+<p>De même,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" \overrightarrow{j'}= { 1\over \sin c } [ \overrightarrow{OB}\wedge(\overrightarrow{OA}\wedge  \overrightarrow{OB})]= {1\over \sin c } (  \overrightarrow{OA}-\cos c~ \overrightarrow{OB})~." src="//upload.wikimedia.org/math/d/a/4/da4c55379e8a6b10adb83ca451e240f2.png" /></dd>
+</dl>
+</div>
+<div style="clear:both;"></div>
+</div>
+<dl>
+<dd>2) Le changement de repère (de <b>R</b> vers <b>R'</b>) est une <a href="/wiki/Rotation_dans_l%27espace" title="Rotation dans l'espace">rotation dans l'espace</a> autour de l'axe commun aux deux repères. Comme l'angle entre <img class="mwe-math-fallback-image-inline tex" alt="\overrightarrow{OA}" src="//upload.wikimedia.org/math/0/b/a/0ba51574b8d84a80f2ed6c00af50ce40.png" /> et <img class="mwe-math-fallback-image-inline tex" alt="\overrightarrow{OB}" src="//upload.wikimedia.org/math/5/d/f/5dfb96f480f25d8811aa5ded1ee5815e.png" /> est <i>c</i>, on en déduit que la <a href="/wiki/Matrice_de_passage" title="Matrice de passage">matrice de passage</a> est</dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="P=\begin{pmatrix} 1&amp;0&amp;0\\ 0&amp; \cos c&amp;-\sin c\\ 0&amp;\sin c &amp;\cos c \end{pmatrix}~." src="//upload.wikimedia.org/math/4/8/c/48c9a55c4515a168deb4c80be40112d6.png" /></dd>
+</dl>
+<dl>
+<dd>3) On donne maintenant les coordonnées de <i>C</i> dans le repère <b>R</b>.</dd>
+<dd>On remarque que <i>b</i> est la colatitude dans le repère sphérique de pôle nord <i>A</i> associé au repère cartésien, alors que <i>α</i> désigne l'angle (au pôle) entre le vecteur <img class="mwe-math-fallback-image-inline tex" alt="-\overrightarrow j" src="//upload.wikimedia.org/math/8/a/b/8abdff0ce8ed2a16040593fe38282c58.png" /> et le demi-plan vertical (<i>A</i>,<i>O</i>,<i>C</i>), donc la longitude vaut <i>α-(π/2)</i>.</dd>
+<dd>On en déduit que <i>C</i>, de coordonnées sphériques <img class="mwe-math-fallback-image-inline tex" alt="[1,\alpha-{\pi\over 2},b ]" src="//upload.wikimedia.org/math/e/4/b/e4bed32612f244bef318f5188a4a70cf.png" />, a pour coordonnées cartésiennes dans le premier repère</dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="X=\begin{pmatrix}\sin b\sin \alpha \\ -\sin b\cos \alpha\\ \cos b \end{pmatrix}~." src="//upload.wikimedia.org/math/2/e/2/2e25f649607315092e676ebff3f13407.png" /></dd>
+<dd>4) On donne de même les coordonnées de <i>C</i> dans le second repère <b>R'</b>.</dd>
+<dd>Cette fois, le pôle nord est le point <i>B</i>, la colatitude est <i>a</i>, et <i>β</i> est l'angle que fait le demi-plan vertical (<i>B</i>,<i>O</i>,<i>C</i>) avec le vecteur <img class="mwe-math-fallback-image-inline tex" alt="\overrightarrow{j'}" src="//upload.wikimedia.org/math/c/7/7/c777882f1e5a82be86bb0ec59df2f46d.png" />, donc la longitude vaut <i>(π/2)-β</i>.</dd>
+<dd>On en déduit que <i>C</i>, de coordonnées sphériques <img class="mwe-math-fallback-image-inline tex" alt="[1,{\pi\over 2}-\beta,a ]" src="//upload.wikimedia.org/math/6/2/f/62f9aa5cadd8ac54f91d664ced51a0da.png" />, a pour coordonnées cartésiennes dans le second repère</dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="X'= \begin{pmatrix} \sin a\sin\beta \\ \sin a\cos\beta\\ \cos a  \end{pmatrix}~." src="//upload.wikimedia.org/math/8/d/1/8d1f6e3f8adba50c9d6923fdd6b19621.png" /></dd>
+</dl>
+<dl>
+<dd>5) La formule de changement de base s'écrit alors&#160;:</dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\begin{pmatrix} \sin b\sin \alpha \\ -\sin b\cos \alpha\\ \cos b \end{pmatrix}=X=PX'=\begin{pmatrix} 1&amp;0&amp;0\\ 0&amp; \cos c&amp;-\sin c\\ 0&amp;\sin c &amp;\cos c \end{pmatrix}" src="//upload.wikimedia.org/math/3/a/b/3ab34bdbab621e9c6515e03198f1f099.png" /><img class="mwe-math-fallback-image-inline tex" alt=" \begin{pmatrix}\sin a\sin \beta \\ \sin a\cos \beta\\ \cos a \end{pmatrix}~." src="//upload.wikimedia.org/math/8/5/e/85e1da82639c060134d9a404445cadb8.png" /></dd>
+</dl>
+<dl>
+<dd>On en déduit d'un seul coup la formule des sinus, la troisième formule fondamentale de la trigonométrie sphérique et la formule des cosinus&#160;:</dd>
+</dl>
+<center><img class="mwe-math-fallback-image-inline tex" alt="\begin{cases} \sin b \sin \alpha= \sin a \sin \beta \\
+\sin b \cos \alpha=\sin c\cos a-\cos c\sin a\cos\beta\\
+\cos b= \sin c \sin a \cos \beta +\cos c\cos a~.\end{cases}" src="//upload.wikimedia.org/math/9/3/5/935f8fa8777b4756ceb32f98694202a3.png" /></center>
+</div>
+<div style="clear:both;"></div>
+</div>
+<h3><span class="mw-headline" id="Autres_formules">Autres formules</span></h3>
+<h4><span class="mw-headline" id="Formules_des_demi-angles_et_demi-c.C3.B4t.C3.A9s">Formules des demi-angles et demi-côtés</span></h4>
+<p>Soit <img class="mwe-math-fallback-image-inline tex" alt="\scriptstyle{ s=\frac1 2 (a+b+c)}" src="//upload.wikimedia.org/math/a/9/e/a9e7b1605c7ea8f6555b05d83f4f82bc.png" /> le demi-périmètre du triangle. Alors on a</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\tan^2\frac{\gamma}{2} = \frac{\sin(s-a)\,\sin(s-b)}{\sin s\,\sin(s-c)}" src="//upload.wikimedia.org/math/8/8/7/8871c5eb853159037ad65feccbd4a24e.png" /></dd>
+</dl>
+<p>et pour les formules duales, avec <img class="mwe-math-fallback-image-inline tex" alt="\scriptstyle{ \sigma =\frac1 2(\alpha+\beta+\gamma)}" src="//upload.wikimedia.org/math/a/7/0/a70fe2c508df8b56af027efa9278fae0.png" />&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="tan^2\frac{c}{2} = - \frac{\cos\sigma\,\cos(\sigma-\gamma)}{\cos(\sigma-\alpha)\, \cos(\sigma-\beta)}" src="//upload.wikimedia.org/math/4/d/5/4d50c00a965cf8b3f74f48931981513d.png" />.</dd>
+</dl>
+<p>Ces formules qui, comme la relation fondamentale, lient un angle au centre aux trois <i>côtés</i> du triangle sphérique ne contiennent pas de somme. Elles étaient très utilisées pour les calculs pratiques à l'aide de tables de logarithmes.</p>
+<h4><span class="mw-headline" id="Formules_de_Gauss">Formules de <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a></span></h4>
+<p>On a <img class="mwe-math-fallback-image-inline tex" alt="\frac{\cos\frac{a+b}{2}}{\cos\frac{c}{2}} = \frac{\cos\frac{\alpha+\beta}{2}}{\sin\frac{\gamma}{2}}" src="//upload.wikimedia.org/math/a/c/6/ac67d7f599f360fc0c00a8226b88ccd6.png" /> et <img class="mwe-math-fallback-image-inline tex" alt="\frac{\sin\frac{a+b}{2}}{\sin\frac{c}{2}} = \frac{\cos\frac{\alpha-\beta}{2}}{\sin\frac{\gamma}{2}}" src="//upload.wikimedia.org/math/1/0/4/1045ebe9c468c8915924d10dce76d112.png" /> ainsi que <img class="mwe-math-fallback-image-inline tex" alt="\frac{\cos\frac{a-b}{2}}{\cos\frac{c}{2}} = \frac{\sin\frac{\alpha+\beta}{2}}{\cos\frac{\gamma}{2}}" src="//upload.wikimedia.org/math/1/5/e/15e1824ed918659c65c382736a636d1d.png" /> et <img class="mwe-math-fallback-image-inline tex" alt="\frac{\sin\frac{a-b}{2}}{\sin\frac{c}{2}} = \frac{\sin\frac{\alpha-\beta}{2}}{\cos\frac{\gamma}{2}}~." src="//upload.wikimedia.org/math/0/2/8/028c64f6da517416e4eed4be70f9ea7c.png" /></p>
+<p>On en déduit la <a href="/wiki/Loi_des_tangentes#G.C3.A9om.C3.A9trie_sph.C3.A9rique" title="Loi des tangentes">loi des tangentes en trigonométrie sphérique</a>&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\tan\frac{a-b}2 }{\tan\frac{a+b}2 } = \frac{\tan\frac{\alpha-\beta}2 }{\tan\frac{\alpha+\beta}2}~." src="//upload.wikimedia.org/math/b/f/9/bf9acad23cfd934a0399eb55b0b6d876.png" /></dd>
+</dl>
+<h4><span class="mw-headline" id="Analogies_de_Napier">Analogies de <a href="/wiki/John_Napier" title="John Napier">Napier</a></span></h4>
+<p>Elles s'obtiennent en combinant deux à deux les formules de Gauss&#160;:</p>
+<ul>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\tan\frac{c}{2} \cos\frac{\alpha-\beta}{2} = \tan\frac{a+b}{2} \cos\frac{\alpha+\beta}{2}" src="//upload.wikimedia.org/math/6/b/3/6b361ce35b7822a7061c12bc84a201be.png" /></li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\tan\frac{c}{2} \sin\frac{\alpha-\beta}{2} = \tan\frac{a-b}{2} \sin\frac{\alpha+\beta}{2}" src="//upload.wikimedia.org/math/8/a/f/8af956beda345c889d97528b1b798b8d.png" /></li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\cot\frac{\gamma}{2} \cos\frac{a-b}{2} = \tan\frac{\alpha+\beta}{2} \cos\frac{a+b}{2}" src="//upload.wikimedia.org/math/6/b/4/6b46df5bc7295ba43cc6ffbbd26ef455.png" /></li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\cot\frac{\gamma}{2} \sin\frac{a-b}{2} = \tan\frac{\alpha-\beta}{2} \sin\frac{a+b}{2}" src="//upload.wikimedia.org/math/5/7/5/5750903b27813003d8b0dd4149dd33a0.png" /></li>
+</ul>
+<h4><span class="mw-headline" id="Aire_du_triangle_sph.C3.A9rique">Aire du triangle sphérique</span></h4>
+<p>En anglais, elle est connue sous le nom de formule de <a href="/wiki/Albert_Girard" title="Albert Girard">Girard</a>. De façon remarquable, l'aire du triangle sphérique se calcule très simplement à partir de ses trois angles&#160;: elle est exactement égale à son «&#160;défaut d'euclidianité&#160;» (différence entre la somme des angles du triangle et <img class="mwe-math-fallback-image-inline tex" alt=" \pi " src="//upload.wikimedia.org/math/5/2/2/522359592d78569a9eac16498aa7a087.png" />) multiplié par le carré du rayon <i>R</i> de la sphère. Soit&#160;:</p>
+<center><img class="mwe-math-fallback-image-inline tex" alt="^{S=(\hat A+\hat B+\hat C-\pi)R^2=R^2\varepsilon }" src="//upload.wikimedia.org/math/0/6/3/063494b2902c45f5dc406b01d017b4c3.png" /></center>
+<p>Remarque&#160;: <i>ε</i> est un <a href="/wiki/Angle_solide" title="Angle solide">angle solide</a> s'exprimant en <a href="/wiki/St%C3%A9radian" title="Stéradian">stéradians</a> (pour <img class="mwe-math-fallback-image-inline tex" alt="^{\hat A, \hat B}" src="//upload.wikimedia.org/math/4/5/4/454768bf82ea00d470ee82f402b8427d.png" /> et <img class="mwe-math-fallback-image-inline tex" alt="^{\hat C}" src="//upload.wikimedia.org/math/4/e/b/4ebb30338911488e5417f3250802b070.png" /> exprimés en radians). Cette formule se montre de façon élémentaire<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>. Elle se fait en trois étapes&#160;:</p>
+<ul>
+<li>Lorsque la sphère est découpée en 4 secteurs («&#160;<a href="//fr.wiktionary.org/wiki/fuseau#Fran.C3.A7ais" class="extiw" title="wikt:fuseau">fuseaux</a>&#160;» ou «&#160;lunes&#160;» chez Legendre) par deux plans diamétraux, l'aire d'un des secteurs ainsi découpé est proportionnelle à l'angle <img class="mwe-math-fallback-image-inline tex" alt="^{\hat A}" src="//upload.wikimedia.org/math/0/b/2/0b2cdb980ac5aaf8ed188ef3bf715534.png" /> des deux plans. Elle vaut donc
+<center><img class="mwe-math-fallback-image-inline tex" alt="^{2\hat AR^2}" src="//upload.wikimedia.org/math/7/0/6/70627a41bdf868388a1db9411ffe3478.png" />.</center>
+</li>
+</ul>
+<ul>
+<li>Les trois plans diamétraux qui définissent un triangle sphérique découpent sur la sphère douze fuseaux dont six contiennent ce triangle ou son symétrique, de même aire, par rapport au centre la sphère. Ces six fuseaux recouvrent la sphère, le triangle et son symétrique étant recouverts trois fois chacun, le reste ne l'étant qu'une seule fois. Ainsi, la somme des aires des six fuseaux est celle de la sphère augmentée quatre fois de celle du triangle. Il s'en déduit&#160;:</li>
+</ul>
+<dl>
+<dd>
+<center><img class="mwe-math-fallback-image-inline tex" alt="^{2(2\hat AR^2+2\hat BR^2+2\hat CR^2)=4\pi R^2+4S}" src="//upload.wikimedia.org/math/3/7/2/3722653d0a659c034fc9db4edba4082e.png" />.</center>
+</dd>
+</dl>
+<ul>
+<li>Ainsi, après transformation&#160;:</li>
+</ul>
+<dl>
+<dd>
+<center><img class="mwe-math-fallback-image-inline tex" alt=" ^{S=(\hat A+\hat B+\hat C-\pi)R^2}" src="//upload.wikimedia.org/math/c/3/5/c359282e59ea2091871b1ffc33e57aae.png" /></center>
+</dd>
+</dl>
+<p>Cette formule, découverte par <a href="/wiki/Thomas_Harriot" title="Thomas Harriot">Thomas Harriot</a>, mais non publiée, fut donnée pour la première fois par <a href="/wiki/Albert_Girard" title="Albert Girard">Albert Girard</a> vers 1625.</p>
+<h4><span class="mw-headline" id="Formule_de_l.27Huilier">Formule de <a href="/wiki/Th%C3%A9or%C3%A8me_de_l%27Huilier" title="Théorème de l'Huilier">l'Huilier</a></span></h4>
+<p>Cette formule est analogue à la <a href="/wiki/Formule_de_H%C3%A9ron" title="Formule de Héron">formule de Héron</a> qui calcule l'aire d'un triangle euclidien en fonction de ses côtés, et elle fait la même chose pour le triangle sphérique&#160;:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\tan\frac{s}{2} \tan\frac{s-a}{2} \tan\frac{s-b}{2} \tan\frac{s-c}{2} = \tan^2\frac{\varepsilon}{4}" src="//upload.wikimedia.org/math/a/7/7/a77dbf7df2d9fc8eef62f412cc07bd0f.png" /></dd>
+</dl>
+<p>(on rappelle qu'on a appelé <i>s</i>=(<i>a</i>+<i>b</i>+<i>c</i>)/2 le demi-périmètre).</p>
+<h2><span class="mw-headline" id="Triangle_polaire">Triangle polaire</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:TrianglePolaire.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/TrianglePolaire.svg/220px-TrianglePolaire.svg.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/TrianglePolaire.svg/330px-TrianglePolaire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/TrianglePolaire.svg/440px-TrianglePolaire.svg.png 2x" data-file-width="420" data-file-height="420" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:TrianglePolaire.svg" class="internal" title="Agrandir"></a></div>
+Triangle (ABC) et son triangle polaire (A'B'C'). (OC') est l'axe de rotation du grand cercle (AB), etc.</div>
+</div>
+</div>
+<p>Sur une sphère de centre O, on considère deux points A et B distincts et non diamétralement opposés. La droite passant par O et orthogonale au plan OAB rencontre la sphère en deux points qui sont appelés les pôles du plan (OAB).</p>
+<p>Pour un triangle ABC tracé sur une sphère, on appelle C' le pôle du plan (OAB) situé sur le même hémisphère que C. On construit de même les points A' et B'. Le triangle (A'B'C') est appelé le <b>triangle polaire</b> du triangle ABC.</p>
+<p>Par construction, les grands cercles (C'B') et (C'A') coupent le grand cercle (AB) en angle droit. Il en est de même des deux grands cercles (B'A') et (B'C') pour le grand cercle (AC), etc. Les côtés du triangle polaire sont donc perpendiculaires chacun à deux côtés du triangle d'origine.</p>
+<p>La transformation qui, a un triangle, associe son triangle polaire est une application involutive<sup id="cite_ref-pycreach_3-0" class="reference"><a href="#cite_note-pycreach-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>, c'est-à-dire que le triangle polaire du triangle (A'B'C') est le triangle (ABC).</p>
+<p>Les côtés du triangle (A'B'C') sont les supplémentaires des angles du triangle (ABC). Ce qui s'exprime par les égalités suivantes<sup id="cite_ref-pycreach_3-1" class="reference"><a href="#cite_note-pycreach-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>: <span style="display: block; margin-left:1.6em;"><img class="mwe-math-fallback-image-inline tex" alt="a'+\alpha=\pi \quad b'+\beta=\pi \quad c'+\gamma=\pi" src="//upload.wikimedia.org/math/7/5/6/756133bd9099d60ead78fe9e03be0c52.png" /></span> et par propriété de l'involution, les angles du triangle polaire sont les supplémentaires des côtés du triangle (ABC). Soit <span style="display: block; margin-left:1.6em;"><img class="mwe-math-fallback-image-inline tex" alt="a+\alpha'=\pi \quad b+\beta'=\pi \quad c+\gamma'=\pi" src="//upload.wikimedia.org/math/a/1/c/a1c4138807d37abafa0cab4aed937d0d.png" /></span></p>
+<p>Ces relations permettent de déduire, à partir des formules fondamentales, les formules duales citées plus haut.</p>
+<h2><span class="mw-headline" id="Aper.C3.A7u_historique">Aperçu historique</span></h2>
+<div class="bandeau-section bandeau-niveau-detail loupe">Article détaillé&#160;: <a href="/wiki/Histoire_des_fonctions_trigonom%C3%A9triques" title="Histoire des fonctions trigonométriques">Histoire des fonctions trigonométriques</a>.</div>
+<p>La <a href="/wiki/Trigonom%C3%A9trie" title="Trigonométrie">trigonométrie</a>, et en particulier la trigonométrie sphérique, doit beaucoup aux <a href="/wiki/Astronomie" title="Astronomie">astronomes</a> et mathématiciens grecs <a href="/wiki/Hipparque_(astronome)" title="Hipparque (astronome)">Hipparque de Nicée</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup> ainsi que <a href="/wiki/M%C3%A9n%C3%A9laos_d%27Alexandrie" title="Ménélaos d'Alexandrie">Ménélaos d'Alexandrie</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>, mais aussi aux <a href="/wiki/Math%C3%A9matiques_persanes" title="Mathématiques persanes" class="mw-redirect">mathématiciens persans</a> de langue <a href="/wiki/Arabe" title="Arabe">arabe</a> et indiens. Parmi les plus célèbres figurent <span class="need_ref" style="cursor:help;" title="Ce passage nécessite une référence."><a href="/wiki/Bh%C4%81skara_II" title="Bhāskara II">Bhāskara II</a></span><sup class="need_ref_tag" style="padding-left:2px;"><a href="/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire" title="Aide:Référence nécessaire">[réf.&#160;nécessaire]</a></sup>, <a href="/wiki/Abu_Nasr_Mansur" title="Abu Nasr Mansur">Abu Nasr Mansur</a>,<a href="/wiki/Abu_l-Wafa" title="Abu l-Wafa">Abu l-Wafa</a> et <a href="/wiki/Al_Biruni" title="Al Biruni" class="mw-redirect">Al Biruni</a> qui démontrent la règle des sinus pour un triangle quelconque ainsi que les formules pour le triangle rectangle<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite_crochet">[</span>6<span class="cite_crochet">]</span></a></sup>. La trigonométrie sphérique occupe une place importante dans les traités d'<a href="/wiki/Astronomie_arabe" title="Astronomie arabe">astronomie arabe</a> et des traités spécifiques lui sont consacrés comme le traité de trigonométrie sphérique d'<a href="/w/index.php?title=Al-Jayyani&amp;action=edit&amp;redlink=1" class="new" title="Al-Jayyani (page inexistante)">Al-Jayyani</a>&#160;<a href="//en.wikipedia.org/wiki/Al-Jayyani" class="extiw" title="en:Al-Jayyani"><span class="indicateur-langue" title="Équivalent de l’article « Al-Jayyani » dans une autre langue">(en)</span></a> (<a href="/wiki/XIe_si%C3%A8cle" title="XIe siècle"><span class="romain">XI</span><sup>e</sup>&#160;siècle</a>), un mathématicien de <a href="/wiki/Al-Andalus" title="Al-Andalus">l'Andalousie</a> alors sous domination musulmane ou celui de <a href="/wiki/Nasir_ad-Din_at-Tusi" title="Nasir ad-Din at-Tusi">Nasir ad-Din at-Tusi</a> (<a href="/wiki/XIIIe_si%C3%A8cle" title="XIIIe siècle"><span class="romain">XIII</span><sup>e</sup>&#160;siècle</a>)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite_crochet">[</span>7<span class="cite_crochet">]</span></a></sup>.</p>
+<h2><span class="mw-headline" id="Applications">Applications</span></h2>
+<p>Calculs de <a href="/wiki/Coordonn%C3%A9e" title="Coordonnée" class="mw-redirect">coordonnées</a>&#160;:</p>
+<ul>
+<li>en <a href="/wiki/Astronomie" title="Astronomie">astronomie</a>, pour les changements relatifs aux divers systèmes de coordonnées angulaires&#160;: <a href="/wiki/D%C3%A9clinaison_(astronomie)" title="Déclinaison (astronomie)">déclinaison</a>, <a href="/wiki/Ascension_droite" title="Ascension droite">ascension droite</a>, <a href="/wiki/Angle_horaire" title="Angle horaire">angle horaire</a>, <a href="/wiki/Azimut" title="Azimut">azimut</a> et <a href="/wiki/Distance_z%C3%A9nithale" title="Distance zénithale">distance zénithale</a> (ou <a href="/wiki/Hauteur#Astronomie" title="Hauteur">hauteur</a>)&#160;;</li>
+</ul>
+<div class="bandeau-section bandeau-niveau-detail loupe">Article détaillé&#160;: <a href="/wiki/Syst%C3%A8me_de_coordonn%C3%A9es_c%C3%A9lestes" title="Système de coordonnées célestes">Système de coordonnées célestes</a>.</div>
+<ul>
+<li>en <a href="/wiki/G%C3%A9ographie" title="Géographie">géographie</a> (<a href="/wiki/Latitude" title="Latitude">latitude</a> et <a href="/wiki/Longitude" title="Longitude">longitude</a>)&#160;;</li>
+<li>en <a href="/wiki/Optique" title="Optique">optique</a> pour l'utilisation de la sphère de Poincaré&#160;;</li>
+<li>en <a href="/wiki/Statistique" title="Statistique">statistiques</a> sur la sphère de l'<a href="/wiki/Iconographie_des_corr%C3%A9lations" title="Iconographie des corrélations">iconographie des corrélations</a>.</li>
+</ul>
+<p>Considérons également l'application aux <a href="/wiki/Panneau_solaire#Angle_d.27incidence_du_soleil" title="Panneau solaire">panneaux solaires plans</a>.</p>
+<h2><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span></h2>
+<div style="font-size: 85%">
+<ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Michel Chasles&#160;: <a rel="nofollow" class="external text" href="http://www.archive.org/stream/mmoiressurlesq11acad#page/54/mode/2up/search/polaire">Mémoires sur les questions proposées par l'Académie royale des sciences de Bruxelles</a> page 54.</span></li>
+<li id="cite_note-2"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Quelques explications sur le site du <a rel="nofollow" class="external text" href="http://www.palais-decouverte.fr/index.php?id=842">Palais de la découverte</a></span></li>
+<li id="cite_note-pycreach-3"><span class="noprint renvois_vers_le_texte">↑ <sup><a href="#cite_ref-pycreach_3-0">a</a> et <a href="#cite_ref-pycreach_3-1">b</a></sup></span> <span class="reference-text">Pour une démonstration on peut lire, <a rel="nofollow" class="external text" href="http://pycreach.free.fr/archives/Trigonometrie%20spherique.pdf">Trigonométrie sphérique</a> de Pierre-Yves Créach, pp. 13-15</span></li>
+<li id="cite_note-4"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Œuvres complètes de François Arago</i>. François Arago, tome 3, page 158 (Gide, Paris - 1855).</span></li>
+<li id="cite_note-5"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Marie-Thérèse Debarnot, «Trigonométrie» in, Roschi Rashed, <i>Histoire des sciences arabes</i>, Seuil, 1997, T2, pp. 164 - 168</span></li>
+<li id="cite_note-6"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Marie-Thérèse Debarnot, «Trigonométrie» in, Roschi Rashed, <i>Histoire des sciences arabes</i>, Seuil, 1997, T2, pp. 172 - 176</span></li>
+<li id="cite_note-7"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Marie-Thérèse Debarnot, «Trigonométrie» in, Roschi Rashed, <i>Histoire des sciences arabes</i>, Seuil, 1997, T2, pp. 164 - 168</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span></h2>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span></h3>
+<ul>
+<li><a href="/wiki/M%C3%A9n%C3%A9laos_d%27Alexandrie" title="Ménélaos d'Alexandrie">Ménélaos d'Alexandrie</a> - <a href="/wiki/Al_Biruni" title="Al Biruni" class="mw-redirect">Al Biruni</a> ~ <a href="/wiki/Abu_Nasr_Mansur" title="Abu Nasr Mansur">Abu Nasr Mansur</a> ~ <a href="/wiki/Fran%C3%A7ois_Vi%C3%A8te" title="François Viète">François Viète</a> - <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a> ~ <a href="/wiki/Napier" title="Napier" class="mw-disambig">Napier</a></li>
+<li><a href="/wiki/Th%C3%A9or%C3%A8me_de_M%C3%A9n%C3%A9la%C3%BCs" title="Théorème de Ménélaüs">Théorème de Ménélaüs</a></li>
+<li><a href="/wiki/Angle" title="Angle">Angle</a> ~ <a href="/wiki/Trigonom%C3%A9trie" title="Trigonométrie">Trigonométrie</a> ~ <a href="/wiki/Triangle" title="Triangle">Triangle</a> ~ <a href="/wiki/R%C3%A9solution_d%27un_triangle" title="Résolution d'un triangle">Résolution d'un triangle</a></li>
+<li><a href="/wiki/G%C3%A9om%C3%A9trie_non_euclidienne" title="Géométrie non euclidienne">Géométrie non euclidienne</a></li>
+<li><a href="/wiki/Sph%C3%A8re" title="Sphère">Sphère</a> ~ <a href="/wiki/Grand_cercle" title="Grand cercle">Grand cercle</a></li>
+<li><a href="/wiki/Math%C3%A9matiques_persanes" title="Mathématiques persanes" class="mw-redirect">Mathématiques persanes</a></li>
+</ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://pycreach.free.fr/archives/Trigonometrie%20spherique.pdf">Un cours de trigonométrie sphérique</a> sur le site personnel "Mathématiques au Lycée" de P.Y. Créach</li>
+<li><a rel="nofollow" class="external text" href="http://www.eleves.ens.fr:8080/home/madore/math/carto.pdf">Un "cours" de cartographie et de trigonométrie sphérique</a> sur le site personnel de David Madore</li>
+<li><a rel="nofollow" class="external text" href="http://sites.google.com/site/astronomievouteceleste/2---trigonometrie-sheriquee">Trigonométrie sphérique pour l'astronomie</a> sur le site personnel "Astronomie - Sphère céleste"</li>
+<li><a rel="nofollow" class="external text" href="http://yvon.masse.perso.sfr.fr/trisph/">TriSph&#160;: programme de résolution des triangles sphériques</a> configurable à différentes applications pratiques et configuré pour la gnomonique</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> John J. O'Connor et Edmund F. Robertson, <a rel="nofollow" class="external text" href="http://www-groups.dcs.st-andrews.ac.uk/history/Mathematicians/Al-Biruni.html">Al Biruni</a> et <a rel="nofollow" class="external text" href="http://www-groups.dcs.st-andrews.ac.uk/history/Mathematicians/Mansur.html">Abu Nasr Mansur</a>, <i><a href="/wiki/MacTutor" title="MacTutor" class="mw-redirect">MacTutor History of Mathematics archive</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://www.wdl.org/fr/item/2856">"Le livre d'instruction sur les plans déviants et les plans simples"</a> est un manuscrit en arabe qui remonte à 1740 et parle de la trigonométrie sphérique, avec des diagrammes.</li>
+</ul>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:G%C3%A9om%C3%A9trie" title="Portail de la géométrie"><img alt="Portail de la géométrie" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Icosahedron.svg/25px-Icosahedron.svg.png" width="25" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Icosahedron.svg/37px-Icosahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Icosahedron.svg/50px-Icosahedron.svg.png 2x" data-file-width="385" data-file-height="370" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:G%C3%A9om%C3%A9trie" title="Portail:Géométrie">Portail de la géométrie</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+CPU time usage: 0.168 seconds
+Real time usage: 0.686 seconds
+Preprocessor visited node count: 1142/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13607/2097152 bytes
+Template argument size: 7711/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 905 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  583.028      1 - -total
+ 68.73%  400.719      2 - Modèle:Démonstration
+  5.38%   31.349      1 - Modèle:Portail_géométrie
+  5.21%   30.390      1 - Modèle:En
+  5.00%   29.143      1 - Modèle:Méta_lien_vers_portail
+  4.88%   28.437      1 - Modèle:Indication_de_langue
+  3.76%   21.946      1 - Modèle:Catégorisation_badges
+  1.37%    7.965      2 - Modèle:S
+  1.34%    7.811      2 - Modèle:Retrait
+  1.29%    7.522      2 - Modèle:Article_détaillé
+-->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="http://fr.wikipedia.org/w/index.php?title=Trigonométrie_sphérique&amp;oldid=105665319">http://fr.wikipedia.org/w/index.php?title=Trigonométrie_sphérique&amp;oldid=105665319</a>&#160;».					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Sph%C3%A8re" title="Catégorie:Sphère">Sphère</a></li><li><a href="/wiki/Cat%C3%A9gorie:Trigonom%C3%A9trie" title="Catégorie:Trigonométrie">Trigonométrie</a></li><li><a href="/wiki/Cat%C3%A9gorie:Formule_ou_th%C3%A9or%C3%A8me_de_Fran%C3%A7ois_Vi%C3%A8te" title="Catégorie:Formule ou théorème de François Viète">Formule ou théorème de François Viète</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire" title="Catégorie:Article à référence nécessaire">Article à référence nécessaire</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais" title="Catégorie:Article contenant un appel à traduction en anglais">Article contenant un appel à traduction en anglais</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:G%C3%A9om%C3%A9trie/Articles_li%C3%A9s" title="Catégorie:Portail:Géométrie/Articles liés">Portail:Géométrie/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles" title="Catégorie:Projet:Mathématiques/Articles">Projet:Mathématiques/Articles</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Trigonom%C3%A9trie+sph%C3%A9rique&amp;returntoquery=diff%3D105665319%26oldid%3D100538998%26rcid%3D122666746&amp;type=signup" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Trigonom%C3%A9trie+sph%C3%A9rique&amp;returntoquery=diff%3D105665319%26oldid%3D100538998%26rcid%3D122666746" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Trigonom%C3%A9trie_sph%C3%A9rique"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Trigonom%C3%A9trie_sph%C3%A9rique"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Trigonom%C3%A9trie_sph%C3%A9rique" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;oldid=105665319&amp;veaction=edit"  title="Modifier cette page avec l&#039;ÉditeurVisuel [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=edit&amp;oldid=105665319"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spécial:Recherche" name="title" /><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li>
+													<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
+													<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
+													<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li>
+													<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Trigonom%C3%A9trie+sph%C3%A9rique">Créer un livre</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Trigonom%C3%A9trie+sph%C3%A9rique&amp;oldid=100538998&amp;writer=rdf2latex">Télécharger comme PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Trigonom%C3%A9trie_sph%C3%A9rique" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Trigonom%C3%A9trie_sph%C3%A9rique" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
+													<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
+													<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;oldid=105665319" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q46463" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Trigonom%C3%A9trie_sph%C3%A9rique&amp;id=105665319" title="Informations sur comment citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Autres langues</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A1%D1%84%D0%B5%D1%80%D1%8B%D1%87%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D1%8B%D0%B3%D0%B0%D0%BD%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%D1%8F" title="Сферычная трыганаметрыя — biélorusse" lang="be" hreflang="be">Беларуская</a></li>
+													<li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Trigonometriezh_sferek" title="Trigonometriezh sferek — breton" lang="br" hreflang="br">Brezhoneg</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Trigonometria_esf%C3%A8rica" title="Trigonometria esfèrica — catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A1%D1%84%D0%B5%D1%80%C4%83%D0%BB%D0%BB%C4%83_%D1%82%D1%80%D0%B8%D0%B3%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8" title="Сферăллă тригонометри — tchouvache" lang="cv" hreflang="cv">Чӑвашла</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Sph%C3%A4rische_Trigonometrie" title="Sphärische Trigonometrie — allemand" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A3%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CE%BA%CF%8C_%CF%84%CF%81%CE%AF%CE%B3%CF%89%CE%BD%CE%BF" title="Σφαιρικό τρίγωνο — grec" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Spherical_trigonometry" title="Spherical trigonometry — anglais" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Sfera_trigonometrio" title="Sfera trigonometrio — espéranto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Trigonometr%C3%ADa_esf%C3%A9rica" title="Trigonometría esférica — espagnol" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%AB%D9%84%D8%AB%D8%A7%D8%AA_%DA%A9%D8%B1%D9%88%DB%8C" title="مثلثات کروی — persan" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pallotrigonometria" title="Pallotrigonometria — finnois" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%98%D7%A8%D7%99%D7%92%D7%95%D7%A0%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%D7%A1%D7%A4%D7%99%D7%A8%D7%99%D7%AA" title="טריגונומטריה ספירית — hébreu" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Trigonometria_sferica" title="Trigonometria sferica — italien" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E7%90%83%E9%9D%A2%E4%B8%89%E8%A7%92%E6%B3%95" title="球面三角法 — japonais" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%97%E0%B5%8B%E0%B4%B3%E0%B5%80%E0%B4%AF_%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%95%E0%B5%8B%E0%B4%A3%E0%B4%AE%E0%B4%BF%E0%B4%A4%E0%B4%BF" title="ഗോളീയ ത്രികോണമിതി — malayalam" lang="ml" hreflang="ml">മലയാളം</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Boldriehoeksmeting" title="Boldriehoeksmeting — néerlandais" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Sf%C3%A6risk_trigonometri" title="Sfærisk trigonometri — norvégien nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Tr%C3%B3jk%C4%85t_sferyczny" title="Trójkąt sferyczny — polonais" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Tri%C3%A2ngulo_esf%C3%A9rico" title="Triângulo esférico — portugais" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Trigonometrie_sferic%C4%83" title="Trigonometrie sferică — roumain" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D1%80%D0%B8%D0%B3%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F" title="Сферическая тригонометрия — russe" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Sferna_trigonometrija" title="Sferna trigonometrija — serbo-croate" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Sferna_trigonometrija" title="Sferna trigonometrija — slovène" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%BD%D0%B0_%D1%82%D1%80%D0%B8%D0%B3%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%98%D0%B0" title="Сферна тригонометрија — serbe" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%B8%D1%87%D0%BD%D0%B0_%D1%82%D1%80%D0%B8%D0%B3%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D1%96%D1%8F" title="Сферична тригонометрія — ukrainien" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%90%83%E9%9D%A2%E4%B8%89%E8%A7%92%E5%AD%B8" title="球面三角學 — chinois" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q46463#sitelinks-wikipedia" text="Modifier les liens" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-copyright">Vous êtes sur une ancienne version de l’article. <br />Il a depuis été corrigé pour cause d’informations erronées, de vandalisme ou de contenu incompatible avec la <a href="/wiki/Wikip%C3%A9dia:Licence_Creative_Commons_Paternit%C3%A9-Partage_des_Conditions_Initiales_%C3%A0_l%27Identique_3.0_Unported" title="Wikipédia:Licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique 3.0 Unported">licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique</a>, ou simplement amélioré.<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Trigonom%C3%A9trie_sph%C3%A9rique&amp;diff=105665319&amp;oldid=100538998&amp;rcid=122666746&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false\u0026amp;lang=fr\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":876,"wgHostname":"mw1257"});
+}</script>
+	</body>
+</html>
