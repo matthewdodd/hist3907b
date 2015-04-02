@@ -1,0 +1,14 @@
+#module1_allExercises
+- Ex1
+ - Using markdown and practiving using dillinger.io is a fantastic way to keep notes in properly formatted synatx.
+ - Having used it for the entirety of hist3907b it was essential to use dillinger.io for me
+ - the ability to see changes as they occurred was invaluable as I made quite a few mistakes
+- Ex2
+ - Setting up a domain is usually a simple task.
+ - In my case it was even easier because I already owned one domain
+ - I had lost access to that domain due to a lapse in renewal, but thanks to the one month grace period was able to grab it again, safely.
+- Ex3
+ - I used github as a place to take notes rather than a blog on my personal site as I felt that github would be simpler for a course structured to use github.
+ - Setting it up was simple and I learned that github will not recognize a folder unless there are files within it.
+ - A README.md is essential for file structure and order.
+ - Resoph notes was a pain to use, and although I managed to use it for taking notes on Big Data, it had no way to automatically increment the page titles and I ended up with overlap
